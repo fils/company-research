@@ -78,7 +78,7 @@
   },
   {
     "sector": "Offshore Energy",
-    "name": "Ørsted",
+    "name": "\u00d8rsted",
     "url": "https://orsted.com/",
     "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
     "last_updated": "2026-05-01"
@@ -88,6 +88,41 @@
     "name": "Gazelle Wind Power",
     "url": "https://gazellewindpower.com/",
     "notes": "Floating wind platforms; needs oceanographic/metocean data services",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Vaulted Deep",
+    "url": "https://vaulteddeep.com/",
+    "notes": "Biomass carbon removal from waste; scalable BiCRS approach",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Seabound",
+    "url": "https://www.seabound.co/",
+    "notes": "Onboard carbon capture from shipping exhaust; marine CDR synergy",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Climate Risk",
+    "name": "Climate X",
+    "url": "https://climate-x.com",
+    "notes": "AI-powered climate risk analytics and decision platforms",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Principle Power",
+    "url": "https://www.principlepower.com/",
+    "notes": "Floating offshore wind platform technology",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "BW Ideol",
+    "url": "https://www.bw-ideol.com/",
+    "notes": "Floating offshore wind solutions and infrastructure",
     "last_updated": "2026-05-01"
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Kettle",
+  "sector": "Climate Risk",
+  "url": "",
+  "description": "Kettle operates in the Climate Risk sector. Full profile, business model, and marine data needs available in wiki and raw data.",
+  "dateModified": "2026-05-01",
+  "additionalType": "Company",
+  "knowledgeGraph": "company-research"
+}

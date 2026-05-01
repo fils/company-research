@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BW Ideol",
+  "sector": "Offshore Energy",
+  "url": "",
+  "description": "BW Ideol operates in the Offshore Energy sector. Full profile, business model, and marine data needs available in wiki and raw data.",
+  "dateModified": "2026-05-01",
+  "additionalType": "Company",
+  "knowledgeGraph": "company-research"
+}

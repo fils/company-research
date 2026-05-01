@@ -1,21 +1,11 @@
 {
   "@context": "https://schema.org",
-  "@type": "Corporation",
+  "@type": "Organization",
   "name": "Equatic",
-  "url": "https://equatic.tech/",
-  "description": "Electrolytic ocean-based carbon removal producing permanent dissolved bicarbonate plus green hydrogen co-product. North America commercial-scale facility in development.",
   "sector": "Ocean Carbon Sequestration",
-  "funding": {
-    "latestRound": "Series A",
-    "amount": "$11.6M",
-    "date": "2025"
-  },
-  "marineDataNeeds": [
-    "Ocean carbonate chemistry monitoring",
-    "Electrolyzer discharge impact assessment",
-    "Alkalinity enhancement MRV",
-    "Ecosystem baseline surveys",
-    "Real-time pH, DIC, alkalinity telemetry"
-  ],
-  "notes": "Earthshot Prize finalist; new $11.6M Series A; first commercial NA ocean CDR facility; H2 co-product revenue model."
+  "url": "",
+  "description": "Equatic operates in the Ocean Carbon Sequestration sector. Full profile, business model, and marine data needs available in wiki and raw data.",
+  "dateModified": "2026-05-01",
+  "additionalType": "Company",
+  "knowledgeGraph": "company-research"
 }

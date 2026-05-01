@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Climate X",
+  "sector": "Climate Risk",
+  "url": "",
+  "description": "Climate X operates in the Climate Risk sector. Full profile, business model, and marine data needs available in wiki and raw data.",
+  "dateModified": "2026-05-01",
+  "additionalType": "Company",
+  "knowledgeGraph": "company-research"
+}
