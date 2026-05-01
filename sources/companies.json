@@ -1,1 +1,93 @@
-[\n  {\n    \"sector\": \"Ocean Carbon Sequestration\",\n    \"name\": \"Ebb Carbon\",\n    \"url\": \"https://www.ebbcarbon.com/\",\n    \"notes\": \"Electrochemical CDR from brine\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Ocean Carbon Sequestration\",\n    \"name\": \"Captura\",\n    \"url\": \"https://capturacorp.com/\",\n    \"notes\": \"Direct Ocean Capture\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Ocean Carbon Sequestration\",\n    \"name\": \"Planetary Technologies\",\n    \"url\": \"https://www.planetarytech.com/\",\n    \"notes\": \"Ocean alkalinity\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Ocean Carbon Sequestration\",\n    \"name\": \"Running Tide\",\n    \"url\": \"https://runningtidexmason.webflow.io/\",\n    \"notes\": \"Ocean-based sequestration\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Climate Risk\",\n    \"name\": \"Jupiter Intelligence\",\n    \"url\": \"https://www.jupiterintel.com/\",\n    \"notes\": \"Climate analytics\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Climate Risk\",\n    \"name\": \"First Street\",\n    \"url\": \"https://firststreet.org/\",\n    \"notes\": \"Property risk\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Climate Risk\",\n    \"name\": \"Kettle\",\n    \"url\": \"https://ourkettle.com/\",\n    \"notes\": \"Climate insurance\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Climate Risk\",\n    \"name\": \"Beehive\",\n    \"url\": \"https://beehiveclimate.com/\",\n    \"notes\": \"AI-powered climate risk platform\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Bioprospecting\",\n    \"name\": \"Ginkgo Bioworks\",\n    \"url\": \"https://www.ginkgo.bio/\",\n    \"notes\": \"Synthetic bio\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Bioprospecting\",\n    \"name\": \"BASF\",\n    \"url\": \"https://www.basf.com/\",\n    \"notes\": \"Industrial enzymes\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Bioprospecting\",\n    \"name\": \"Roche\",\n    \"url\": \"https://www.roche.com/\",\n    \"notes\": \"Pharma biotech\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Bioprospecting\",\n    \"name\": \"AMSilk\",\n    \"url\": \"https://www.amsilk.com/\",\n    \"notes\": \"Marine-inspired biotech for biofabrics\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Aquaculture\",\n    \"name\": \"InnovaFeed\",\n    \"url\": \"https://innovafeed.com/\",\n    \"notes\": \"Insect feed\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Aquaculture\",\n    \"name\": \"Skretting\",\n    \"url\": \"https://www.skretting.com/\",\n    \"notes\": \"Aqua nutrition\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Aquaculture\",\n    \"name\": \"Cargill\",\n    \"url\": \"https://www.cargill.com/\",\n    \"notes\": \"Aqua feed\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Aquaculture\",\n    \"name\": \"Vycarb\",\n    \"url\": \"https://vycarb.com/\",\n    \"notes\": \"Ocean monitoring and aquaculture tech\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Aquaculture\",\n    \"name\": \"Aquabyte\",\n    \"url\": \"https://aquabyte.com/\",\n    \"notes\": \"AI computer vision for aquaculture monitoring, high marine data needs\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Offshore Energy\",\n    \"name\": \"Ørsted\",\n    \"url\": \"https://orsted.com/\",\n    \"notes\": \"Offshore wind\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Offshore Energy\",\n    \"name\": \"Equinor\",\n    \"url\": \"https://www.equinor.com/\",\n    \"notes\": \"Offshore energy\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Ocean Carbon Sequestration\",\n    \"name\": \"Carbon Kapture\",\n    \"url\": \"https://carbonkapture.com/\",\n    \"notes\": \"Seaweed-based ocean carbon sequestration\",\n    \"last_updated\": \"2026-05-01\"\n  },\n  {\n    \"sector\": \"Offshore Energy\",\n    \"name\": \"Gazelle Wind Power\",\n    \"url\": \"https://gazellewindpower.com/\",\n    \"notes\": \"Self-stabilising offshore wind platform, requires marine weather/ocean data\",\n    \"last_updated\": \"2026-05-01\"\n  }\n]
+[
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Ebb Carbon",
+    "url": "https://www.ebbcarbon.com/",
+    "notes": "Electrochemical CDR from brine",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Captura",
+    "url": "https://capturacorp.com/",
+    "notes": "Direct Ocean Capture",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Planetary Technologies",
+    "url": "https://www.planetarytech.com/",
+    "notes": "Ocean alkalinity enhancement",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Running Tide",
+    "url": "https://runningtidexmason.webflow.io/",
+    "notes": "Ocean-based biomass sequestration",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Equatic",
+    "url": "https://equatic.tech/",
+    "notes": "Ocean-based CDI / CDR; new NA commercial plant; strong marine env. monitoring demands",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Climate Risk",
+    "name": "Jupiter Intelligence",
+    "url": "https://www.jupiterintel.com/",
+    "notes": "Climate risk modeling & analytics",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Climate Risk",
+    "name": "First Street Foundation",
+    "url": "https://firststreet.org/",
+    "notes": "Property-level climate risk data",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Climate Risk",
+    "name": "Kettle",
+    "url": "https://ourkettle.com/",
+    "notes": "Climate perils insurance & underwriting data",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Bioprospecting",
+    "name": "Ginkgo Bioworks",
+    "url": "https://www.ginkgo.bio/",
+    "notes": "Synthetic biology platform, marine microbes & enzymes",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Aquabyte",
+    "url": "https://aquabyte.com/",
+    "notes": "AI computer vision + biomass monitoring; high marine sensor & ocean data needs",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Vycarb",
+    "url": "https://vycarb.com/",
+    "notes": "Carbon storage & aquaculture environment monitoring",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Ørsted",
+    "url": "https://orsted.com/",
+    "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Gazelle Wind Power",
+    "url": "https://gazellewindpower.com/",
+    "notes": "Floating wind platforms; needs oceanographic/metocean data services",
+    "last_updated": "2026-05-01"
+  }
+]

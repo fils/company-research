@@ -1,1 +1,26 @@
-# Planetary Technologies - Home Page Summary\n\n**Source**: https://www.planetarytech.com/  \n**Key Metric**: **0 tonnes of carbon dioxide removed** (live counter).\n\n## Mission: Why Seawater Restoration Matters\n- Ocean as \"**most powerful climate allies**\", absorbing **~25% of annual CO2 emissions**.\n- Coastal waters acidifying due to rising emissions, harming ecosystems, communities, and ocean's climate regulation.\n- **Solution**: Restore seawater chemistry to support life and protect planet.\n\n## Process: Ocean Alkalinity Enhancement (OAE)\n- Introduce **purified alkaline minerals** into coastal outfalls at **existing infrastructure** (e.g., powerplants, wastewater treatment facilities).\n- Boosts water's buffering capacity; converts atmospheric CO2 into **stable bicarbonate**.\n- **Outcomes**: Permanent carbon removal, reduced ocean acidity, stronger marine ecosystems.\n\n## Key Operational Strengths\n- **High-Purity Minerals**: Recover natural alkaline minerals from industrial byproducts via **patented process**.\n- **Infrastructure Integration**: Use existing coastal facilities.\n- **Scientific Oversight**: Partner with academics/regulators.\n- **Third-Party Verification**: Measure outcomes for **high-quality, certified carbon removal credits**.\n\n## Partners\n- Carbon Business Council, PML Applications, National Oceanography Centre, Dartmouth Ocean Technologies, Carbon Removal Alliance, Dalhousie University, Frontier, XPrize, Shopify, Isometric, Stripe, Garrison Minerals, Nova Scotia Power, SGS, Enginuity, Pro Oceanus.\n\n## Current Projects\n- Tufts Cove, Elizabeth River Project.
+# Planetary Technologies
+URL: https://www.planetarytech.com/
+Sector: Ocean Carbon Sequestration (Ocean Alkalinity Enhancement - OAE)
+Last Updated: 2026-05-01
+
+## Business Model
+Restores coastal seawater chemistry by adding high-purity alkaline minerals (recovered from industrial byproducts) into existing coastal wastewater/power plant outfalls. Increases ocean's natural CO₂ buffering.
+
+Model = Carbon removal credits sold + infrastructure integration partnerships.
+
+## Funding / Supporters
+Frontier, Stripe, Shopify, XPRIZE, Isometric, Nova Scotia Power. Academic partnerships (Dalhousie University, Plymouth Marine Laboratory, National Oceanography Centre).
+
+Projects: Tufts Cove (NS, Canada), Elizabeth River Project.
+
+## Key Tech
+Patented high-purity mineral process. Focus on safety, science-verified MRV through third parties.
+
+## Marine Data Needs
+Very high:
+- Ocean alkalinity, DIC, pH before/after deployment
+- Biological impact monitoring (plankton, shellfish, benthic communities)
+- Current and mixing models for outfall dilution
+- Long-term ocean pH recovery
+
+Emphasis on transparent science and indigenous community engagement.

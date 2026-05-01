@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Ebb Carbon",
+  "url": "https://www.ebbcarbon.com/",
+  "description": "Electrochemical brine processing for desalination plants delivering freshwater recovery + permanent ocean alkalinity CDR.",
+  "sector": "Ocean Carbon Sequestration",
+  "marineDataNeeds": [
+    "Coastal ocean pH & alkalinity monitoring",
+    "Brine plume dispersion modeling",
+    "Ecological impact (shellfish, plankton)",
+    "Real-time DIC, carbonate parameters"
+  ]
+}
