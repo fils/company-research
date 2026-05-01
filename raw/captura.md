@@ -1,0 +1,1 @@
+# Captura | Homepage\n\n[Extracted from https://capturacorp.com/ on 2026-04-30]\n\nDirect Ocean Capture using electrodialysis. Pilot in Hawaii. Backers: XPRIZE, Caltech, Frontier, Equinor. Recent: TIME Top GreenTech 2026.

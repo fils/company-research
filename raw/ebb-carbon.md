@@ -1,0 +1,1 @@
+# Ebb Carbon | Homepage\n\n[Extracted from https://www.ebbcarbon.com/ on 2026-04-30]\n\nEbb pioneers electrochemical water technology partnering with desalination plants to transform brine into freshwater, permanent carbon removal, and industrial products. Partners: Microsoft, Stripe, Isometric, Google. Projects: Project Macoma, PNNL.

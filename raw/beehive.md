@@ -1,0 +1,1 @@
+# Beehive\n\n**Source**: https://beehiveclimate.com/  \n**AI climate risk software** for regs (SB261, CSRD).\n\n## Business Model\nSaaS for enterprises: Risk modeling, reports.\n\n## Funding\nNot in scrape.\n\n## Key Tech\nAI for physical/transition risks, TCFD reports.\n\n## Marine Data Needs\nMedium: Climate models may include coastal/flood risks.
