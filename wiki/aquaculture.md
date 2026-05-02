@@ -1,5 +1,9 @@
 # Aquaculture
 
+**Official Sector Sources**:
+- Aquabyte: https://aquabyte.com/
+- Vycarb: https://vycarb.com/
+
 **Overview (as of May 2026)**
 
 The Aquaculture sector companies in the knowledge graph focus on technology-enabled fish farming and integrated carbon removal solutions.
@@ -12,9 +16,11 @@ The Aquaculture sector companies in the knowledge graph focus on technology-enab
 
 **Companies Profiled**
 
-- **Aquabyte**: AI-powered computer vision platform for aquaculture. Provides sea lice detection, biomass estimation, fish welfare monitoring, and farm optimization. Used by commercial fish farms globally.
+- **Aquabyte** – https://aquabyte.com/  
+  AI-powered computer vision platform for aquaculture. Provides sea lice detection, biomass estimation, fish welfare monitoring, and farm optimization.
 
-- **Vycarb**: Sensor-driven carbon capture system that works in any water body. Converts CO₂ into stable bicarbonate with real-time verification. Strong marine chemistry and sensing requirements. Backed by major industrial and climate investors.
+- **Vycarb** – https://vycarb.com/  
+  Sensor-driven carbon capture system that works in any water body. Converts CO₂ into stable bicarbonate with real-time verification.
 
 **Key Insights**
 - Both companies generate high-value marine sensor and imaging data needs.

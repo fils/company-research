@@ -1,1 +1,31 @@
-# Company Research Knowledge Graph\n\n## About\n\nAgent-managed repo for researching business models of companies in ocean carbon sequestration, climate risk, bioprospecting, aquaculture, and offshore energy sectors. Builds a personal knowledge graph (wiki) from sources, extracts funding, models, contacts, etc.\n\nInspired by agentsDoc and Karpathy's LLM KB approach.\n\n## Components\n\n### sources/\nJSON index of company sources (websites, APIs). Agent-updated with notes.\n\n### raw/\nScraped MD/HTML/JSON from web_extract/browser.\n\n### wiki/\nLLM-compiled .md articles on companies/sectors, backlinks, concepts (e.g., MRV tech, funding rounds).\n\n### metadata/\nJSON-LD schema.org Dataset/DigitalObject for resources.\n\n### PLAN.md\nDaily workflow phases.\n\n## Workflow\nNightly cron runs Phases 1-5, outputs report to Discord #general.\n\nAll changes via branches/PRs to master.
+# Company Research Knowledge Graph
+
+## About
+Agent-managed repo for researching business models of companies in ocean carbon sequestration, climate risk, bioprospecting, aquaculture, and offshore energy sectors. Builds a personal knowledge graph (wiki) from sources, extracts funding, models, contacts, etc.
+
+**Critical Note on URLs**: Every company entry in `sources/companies.json` contains an official homepage URL. Future workflow runs (Phases 2–4) must explicitly propagate this URL into:
+- The first header of every `raw/*.md` file
+- The `"url"` field in every `metadata/*.jsonld` file
+- A clear **Official Site** line near the top of every wiki company profile
+
+## Components
+
+### sources/
+JSON index of company sources (websites, APIs). Every record includes `url` (required).
+
+### raw/
+Scraped MD/HTML/JSON from web_extract/browser. **Each file now requires the source URL in the header**.
+
+### wiki/
+LLM-compiled `.md` articles on companies/sectors. **Every company profile must include the official homepage URL** near the top.
+
+### metadata/
+JSON-LD schema.org Dataset/DigitalObject for resources. **Must contain the company’s official URL**.
+
+### PLAN.md
+Daily workflow with explicit URL handling instructions.
+
+## Workflow
+Nightly cron runs Phases 1-5. All changes via branches/PRs to master.
+
+**Last major revision**: 2026-05-01 (URL enforcement added to PLAN.md + templates)

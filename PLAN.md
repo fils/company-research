@@ -1,1 +1,65 @@
-# Company Research Daily Workflow (Phases 1-5)\n\nRun from workdir ~/projects/company-research.\n\n## Phase 1: Update Sources\n- read_file('sources/companies.json') or create if missing: [\n  {\"sector\": \"Ocean Carbon\", \"name\": \"Ebb Carbon\", \"url\": \"https://www.ebbcarbon.com/\", \"last_updated\": \"YYYY-MM-DD\"},\n  ... (full list from prior chat: Ebb, Captura, Planetary, Running Tide, Jupiter, First Street, Kettle, Ginkgo, BASF, Roche, InnovaFeed, Skretting, Cargill, Ørsted, Equinor + similars)\n]\n- web_search new similar companies per sector (query: 'new ocean carbon sequestration startups 2026'). Append 3-5 new if relevant.\n- tbr add new URLs to ~/url_index.md (Ocean Carbon, etc.).\n\n## Phase 2: Ingest Raw Data\nFor each source:\n- web_extract(urls=[company.url]) → save raw/company-name.md\n- browser_navigate if JS-heavy; snapshot/extract business model/funding/about.\n\n## Phase 3: Analyze & Extract\nFor each raw/:\n- Extract: business model, funding (amounts/rounds/investors), key tech, contacts, marine data needs.\n- Save metadata/company-name.jsonld (schema.org Dataset).\n\n## Phase 4: Compile Wiki\n- LLM build/update wiki/ articles: sector overviews, company profiles, concept pages (e.g., 'Ocean MRV'). Add backlinks/summaries.\n- Health check: inconsistencies, new connections.\n\n## Phase 5: Report & Git\n- Diff changes since last run.\n- terminal('git add .; git commit -m \"Daily update $(date +%Y-%m-%d)\"'; git push')\n- Final report: New companies? Key updates? (e.g., funding rounds). Send to Discord.\n\nVerify: ls -la raw/ wiki/; cat sources/companies.json | jq '.[] | {name,url}'
+# Company Research Daily Workflow (Phases 1-5)
+
+Run from workdir ~/projects/company-research.
+
+## Phase 1: Update Sources
+- read_file('sources/companies.json') or create if missing. Every entry MUST include:
+  - `"sector"`
+  - `"name"`
+  - `"url"` (official homepage – **required**)
+  - `"notes"`
+  - `"last_updated"`
+- Example:
+  ```json
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Ebb Carbon",
+    "url": "https://www.ebbcarbon.com/",
+    "notes": "Electrochemical CDR from brine",
+    "last_updated": "2026-05-01"
+  }
+  ```
+- web_search new similar companies per sector (query: 'new ocean carbon sequestration startups 2026'). Append 3-5 new if relevant. **Always extract and store the official homepage URL**.
+- tbr add new URLs to ~/url_index.md (Ocean Carbon, etc.).
+
+## Phase 2: Ingest Raw Data
+For each source in companies.json:
+- Extract `url` from the JSON entry
+- Run `web_extract(urls=[company.url])` → save as `raw/<company-slug>.md`
+- In the generated `.md` file, **first line or a dedicated header** must contain the source URL, for example:
+  ```markdown
+  # Company Name – Raw Web Extract
+  **Source:** https://company-url.com/
+  ```
+- browser_navigate if JS-heavy; snapshot/extract business model/funding/about.
+
+## Phase 3: Analyze & Extract
+For each raw/ file:
+- Extract: business model, funding (amounts/rounds/investors), key tech, contacts, marine data needs.
+- In the metadata JSON-LD file, **always include**:
+  ```json
+  "url": "https://official-homepage.com/"
+  ```
+- Save metadata/company-name.jsonld (schema.org Organization) with the URL field populated.
+
+## Phase 4: Compile Wiki
+- LLM build/update wiki/ articles: sector overviews, company profiles, concept pages (e.g., 'Ocean MRV').
+- Every company profile `.md` file **must start with** or contain near the top:
+  ```
+  **Sector**: ...
+  **Official Site**: https://...
+  ```
+- Add backlinks/summaries.
+- Health check: inconsistencies, new connections.
+
+## Phase 5: Report & Git
+- Diff changes since last run.
+- terminal('git add .; git commit -m "Daily update $(date +%Y-%m-%d)"'; git push)
+- Final report: New companies? Key updates? (e.g., funding rounds). Send to Discord.
+
+Verify: 
+```bash
+cat sources/companies.json | jq '.[] | {name,url}'
+ls -1 raw/ | wc -l
+ls -1 wiki/*.md
+````

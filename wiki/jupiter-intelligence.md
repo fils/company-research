@@ -2,6 +2,8 @@
 
 **Sector**: Climate Risk
 
+**Official Site**: https://www.jupiterintel.com/
+
 **Overview**  
 Jupiter Intelligence provides decision-grade physical climate risk intelligence. The platform translates climate and extreme weather data into finance-aligned metrics (credit, loss, cashflow, ROI) to support capital allocation, underwriting, stress testing, and regulatory compliance.
 
@@ -17,7 +19,7 @@ Highly valuable for offshore energy operators, ports, and coastal infrastructure
 **Clients**  
 BP, Equinor, Eni, Liberty Mutual, Fannie Mae, Aon, Hawaiian Electric, and others.
 
-**Last Updated**: 2026-05-01
+**Last Updated**: 2026-05-01  
 **Status**: Full profile ready
 
 ---

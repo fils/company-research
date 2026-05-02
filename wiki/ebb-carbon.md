@@ -1,5 +1,7 @@
 # Ebb Carbon
 
+**Official Site**: https://www.ebbcarbon.com/
+
 **Business Model**: Electrochemical processing of desalination brine — recovers freshwater, produces CDR via ocean alkalinity, and low-cost industrial chemicals.
 **Key Tech**: Modular electrochemical membrane stacks.
 **Marine Data Needs**: Seawater alkalinity/pH/DIC + ecological monitoring for outfall impact (plankton, shellfish).
