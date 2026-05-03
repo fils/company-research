@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Kelp Blue",
+  "url": "https://www.kelp.blue/",
+  "description": "Large-scale offshore giant kelp (Macrocystis pyrifera) cultivation for blue carbon sequestration, ocean re-wilding, biodiversity enhancement, and production of natural biostimulants for sustainable agriculture.",
+  "sector": "Ocean Carbon Sequestration",
+  "foundingDate": "2019-2020",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "South Africa / Netherlands"
+    }
+  },
+  "knowsAbout": [
+    "Blue Carbon Sequestration",
+    "Giant Kelp Cultivation",
+    "Offshore Ocean Farming",
+    "Marine Biodiversity and Habitat Restoration",
+    "Biostimulants from Seaweed"
+  ],
+  "potentialAction": "Cultivates kelp on offshore structures to sequester 0.2-0.5 Gt CO2/year potential by 2050; sells StimBlue+ biostimulant",
+  "dateModified": "2026-05-03",
+  "sourceUrl": "https://www.kelp.blue/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

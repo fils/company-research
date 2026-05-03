@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SeaO2",
+  "url": "https://www.seao2.com/",
+  "description": "Electrochemical Direct Ocean Capture (DOC) technology to extract CO2 from seawater using renewable electricity and seawater only. Gigaton-scale potential; combats ocean acidification; returns decarbonized water to surface.",
+  "sector": "Ocean Carbon Sequestration",
+  "foundingDate": "2021",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Netherlands"
+    }
+  },
+  "knowsAbout": [
+    "Direct Ocean Capture (DOC)",
+    "Electrochemical CO2 Extraction from Seawater",
+    "Marine Carbon Dioxide Removal (mCDR)",
+    "Ocean Acidification Reversal",
+    "Carbon Removal Credits and Utilization"
+  ],
+  "potentialAction": "Developing pilots (25 tCO2/yr nameplate in 2026); sells CDR credits and green CO2 products; developing geological storage and utilization pathways",
+  "dateModified": "2026-05-03",
+  "sourceUrl": "https://www.seao2.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

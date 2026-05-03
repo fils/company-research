@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Gigablue",
+  "alternateName": "Giga Blue",
+  "url": "https://www.gigablue.co/",
+  "description": "Marine carbon dioxide removal (mCDR) company using Microalgae Carbon Fixation and Sinking (MCFS) for durable ocean-based CDR. AI-optimized deployments and extensive deep-sea monitoring.",
+  "sector": "Ocean Carbon Sequestration",
+  "foundingDate": "2023",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "New Zealand"
+    }
+  },
+  "knowsAbout": [
+    "Microalgae Carbon Fixation and Sinking (MCFS)",
+    "Marine Carbon Dioxide Removal (mCDR)",
+    "Oceanographic intelligence platform",
+    "Deep ocean monitoring and MMRV",
+    "Carbon removal credits"
+  ],
+  "potentialAction": "Sells permanent carbon removal credits; conducts permitted ocean trials under NZ EPA",
+  "dateModified": "2026-05-03",
+  "sourceUrl": "https://www.gigablue.co/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Limenet",
+  "url": "https://limenet.tech/",
+  "description": "Develops technology for producing carbon-free lime / calcium bicarbonate solutions for permanent ocean storage of CO2 via pH-equilibrated Ocean Alkalinization. Accelerates natural buffering against acidification.",
+  "sector": "Ocean Carbon Sequestration",
+  "foundingDate": "2015",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Italy"
+    }
+  },
+  "knowsAbout": [
+    "Ocean Alkalinity Enhancement (OAE)",
+    "pH Equilibrated Ocean Alkalinization",
+    "Calcium bicarbonate ocean storage",
+    "Marine Carbon Dioxide Removal (mCDR)",
+    "Ocean acidification mitigation"
+  ],
+  "potentialAction": "Sells carbon removal credits; operates industrial pilot plants for gigaton-scale potential",
+  "dateModified": "2026-05-03",
+  "sourceUrl": "https://limenet.tech/",
+  "additionalType": "Corporation",
+  "knowsAbout": ["Stripe", "Shopify", "Frontier Climate", "Google", "KlimaDAO"],
+  "knowledgeGraph": "company-research"
+}

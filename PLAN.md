@@ -35,12 +35,27 @@ For each source in companies.json:
 
 ## Phase 3: Analyze & Extract
 For each raw/ file:
-- Extract: business model, funding (amounts/rounds/investors), key tech, contacts, marine data needs.
+- Extract: business model, funding (amounts/rounds/investors), key tech, contacts.
+- **Data, Measurements & Observations focus**:
+  - Types of data the company works with or needs (sensor streams, satellite imagery, model outputs, genomic sequences, acoustic data, etc.)
+  - Specific measurements/parameters of interest (pH, DIC, total alkalinity, temperature, salinity, dissolved oxygen, biomass stocks, nutrient levels, CO₂ flux, current speed, wave height, benthic community metrics, etc.)
+  - Observation & monitoring programs (MRV telemetry, real-time sensor networks, baseline ecosystem surveys, satellite validation campaigns, automated underwater vehicles, fixed moorings, etc.)
+- Explicitly note any gaps or pain points (e.g., “lacks real-time carbonate chemistry data at depth” or “requires high-resolution spatial coverage for licensing”).
 - In the metadata JSON-LD file, **always include**:
   ```json
   "url": "https://official-homepage.com/"
   ```
 - Save metadata/company-name.jsonld (schema.org Organization) with the URL field populated.
+
+## Data Interests Template (add to every company profile in wiki/)
+Every company wiki profile should contain (or link to) a structured **Data & Measurement Needs** section, for example:
+
+### Data & Measurement Needs
+- Primary data types: ...
+- Key measurements/parameters: ...
+- Observation platforms/programs: ...
+- Known data gaps: ...
+- Interest in external data services: ...
 
 ## Phase 4: Compile Wiki
 - LLM build/update wiki/ articles: sector overviews, company profiles, concept pages (e.g., 'Ocean MRV').

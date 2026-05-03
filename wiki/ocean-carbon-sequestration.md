@@ -6,10 +6,11 @@
 
 Ocean-based Carbon Dioxide Removal (mCDR) pathways represented:
 
-- Ocean Alkalinity Enhancement (OAE) – Planetary Technologies, Equatic, Ebb Carbon, Running Tide
-- Direct Ocean Capture (DOC) – Captura, Equatic
-- Biomass sinking / BiCRS – Running Tide, Vaulted Deep
+- Ocean Alkalinity Enhancement (OAE) – Planetary Technologies, Equatic, Ebb Carbon, Running Tide, Limenet
+- Direct Ocean Capture (DOC) – Captura, Equatic, SeaO2
+- Biomass / Kelp sinking – Running Tide, Vaulted Deep, Kelp Blue
 - Shipping-based capture – Seabound
+- Novel Microalgae Sinking (MCFS) – Gigablue
 
 **Companies Profiled** (with direct links)
 
@@ -20,6 +21,10 @@ Ocean-based Carbon Dioxide Removal (mCDR) pathways represented:
 - **Equatic** – https://equatic.tech/
 - **Vaulted Deep** – https://vaulteddeep.com/
 - **Seabound** – https://www.seabound.co/
+- **Gigablue** – https://www.gigablue.co/  (NEW)
+- **Limenet** – https://limenet.tech/  (NEW)
+- **Kelp Blue** – https://www.kelp.blue/  (NEW)
+- **SeaO2** – https://www.seao2.com/  (NEW)
 
 **Key Insights**  
 All pathways have high demand for real-time marine carbonate chemistry, metocean data, and verifiable MRV.
