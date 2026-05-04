@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "pHathom Technologies",
+  "sector": "Ocean Carbon Sequestration",
+  "url": "https://phathom.tech/",
+  "description": "Accelerated Weathering of Limestone (AWL) process: captures CO2 from coastal biomass plants, converts to bicarbonate via limestone + seawater, stores permanently in ocean as stable calcium bicarbonate. Delivers durable ocean CDR (>10k years) with marine life co-benefits and acidification mitigation. Scalable modular design, low energy, minimal infrastructure. Strong focus on measurable MRV (pH, alkalinity, carbon flux).",
+  "dateModified": "2026-05-04",
+  "funding": "4M Seed (Feb 2026), total committed >$12M (Propeller Ventures, NBIF, Invest Nova Scotia, Carmeuse Ventures)",
+  "keyTech": "Accelerated limestone weathering + seawater bicarbonate conversion; coastal BECCS + ocean alkalinity pathway",
+  "marineDataNeeds": "Real-time sea-water pH, total alkalinity, DIC & CO2 flux monitoring at release sites; basin-scale water quality MRV; ecosystem baseline and acidification quantification; long-term continuous ocean chem telemetry; standardized MRV protocols for credit verification",
+  "additionalType": "Company",
+  "knowledgeGraph": "company-research"
+}

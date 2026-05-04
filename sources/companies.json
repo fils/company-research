@@ -152,5 +152,12 @@
     "url": "https://www.seao2.com/",
     "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; marine MRV intensive",
     "last_updated": "2026-05-03"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "pHathom Technologies",
+    "url": "https://phathom.tech/",
+    "notes": "Accelerated Weathering of Limestone (AWL) for biomass-sourced CO2 dissolution in seawater and limestone neutralization; durable calcium bicarbonate storage; supports marine life; $4M seed 2026 (total $12M committed). Co-benefits for healthy oceans. Strong need for in-situ ocean measurements.",
+    "last_updated": "2026-05-04"
   }
 ]
