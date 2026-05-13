@@ -2,10 +2,34 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Equatic",
-  "sector": "Ocean Carbon Sequestration",
-  "url": "",
-  "description": "Equatic operates in the Ocean Carbon Sequestration sector. Full profile, business model, and marine data needs available in wiki and raw data.",
-  "dateModified": "2026-05-01",
-  "additionalType": "Company",
-  "knowledgeGraph": "company-research"
+  "url": "https://equatic.tech/",
+  "description": "Electrolytic atmospheric CO2 removal using seawater, co-producing green hydrogen. ISO 14064-2:2019 certified MRV methodology.",
+  "funding": "$11.6M Series A (August 2025)",
+  "knowledgeDomain": "Ocean Carbon Sequestration",
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "seawater chemistry sensor streams",
+      "electrolysis performance metrics",
+      "environmental monitoring data"
+    ],
+    "keyMeasurements": [
+      "pH",
+      "DIC",
+      "total alkalinity",
+      "carbonate concentration",
+      "hydrogen production rate",
+      "current density"
+    ],
+    "observationPlatforms": [
+      "plant-adjacent sensor arrays",
+      "MRV telemetry",
+      "seawater intake monitoring"
+    ],
+    "dataGaps": [
+      "real-time carbonate tracking at gigaton scale",
+      "oxygen-selective anode degradation monitoring",
+      "ecological impact assessment"
+    ],
+    "interestInExternalData": "Extremely high - electrolytic process depends on consistent ocean chemistry data"
+  }
 }

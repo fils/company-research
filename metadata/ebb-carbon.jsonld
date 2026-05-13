@@ -2,10 +2,33 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Ebb Carbon",
-  "sector": "Ocean Carbon Sequestration",
-  "url": "",
-  "description": "Ebb Carbon operates in the Ocean Carbon Sequestration sector. Full profile, business model, and marine data needs available in wiki and raw data.",
-  "dateModified": "2026-05-01",
-  "additionalType": "Company",
-  "knowledgeGraph": "company-research"
+  "url": "https://www.ebbcarbon.com/",
+  "description": "Electrochemical water technology converting desalination brine into freshwater, permanent carbon removal, and industrial chemicals",
+  "funding": "Series A",
+  "knowledgeDomain": "Ocean Carbon Sequestration",
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "brine chemistry measurements",
+      "electrochemical process data",
+      "marine ecosystem impact data"
+    ],
+    "keyMeasurements": [
+      "pH",
+      "alkalinity",
+      "salinity",
+      "heavy metal concentrations",
+      "acid/base production rates"
+    ],
+    "observationPlatforms": [
+      "brine discharge monitoring",
+      "coastal water quality sensors",
+      "ecological surveys"
+    ],
+    "dataGaps": [
+      "ecological impact of alkaline discharge at scale",
+      "heavy metal tracking in brine streams",
+      "fish behavior near discharge zones"
+    ],
+    "interestInExternalData": "High - discharge safety and ecological monitoring are critical for scale-up"
+  }
 }

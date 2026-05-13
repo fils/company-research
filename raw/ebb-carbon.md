@@ -1,42 +1,32 @@
-# Ebb Carbon - Raw Web Extract (2026-05-01)
-
+# Ebb Carbon – Raw Web Extract (2026-05-13)
 **Source:** https://www.ebbcarbon.com/
 
-## Core Technology
-- Electrochemical treatment of desalination brine
-- Converts brine into: additional freshwater + acid/caustic soda + alkaline seawater for ocean CO₂ removal
-- Permanent carbon removal via ocean alkalinity enhancement
-- Modular electrochemical membrane stack technology
-- Energy-efficient and scalable
+## Technology
+- Electrochemical water technology treating desalination brine
+- Splits brine into: filtered brine, acid, and base
+- Freshwater recovery via recycled brine
+- Alkaline seawater for permanent carbon removal (OAE)
+- Low-cost acid and caustic soda production
+- Modular electrochemical membrane stack systems
+
+## Projects
+- Project Macoma: Port Angeles, WA (industrial integration demo)
+- PNNL Collaboration: Sequim, WA (safety science basis)
+- Salmon ecological safety study completed (Feb 2026)
 
 ## Business Model
-- Partner with existing desalination plants (waste-to-value model)
-- Create revenue from:
-  - Increased freshwater yield
-  - Sale of industrial chemicals (acid/caustic)
-  - Carbon removal credits
-- Targets large-scale industrial water operators
-
-## Key Projects
-- Project Macoma (Port Angeles, WA) – industrial demonstration
-- Multi-year demonstration with PNNL (Pacific Northwest National Laboratory)
-- Google partnership for acceleration of scalable ocean CDR
+- Technology deployment at desalination plants
+- Revenue: carbon credits + chemical sales (acid/caustic soda) + freshwater recovery
+- Integrates with existing global desalination infrastructure
+- Billions of tons CO2 removal potential annually
 
 ## Partners
-- Microsoft, Stripe, Isometric
+- Microsoft, Stripe, Google (technology & finance)
+- Isometric (carbon removal verification)
 
-## Marine Data & Monitoring Needs
-- Strong focus on ecological safety (salmon study for environmental impact)
-- Ocean health metrics: coastal acidification reduction
-- High emphasis on monitoring ocean chemistry changes
+## Marine Relevance
+Very high: direct ocean discharge, coastal acidification mitigation, brine chemistry monitoring.
 
-## Recent News
-- Project Macoma update (Feb 2026)
-- Ecological safety study (Feb 2026)
-- Google partnership announced (Dec 2025)
-
----
-
-**Extracted date**: 2026-05-01
 **Sector**: Ocean Carbon Sequestration
-**Status**: In pipeline (Phase 2 raw ingest complete)
+**Date**: 2026-05-13
+**Status**: Raw data ingested - Phase 2

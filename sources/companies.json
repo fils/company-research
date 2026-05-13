@@ -4,160 +4,181 @@
     "name": "Ebb Carbon",
     "url": "https://www.ebbcarbon.com/",
     "notes": "Electrochemical CDR from brine",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Captura",
     "url": "https://capturacorp.com/",
     "notes": "Direct Ocean Capture",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Planetary Technologies",
     "url": "https://www.planetarytech.com/",
     "notes": "Ocean alkalinity enhancement",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Running Tide",
     "url": "https://runningtidexmason.webflow.io/",
     "notes": "Ocean-based biomass sequestration",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Equatic",
     "url": "https://equatic.tech/",
     "notes": "Ocean-based CDI / CDR; new NA commercial plant; strong marine env. monitoring demands",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Climate Risk",
     "name": "Jupiter Intelligence",
     "url": "https://www.jupiterintel.com/",
     "notes": "Climate risk modeling & analytics",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Climate Risk",
     "name": "First Street Foundation",
     "url": "https://firststreet.org/",
     "notes": "Property-level climate risk data",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Climate Risk",
     "name": "Kettle",
     "url": "https://ourkettle.com/",
     "notes": "Climate perils insurance & underwriting data",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Bioprospecting",
     "name": "Ginkgo Bioworks",
     "url": "https://www.ginkgo.bio/",
     "notes": "Synthetic biology platform, marine microbes & enzymes",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Aquaculture",
     "name": "Aquabyte",
     "url": "https://aquabyte.com/",
     "notes": "AI computer vision + biomass monitoring; high marine sensor & ocean data needs",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Aquaculture",
     "name": "Vycarb",
     "url": "https://vycarb.com/",
     "notes": "Carbon storage & aquaculture environment monitoring",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Offshore Energy",
-    "name": "Ørsted",
+    "name": "\u00d8rsted",
     "url": "https://orsted.com/",
     "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Offshore Energy",
     "name": "Gazelle Wind Power",
     "url": "https://gazellewindpower.com/",
     "notes": "Floating wind platforms; needs oceanographic/metocean data services",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Vaulted Deep",
     "url": "https://vaulteddeep.com/",
     "notes": "Biomass carbon removal from waste; scalable BiCRS approach",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Seabound",
     "url": "https://www.seabound.co/",
     "notes": "Onboard carbon capture from shipping exhaust; marine CDR synergy",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Climate Risk",
     "name": "Climate X",
     "url": "https://climate-x.com",
     "notes": "AI-powered climate risk analytics and decision platforms",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Offshore Energy",
     "name": "Principle Power",
     "url": "https://www.principlepower.com/",
     "notes": "Floating offshore wind platform technology",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Offshore Energy",
     "name": "BW Ideol",
     "url": "https://www.bw-ideol.com/",
     "notes": "Floating offshore wind solutions and infrastructure",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Gigablue",
     "url": "https://www.gigablue.co/",
     "notes": "Durable ocean carbon removal; deep-sea monitoring with custom ROVs; large-scale CDR credits; marine scientific research focus",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Limenet",
     "url": "https://limenet.tech/",
     "notes": "Ocean alkalinity enhancement via pH-equilibrated calcium solutions; permanent carbon storage in seawater",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Kelp Blue",
     "url": "https://www.kelp.blue/",
     "notes": "Large-scale offshore giant kelp cultivation for blue carbon sequestration and ocean rewilding; biostimulants",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "SeaO2",
     "url": "https://www.seao2.com/",
     "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; marine MRV intensive",
-    "last_updated": "2026-05-03"
+    "last_updated": "2026-05-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "pHathom Technologies",
     "url": "https://phathom.tech/",
     "notes": "Accelerated Weathering of Limestone (AWL) for biomass-sourced CO2 dissolution in seawater and limestone neutralization; durable calcium bicarbonate storage; supports marine life; $4M seed 2026 (total $12M committed). Co-benefits for healthy oceans. Strong need for in-situ ocean measurements.",
-    "last_updated": "2026-05-04"
+    "last_updated": "2026-05-13"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Calcarea",
+    "url": "https://calcarea.com/",
+    "notes": "Ship-board carbon capture converting CO2 to oceanic bicarbonate; Caltech spun-out; $3.5M seed; founded by Jess Adkins",
+    "last_updated": "2026-05-13"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Carbon Time",
+    "url": "https://www.carbon-time.com/",
+    "notes": "Ocean alkalinity enhancement CDR; >20,000 yr permanence; European-based pioneer",
+    "last_updated": "2026-05-13"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Innovasea",
+    "url": "https://www.innovasea.com/",
+    "notes": "Sustainable aquaculture tech: real-time environmental sensors (aquaMeasure), fish tracking (NexTrak acoustic telemetry), cloud communications; extensive marine sensor network needs",
+    "last_updated": "2026-05-13"
   }
 ]

@@ -2,10 +2,34 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Planetary Technologies",
-  "sector": "Ocean Carbon Sequestration",
-  "url": "",
-  "description": "Planetary Technologies operates in the Ocean Carbon Sequestration sector. Full profile, business model, and marine data needs available in wiki and raw data.",
-  "dateModified": "2026-05-01",
-  "additionalType": "Company",
-  "knowledgeGraph": "company-research"
+  "url": "https://www.planetarytech.com/",
+  "description": "Ocean Alkalinity Enhancement (OAE) via patented alkaline mineral introduction through coastal outfalls",
+  "funding": "Undisclosed",
+  "knowledgeDomain": "Ocean Carbon Sequestration",
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "coastal water chemistry",
+      "alkalinity monitoring",
+      "ecological baseline data"
+    ],
+    "keyMeasurements": [
+      "pH",
+      "total alkalinity",
+      "DIC",
+      "carbonate saturation",
+      "nutrient concentrations",
+      "benthic community metrics"
+    ],
+    "observationPlatforms": [
+      "coastal outfall monitoring",
+      "sensor arrays",
+      "satellite validation"
+    ],
+    "dataGaps": [
+      "dispersal modeling of mineral additions",
+      "long-term ecosystem monitoring at OAE sites",
+      "real-time alkalinity measurement"
+    ],
+    "interestInExternalData": "Very high - OAE verification requires robust ocean chemistry monitoring"
+  }
 }

@@ -2,10 +2,34 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Captura",
-  "sector": "Ocean Carbon Sequestration",
-  "url": "",
-  "description": "Captura operates in the Ocean Carbon Sequestration sector. Full profile, business model, and marine data needs available in wiki and raw data.",
-  "dateModified": "2026-05-01",
-  "additionalType": "Company",
-  "knowledgeGraph": "company-research"
+  "url": "https://capturacorp.com/",
+  "description": "Direct Ocean Capture (DOC) using Bipolar Membrane Electrodialysis (BPMED). 1,000 ton/year pilot in Kona, Hawaii.",
+  "funding": "$45.3M Series A",
+  "knowledgeDomain": "Ocean Carbon Sequestration",
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "seawater chemistry data",
+      "electrodialysis process metrics",
+      "marine monitoring data"
+    ],
+    "keyMeasurements": [
+      "pH",
+      "pCO2",
+      "DIC",
+      "total alkalinity",
+      "bicarbonate concentrations",
+      "membrane efficiency"
+    ],
+    "observationPlatforms": [
+      "seawater intake sensors",
+      "pilot plant monitoring systems",
+      "ocean health tracking"
+    ],
+    "dataGaps": [
+      "real-time pCO2 gradients for optimization",
+      "marine ecosystem baseline data near facilities",
+      "membrane fouling prediction"
+    ],
+    "interestInExternalData": "Very high - DOC process optimization depends on high-resolution ocean chemistry data"
+  }
 }

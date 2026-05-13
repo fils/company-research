@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Innovasea",
+  "url": "https://www.innovasea.com/",
+  "description": "Sustainable aquaculture and fish tracking technology: real-time environmental sensors (aquaMeasure), acoustic telemetry (NexTrak), cloud-based aquaculture management (Fathom)",
+  "knowledgeDomain": "Aquaculture Technology",
+  "sameAs": [],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "real-time sensor streams",
+      "acoustic telemetry data",
+      "underwater camera feeds",
+      "environmental monitoring data"
+    ],
+    "keyMeasurements": [
+      "temperature",
+      "dissolved oxygen",
+      "salinity",
+      "depth",
+      "fish position",
+      "biomass estimates",
+      "water quality indices",
+      "algae levels"
+    ],
+    "observationPlatforms": [
+      "wireless aquaMeasure sensors",
+      "acoustic receivers",
+      "underwater cameras",
+      "cloud communications (aquaHub)",
+      "Fathom data management"
+    ],
+    "dataGaps": [
+      "harsh open-ocean sensor deployment",
+      "real-time data in high-noise environments",
+      "AI-driven fish counting accuracy"
+    ],
+    "interestInExternalData": "Critical - entire business model depends on reliable marine sensor data infrastructure"
+  }
+}

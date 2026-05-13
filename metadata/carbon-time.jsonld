@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Carbon Time",
+  "url": "https://www.carbon-time.com/",
+  "description": "Ocean Alkalinity Enhancement (OAE) pioneer using mineral weathering, electrochemical and biological methods for permanent carbon removal",
+  "knowledgeDomain": "Ocean Carbon Sequestration",
+  "sameAs": [],
+  "sponsor": [
+    "Team for the Planet"
+  ],
+  "partners": [
+    "Google",
+    "Microsoft",
+    "BPI France",
+    "La French Tech",
+    "University of Antwerp",
+    "French Ministry of Ecological Transition"
+  ],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "ocean alkalinity measurements",
+      "satellite ocean color data",
+      "sensor network telemetry",
+      "coastal water chemistry"
+    ],
+    "keyMeasurements": [
+      "pH",
+      "total alkalinity",
+      "DIC",
+      "carbonate saturation state",
+      "nutrient levels",
+      "CO2 flux"
+    ],
+    "observationPlatforms": [
+      "coastal sensor arrays",
+      "satellite validation",
+      "AUV campaigns",
+      "fixed moorings"
+    ],
+    "dataGaps": [
+      "spatial coverage for dispersal modeling",
+      "real-time alkalinity monitoring at deployment sites",
+      "long-term impact baselines"
+    ],
+    "interestInExternalData": "Very high - OAE MRV requires comprehensive ocean monitoring infrastructure"
+  }
+}

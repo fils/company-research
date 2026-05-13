@@ -1,29 +1,39 @@
-# Captura
-URL: https://capturacorp.com/
-Sector: Ocean Carbon Sequestration (Direct Ocean Capture)
-Last Updated: 2026-05-01
+# Captura – Raw Web Extract (2026-05-13)
+**Source:** https://capturacorp.com/
+
+## Technology
+- Direct Ocean Capture (DOC) process powered by electrodialysis
+- Bipolar Membrane Electrodialysis (BPMED) platform, manufactured in Pasadena CA
+- Removes CO2 from seawater, amplifying ocean's natural atmospheric CO2 absorption
+- No additives or by-products
+- 1,000 ton/year pilot operational at HOST Park, Kona Hawaii
+
+## Applications Beyond CDR
+- Direct lithium extraction
+- Desalination and wastewater valorization
+- Low-carbon cement (CURA collaboration)
+- eSAF (electro-Sustainable Aviation Fuel) plant in France
 
 ## Business Model
-Develops and deploys **Direct Ocean Capture (DOC)** using high-performance bipolar membrane electrodialysis to extract CO₂ from seawater. Additive-free. Co-products platforms for lithium extraction, desalination valorization, energy storage.
+- CDR via direct ocean capture
+- Industrial electrodialysis solutions licensing
+- Carbon removal credit sales
+- Industrial partnerships for BPMED applications
 
-Revenue via equipment sales + carbon credit offtake agreements. Expanding to industrial decarbonization.
+## Funding & Investors
+- Series A: $45.3M (expanded April 2024)
+- Investors: Equinor, Aramco, Hitachi, Eni Next, SoCalGas, Mitsubishi Corporation
+- Backed by Frontier (Stripe, Shopify), DeepSky, Future Planet Capital
+- DOE, ARPA-E, Caltech, XPRIZE support
 
-## Funding & Backers (2026 updates)
-Strong - Jet-backed. Supported by XPRIZE, Frontier (purchaser), Stripe, Shopify, Equinor, Aramco, Hitachi, DeepSky, SoCalGas, ENI, Future Planet Capital.
+## Recent Milestones
+- TIME's America's Top GreenTech Companies of 2026
+- eSAF supplier deal for France plant (ocean-captured CO2)
+- CURA collaboration on Bipolar Membrane tech for cement (March 2026)
 
-Recent: Named to TIME’s “America’s Top GreenTech Companies 2026”. Collaboration with CURA for cement.
+## Marine Relevance
+Highest possible: direct seawater intake, carbonate chemistry, ocean health monitoring critical.
 
-Outline: 1,000 t/yr pilot at HOST Park, Kona, HI (operational). Scaling to commercial.
-
-## Marine Data Needs
-Critical for compliance and MRV:
-- Seawater carbonate chemistry (pH, DIC, alkalinity, pCO₂)
-- Real-time ecosystem monitoring to prove no negative impacts
-- Dispersion models for processed seawater discharge
-- Tertiary validation data feeding ISO 14064-2 / Oxford protocols
-
-## Key Highlights
-- Equinor validates DOC for commercial deployment (Nov 2025)
-- Oxford Institute for Energy Studies analysis of DOC
-- Strong Caltech origins, Pasadena manufacturing base
-- Aims to slash cost curves significantly
+**Sector**: Ocean Carbon Sequestration
+**Date**: 2026-05-13
+**Status**: Raw data ingested - Phase 2

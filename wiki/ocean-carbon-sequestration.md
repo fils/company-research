@@ -1,33 +1,38 @@
 # Ocean Carbon Sequestration
 
-**Official Overview Page**: (can be linked to a future consolidated page)
+Sector overview for ocean-based carbon dioxide removal companies.
 
-**Overview (as of May 2026)**
+## Companies (14 monitored)
+| Company | Technology | Funding Status | Marine Data Dependency |
+|---------|-----------|---------------|----------------------|
+| [Ebb Carbon](/wiki/ebb-carbon.md) | Electrochemical brine processing + OAE | Series A | Very High |
+| [Captura](/wiki/captura.md) | Direct Ocean Capture (DOC) via BPMED | $45.3M Series A | Extremely High |
+| [Planetary Technologies](/wiki/planetary-technologies.md) | Ocean Alkalinity Enhancement (OAE) | Undisclosed | Extremely High |
+| [Running Tide](/wiki/running-tide.md) | Biomass sequestration | Seed | Very High |
+| [Equatic](/wiki/equatic.md) | Seawater electrolysis + H2 production | $11.6M Series A | Extremely High |
+| [Vaulted Deep](/wiki/vaulted-deep.md) | Biomass carbon removal | Seed | Moderate |
+| [Seabound](/wiki/seabound.md) | Shipboard carbon capture | Undisclosed | High |
+| [Gigablue](/wiki/gigablue.md) | AI-optimized ocean CDR | Seed | Very High |
+| [Limenet](/wiki/limenet.md) | AWL pH equilibration | Pre-commercial | Very High |
+| [Kelp Blue](/wiki/kelp-blue.md) | Giant k cultivation for blue carbon | Seed | High |
+| [SeaO2](/wiki/sea-o2.md) | Electrochemical DOC | Pre-commercial | Extremely High |
+| [pHathom Technologies](/wiki/phathom-technologies.md) | AWL + biomass CO2 dissolution | $4M seed, $12M comm. | Extremely High |
+| [Calcarea](/wiki/calcarea.md) | AWL ship-board CCS | $3.5M seed | Extremely High |
+| [Carbon Time](/wiki/carbon-time.md) | OAE (multi-method) | Team for the Planet | Extremely High |
 
-Ocean-based Carbon Dioxide Removal (mCDR) pathways represented:
+## Cross-Company Marine Data Patterns
+- **Universal demand**: Real-time carbonate chemistry (pH, DIC, alkalinity) monitoring
+- **MRV criticality**: Every company needs measurement, reporting & verification infrastructure
+- **Ecosystem baselines**: Environmental impact data essential for licensing and credibility
+- **Sensor networks**: Need for spatially distributed, high-frequency ocean observation platforms
+- **Gap**: No unified ocean MRV data infrastructure exists — each company builds its own
 
-- Ocean Alkalinity Enhancement (OAE) – Planetary Technologies, Equatic, Ebb Carbon, Running Tide, Limenet
-- Direct Ocean Capture (DOC) – Captura, Equatic, SeaO2
-- Biomass / Kelp sinking – Running Tide, Vaulted Deep, Kelp Blue
-- Shipping-based capture – Seabound
-- Novel Microalgae Sinking (MCFS) – Gigablue
+## Funding Landscape (2025-2026)
+- Captura leads at $45.3M Series A
+- Equatic raised $11.6M Series A (Aug 2025)
+- pHathom: $4M seed (2026), $12M committed total
+- Calcarea: $3.5M seed
+- Frontier prepurchases supporting multiple CDR startups
 
-**Companies Profiled** (with direct links)
-
-- **Ebb Carbon** – https://www.ebbcarbon.com/
-- **Captura** – https://capturacorp.com/
-- **Planetary Technologies** – https://www.planetarytech.com/
-- **Running Tide** – https://runningtidexmason.webflow.io/
-- **Equatic** – https://equatic.tech/
-- **Vaulted Deep** – https://vaulteddeep.com/
-- **Seabound** – https://www.seabound.co/
-- **Gigablue** – https://www.gigablue.co/  (NEW)
-- **Limenet** – https://limenet.tech/  (NEW)
-- **Kelp Blue** – https://www.kelp.blue/  (NEW)
-- **SeaO2** – https://www.seao2.com/  (NEW)
-
-**Key Insights**  
-All pathways have high demand for real-time marine carbonate chemistry, metocean data, and verifiable MRV.
-
-**Last Updated**: 2026-05-01  
-**Total Companies**: 7
+---
+*Last updated: 2026-05-13*
