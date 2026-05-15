@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Oshen",
+  "url": "https://www.oshendata.com/",
+  "description": "Autonomous ocean robots (C-Stars) for persistent, wide-area ocean intelligence. Swarm-deployable 1-meter sailing robots collecting real-time metocean data. Proven in Category 5 hurricanes with NOAA. £2M UK ARIA funded.",
+  "sector": "Offshore Energy",
+  "foundingDate": "2020",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United Kingdom"
+    }
+  },
+  "knowsAbout": [
+    "Autonomous ocean robots",
+    "Metocean data collection",
+    "Hurricane monitoring",
+    "Ocean intelligence platforms",
+    "Scalable sensing constellations",
+    "Real-time ocean data streaming"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "ARIA Project",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "2000000",
+      "currency": "GBP"
+    },
+    "funder": ["UK Advanced Research + Inventions Agency (ARIA)"],
+    "date": "2025-02"
+  },
+  "customer": ["NOAA", "University of Southern Mississippi", "UK ARIA"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "metocean data",
+      "wave data",
+      "wind data",
+      "atmospheric pressure",
+      "acoustic data",
+      "sea surface temperature"
+    ],
+    "keyMeasurements": [
+      "wave height, period, direction",
+      "wind speed and direction",
+      "barometric pressure",
+      "sea surface temperature",
+      "current profiles",
+      "acoustic signatures",
+      "air temperature",
+      "humidity"
+    ],
+    "observationPlatforms": [
+      "C-Star autonomous sailing robots",
+      "swarm/constellation sensor networks",
+      "edge computing with satellite uplink"
+    ],
+    "dataGaps": [
+      "massive spatial gaps in current buoy/ship-based ocean monitoring",
+      "delayed data delivery — C-Stars address real-time vs. latency issue",
+      "prohibitively high cost of traditional ocean observation"
+    ],
+    "interestInExternalData": "Core business — Oshen IS the data collection platform. Their C-Star constellations directly address the ocean data gap. They could partner with CDR companies needing real-time metocean/MRV data."
+  },
+  "potentialAction": "Hardware (C-Star robots) + data subscription; constellation-as-a-service for persistent ocean intelligence",
+  "dateModified": "2026-05-15",
+  "sourceUrl": "https://www.oshendata.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

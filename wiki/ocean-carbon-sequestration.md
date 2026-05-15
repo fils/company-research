@@ -2,7 +2,7 @@
 
 Sector overview for ocean-based carbon dioxide removal companies.
 
-## Companies (14 monitored)
+## Companies (15 monitored)
 | Company | Technology | Funding Status | Marine Data Dependency |
 |---------|-----------|---------------|----------------------|
 | [Ebb Carbon](/wiki/ebb-carbon.md) | Electrochemical brine processing + OAE | Series A | Very High |
@@ -14,11 +14,12 @@ Sector overview for ocean-based carbon dioxide removal companies.
 | [Seabound](/wiki/seabound.md) | Shipboard carbon capture | Undisclosed | High |
 | [Gigablue](/wiki/gigablue.md) | AI-optimized ocean CDR | Seed | Very High |
 | [Limenet](/wiki/limenet.md) | AWL pH equilibration | Pre-commercial | Very High |
-| [Kelp Blue](/wiki/kelp-blue.md) | Giant k cultivation for blue carbon | Seed | High |
-| [SeaO2](/wiki/sea-o2.md) | Electrochemical DOC | Pre-commercial | Extremely High |
+| [Kelp Blue](/wiki/kelp-blue.md) | Giant kelp cultivation for blue carbon | Seed | High |
+| [SeaO2](/wiki/seao2.md) | Electrochemical DOC | Pre-commercial | Extremely High |
 | [pHathom Technologies](/wiki/phathom-technologies.md) | AWL + biomass CO2 dissolution | $4M seed, $12M comm. | Extremely High |
 | [Calcarea](/wiki/calcarea.md) | AWL ship-board CCS | $3.5M seed | Extremely High |
 | [Carbon Time](/wiki/carbon-time.md) | OAE (multi-method) | Team for the Planet | Extremely High |
+| [Apeiron Labs](/wiki/apeiron-labs.md) | AUV ocean data platform | $9.5M Series A (Feb 2026) | Core Business |
 
 ## Cross-Company Marine Data Patterns
 - **Universal demand**: Real-time carbonate chemistry (pH, DIC, alkalinity) monitoring
@@ -32,7 +33,8 @@ Sector overview for ocean-based carbon dioxide removal companies.
 - Equatic raised $11.6M Series A (Aug 2025)
 - pHathom: $4M seed (2026), $12M committed total
 - Calcarea: $3.5M seed
+- Apeiron Labs: $9.5M Series A (Feb 2026) — new entrant providing AUV-based ocean data platform
 - Frontier prepurchases supporting multiple CDR startups
 
 ---
-*Last updated: 2026-05-13*
+*Last updated: 2026-05-15*

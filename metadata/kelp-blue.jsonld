@@ -3,25 +3,59 @@
   "@type": "Organization",
   "name": "Kelp Blue",
   "url": "https://www.kelp.blue/",
-  "description": "Large-scale offshore giant kelp (Macrocystis pyrifera) cultivation for blue carbon sequestration, ocean re-wilding, biodiversity enhancement, and production of natural biostimulants for sustainable agriculture.",
+  "description": "Large-scale offshore giant kelp (Macrocystis pyrifera) cultivation for blue carbon sequestration, ocean rewilding, and agricultural biostimulants (StimBlue+). Patented cell-wall bursting technology. Target: 0.2-0.5 Gt CO₂/yr by 2050.",
   "sector": "Ocean Carbon Sequestration",
-  "foundingDate": "2019-2020",
+  "foundingDate": "2018",
   "location": {
     "@type": "Place",
     "address": {
       "@type": "PostalAddress",
-      "addressCountry": "South Africa / Netherlands"
+      "addressCountry": "Netherlands"
     }
   },
   "knowsAbout": [
-    "Blue Carbon Sequestration",
-    "Giant Kelp Cultivation",
-    "Offshore Ocean Farming",
-    "Marine Biodiversity and Habitat Restoration",
-    "Biostimulants from Seaweed"
+    "Giant kelp aquaculture",
+    "Blue carbon sequestration",
+    "Ocean rewilding",
+    "Agricultural biostimulants",
+    "Marine biomass cultivation"
   ],
-  "potentialAction": "Cultivates kelp on offshore structures to sequester 0.2-0.5 Gt CO2/year potential by 2050; sells StimBlue+ biostimulant",
-  "dateModified": "2026-05-03",
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "oceanographic site data",
+      "water quality sensor data",
+      "underwater camera monitoring",
+      "carbon sequestration verification data",
+      "ecosystem biodiversity data"
+    ],
+    "keyMeasurements": [
+      "temperature",
+      "nutrient concentration",
+      "current speed and direction",
+      "wave action",
+      "pH",
+      "dissolved oxygen",
+      "turbidity",
+      "salinity",
+      "kelp growth rates",
+      "carbon content in biomass"
+    ],
+    "observationPlatforms": [
+      "farm-site oceanographic monitoring stations",
+      "underwater cameras",
+      "water quality sensor arrays",
+      "satellite imagery for farm extent",
+      "in-situ biomass sampling"
+    ],
+    "dataGaps": [
+      "needs comprehensive baseline ecosystem surveys before new farm deployment",
+      "continuous carbon sequestration MRV for credit certification",
+      "multi-jurisdictional environmental monitoring requirements"
+    ],
+    "interestInExternalData": "High — carbon credit certification requires robust third-party MRV. Site selection requires extensive oceanographic surveys."
+  },
+  "potentialAction": "Agricultural biostimulant sales (StimBlue+) + blue carbon credit sales",
+  "dateModified": "2026-05-15",
   "sourceUrl": "https://www.kelp.blue/",
   "additionalType": "Corporation",
   "knowledgeGraph": "company-research"

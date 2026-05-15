@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "ReelData AI",
+  "url": "https://www.reeldata.ai/",
+  "description": "AI-driven precision aquaculture platform for land-based RAS (Recirculating Aquaculture Systems). AI suite: ReelAppetite (feeding), ReelWeight (biomass), ReelVision (cameras), ReelStress (health), ReelHealth (disease detection). $8M Series A.",
+  "sector": "Aquaculture",
+  "foundingDate": "2018",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Dartmouth",
+      "addressRegion": "NS",
+      "addressCountry": "Canada"
+    }
+  },
+  "knowsAbout": [
+    "AI-powered aquaculture",
+    "Land-based RAS",
+    "Computer vision for fish monitoring",
+    "Automated feeding systems",
+    "Biomass estimation",
+    "Fish health monitoring"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "8000000",
+      "currency": "USD"
+    },
+    "funder": ["Buoyant Ventures", "S2G Investments", "The Nest Family Office", "Government of Canada"],
+    "date": "2025"
+  },
+  "customer": ["Samherji", "Atlantic Sapphire", "The Kingfish Company", "Salmon Evolution", "Fifax"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "water quality sensor data",
+      "tank environmental data",
+      "fish behavior imaging data",
+      "feed consumption data",
+      "biomass distribution data"
+    ],
+    "keyMeasurements": [
+      "temperature",
+      "pH",
+      "dissolved oxygen",
+      "salinity",
+      "tank-level environmental parameters",
+      "fish appetite indicators",
+      "growth rate metrics"
+    ],
+    "observationPlatforms": [
+      "ReelVision AI cameras",
+      "in-tank environmental sensors",
+      "customer RAS system integrations"
+    ],
+    "dataGaps": [
+      "continuous real-time water quality data at sufficient granularity",
+      "integration of multiple sensor streams into unified AI models"
+    ],
+    "interestInExternalData": "High — ReelStress and ReelHealth models depend on continuous water quality data streams. External sensor infrastructure partnerships are valuable."
+  },
+  "potentialAction": "SaaS software licensing + AI camera hardware sales for land-based aquaculture operations",
+  "dateModified": "2026-05-15",
+  "sourceUrl": "https://www.reeldata.ai/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

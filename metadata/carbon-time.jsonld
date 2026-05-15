@@ -3,46 +3,63 @@
   "@type": "Organization",
   "name": "Carbon Time",
   "url": "https://www.carbon-time.com/",
-  "description": "Ocean Alkalinity Enhancement (OAE) pioneer using mineral weathering, electrochemical and biological methods for permanent carbon removal",
-  "knowledgeDomain": "Ocean Carbon Sequestration",
-  "sameAs": [],
-  "sponsor": [
-    "Team for the Planet"
+  "description": "European pioneer in Ocean Alkalinity Enhancement (OAE) using four methods: natural rock weathering (olivine), electrochemical, biological (shellfish aquaculture), and coastal preservation (mangroves/seagrass). >20,000 yr CO₂ permanence. Team for the Planet's first innovation.",
+  "sector": "Ocean Carbon Sequestration",
+  "foundingDate": "2021",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "France"
+    }
+  },
+  "knowsAbout": [
+    "Ocean Alkalinity Enhancement (OAE)",
+    "Enhanced rock weathering",
+    "Electrochemical alkalinity generation",
+    "Coastal blue carbon",
+    "Shellfish-based carbon removal"
   ],
-  "partners": [
-    "Google",
-    "Microsoft",
-    "BPI France",
-    "La French Tech",
-    "University of Antwerp",
-    "French Ministry of Ecological Transition"
-  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "funder": ["Team for the Planet", "BPI France", "French Tech (Deeptech)", "Ministère de la Transition Écologique"],
+    "date": "2022-2025"
+  },
+  "customer": ["Google", "Microsoft", "Climate Omdenos"],
   "dataNeeds": {
     "primaryDataTypes": [
-      "ocean alkalinity measurements",
-      "satellite ocean color data",
-      "sensor network telemetry",
-      "coastal water chemistry"
+      "seawater carbonate chemistry",
+      "alkalinity enhancement verification data",
+      "ecosystem impact monitoring data",
+      "site characterization data"
     ],
     "keyMeasurements": [
-      "pH",
       "total alkalinity",
       "DIC",
-      "carbonate saturation state",
-      "nutrient levels",
-      "CO2 flux"
+      "pH",
+      "carbonate/bicarbonate speciation",
+      "temperature",
+      "salinity",
+      "currents and mixing zones",
+      "benthic community metrics",
+      "marine biodiversity indices"
     ],
     "observationPlatforms": [
-      "coastal sensor arrays",
-      "satellite validation",
-      "AUV campaigns",
-      "fixed moorings"
+      "alkalinity monitoring stations at deployment sites",
+      "water chemistry sensor arrays",
+      "integration with desalination plant monitoring",
+      "aquaculture site monitoring infrastructure"
     ],
     "dataGaps": [
-      "spatial coverage for dispersal modeling",
-      "real-time alkalinity monitoring at deployment sites",
-      "long-term impact baselines"
+      "needs real-time carbonate chemistry monitoring at multiple depths",
+      "lacks high-resolution spatial maps of alkalinity buffer capacity in target regions",
+      "requires long-term permanence verification via ocean circulation models"
     ],
-    "interestInExternalData": "Very high - OAE MRV requires comprehensive ocean monitoring infrastructure"
-  }
+    "interestInExternalData": "Critical — MRV, regulatory compliance, and scientific validation all depend on continuous ocean chemistry monitoring"
+  },
+  "potentialAction": "Carbon removal credits via ocean alkalinity enhancement; synergies with coastal industrial infrastructure",
+  "dateModified": "2026-05-15",
+  "sourceUrl": "https://www.carbon-time.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
 }

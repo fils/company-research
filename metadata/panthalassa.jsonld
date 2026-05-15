@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Panthalassa",
+  "url": "https://panthalassa.com/",
+  "description": "Planetary-scale wave energy platform powering offshore AI computing/data centers. Public-benefit corporation. Ocean-2 pilot deployment in Pacific. $140M Series B (May 2026) led by Peter Thiel; ~$1B valuation.",
+  "sector": "Offshore Energy",
+  "foundingDate": "2022",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Portland",
+      "addressRegion": "OR",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Wave energy conversion",
+    "Offshore AI compute/data centers",
+    "Renewable ocean energy",
+    "Ocean-based infrastructure",
+    "Marine renewable energy"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series B",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "140000000",
+      "currency": "USD"
+    },
+    "funder": ["Peter Thiel", "John Doerr", "Marc Benioff's TIME Ventures", "Max Levchin's SciFi VC", "Lowercarbon Capital"],
+    "date": "2026-05"
+  },
+  "teamFrom": ["SpaceX", "Google", "Blue Origin", "NASA", "Boeing", "Amazon", "Tesla", "Apple"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "wave resource assessment data",
+      "metocean data",
+      "seafloor and bathymetric surveys",
+      "environmental impact data",
+      "weather forecasting data"
+    ],
+    "keyMeasurements": [
+      "wave height, frequency, direction",
+      "current speed and direction",
+      "wind speed and direction",
+      "water depth",
+      "seafloor conditions",
+      "seawater temperature (for potential data center cooling)",
+      "marine mammal presence"
+    ],
+    "observationPlatforms": [
+      "dedicated metocean buoys",
+      "satellite data",
+      "AUV/ROV surveys",
+      "weather station networks"
+    ],
+    "dataGaps": [
+      "high-resolution wave energy resource maps in deployment regions",
+      "long-term metocean time series at proposed deployment sites",
+      "real-time environmental monitoring for regulatory compliance"
+    ],
+    "interestInExternalData": "Critical — site selection, platform engineering, operational planning, and regulatory permitting all require extensive metocean and environmental data"
+  },
+  "potentialAction": "Wave energy generation + offshore AI compute services; renewable energy certificates",
+  "dateModified": "2026-05-15",
+  "sourceUrl": "https://panthalassa.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

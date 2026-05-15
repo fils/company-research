@@ -3,7 +3,7 @@
   "@type": "Organization",
   "name": "Limenet",
   "url": "https://limenet.tech/",
-  "description": "Develops technology for producing carbon-free lime / calcium bicarbonate solutions for permanent ocean storage of CO2 via pH-equilibrated Ocean Alkalinization. Accelerates natural buffering against acidification.",
+  "description": "Produces carbon-free lime enabling permanent CO₂ removal and ocean storage as aqueous calcium bicarbonate solution. ISO 14064-2 certified. 4 patent families. 800 tons CO₂/yr capacity (2024); scaling to 1,500 tons/yr (2026-27). Buyers: Stripe, Shopify, Frontier, Google.",
   "sector": "Ocean Carbon Sequestration",
   "foundingDate": "2015",
   "location": {
@@ -20,10 +20,43 @@
     "Marine Carbon Dioxide Removal (mCDR)",
     "Ocean acidification mitigation"
   ],
-  "potentialAction": "Sells carbon removal credits; operates industrial pilot plants for gigaton-scale potential",
-  "dateModified": "2026-05-03",
+  "funding": {
+    "@type": "MonetaryGrant",
+    "funder": ["Moonstone", "Axel Carbon", "Leone La Ferla S.p.A.", "CDP", "EU/Next Generation EU", "Fassa Bortolo", "Aither"],
+    "date": "2023-2025"
+  },
+  "customer": ["Stripe", "Shopify", "Frontier Climate", "Google", "KlimaDAO"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "seawater carbonate chemistry",
+      "alkalinity measurements",
+      "pH time series",
+      "dissolved inorganic carbon (DIC)",
+      "calcium concentration"
+    ],
+    "keyMeasurements": [
+      "pH",
+      "total alkalinity",
+      "DIC",
+      "calcium ion concentration",
+      "temperature",
+      "salinity"
+    ],
+    "observationPlatforms": [
+      "in-situ water chemistry sensors at deployment outfalls",
+      "ISO 14064-2 compliant MRV framework",
+      "ecosystem monitoring stations"
+    ],
+    "dataGaps": [
+      "lacks real-time carbonate chemistry data at depth",
+      "needs high-spatial-resolution monitoring around deployment sites",
+      "continuous pH/alkalinity monitoring for process control"
+    ],
+    "interestInExternalData": "Critical — MRV verification and regulatory compliance depend on robust seawater chemistry monitoring infrastructure"
+  },
+  "potentialAction": "Sells carbon removal credits via bicarbonate ocean storage",
+  "dateModified": "2026-05-15",
   "sourceUrl": "https://limenet.tech/",
   "additionalType": "Corporation",
-  "knowsAbout": ["Stripe", "Shopify", "Frontier Climate", "Google", "KlimaDAO"],
   "knowledgeGraph": "company-research"
 }

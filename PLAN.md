@@ -19,8 +19,17 @@ Run from workdir ~/projects/company-research.
     "last_updated": "2026-05-01"
   }
   ```
-- web_search new similar companies per sector (query: 'new ocean carbon sequestration startups 2026'). Append 3-5 new if relevant. **Always extract and store the official homepage URL**.
-- tbr add new URLs to ~/url_index.md (Ocean Carbon, etc.).
+
+- web searches (use web search and scraping tools along with any other appropriate tool):
+   - `"ocean AI" OR "marine AI" OR "AI ocean data" OR "ocean tech AI" (startup OR company OR "AI startup" OR firm OR "ocean intelligence")`
+   - `("blue economy" OR "ocean tech" OR "marine tech" OR "blue tech") AI (startup OR company OR accelerator OR "AI startup"`
+   - `AI (aquaculture OR fisheries OR "illegal fishing" OR "ocean mapping" OR "underwater infrastructure" OR "marine monitoring") (startup OR company)`
+   - `"ocean data intelligence" OR "AI-powered ocean" OR "AI oceanography" OR "ocean data platform" OR "AI ocean data" (company OR startup OR "data platform" OR intelligence)`
+   - `(NOAA OR Copernicus OR Esri OR "public ocean data" OR "ocean data repository" OR EMODnet) AI (partner OR partnership OR startup OR company OR "AI project" OR "AI-ready")`
+   - `maritime AI" OR "shipping AI" OR "vessel AI" OR "ocean AI" (startup OR company) (predictive OR analytics OR intelligence)`
+   - Specific follow-ups from yesterday's gaps 
+   - `num_results=20` minimum; sort by recency/relevance.
+
 
 ## Phase 2: Ingest Raw Data
 For each source in companies.json:

@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Apeiron Labs",
+  "url": "https://www.apeironlabs.com/",
+  "description": "Autonomous underwater vehicle (AUV) ocean data platform enabling persistent upper-ocean monitoring. Data-as-a-service model using low-cost reusable AUVs. $9.5M Series A (Feb 2026).",
+  "sector": "Ocean Carbon Sequestration",
+  "foundingDate": "2021",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Cambridge",
+      "addressRegion": "MA",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Autonomous Underwater Vehicles (AUVs)",
+    "Upper ocean monitoring",
+    "Subsurface temperature and salinity profiling",
+    "Ocean data platform",
+    "Persistent ocean sensing"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "9500000",
+      "currency": "USD"
+    },
+    "funder": ["Dyne Ventures", "TFX Capital", "F4 Fund", "Assembly Ventures"],
+    "date": "2026-02"
+  },
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "subsurface temperature profiles",
+      "salinity profiles",
+      "ocean current data",
+      "CTD-class oceanographic data"
+    ],
+    "keyMeasurements": [
+      "temperature (0-200m profiles)",
+      "salinity (0-200m profiles)",
+      "depth",
+      "current velocity"
+    ],
+    "observationPlatforms": [
+      "Tensor AUVs (low-cost autonomous underwater vehicles)",
+      "fleet-based distributed sensor networks"
+    ],
+    "dataGaps": [
+      "persistent subsurface observations remain scarce globally",
+      "high cost of traditional ship-based surveys",
+      "limited spatial coverage of existing buoy networks"
+    ],
+    "interestInExternalData": "Core business — Apeiron Labs IS the solution for the very data gaps this research tracks. Their AUV fleet provides the persistent upper-ocean monitoring CDR/MRV programs require."
+  },
+  "potentialAction": "Sells ocean data-as-a-service to climate tech, offshore energy, government research",
+  "dateModified": "2026-05-15",
+  "sourceUrl": "https://www.apeironlabs.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}
