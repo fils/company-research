@@ -37,4 +37,4 @@ Sector overview for ocean-based carbon dioxide removal companies.
 - Frontier prepurchases supporting multiple CDR startups
 
 ---
-*Last updated: 2026-05-15*
+*Last updated: 2026-05-16*

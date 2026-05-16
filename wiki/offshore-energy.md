@@ -37,5 +37,5 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - Strong synergy between offshore energy and climate risk providers for physical risk modeling of assets.
 - Installation, IMR, and decommissioning phases represent major data and service needs.
 
-**Last Updated**: 2026-05-15
+**Last Updated**: 2026-05-16
 **Total Companies**: 6 (Offshore Energy sector)

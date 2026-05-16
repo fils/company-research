@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Kurma AI",
+  "url": "https://kurma.ai/",
+  "description": "Generative AI and computer vision for aquaculture and fisheries. Products include AQUA-7B LLM, AquaChat AI assistant, AQUA OS agentic platform, and AquaEye computer vision for compliance.",
+  "foundingDate": "2024",
+  "founders": [
+    {"@type": "Person", "name": "Kurma AI Team", "role": "Founder"}
+  ],
+  "funding": [
+    {
+      "@type": "MonetaryGrant",
+      "name": "VentureWell Ocean Enterprise Accelerator Stage 0",
+      "amount": "Non-dilutive TDC award (NOAA-supported)",
+      "funder": [
+        {"@type": "Organization", "name": "NOAA"},
+        {"@type": "Organization", "name": "VentureWell"}
+      ],
+      "date": "2026"
+    }
+  ],
+  "affiliation": [
+    {"@type": "Organization", "name": "NVIDIA Inception"},
+    {"@type": "Organization", "name": "Google for Startups"},
+    {"@type": "Organization", "name": "Nebius"}
+  ],
+  "sector": "Aquaculture",
+  "last_updated": "2026-05-16",
+  "business_model": "SaaS platform for aquaculture operations. Multi-product: AI models (AQUA), AI assistant (AquaChat free app), agentic OS (AQUA OS subscription), computer vision (AquaEye for compliance).",
+  "data_measurement_needs": {
+    "primary_data_types": [
+      "Real-time sensor telemetry (pH, DO, temperature, NH₃)",
+      "Underwater camera feeds (fish behavior, health, feeding)",
+      "Aquaculture operational data (feeding schedules, mortality, growth)",
+      "Multi-lingual aquaculture knowledge corpus",
+      "Water quality records"
+    ],
+    "key_measurements": [
+      "pH, dissolved oxygen (DO), temperature, NH₃ (ammonia)",
+      "Fish biomass estimation via computer vision",
+      "Feed consumption rates",
+      "Fish behavior patterns (swimming, feeding, stress indicators)",
+      "Water quality parameters for species-specific thresholds"
+    ],
+    "observation_programs": [
+      "Continuous pond/farm sensor networks (24/7 telemetry)",
+      "Underwater camera monitoring for behavioral analysis",
+      "Agentic AI control loops (auto-adjust aerator/feeder/pump based on sensor data)",
+      "Mobile-first data collection (WhatsApp alerts, phone-based reporting)"
+    ],
+    "known_data_gaps": [
+      "Standardized aquaculture datasets for model training",
+      "Cross-species fish health models",
+      "Real-time water quality data from remote/small farms",
+      "Multilingual aquaculture knowledge bases"
+    ],
+    "interest_in_external_data_services": "High — AQUA models require large-scale aquaculture data; actively seeking partnerships with farms, research institutions, and sensor providers"
+  }
+}

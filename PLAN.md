@@ -21,7 +21,7 @@ Run from workdir ~/projects/company-research.
   ```
 
 - web searches (use web search and scraping tools along with any other appropriate tool):
-   - `"ocean AI" OR "marine AI" OR "AI ocean data" OR "ocean tech AI" (startup OR company OR "AI startup" OR firm OR "ocean intelligence")`
+   - `"ocean AI" OR "marine AI" OR "AI ocean data" OR "ocean tech AI" OR "ocean mapping AI" (startup OR company OR "AI startup" OR firm OR "ocean intelligence")`
    - `("blue economy" OR "ocean tech" OR "marine tech" OR "blue tech") AI (startup OR company OR accelerator OR "AI startup"`
    - `AI (aquaculture OR fisheries OR "illegal fishing" OR "ocean mapping" OR "underwater infrastructure" OR "marine monitoring") (startup OR company)`
    - `"ocean data intelligence" OR "AI-powered ocean" OR "AI oceanography" OR "ocean data platform" OR "AI ocean data" (company OR startup OR "data platform" OR intelligence)`

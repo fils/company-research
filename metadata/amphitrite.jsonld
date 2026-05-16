@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Amphitrite",
+  "url": "https://www.amphitrite.fr/",
+  "description": "AI-powered ocean data intelligence platform fusing satellite (SWOT) and in-situ data for real-time maritime decision-making. Serves commercial shipping, naval defence, and offshore operations.",
+  "foundingDate": "2023",
+  "founders": [
+    {"@type": "Person", "name": "Alexandre Stegner", "role": "Co-Founder, Oceanographer"},
+    {"@type": "Person", "name": "Briac Le Vu", "role": "Co-Founder"}
+  ],
+  "funding": [
+    {
+      "@type": "MonetaryGrant",
+      "name": "Seed Round",
+      "amount": "1200000 EUR",
+      "funder": [
+        {"@type": "Organization", "name": "Agoranov"},
+        {"@type": "Organization", "name": "Atlantic Labs"},
+        {"@type": "Organization", "name": "Bpifrance"}
+      ],
+      "date": "2024"
+    }
+  ],
+  "affiliation": [
+    {"@type": "Organization", "name": "NVIDIA Inception"},
+    {"@type": "Organization", "name": "Microsoft GenAI Studio"},
+    {"@type": "Organization", "name": "CNES (French Space Agency)"},
+    {"@type": "Organization", "name": "ESA (European Space Agency)"},
+    {"@type": "Organization", "name": "SHOM (French Naval Hydrographic Service)"},
+    {"@type": "Organization", "name": "Mercator Ocean International"},
+    {"@type": "Organization", "name": "Space Founders"},
+    {"@type": "Organization", "name": "Polytechnique Incubator"},
+    {"@type": "Organization", "name": "CLS (Collecte Localisation Satellites)"}
+  ],
+  "sector": "Ocean Data & AI",
+  "last_updated": "2026-05-16",
+  "business_model": "B2B SaaS ocean intelligence platform. Subscription-based: per-vessel or enterprise pricing for commercial shipping, naval defence, and offshore energy clients. Advanced route optimization via Ocean Bulletin.",
+  "data_measurement_needs": {
+    "primary_data_types": [
+      "Satellite data (SWOT, altimetry, SAR, optical imagery)",
+      "In-situ oceanographic measurements (temperature, salinity, currents)",
+      "Maritime traffic data (AIS)",
+      "Bathymetric data",
+      "Metocean and weather forecast data"
+    ],
+    "key_measurements": [
+      "Sea surface height and ocean topography (SWOT satellite)",
+      "Sea surface temperature (SST)",
+      "Ocean currents (velocity, direction)",
+      "Wind speed and direction (over ocean surface)",
+      "Wave height, period, direction",
+      "Salinity, water density profiles"
+    ],
+    "observation_programs": [
+      "Real-time satellite data ingestion (SWOT, altimetry constellation, SAR)",
+      "In-situ buoy network integration",
+      "AI-powered data fusion engine combining multi-source data",
+      "Ocean Bulletin route planning tool",
+      "Maritime situational awareness for naval defence"
+    ],
+    "known_data_gaps": [
+      "Sub-surface oceanographic data at depth",
+      "High-resolution coastal bathymetry",
+      "Real-time in-situ data from data-sparse regions",
+      "Integration between public satellite data and proprietary in-situ networks"
+    ],
+    "interest_in_external_data_services": "Very high — core product depends on fusing diverse ocean data sources; actively seeking partnerships for in-situ sensor networks, satellite data providers, and oceanographic institutions"
+  }
+}

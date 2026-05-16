@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Astraeus Ocean Systems",
+  "url": "https://www.astraeusocean.com/",
+  "description": "Mariculture crop modeling and autonomous vessel fleet for real-time ocean intelligence. Products: Watchline sensor hardware, Digital Oyster/Kelp biological models, Almanac farm management platform.",
+  "foundingDate": "2022",
+  "founders": [
+    {"@type": "Person", "name": "Alex Parker", "role": "Founder"}
+  ],
+  "funding": [
+    {
+      "@type": "MonetaryGrant",
+      "name": "VentureWell Ocean Enterprise Accelerator Stage 2",
+      "amount": "50000 USD (TDC award)",
+      "funder": [
+        {"@type": "Organization", "name": "NOAA"},
+        {"@type": "Organization", "name": "VentureWell"}
+      ],
+      "date": "2026-05"
+    }
+  ],
+  "sector": "Aquaculture",
+  "last_updated": "2026-05-16",
+  "business_model": "Subscription-based SaaS + hardware: annual subscription per farm/site includes Watchline sensor deployment, crop model access, Almanac platform, and support. B2B to shellfish/seaweed mariculture operations.",
+  "data_measurement_needs": {
+    "primary_data_types": [
+      "In-situ water quality sensor streams (temperature, salinity, DO, optical)",
+      "GPS/infrastructure position monitoring",
+      "Crop physiological data (oyster/kelp growth, condition, stress)",
+      "Metocean forecast data for operations planning",
+      "Regulatory/environmental compliance records"
+    ],
+    "key_measurements": [
+      "Temperature, salinity, dissolved oxygen (DO)",
+      "Chlorophyll-a (Chl-a), Na⁺, NO₃⁻, Ca²⁺",
+      "Proprietary optical factors for crop model calibration",
+      "Current speed and direction (for infrastructure monitoring)",
+      "Water quality parameters for shellfish growing area classifications"
+    ],
+    "observation_programs": [
+      "Continuous Watchline sensor network at farm lease sites (24/7)",
+      "Autonomous surface vessel fleet for wide-area ocean intelligence",
+      "GPS-based offshore infrastructure monitoring (longline arrays, buoys)",
+      "Crop model continuous updating from seeding through harvest",
+      "Mobile-first data recording (offline-capable farm task logging)"
+    ],
+    "known_data_gaps": [
+      "Insufficient site-specific water quality data at farm lease locations (regional buoys not farm-specific)",
+      "Limited real-time shellfish physiology data for model validation",
+      "Gap between broad-scale ocean observations and lease-scale monitoring resolution",
+      "Regulatory data integration for growing water classification compliance"
+    ],
+    "interest_in_external_data_services": "Very high — core business depends on accurate, continuous environmental data; actively seeking partnerships for sensor networks, oceanographic data, and metocean forecasts"
+  }
+}

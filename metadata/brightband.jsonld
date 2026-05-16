@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Brightband",
+  "url": "https://www.brightband.com/",
+  "description": "Building an end-to-end AI Earth System for probabilistic weather and climate forecasting. Open-sources benchmark datasets. NOAA partner for NNJA-AI observational data archive.",
+  "foundingDate": "2024",
+  "founders": [
+    {"@type": "Person", "name": "Julian Green", "role": "CEO, Co-Founder"},
+    {"@type": "Person", "name": "Daniel Rothenberg", "role": "Head of Data & Weather, Co-Founder"},
+    {"@type": "Person", "name": "Ryan Keisler", "role": "Chief Scientist, Co-Founder"}
+  ],
+  "funding": [
+    {
+      "@type": "MonetaryGrant",
+      "name": "Series A",
+      "amount": "10000000 USD",
+      "funder": [
+        {"@type": "Organization", "name": "Prelude Ventures"},
+        {"@type": "Organization", "name": "Starshot Capital"},
+        {"@type": "Organization", "name": "CLAI Ventures"}
+      ],
+      "date": "2024-09-19"
+    }
+  ],
+  "affiliation": [
+    {"@type": "Organization", "name": "NOAA"},
+    {"@type": "Organization", "name": "ECMWF"},
+    {"@type": "Organization", "name": "Google Accelerator"}
+  ],
+  "sector": "Climate Risk",
+  "last_updated": "2026-05-16",
+  "business_model": "AI SaaS platform for weather/climate forecasting; open-source community model; B2B/B2G sales to academia, government, and industry",
+  "data_measurement_needs": {
+    "primary_data_types": [
+      "Satellite observations (NOAA/NASA NNJA archive)",
+      "Weather balloon radiosondes",
+      "Surface station observations",
+      "Ocean buoy data",
+      "Reanalysis datasets"
+    ],
+    "key_measurements": [
+      "Temperature (surface and atmospheric profiles)",
+      "Pressure, humidity, wind speed/direction",
+      "Sea surface temperature",
+      "Ocean currents and wave data",
+      "Precipitation and cloud cover"
+    ],
+    "observation_programs": [
+      "NOAA/NASA Joint Archive (satellite + in-situ)",
+      "Global Observing System (WMO/GOS)",
+      "ECMWF reanalysis archives",
+      "AI-ready data format conversion from legacy archives"
+    ],
+    "known_data_gaps": [
+      "Legacy observational data in non-AI-ready formats",
+      "High-resolution ocean-atmosphere interface data",
+      "Real-time data integration across heterogeneous sources"
+    ],
+    "interest_in_external_data_services": "High — actively building AI-ready datasets from NOAA/NASA archives; open to partnerships for additional observational data streams"
+  }
+}

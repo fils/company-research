@@ -4,209 +4,237 @@
     "name": "Ebb Carbon",
     "url": "https://www.ebbcarbon.com/",
     "notes": "Electrochemical CDR from brine",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Captura",
     "url": "https://capturacorp.com/",
     "notes": "Direct Ocean Capture",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Planetary Technologies",
     "url": "https://www.planetarytech.com/",
     "notes": "Ocean alkalinity enhancement",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Running Tide",
     "url": "https://runningtidexmason.webflow.io/",
     "notes": "Ocean-based biomass sequestration",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Equatic",
     "url": "https://equatic.tech/",
     "notes": "Ocean-based CDI / CDR; new NA commercial plant; strong marine env. monitoring demands",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Vaulted Deep",
     "url": "https://vaulteddeep.com/",
     "notes": "Biomass carbon removal from waste; scalable BiCRS approach",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Seabound",
     "url": "https://www.seabound.co/",
     "notes": "Onboard carbon capture from shipping exhaust; marine CDR synergy",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Gigablue",
     "url": "https://www.gigablue.co/",
     "notes": "Durable ocean carbon removal; deep-sea monitoring with custom ROVs; large-scale CDR credits; marine scientific research focus",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Limenet",
     "url": "https://limenet.tech/",
     "notes": "Ocean alkalinity enhancement via pH-equilibrated calcium solutions; permanent carbon storage in seawater",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Kelp Blue",
     "url": "https://www.kelp.blue/",
     "notes": "Large-scale offshore giant kelp cultivation for blue carbon sequestration and ocean rewilding; biostimulants",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "SeaO2",
     "url": "https://www.seao2.com/",
     "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; marine MRV intensive",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "pHathom Technologies",
     "url": "https://phathom.tech/",
     "notes": "Accelerated Weathering of Limestone (AWL) for biomass-sourced CO2 dissolution in seawater and limestone neutralization; durable calcium bicarbonate storage; supports marine life; $4M seed 2026 (total $12M committed). Co-benefits for healthy oceans. Strong need for in-situ ocean measurements.",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Calcarea",
     "url": "https://calcarea.com/",
     "notes": "Ship-board carbon capture converting CO2 to oceanic bicarbonate; Caltech spun-out; $3.5M seed; founded by Jess Adkins",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Carbon Time",
     "url": "https://www.carbon-time.com/",
     "notes": "Ocean alkalinity enhancement CDR; >20,000 yr permanence; European-based pioneer",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Apeiron Labs",
     "url": "https://www.apeironlabs.com/",
     "notes": "AUV-based ocean data platform; $9.5M Series A (Feb 2026); low-cost autonomous underwater vehicles for persistent ocean observation; real-time ocean intelligence; led by Dyne Ventures",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Climate Risk",
     "name": "Jupiter Intelligence",
     "url": "https://www.jupiterintel.com/",
     "notes": "Climate risk modeling & analytics",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Climate Risk",
     "name": "First Street Foundation",
     "url": "https://firststreet.org/",
     "notes": "Property-level climate risk data",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Climate Risk",
     "name": "Kettle",
     "url": "https://ourkettle.com/",
     "notes": "Climate perils insurance & underwriting data",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Climate Risk",
     "name": "Climate X",
     "url": "https://climate-x.com",
     "notes": "AI-powered climate risk analytics and decision platforms",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
+  },
+  {
+    "sector": "Climate Risk",
+    "name": "Brightband",
+    "url": "https://www.brightband.com/",
+    "notes": "AI weather & climate forecasting; $10M Series A (Prelude Ventures, Starshot Capital); NOAA partner for NNJA-AI observational data archive; open-source benchmark weather datasets; ex-Google X, MIT, NSF AI2ES team",
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Bioprospecting",
     "name": "Ginkgo Bioworks",
     "url": "https://www.ginkgo.bio/",
     "notes": "Synthetic biology platform, marine microbes & enzymes",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Aquaculture",
     "name": "Aquabyte",
     "url": "https://aquabyte.com/",
     "notes": "AI computer vision + biomass monitoring; high marine sensor & ocean data needs",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Aquaculture",
     "name": "Vycarb",
     "url": "https://vycarb.com/",
     "notes": "Carbon storage & aquaculture environment monitoring",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Aquaculture",
     "name": "Innovasea",
     "url": "https://www.innovasea.com/",
     "notes": "Sustainable aquaculture tech: real-time environmental sensors (aquaMeasure), fish tracking (NexTrak acoustic telemetry), cloud communications; extensive marine sensor network needs",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Aquaculture",
     "name": "ReelData AI",
     "url": "https://www.reeldata.ai/",
     "notes": "AI-powered precision aquaculture for land-based farms; $8M Series A (2025); AI suite (ReelAppetite, ReelWeight, ReelCount) for feed optimization, biomass estimation, fish health monitoring; camera systems for behavioral analysis",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Kurma AI",
+    "url": "https://kurma.ai/",
+    "notes": "GenAI & computer vision for aquaculture and fisheries; AQUA-7B foundation model, AquaChat AI assistant, AQUA OS agentic platform, AquaEye fisheries compliance; VentureWell/NOAA Ocean Enterprise Accelerator Stage 0 (2026); NVIDIA Inception, Google for Startups; voice-enabled in 13+ languages",
+    "last_updated": "2026-05-16"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Astraeus Ocean Systems",
+    "url": "https://www.astraeusocean.com/",
+    "notes": "Mariculture crop modeling + autonomous vessel fleet for real-time ocean intelligence; Watchline hardware (temp, salinity, DO, optical sensors); Digital Oyster/Digital Kelp biological models; Almanac platform for farm management; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Bellingham, WA",
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Ørsted",
     "url": "https://orsted.com/",
     "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Gazelle Wind Power",
     "url": "https://gazellewindpower.com/",
     "notes": "Floating wind platforms; needs oceanographic/metocean data services",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Principle Power",
     "url": "https://www.principlepower.com/",
     "notes": "Floating offshore wind platform technology",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "BW Ideol",
     "url": "https://www.bw-ideol.com/",
     "notes": "Floating offshore wind solutions and infrastructure",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Panthalassa",
     "url": "https://panthalassa.com/",
     "notes": "Ocean wave-powered AI computing & data centers; $140M Series B (May 2026) led by Peter Thiel; offshore compute nodes and wave energy generation; ~$1B valuation; marine environmental monitoring demands for deployment sites",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Oshen",
     "url": "https://www.oshendata.com/",
     "notes": "Autonomous ocean robots (C-Stars) for persistent wide-area ocean intelligence; NOAA contracts; funded by UK ARIA; extreme weather data collection; real-time wave height, wind speed, oceanographic data",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-16"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Amphitrite",
+    "url": "https://www.amphitrite.fr/",
+    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); €1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
+    "last_updated": "2026-05-16"
   }
 ]
