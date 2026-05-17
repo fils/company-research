@@ -1,26 +1,18 @@
 # Running Tide
 
-**Sector**: Ocean Carbon Sequestration
+**Official Site**: (defunct — https://runningtidexmason.webflow.io/ no longer active)
+**Last Updated**: 2026-05-17
 
-**Overview**  
-Running Tide combines ocean alkalinity enhancement with biomass sinking for durable ocean-based carbon removal. The company has already removed 25,000+ tonnes of CO₂.
+**Status**: Company shut down June 2024. Cited lack of demand from voluntary carbon market.
+**Funding Raised**: Over $50M from investors including Lowercarbon Capital (led $54M Series B).
+**Legacy**: Published a public framework protocol for open-ocean carbon removal that will benefit future companies.
+**Delivered**: 25,000 tonnes CO₂e removed in 2023; ~21,000 credits delivered to 25 enterprise customers (including Microsoft, Shopify).
+**Employees at peak**: 100+ across Portland, Maine and Iceland offices.
 
-**Key Metrics**  
-- 25,000+ tonnes removed  
-- 546 ocean sensors deployed  
-- 21k+ credits delivered  
-- Strong enterprise customer base (Microsoft, Shopify, Stripe)
+## Data & Measurement Needs
 
-**Technology**  
-- Alkaline mineral dissolution (OAE)  
-- Photosynthesis + gravity biomass sinking  
-- Advanced sensor network for MRV
-
-**Marine Relevance**  
-One of the highest sensor-density operations in the sector. Generates massive amounts of real-time ocean data.
-
-**Last Updated**: 2026-05-01
-**Status**: Full profile ready
-
----
-**Cross-links**: [Ocean Carbon Sequestration](ocean-carbon-sequestration.md)
+- **Primary data types**: Oceanographic data for open-ocean biomass sinking operations; carbon flux measurements; biodegradation monitoring data; ecosystem impact data
+- **Key measurements/parameters**: Carbon content of biomass, ocean current patterns at deployment sites, ocean depth profiles, sediment interaction data, CO₂ flux measurements
+- **Observation platforms/programs**: Academic partnership monitoring network; open-ocean sensor deployments; public framework protocol for MRV
+- **Known data gaps**: Long-term fate of sunk biomass remains difficult to verify; limited affordable deep-ocean monitoring technology; uncertainty in carbon permanence verification at depth
+- **Interest in external data services**: Was high — company's protocol framework explicitly designed to leverage public and third-party ocean observation data

@@ -22,8 +22,16 @@ Extremely high need for high-quality underwater imaging, environmental sensors, 
 **Key Insight**  
 One of the clearest examples of how advanced monitoring technology is transforming sustainable aquaculture.
 
-**Last Updated**: 2026-05-01
-**Status**: Full profile ready
+|**Last Updated**: 2026-05-17
+|**Status**: Full profile ready
 
 ---
-**Cross-links**: [Aquaculture sector overview](aquaculture.md)
+|**Cross-links**: [Aquaculture sector overview](aquaculture.md)
+
+## Data & Measurement Needs
+
+- **Primary data types**: Underwater video/imagery for fish biomass and health, water quality parameters (temperature, salinity, dissolved oxygen, pH), sea lice counts, environmental sensor data from farm sites
+- **Key measurements/parameters**: Fish weight/length estimates, sea lice density, water temperature, salinity, DO, pH, turbidity, current speed, nutrient levels
+- **Observation platforms/programs**: Underwater camera arrays, IoT sensor buoys on fish pens, satellite/drone validation, integration with farm management systems
+- **Known data gaps**: Real-time multi-parameter ocean chemistry at depth across multiple farms; standardized MRV datasets for sustainability certifications; predictive models for disease outbreaks using sensor fusion
+- **Interest in external data services**: High — needs dense coastal sensor networks and AI-ready marine datasets to enhance computer vision models and expand to new species/regions

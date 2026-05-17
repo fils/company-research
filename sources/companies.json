@@ -24,8 +24,8 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Running Tide",
     "url": "https://runningtidexmason.webflow.io/",
-    "notes": "Ocean-based biomass sequestration",
-    "last_updated": "2026-05-16"
+    "notes": "Ocean-based biomass sequestration; shut down June 2024; legacy protocol for open-ocean CDR",
+    "last_updated": "2026-05-17"
   },
   {
     "sector": "Ocean Carbon Sequestration",
@@ -101,8 +101,8 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Apeiron Labs",
     "url": "https://www.apeironlabs.com/",
-    "notes": "AUV-based ocean data platform; $9.5M Series A (Feb 2026); low-cost autonomous underwater vehicles for persistent ocean observation; real-time ocean intelligence; led by Dyne Ventures",
-    "last_updated": "2026-05-16"
+    "notes": "AUV-based ocean data platform; $9.5M Series A (Feb 2026); low-cost autonomous underwater vehicles for persistent ocean observation; real-time ocean intelligence; led by Dyne Ventures; MIT News May 2026 feature on ocean sensor mapping",
+    "last_updated": "2026-05-17"
   },
   {
     "sector": "Climate Risk",
@@ -189,6 +189,13 @@
     "last_updated": "2026-05-16"
   },
   {
+    "sector": "Aquaculture",
+    "name": "OctaPulse",
+    "url": "https://www.tryoctapulse.com/",
+    "notes": "AI-powered fish phenotyping & selective breeding for aquaculture; YC W26; VentureWell OEA Stage 2 (spring 2026); Carnegie Mellon, NVIDIA partners; robotics + computer vision for hatchery automation; $70K Seafood Industry Climate Award (2025); Ocean Exchange winner",
+    "last_updated": "2026-05-17"
+  },
+  {
     "sector": "Offshore Energy",
     "name": "Ørsted",
     "url": "https://orsted.com/",
@@ -236,5 +243,26 @@
     "url": "https://www.amphitrite.fr/",
     "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); €1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
     "last_updated": "2026-05-16"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Bluemvmt",
+    "url": "https://www.bluemvmt.com/",
+    "notes": "AI-powered ocean data platform transforming unstructured IoT data (satellite, marine sensors, disparate databases) into actionable insights; Narrative Detection ML; Data Insight AI; sidecar integrations; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Cambridge, MA; defense & blue economy applications",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Coastal Measures",
+    "url": "https://www.coastalmeasures.com/",
+    "notes": "Coastal intelligence platform (CUMULUS) powered by YSOK AI; unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into governed data fabric; automated QA/QC; NOAA, USACE, NSF, Sofar Ocean partners; VentureWell OEA Stage 2 (spring 2026); Greenland, NH",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Dottir Labs",
+    "url": "https://dottirlabs.com/",
+    "notes": "MIT spinout (2023); real-time molecular-level water quality monitoring via patented Raman spectroscopy; reagent-free, non-destructive optical sensors; aquaculture, biotech, oil & gas, chemical manufacturing applications; VentureWell OEA Stage 2 (spring 2026); BlueSwell Cohort V; Luminate NY; Greentown Labs; Somerville, MA",
+    "last_updated": "2026-05-17"
   }
 ]

@@ -1,18 +1,16 @@
 # Seabound
 
-**Sector**: Ocean Carbon Sequestration (Maritime Point-Source Capture)
-
 **Official Site**: https://www.seabound.co/
+**Last Updated**: 2026-05-17
 
-**Overview**  
-Seabound develops retrofittable onboard carbon capture systems for cargo ships. The system captures 25–95% of CO₂ using a regenerable sorbent. Carbonate is offloaded at ports.
+**Focus**: Onboard carbon capture system for shipping exhaust, converting CO₂ into solid calcium carbonate using lime.
+**Key Tech**: Pebble bed carbon capture system for marine vessels; calcium looping.
+**Funding/Backers**: Frontier, Stripe, Shopify, Y Combinator.
 
-**Key Facts**
-- Backed by Y Combinator, Lowercarbon Capital
-- First full-scale units completed Feb 2026
-- €1.5M ESA award
+## Data & Measurement Needs
 
-**Marine Relevance**  
-Direct integration with global shipping infrastructure and port logistics.
-
-**Last Updated**: 2026-05-01
+- **Primary data types**: Ship exhaust CO₂ concentration and flow, calcium carbonate production quality, onboard sensor telemetry, fuel consumption data, shipping route data
+- **Key measurements/parameters**: CO₂ concentration in exhaust, capture rate, temperature and pressure in capture system, calcium carbonate purity, fuel type and consumption rate, engine load
+- **Observation platforms/programs**: Onboard continuous emissions monitoring systems (CEMS), periodic manual verification, third-party carbon credit verification partners
+- **Known data gaps**: Real-time shipboard CO₂ measurement accuracy in marine environments; standardized verification protocols for onboard capture; integration with vessel telemetry systems
+- **Interest in external data services**: Moderate — primarily onboard process data; could benefit from oceanographic data for route optimization and MRV integration

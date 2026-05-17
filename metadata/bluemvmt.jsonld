@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bluemvmt",
+  "url": "https://www.bluemvmt.com/",
+  "description": "AI-powered ocean data platform transforming unstructured IoT data (satellite, marine sensors, disparate databases) into actionable insights. Narrative Detection ML and Data Insight AI platform.",
+  "foundingDate": "2020",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Cambridge",
+      "addressRegion": "MA",
+      "addressCountry": "USA"
+    }
+  },
+  "sector": "Ocean Data & AI",
+  "businessModel": "SaaS data platform; AI-powered data integration and analytics for ocean, defense, and IoT sectors",
+  "funding": {
+    "lastRound": "VentureWell OEA Stage 2 TDC award ($50K non-dilutive)",
+    "totalRaised": "$50K+ (non-dilutive)",
+    "investors": ["VentureWell", "NOAA (via OEA program)"]
+  },
+  "keyTechnology": [
+    "Narrative Detection ML",
+    "Data Insight AI with natural language interface",
+    "Retrieval Augmented Generation (RAG)",
+    "Multi-modal IoT data orchestration layer",
+    "Sidecar integration architecture"
+  ],
+  "dataAndMeasurementNeeds": {
+    "primaryDataTypes": [
+      "Satellite imagery feeds",
+      "Marine sensor telemetry streams",
+      "IoT device data from heterogeneous platforms",
+      "Disparate database records",
+      "Defense/naval operational data"
+    ],
+    "keyMeasurements": [
+      "Multi-modal sensor data from ocean platforms",
+      "IoT device interoperability metadata",
+      "Unstructured text from marine reports"
+    ],
+    "observationPrograms": [
+      "Ocean IoT sensor networks",
+      "Satellite remote sensing feeds",
+      "Naval/delense data integration pipelines"
+    ],
+    "knownDataGaps": [
+      "IoT device interoperability across vendors",
+      "Standardized data formats for ocean sensors",
+      "Real-time data cleaning and QA/QC for heterogeneous sources"
+    ],
+    "interestInExternalDataServices": "High — platform built to ingest any IoT or sensor data stream and make it AI-analysis-ready"
+  },
+  "contacts": {
+    "website": "https://www.bluemvmt.com/contact"
+  },
+  "lastUpdated": "2026-05-17"
+}

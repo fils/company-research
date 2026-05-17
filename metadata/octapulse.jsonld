@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "OctaPulse",
+  "url": "https://www.tryoctapulse.com/",
+  "description": "AI-powered fish phenotyping and selective breeding platform for aquaculture. Combines computer vision, robotics, and data science for precision automation of fish hatcheries and farms.",
+  "foundingDate": "2024",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Beacon",
+      "addressRegion": "NY",
+      "addressCountry": "USA"
+    }
+  },
+  "sector": "Aquaculture",
+  "businessModel": "Hardware + software platform for aquaculture automation; robotic inspection systems sold to fish farms and hatcheries; AI software subscription for phenotyping and breeding analytics",
+  "funding": {
+    "lastRound": "Y Combinator W26 (batch participation)",
+    "totalRaised": "$70K SICA grant + YC funding + VentureWell OEA Stage 2 ($50K TDC)",
+    "investors": ["Y Combinator", "Hatch Blue Venture Builder", "VentureWell"]
+  },
+  "keyTechnology": [
+    "Computer vision for real-time fish sizing, weighing, and physical trait measurement",
+    "Robotic inspection and handling systems",
+    "Selective breeding optimization (phenotypic + genetic + environmental data fusion)",
+    "AI image inspection for juvenile fish grading",
+    "24/7 automated monitoring with 98%+ accuracy"
+  ],
+  "dataAndMeasurementNeeds": {
+    "primaryDataTypes": [
+      "Fish phenotypic data (size, weight, physical traits)",
+      "Genetic data for selective breeding",
+      "Environmental water quality data",
+      "Feed conversion ratio data",
+      "Fish health/behavioral imagery"
+    ],
+    "keyMeasurements": [
+      "Fish length, weight, and condition factor",
+      "Feed intake and conversion efficiency",
+      "Water temperature, dissolved oxygen, pH",
+      "Stocking density and growth rates",
+      "Genetic lineage tracking"
+    ],
+    "observationPrograms": [
+      "In-tank computer vision monitoring (24/7)",
+      "Automated fish inspection during handling/grading",
+      "Environmental sensor arrays at farm sites"
+    ],
+    "knownDataGaps": [
+      "Lacks real-time water chemistry data at molecular level (opportunity for Dottir Labs synergy)",
+      "Genetic data integration from sequencing is manual",
+      "Farm-level environmental data (temperature, DO, salinity) needs denser sensor coverage"
+    ],
+    "interestInExternalDataServices": "High — genetic data, environmental monitoring data, and water quality analytics would enhance selective breeding models"
+  },
+  "contacts": {
+    "website": "https://www.tryoctapulse.com/contact"
+  },
+  "partnerOrganizations": [
+    "Carnegie Mellon University",
+    "NVIDIA",
+    "Microsoft",
+    "Hatch Blue Venture Builder",
+    "Y Combinator",
+    "VentureWell",
+    "United States Trout Farmers Association",
+    "World Aquaculture Society",
+    "National Fisheries Institute"
+  ],
+  "lastUpdated": "2026-05-17"
+}

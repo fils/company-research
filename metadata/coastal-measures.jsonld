@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Coastal Measures",
+  "url": "https://www.coastalmeasures.com/",
+  "description": "Coastal intelligence platform (CUMULUS) powered by YSOK AI that unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into a governed data fabric. Delivers analytics, alerts, and decision briefs for risk, energy, resilience, and aquaculture sectors.",
+  "foundingDate": "2022",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Greenland",
+      "addressRegion": "NH",
+      "addressCountry": "USA"
+    }
+  },
+  "sector": "Ocean Data & AI",
+  "businessModel": "SaaS platform for coastal data aggregation and intelligence; partner ecosystem with sensor vendors, government agencies, and insurers",
+  "funding": {
+    "lastRound": "VentureWell OEA Stage 2 TDC award ($50K non-dilutive)",
+    "totalRaised": "$50K+ (non-dilutive)",
+    "investors": ["VentureWell", "NOAA (via OEA program)"]
+  },
+  "keyTechnology": [
+    "CUMULUS data fabric for multi-modal sensor unification",
+    "YSOK AI — ocean-specific AI engine for narratives, anomaly detection, scenario planning",
+    "Automated QA/QC for sensor data",
+    "Digital twin capabilities for coastal infrastructure",
+    "Explainable AI for insurance, permitting, and policy outputs"
+  ],
+  "dataAndMeasurementNeeds": {
+    "primaryDataTypes": [
+      "Coastal radar feeds",
+      "Camera/satellite imagery",
+      "Buoy telemetry (wave height, wind, currents)",
+      "Tidal flood sensors",
+      "Water quality sensors",
+      "Hydrokinetic velocity fields",
+      "Bathymetry data",
+      "USACE coastal data"
+    ],
+    "keyMeasurements": [
+      "Storm surge elevation",
+      "Erosion rates",
+      "Wave energy/hydrokinetic yield",
+      "Water quality parameters",
+      "Harmful algal bloom (HAB) indicators",
+      "Wind vectors and precipitation",
+      "Temperature stratification"
+    ],
+    "observationPrograms": [
+      "NOAA IOOS observing network",
+      "USACE coastal monitoring stations",
+      "Sofar Ocean Spotter buoys",
+      "Third-party sensor deployments via partners",
+      "Satellite remote sensing (ESA, NOAA)"
+    ],
+    "knownDataGaps": [
+      "Sensor vendor interoperability (reduced to <1 day integration)",
+      "Data cleaning vs. analysis time ratio (solved: 91% cleaning → flipped)",
+      "Real-time coastal hazard detection at parcel level",
+      "Standardized multi-vendor sensor networks"
+    ],
+    "interestInExternalDataServices": "Core business — CUMULUS platform is designed to ingest any coastal sensor feed and make it AI-ready in <1 day"
+  },
+  "contacts": {
+    "email": "support@coastalmeasures.com",
+    "website": "https://www.coastalmeasures.com/"
+  },
+  "partnerOrganizations": [
+    "NOAA",
+    "NSF",
+    "AWS Activate",
+    "U.S. Army Corps of Engineers",
+    "Gulf of Maine Research Institute",
+    "University of New Hampshire",
+    "New England Aquarium",
+    "MathWorks",
+    "Sofar Ocean"
+  ],
+  "lastUpdated": "2026-05-17"
+}

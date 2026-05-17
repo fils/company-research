@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Dottir Labs",
+  "url": "https://dottirlabs.com/",
+  "description": "MIT spinout (2023) developing real-time molecular-level water quality monitoring systems using patented Raman spectroscopy. Reagent-free, non-destructive optical sensors for aquaculture, biotech, oil & gas, and chemical manufacturing applications.",
+  "foundingDate": "2023",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Somerville",
+      "addressRegion": "MA",
+      "addressCountry": "USA"
+    }
+  },
+  "sector": "Ocean Data & AI",
+  "businessModel": "Hardware + software sensor systems for real-time chemical analysis; SaaS analytics on collected measurements",
+  "funding": {
+    "lastRound": "VentureWell OEA Stage 2 TDC award ($50K non-dilutive)",
+    "totalRaised": "Multiple non-dilutive grants (Luminate NY, Activate, MassCEC, NextFab Ventures)",
+    "investors": ["Luminate NY", "Activate", "MassCEC", "NextFab Ventures", "VentureWell", "SeaAhead", "Greentown Labs"]
+  },
+  "keyTechnology": [
+    "Patented Raman spectroscopy for real-time chemical analysis",
+    "Reagent-free, non-destructive optical sensors",
+    "Continuous/timed real-time measurement capability",
+    "Inline monitoring at scale for industrial processes",
+    "Multi-chemical detection (nutrients, metabolic markers, waste products)"
+  ],
+  "dataAndMeasurementNeeds": {
+    "primaryDataTypes": [
+      "Water chemistry profiles (nutrients, metabolic markers, organic waste, inorganic compounds)",
+      "Real-time Raman spectroscopy spectra",
+      "Inline process analytics data"
+    ],
+    "keyMeasurements": [
+      "Dissolved nutrients in water",
+      "Metabolic markers for aquaculture health",
+      "Organic and inorganic waste products",
+      "Chemical composition of process fluids",
+      "pH, temperature, salinity (contextual sensors)"
+    ],
+    "observationPrograms": [
+      "In-aquaculture-tank real-time water quality monitoring",
+      "Industrial process inline monitoring",
+      "Field-deployable water quality sensing"
+    ],
+    "knownDataGaps": [
+      "Real-time water chemistry data currently requires lab analysis or reagent-based sensors",
+      "Aquaculture operations lack affordable inline chemical monitoring at molecular level",
+      "Existing sensors measure physical parameters (temp, DO) but not chemical composition in real time"
+    ],
+    "interestInExternalDataServices": "Moderate — core technology is proprietary sensor hardware; data analytics platform is complementary"
+  },
+  "contacts": {
+    "email": "info@dottirlabs.com",
+    "website": "https://dottirlabs.com/",
+    "founder": "Nili Persits (CEO)"
+  },
+  "partnerOrganizations": [
+    "SeaAhead",
+    "Luminate NY",
+    "Greentown Labs",
+    "Activate",
+    "MassCEC",
+    "NextFab Ventures",
+    "VentureWell",
+    "MIT"
+  ],
+  "lastUpdated": "2026-05-17"
+}
