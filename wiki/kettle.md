@@ -22,8 +22,16 @@ Kettle specializes in insurance and reinsurance for climate-exacerbated catastro
 **Marine / Coastal Relevance**  
 While primarily wildfire-focused, the risk modeling approach is transferable to coastal and marine-adjacent properties facing extreme weather.
 
-**Last Updated**: 2026-05-01  
+**Last Updated**: 2026-05-18  
 **Status**: Full profile ready
 
+### Data & Measurement Needs
+- **Primary data types**: Satellite imagery, weather data, real estate, utility data; wildfire ignition/spread models
+- **Key measurements/parameters**: Ignition probability, spread rate, building vulnerability scores; wind speed, humidity, temperature for fire weather
+- **Observation platforms/programs**: Satellite (e.g., MODIS, Landsat), NOAA weather stations, utility grid data
+- **Known data gaps**: Integration with real-time coastal wind/wave data for hybrid risk models; marine-adjacent wildfire (e.g., chaparral near coast)
+- **Interest in external data services**: Coastal meteorology, tide and surge data to extend models to marine-influenced regions
+
 ---
+
 **Cross-links**: [Climate Risk sector overview](climate-risk.md)

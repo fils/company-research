@@ -21,8 +21,16 @@ Extremely relevant for coastal properties, ports, and marine-adjacent real estat
 **Recognition**  
 Featured in Fast Company’s 2026 Most Innovative Companies list.
 
-**Last Updated**: 2026-05-01  
+**Last Updated**: 2026-05-18  
 **Status**: Full profile ready
 
+### Data & Measurement Needs
+- **Primary data types**: Property-level flood, wildfire, wind, heat risk datasets; elevation models; building characteristics; historical loss data
+- **Key measurements/parameters**: Flood depth, velocity, frequency; sea-level rise projections; coastal erosion rates; storm surge heights
+- **Observation platforms/programs**: Integration with NOAA coastal data, USGS elevation, FEMA flood maps; satellite-derived inundation mapping
+- **Known data gaps**: High-resolution real-time coastal sensor networks for dynamic flood modeling; granular marine boundary condition updates
+- **Interest in external data services**: Real-time marine telemetry, tide gauge networks, and offshore wind/wave data for enhanced coastal risk models
+
 ---
+
 **Cross-links**: [Climate Risk sector overview](climate-risk.md)

@@ -18,8 +18,16 @@ Enterprise SaaS platform. Trusted by institutions managing over $13.5 trillion A
 **Marine / Coastal Relevance**  
 Extremely useful for ports, coastal real estate, offshore infrastructure, and marine terminal operators. Many clients operate marine-adjacent assets.
 
-**Last Updated**: 2026-05-01  
+**Last Updated**: 2026-05-18  
 **Status**: Full profile ready
 
+### Data & Measurement Needs
+- **Primary data types**: Physical climate hazard data, asset mapping, financial risk metrics
+- **Key measurements/parameters**: Flood, heat, wind, drought, sea-level rise; adaptation ROI metrics
+- **Observation platforms/programs**: Global climate models, satellite data, proprietary hazard layers; integration with EU Taxonomy and regulatory datasets
+- **Known data gaps**: High-resolution marine and coastal boundary data for offshore assets; real-time sensor fusion for dynamic coastal risk
+- **Interest in external data services**: Marine telemetry, offshore metocean data, coastal monitoring networks to enhance Spectra for blue economy clients
+
 ---
+
 **Cross-links**: [Climate Risk sector overview](climate-risk.md)
