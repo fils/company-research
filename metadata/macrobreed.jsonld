@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "MacroBreed",
+  "url": "https://macrobreed.com/",
+  "description": "Pioneering sustainable kelp breeding using cutting-edge genomic solutions. Foster healthier planet and resilient marine ecosystems.",
+  "knowsAbout": ["Kelp Genomics", "Sustainable Aquaculture", "Marine Biotechnology", "Biofuel Production", "Carbon Capture"],
+  "dataNeeds": {
+    "primaryDataTypes": ["oceanographic baseline data", "kelp genomic reference data", "aquaculture yield measurements", "bioactive compound concentrations", "marine ecosystem health indicators"],
+    "keyMeasurements": ["sea surface temperature", "water nutrient concentrations (nitrogen, phosphorus)", "salinity", "light availability", "kelp growth rates", "biomass yield", "carbon uptake rates"],
+    "observationPlatforms": ["kelp cultivation sites", "genomic reference databases", "oceanographic monitoring stations", "satellite ocean color imagery"],
+    "knownDataGaps": "Limited genomic databases for commercial kelp species; sparse environmental correlation data for genotype × environment interactions",
+    "externalDataInterest": ["regional ocean model outputs", "coastal water quality monitoring data", "marine nutrient cycling data", "climate model projections for ocean conditions"]
+  }
+}

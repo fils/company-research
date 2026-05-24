@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Omission Inc",
+  "url": "https://www.omissioninc.com/",
+  "description": "Manufacturer of portable autonomous surface vessels (ASVs) and unmanned aerial systems (UAS) for nearshore marine data collection. Reduces survey costs 50-70%. Saco, Maine. VentureWell OEA Stage 0 (Spring 2026).",
+  "funding": "VentureWell OEA Stage 0 (Spring 2026)",
+  "knowsAbout": ["Autonomous Surface Vehicles", "Marine Survey", "Ocean Data Collection", "Unmanned Systems"],
+  "dataNeeds": {
+    "primaryDataTypes": ["oceanographic sensor data", "bathymetric survey data", "water quality measurements", "nearshore spatial data", "ASV telemetry data"],
+    "keyMeasurements": ["water depth", "temperature", "salinity", "current velocity", "turbidity", "coastal erosion rates"],
+    "observationPlatforms": ["autonomous surface vessels", "coastal fixed sensors", "aerial drone surveys"],
+    "knownDataGaps": ["high cost of nearshore survey data collection; limited temporal resolution in current marine survey practices"],
+    "externalDataInterest": ["NOAA bathymetry databases", "coastal zone management data", "historical survey archives", "real-time metocean data feeds"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "ORCA",
+  "url": "https://orcaocean.ai/",
+  "description": "AI foundation modeling to predict environmental shocks to fisheries. Pioneering AI foundation models of the oceans for marine food production risk prediction.",
+  "knowsAbout": ["AI Foundation Models", "Ocean Forecasting", "Fisheries Management", "Environmental Shock Prediction", "Aquaculture Risk"],
+  "dataNeeds": {
+    "primaryDataTypes": ["oceanographic time series data", "satellite ocean imagery", "fisheries catch data", "harmful algal bloom monitoring data", "aquaculture production records"],
+    "keyMeasurements": ["sea surface temperature", "chlorophyll-a concentration", "dissolved oxygen", "pH", "nutrient levels", "harmful algal toxin concentrations", "fish biomass"],
+    "observationPlatforms": ["satellite ocean monitoring", "in-situ buoy networks", "fisheries observer programs", "aquaculture farm sensors"],
+    "knownDataGaps": "Limited high-frequency oceanographic data in coastal fishing zones; insufficient historical baseline data for rare shock events; sparse integration of fisheries operational data with oceanographic forecasting",
+    "externalDataInterest": ["NOAA oceanographic buoy data feeds", "satellite chlorophyll/SST products", "state fisheries monitoring data", "real-time water quality station networks", "climate model forecast outputs"]
+  }
+}

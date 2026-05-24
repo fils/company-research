@@ -95,7 +95,7 @@ def check_orphans(companies):
             slug = f.stem
             # Skip sector overview pages in wiki/
             if label == "wiki":
-                sector_files = re.compile(r'^(ocean-carbon-sequestration|climate-risk|bioprospecting|aquaculture|offshore-energy|ocean-data-ai)$')
+                sector_files = re.compile(r'^(ocean-carbon-sequestration|climate-risk|bioprospecting|aquaculture|offshore-energy|ocean-data-ai|maritime-operations-analytics|coastal-risk-infrastructure|marine-monitoring-sensors)$')
                 if sector_files.match(slug):
                     continue
             

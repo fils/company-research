@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Nexus Ocean AI",
+  "url": "https://nexusoceanai.com/",
+  "description": "Maritime AI-native service orchestration; genAI persona (SAM) + Maritime Language Model automating 90% of maritime workflows; $400K seed; Google Cloud partner; Singapore-based",
+  "funding": "$400K seed (Tradeworks.vc, Aug 2024); Google Cloud partnership; MPA Mint Grant Singapore",
+  "knowsAbout": ["Maritime AI", "Service Orchestration", "Generative AI", "Language Models", "Shipping Logistics"],
+  "dataNeeds": {
+    "primaryDataTypes": ["maritime shipping data", "port operations data", "supply chain logistics data", "vessel AIS tracking data", "weather/oceanographic data"],
+    "keyMeasurements": ["vessel ETA", "port turnaround time", "cargo throughput", "fuel consumption", "emissions metrics", "route efficiency"],
+    "observationPlatforms": ["AIS networks", "port management systems", "satellite vessel tracking", "meteorological buoys"],
+    "knownDataGaps": ["limited real-time port congestion data", "inconsistent data standards across maritime jurisdictions", "lack of integrated environmental/shipping data pipelines"],
+    "externalDataInterest": ["AIS vessel tracking APIs", "port authority data feeds", "ocean weather routing services", "carbon emissions tracking databases"]
+  }
+}

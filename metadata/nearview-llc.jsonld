@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Nearview LLC",
+  "url": "https://nearviewllc.com/",
+  "description": "Multi-object-detection AI identifying lobster buoys, boats, and aquaculture gear from aerial/satellite imagery to support marine-user deconfliction.",
+  "knowsAbout": ["Computer Vision", "Marine Deconfliction", "Satellite Imagery Analysis", "Aerial Survey Analysis", "AI Object Detection"],
+  "dataNeeds": {
+    "primaryDataTypes": ["aerial imagery", "satellite imagery", "AIS vessel tracking data", "marine spatial planning data", "lobster buoy registry data"],
+    "keyMeasurements": ["buoy GPS positions", "vessel detection coordinates", "aquaculture gear boundaries", "spatial overlap zones"],
+    "observationPlatforms": ["aerial survey flights", "satellite imagery (optical high-res)", "AIS receiver networks"],
+    "knownDataGaps": "Real-time buoy location data; automated gear detection in rough seas; satellite cloud cover limitations; standardization of gear marking",
+    "externalDataInterest": ["NOAA nautical charts", "USCG vessel tracking data", "state fishery management spatial data", "Right Whale monitoring zone data"]
+  }
+}

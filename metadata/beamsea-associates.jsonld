@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "BeamSea Associates",
+  "url": "https://www.beamsea.com/",
+  "description": "Automates species-level coral reef ecosystem monitoring at operationally relevant scales using a fluorescence-enhanced, high-resolution 3D LiDAR system. ML for benthic organism identification.",
+  "knowsAbout": [
+    "Coral Reef Monitoring",
+    "3D Underwater LiDAR",
+    "Fluorescence Imaging",
+    "Benthic Biology",
+    "Machine Learning Classification"
+  ],
+  "dataNeeds": {
+    "primaryDataTypes": ["3D LiDAR point clouds", "fluorescence spectra", "multispectral imagery", "benthic community data"],
+    "keyMeasurements": ["coral species identification", "reef bottom cover %", "structural complexity indices", "turbidity", "depth profiles"],
+    "observationPlatforms": ["underwater LiDAR deployments", "ROV-towed sensors", "reef survey campaigns"],
+    "knownDataGaps": "High-resolution reef species monitoring at scale; real-time processing; integrating LiDAR with satellite observations",
+    "externalDataInterest": ["NOAA CRW reef health indices", "historical reef baselines", "water quality station networks", "MPA boundary data"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Adaptora",
+  "url": "https://www.tensora.tech/",
+  "description": "Subsurface risk intelligence platform combining depth-resolved monitoring to help coastal decision-makers mitigate land subsidence risks. Part of Tensora Inc.",
+  "parentOrganization": {"@type": "Corporation", "name": "Tensora Inc."},
+  "knowsAbout": ["Coastal Risk Assessment", "Land Subsidence Monitoring", "Depth-Resolved Monitoring", "Ground Deformation Sensing", "Climate Adaptation"],
+  "dataNeeds": {
+    "primaryDataTypes": ["ground deformation sensor data", "subsurface stratigraphy data", "coastal elevation surveys", "groundwater level measurements", "InSAR satellite data"],
+    "keyMeasurements": ["land subsidence rate (mm/yr)", "groundwater level", "soil moisture content", "sediment compaction", "coastal elevation change"],
+    "observationPlatforms": ["ground deformation sensors", "coastal tide gauges", "satellite InSAR", "coastal survey campaigns"],
+    "knownDataGaps": "Lacks real-time subsidence monitoring across broad coastal areas; requires high-precision geodetic infrastructure deployment",
+    "externalDataInterest": ["NOAA tide gauge data", "USGS groundwater monitoring", "satellite InSAR subsidence products", "coastal elevation models"]
+  }
+}

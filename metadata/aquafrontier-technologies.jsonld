@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "AquaFrontier Technologies",
+  "url": "https://aquafrontier.tech/",
+  "description": "Affordable autonomous hardware and data pipelines to democratize ocean observation. Biomimetic AUV + cloud for real-time ocean intelligence.",
+  "knowsAbout": ["Autonomous Underwater Vehicles", "Biomimetic Robotics", "Ocean Data Pipelines", "Real-Time Ocean Intelligence", "Coastal Monitoring"],
+  "dataNeeds": {
+    "primaryDataTypes": ["oceanographic sensor streams", "AUV telemetry data", "water quality profiles", "acoustic backscatter data"],
+    "keyMeasurements": ["temperature", "salinity", "dissolved oxygen", "pH", "turbidity", "chlorophyll-a", "current velocity"],
+    "observationPlatforms": ["autonomous underwater vehicles", "coastal sensor networks", "ship-based validation"],
+    "knownDataGaps": "High cost barriers for sustained ocean observation; limited real-time coastal data; sparse biological baselines in under-monitored areas",
+    "externalDataInterest": ["NOAA buoy data feeds", "satellite ocean color products", "regional ocean model outputs", "coastal water quality station data"]
+  }
+}
