@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Dirigo Sea Farm",
+  "url": "https://www.dirigoseafarm.com/",
+  "description": "Dirigo Sea Farm - Aquaculture",
+  "sector": "Aquaculture",
+  "lastUpdated": "2026-05-25"
+}

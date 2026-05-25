@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Sunfish Inc",
+  "url": "https://sunfishinc.com/",
+  "description": "Sunfish Inc - Marine Monitoring & Sensors",
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-05-25"
+}

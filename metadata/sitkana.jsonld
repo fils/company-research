@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Sitkana",
+  "url": "https://www.sitkana.com/",
+  "description": "Sitkana - Offshore Energy",
+  "sector": "Offshore Energy",
+  "lastUpdated": "2026-05-25"
+}

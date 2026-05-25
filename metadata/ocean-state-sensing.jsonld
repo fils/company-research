@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Ocean State Sensing",
+  "url": "https://oceanstatesensing.com/",
+  "description": "Ocean State Sensing - Marine Monitoring & Sensors",
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-05-25"
+}

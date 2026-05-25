@@ -2,7 +2,7 @@
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (10 monitored)
+## Companies (12 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -12,9 +12,11 @@ Sector overview for aquaculture technology and monitoring companies.
 | [Kurma AI](/wiki/kurma-ai.md) | GenAI/LLM + CV for aquaculture & fisheries | High |
 | [Astraeus Ocean Systems](/wiki/astraeus-ocean-systems.md) | Mariculture crop modeling + autonomous vessel fleet | Critical |
 | [OctaPulse](/wiki/octapulse.md) | AI-powered fish phenotyping & selective breeding; robotics + CV | High |
-| [Nearview LLC](/wiki/nearview-llc.md) (NEW) | Multi-object AI for lobster buoys/gear detection from aerial/satellite imagery | Moderate |
-| [ORCA](/wiki/orca.md) (NEW) | AI foundation models predicting environmental shocks to fisheries/aquaculture | Critical |
-| [MacroBreed](/wiki/macrobreed.md) (NEW) | Kelp genomics & selective breeding; $11M+ grants; 300% yield improvement | High |
+| [Nearview LLC](/wiki/nearview-llc.md) | Multi-object AI for lobster buoys/gear detection from aerial/satellite imagery | Moderate |
+| [ORCA](/wiki/orca.md) | AI foundation models predicting environmental shocks to fisheries/aquaculture | Critical |
+| [MacroBreed](/wiki/macrobreed.md) | Kelp genomics & selective breeding; $11M+ grants; 300% yield improvement | High |
+| [Dirigo Sea Farm](/wiki/dirigo-sea-farm.md) (NEW) | Seaweed-based biomaterials for plastic replacement; kelp cultivation | High |
+| [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) (NEW) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -28,6 +30,8 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Fisheries AI forecasting**: ORCA brings foundation models to predict environmental shocks (HABs, hypoxia, temperature anomalies) — a shared critical risk across ALL aquaculture operations
 - **Kelp/seaweed genomics**: MacroBreed's $11M+ grant-backed approach bridges aquaculture and ocean carbon removal (seaweed carbon sequestration); patented non-reproductive strains address regulatory barriers for ocean farming expansion
 - **Marine spatial AI**: Nearview LLC's multi-object detection for buoy/gear identification helps deconflict aquaculture sites with commercial fishing operations — critical as ocean space becomes more contested
+- **eDNA/RNA monitoring**: Nucleic Sensing Systems brings continuous, autonomous molecular-level biosensing — unique capability for aquaculture health management and pathogen detection
+- **Sustainable biomaterials**: Dirigo Sea Farm's kelp-derived materials expand aquaculture value chain into downstream products, increasing demand for cultivation site monitoring
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -39,4 +43,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*

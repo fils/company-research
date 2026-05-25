@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "MarineSitu",
+  "url": "https://www.marinesitu.com/",
+  "description": "MarineSitu - Marine Monitoring & Sensors",
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-05-25"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Mira Intel",
+  "url": "https://miraintel.com/",
+  "description": "Mira Intel - Coastal Risk & Infrastructure",
+  "sector": "Coastal Risk & Infrastructure",
+  "lastUpdated": "2026-05-25"
+}

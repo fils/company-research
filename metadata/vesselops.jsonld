@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "VesselOps",
+  "url": "https://vesselops.com/",
+  "description": "VesselOps - Maritime Operations & Analytics",
+  "sector": "Maritime Operations & Analytics",
+  "lastUpdated": "2026-05-25"
+}

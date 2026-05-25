@@ -3,15 +3,15 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Ebb Carbon",
     "url": "https://www.ebbcarbon.com/",
-    "notes": "Electrochemical CDR from brine; $20M Series A (2026) \u2014 largest ocean CDR Series A to date, Carbon Herald report",
+    "notes": "Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report",
     "last_updated": "2026-05-24"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Captura",
     "url": "https://capturacorp.com/",
-    "notes": "Direct Ocean Capture",
-    "last_updated": "2026-05-16"
+    "notes": "Direct Ocean Capture; $21M raise reported (ESG Dive 2026); total funding ~$45M; operates 1000 t/yr pilot plant at HOST Park Kona; proprietary bipolar membrane electrodialysis; eSAF partnership in France (May 2026); TIME's America's Top GreenTech Companies 2026",
+    "last_updated": "2026-05-25"
   },
   {
     "sector": "Ocean Carbon Sequestration",
@@ -210,8 +210,29 @@
     "last_updated": "2026-05-24"
   },
   {
+    "sector": "Aquaculture",
+    "name": "MacroBreed",
+    "url": "https://macrobreed.com/",
+    "notes": "Genomics + selective breeding to increase seaweed aquaculture production; mariculture crop genetics; VentureWell OEA Stage 0 (spring 2026); NY-based",
+    "last_updated": "2026-05-24"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Dirigo Sea Farm",
+    "url": "https://www.dirigoseafarm.com/",
+    "notes": "Seaweed-based materials to replace plastics; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Portland, ME; sustainable marine biomaterials",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Nucleic Sensing Systems",
+    "url": "https://www.linkedin.com/company/ns2co",
+    "notes": "Autonomous biosensing of eDNA/RNA for aquaculture health monitoring; VentureWell OEA Stage 2 (spring 2026, $50K TDC); St. Paul, MN; molecular water quality diagnostics; NOAA SBIR award winner; world's only autonomous web-connected tool for real-time eDNA monitoring",
+    "last_updated": "2026-05-25"
+  },
+  {
     "sector": "Offshore Energy",
-    "name": "\u00d8rsted",
+    "name": "Ørsted",
     "url": "https://orsted.com/",
     "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
     "last_updated": "2026-05-16"
@@ -252,10 +273,24 @@
     "last_updated": "2026-05-16"
   },
   {
+    "sector": "Offshore Energy",
+    "name": "Pittsburgh Coastal Energy",
+    "url": "https://www.linkedin.com/company/pghcoastal",
+    "notes": "Subsea power via modular onboard wave-energy converters for autonomous maritime systems; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Pittsburgh, PA; ocean wave charging for underwater systems; NOAA/defense applications; 2nd place Baylor New Venture Competition ($25K)",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Sitkana",
+    "url": "https://www.sitkana.com/",
+    "notes": "Ocean current energy systems powering remote communities; DOE grant; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Juneau, AK; tidal stream generation for Alaska coastal communities; removable anchor installation; 30-50% capacity factor; partners: Sandia, TEAMER, PNNL, UW",
+    "last_updated": "2026-05-25"
+  },
+  {
     "sector": "Ocean Data & AI",
     "name": "Amphitrite",
     "url": "https://www.amphitrite.fr/",
-    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); \u20ac1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
+    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); €1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
     "last_updated": "2026-05-16"
   },
   {
@@ -287,11 +322,39 @@
     "last_updated": "2026-05-24"
   },
   {
+    "sector": "Maritime Operations & Analytics",
+    "name": "Aloft Systems",
+    "url": "https://www.aloft.systems/",
+    "notes": "Sustainable zero-emission shipping via robotic wind propulsion / modern sails; containerized sail systems; BlueSwell startup; VentureWell OEA Stage 2 (spring 2026); Boston, MA; ex-Autodesk Research spinout",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "VesselOps",
+    "url": "https://vesselops.com/",
+    "notes": "3D visualization and digital authentication for fleet management; VentureWell OEA Stage 2 (spring 2026, $50K TDC); New Bedford, MA; maritime fleet operations software",
+    "last_updated": "2026-05-25"
+  },
+  {
     "sector": "Coastal Risk & Infrastructure",
     "name": "Adaptora",
     "url": "https://www.tensora.tech/",
     "notes": "Subsurface risk intelligence platform for coastal land subsidence; ultra-high resolution ground deformation sensors; deploying on Governors Island; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Brooklyn, NY (Tensora Inc. subsidiary)",
     "last_updated": "2026-05-24"
+  },
+  {
+    "sector": "Coastal Risk & Infrastructure",
+    "name": "Mira Intel",
+    "url": "https://miraintel.com/",
+    "notes": "AI drones and patented structural monitoring for coastal/marine infrastructure resilience; high-resolution aerial drone imagery, ongoing condition assessment, predictive analytic modeling; projects: Governor's Island, Brooklyn Army Terminal; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Boston, MA",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Coastal Risk & Infrastructure",
+    "name": "Polaris EcoSystems",
+    "url": "https://labs.polariseco.com/",
+    "notes": "Photogrammetric reconstruction for automated remote monitoring of structural degradation in piers, ports, and shoreline assets; time-indexable 3D reconstructions; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Austin, TX",
+    "last_updated": "2026-05-25"
   },
   {
     "sector": "Marine Monitoring & Sensors",
@@ -315,10 +378,38 @@
     "last_updated": "2026-05-24"
   },
   {
-    "sector": "Aquaculture",
-    "name": "MacroBreed",
-    "url": "https://macrobreed.com/",
-    "notes": "Genomics + selective breeding to increase seaweed aquaculture production; mariculture crop genetics; VentureWell OEA Stage 0 (spring 2026); NY-based",
-    "last_updated": "2026-05-24"
+    "sector": "Marine Monitoring & Sensors",
+    "name": "MarineSitu",
+    "url": "https://www.marinesitu.com/",
+    "notes": "Hardware-enabled software for persistent underwater monitoring; SituAI detection/classification >95% accuracy; DOE and US Navy trusted; cameras/ controllers for marine energy, aquaculture, fish counting, reef monitoring, academic research; >4000 days proven field durability; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Seattle, WA",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "HALOBLUE Tech",
+    "url": "https://www.linkedin.com/company/haloblue-tech",
+    "notes": "Autonomous monitoring systems for coastal restoration projects; defensible environmental data at lower cost per acre than vessel surveys; California State University based; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Hayward, CA",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Ocean State Sensing",
+    "url": "https://oceanstatesensing.com/",
+    "notes": "Distributed Temperature Sensing (DTS) fiber optic ThermoTrawl systems; 25cm resolution, 800m+ range; real-time water column profiling; applications: fisheries, defense, climate research, aquaculture; reduce bycatch 10%+; ex-military submarine founders; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Newport, RI",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Seeweed LLC",
+    "url": "https://www.instagram.com/seeweedgamecameras",
+    "notes": "AI-driven app-managed underwater game camera system for long-term aquatic monitoring; Saint Paul, MN; VentureWell OEA Stage 1 (spring 2026, $15K TDC); mobile app managed camera",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Sunfish Inc",
+    "url": "https://sunfishinc.com/",
+    "notes": "SUNFISH AUV: person-portable hovering autonomous underwater vehicle with AI and SLAM for complex 3D biodiversity mapping; NASA partnership; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Austin, TX / Tallahassee, FL; 6-DOF actuation",
+    "last_updated": "2026-05-25"
   }
 ]

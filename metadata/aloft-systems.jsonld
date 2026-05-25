@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Aloft Systems",
+  "url": "https://www.aloft.systems/",
+  "description": "Aloft Systems - Maritime Operations & Analytics",
+  "sector": "Maritime Operations & Analytics",
+  "lastUpdated": "2026-05-25"
+}
