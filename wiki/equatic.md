@@ -1,12 +1,12 @@
 # Equatic
 
 **Official Site**: https://equatic.tech/
-**Last Updated**: 2026-05-17
+**Last Updated**: 2026-05-26
 
 **Focus**: Ocean-based Carbon Dioxide Removal via electrolysis of seawater, producing both carbon removal and green hydrogen.
 **Key Tech**: Electrochemical seawater processing; separates dissolved CO₂ while generating hydrogen.
 **Funding**: $11.6M Series A (2025); DOE grants; Times Top GreenTech 2026.
-**Status**: Commercial-scale plant in development in North America; pilot operations in Los Angeles and Singapore.
+**Status**: World's largest ocean-based CDR plant planned in Singapore (UCLA Institute for Carbon Management partnership); targeting <$100/t CDR by commercial scale; pilot operations in Los Angeles and Singapore.
 
 ## Data & Measurement Needs
 

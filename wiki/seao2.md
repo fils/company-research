@@ -2,7 +2,7 @@
 
 **Sector**: Ocean Carbon Sequestration  
 **Official Site**: https://www.seao2.com/  
-**Last Updated**: 2026-05-03  
+**Last Updated**: 2026-05-26  
 
 **Overview**  
 SeaO2 is developing electrochemical Direct Ocean Capture (DOC) technology to extract CO₂ directly from seawater at gigaton scale using renewable electricity and seawater only. The process returns decarbonized water to the ocean surface, which re-absorbs atmospheric CO₂, simultaneously addressing ocean acidification. Post-2025 North Sea pilot.
@@ -12,12 +12,22 @@ SeaO2 is developing electrochemical Direct Ocean Capture (DOC) technology to ext
 - Green CO₂ sales for utilization (methanol, chemicals, concrete mineralization, food/beverage).  
 - Targeting corporate buyers and storage partners (geological formations).  
 - 2026 pilots planned at 25 tCO₂/year nameplate capacity per system.
+- Preparing **€12M Series A for early 2027**; €2M+ seed round secured.
 
 **Key Technology**  
 - Electrochemical CO₂ extraction from seawater (no added chemicals).  
 - Renewable-powered vacuum/membrane process.  
 - CDR pathway (geological storage) + CO₂ utilization pathways.  
 - Focus on local acidification reversal.
+- Next-gen 3-compartment electrodialysis stack via Carbon Stream project with Redstack & Lenntech.
+
+**Funding & Awards (2026)**
+- BlueInvest recognition from European Commission (Feb 2026)
+- GCNE Accelerator selected by ROMInWest
+- MIT R&D subsidy (Province of Noord-Holland) with Redstack for Carbon Stream project
+- Nominated for **Offshore Wind Innovators Award 2025** (Offshore Energy / Energy Innovation NL)
+- Selected as **Hello Tomorrow Deep Tech Pioneer** (from 4,800+ applications)
+- Attended EC's first DOC workshop informing CRCF certification framework
 
 ### Data & Measurement Needs
 - **Primary data types**: Seawater carbonate chemistry, electrolyte and flow data, renewable energy integration telemetry.

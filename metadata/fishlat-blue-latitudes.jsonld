@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "FishLAT (Blue Latitudes)",
+  "url": "https://www.fishlat.com/",
+  "description": "Machine-learning-powered rapid assessment tool predicting how offshore infrastructure removal, reefing, or installation impacts the environment and fisheries. Supports permitting and decommissioning decisions.",
+  "foundingLocation": "Laguna Beach, California",
+  "parentOrganization": "Blue Latitudes LLC",
+  "sector": "Marine Monitoring & Sensors",
+  "funding": {
+    "rounds": [{"name": "VentureWell OEA Stage 2", "amount": "50000", "type": "TDC grant", "year": "2026"}]
+  },
+  "technology": "Machine learning model for environmental impact prediction; offshore infrastructure assessment; fisheries impact analysis",
+  "marineDataNeeds": {
+    "primaryDataTypes": ["fisheries catch data", "marine species distribution", "benthic habitat data", "infrastructure specifications"],
+    "keyMeasurements": ["fisheries stock assessments", "marine ecosystem baseline data", "species biodiversity metrics"],
+    "observationPlatforms": ["external fisheries surveys", "satellite data", "public databases"],
+    "knownDataGaps": ["real-time fisheries data streams", "high-resolution benthic mapping for offshore sites"],
+    "interestInExternalServices": ["NOAA fisheries data", "satellite-derived oceanographic data", "public environmental impact databases"]
+  },
+  "partnerships": ["VentureWell", "NOAA Ocean Enterprise Accelerator"],
+  "last_updated": "2026-05-26"
+}

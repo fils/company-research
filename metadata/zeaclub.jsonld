@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Zeaclub",
+  "url": "https://www.zeaclub.com/",
+  "description": "AI-powered maritime collaborative workspace connecting ship owners, charterers, brokers, agents, and ports in one platform. Structured data entry and validation replacing email chains and spreadsheets.",
+  "foundingLocation": "Wilmington, Delaware",
+  "sector": "Maritime Operations & Analytics",
+  "funding": {
+    "rounds": [{"name": "VentureWell OEA Stage 0", "year": "2026"}]
+  },
+  "technology": "AI-powered collaborative workspace; structured maritime data management; role-based permissions; audit trail; laytime calculation; freight invoice generation",
+  "marineDataNeeds": {
+    "primaryDataTypes": ["voyage data", "charter terms", "port schedules", "cost data", "vessel specifications", "demurrage/despatch data"],
+    "keyMeasurements": ["laytime", "freight rates", "fuel consumption", "port turnaround times"],
+    "observationPlatforms": ["platform itself — user-input structured data"],
+    "knownDataGaps": ["integrated real-time vessel tracking", "standardized maritime data exchange formats"],
+    "interestInExternalServices": ["AIS data integration", "port schedule APIs", "weather routing data"]
+  },
+  "partnerships": ["VentureWell", "NOAA Ocean Enterprise Accelerator"],
+  "last_updated": "2026-05-26"
+}

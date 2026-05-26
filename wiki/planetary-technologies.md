@@ -1,12 +1,13 @@
 # Planetary Technologies
 
 **Official Site**: https://www.planetarytech.com/
-**Last Updated**: 2026-05-17
+**Last Updated**: 2026-05-26
 
 **Focus**: Ocean Alkalinity Enhancement (OAE) integrated with coastal infrastructure outfalls.
-**Site KPI**: 0 t CDR tracked publicly (emphasizing verification & safety).
-**Backers**: Frontier, Stripe, Shopify.
-**Projects**: Tufts Cove (Nova Scotia Power co-located).
+**Funding**: $11.35M Series A (Oct 2024, led by Evok Innovations, BDC Capital, Amplify Capital); total ~$15.2M raised; Frontier $31M commitment to scale OAE; $7.8M earlier round.
+**Key Backers**: Frontier, Evok Innovations, BDC Capital, Amplify Capital, Stripe, Shopify.
+**Milestones**: First net OAE delivery completed (2025); first independently verified OAE carbon credits sold (British Airways, Stripe, Shopify through Isometric/Cur8).
+**Projects**: Tufts Cove (Nova Scotia Power co-located); Halifax OAE Joint Learning Opportunity with Carbon to Sea Initiative (2026).
 
 ## Data & Measurement Needs
 

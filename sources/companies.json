@@ -3,22 +3,22 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Ebb Carbon",
     "url": "https://www.ebbcarbon.com/",
-    "notes": "Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report",
-    "last_updated": "2026-05-24"
+    "notes": "Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Project Macoma operational OAE pilot (Feb 2026); salmon ecological safety study (Feb 2026)",
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Captura",
     "url": "https://capturacorp.com/",
     "notes": "Direct Ocean Capture; $21M raise reported (ESG Dive 2026); total funding ~$45M; operates 1000 t/yr pilot plant at HOST Park Kona; proprietary bipolar membrane electrodialysis; eSAF partnership in France (May 2026); TIME's America's Top GreenTech Companies 2026",
-    "last_updated": "2026-05-25"
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Planetary Technologies",
     "url": "https://www.planetarytech.com/",
-    "notes": "Ocean alkalinity enhancement",
-    "last_updated": "2026-05-16"
+    "notes": "Ocean alkalinity enhancement; $11.35M Series A (Oct 2024, Evok Innovations lead, BDC Capital, Amplify Capital); total funding ~$15.2M; Halifax OAE Joint Learning Opportunity with Carbon to Sea Initiative; Frontier $31M commitment to scale OAE; first net OAE delivery completed; strong marine MRV needs for alkalinity monitoring",
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Ocean Carbon Sequestration",
@@ -31,8 +31,8 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Equatic",
     "url": "https://equatic.tech/",
-    "notes": "Ocean-based CDI / CDR; new NA commercial plant; strong marine env. monitoring demands",
-    "last_updated": "2026-05-16"
+    "notes": "Ocean-based CDI / CDR; new NA commercial plant; world's largest ocean CDR plant planned in Singapore; UCLA Institute for Carbon Management partnership; targeting <$100/t CDR; strong marine env. monitoring demands",
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Ocean Carbon Sequestration",
@@ -73,8 +73,8 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "SeaO2",
     "url": "https://www.seao2.com/",
-    "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; marine MRV intensive",
-    "last_updated": "2026-05-16"
+    "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; preparing €12M Series A for early 2027; €2M+ seed raised; BlueInvest recognition (EU Commission, Feb 2026); GCNE accelerator selected; R&D MIT subsidy with Redstack for Carbon Stream project; nominated for Offshore Wind Innovators Award 2025; Hello Tomorrow Deep Tech Pioneer; marine MRV intensive; EC DOC workshop participation informing CRCF certification",
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Ocean Carbon Sequestration",
@@ -262,7 +262,7 @@
     "sector": "Offshore Energy",
     "name": "Panthalassa",
     "url": "https://panthalassa.com/",
-    "notes": "Ocean wave-powered AI computing & data centers; $140M Series B (May 2026) led by Peter Thiel; offshore compute nodes and wave energy generation; ~$1B valuation; marine environmental monitoring demands for deployment sites",
+    "notes": "Ocean wave-powered AI computing & data centers; $140M Series B (May 2026) led by Peter Thiel; ~$1B valuation; offshore compute nodes and wave energy generation; Fortune/FT/Reuters coverage May 2026; marine environmental monitoring demands for deployment sites",
     "last_updated": "2026-05-16"
   },
   {
@@ -318,8 +318,8 @@
     "sector": "Maritime Operations & Analytics",
     "name": "Nexus Ocean AI",
     "url": "https://nexusoceanai.com/",
-    "notes": "Maritime AI-native service orchestration; genAI persona (SAM) + Maritime Language Model; automated 90% of maritime workflows; $400K seed (Aug 2024, Tradeworks.vc); Google Cloud partner; MPA Mint Grant; Singapore-based",
-    "last_updated": "2026-05-24"
+    "notes": "Maritime AI-native service orchestration; genAI persona (SAM) + Maritime Language Model; automated 90% of maritime workflows; $400K seed (Aug 2024, Tradeworks.vc); Google Cloud partner; MPA Mint Grant; Singapore-based; selected for Braid Theory 2026 LA Blue Cohort",
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Maritime Operations & Analytics",
@@ -334,6 +334,13 @@
     "url": "https://vesselops.com/",
     "notes": "3D visualization and digital authentication for fleet management; VentureWell OEA Stage 2 (spring 2026, $50K TDC); New Bedford, MA; maritime fleet operations software",
     "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "Zeaclub",
+    "url": "https://www.zeaclub.com/",
+    "notes": "AI-powered maritime collaborative workspace connecting ship owners, charterers, brokers, agents, ports in one platform; real-time collaboration replacing email chains & spreadsheets; structured data entry & validation; VentureWell OEA Stage 0 (spring 2026); Wilmington, DE",
+    "last_updated": "2026-05-26"
   },
   {
     "sector": "Coastal Risk & Infrastructure",
@@ -411,5 +418,19 @@
     "url": "https://sunfishinc.com/",
     "notes": "SUNFISH AUV: person-portable hovering autonomous underwater vehicle with AI and SLAM for complex 3D biodiversity mapping; NASA partnership; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Austin, TX / Tallahassee, FL; 6-DOF actuation",
     "last_updated": "2026-05-25"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "TDSX (Tampa Deep Sea Xplorers)",
+    "url": "https://tampadeepseaxplorers.com/",
+    "notes": "Barracuda AUV for cost-effective underwater exploration & data collection; sub-bottom profiling, water column characterization, ocean current/temp/salinity profiles; applications: offshore energy, oceanographic research, military/defense; NOAA SBIR, DoD, DHS partnerships; XPRISE recognized; VentureWell OEA Stage 0 (spring 2026); Tampa, FL; actively commercializing (orders open)",
+    "last_updated": "2026-05-26"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "FishLAT (Blue Latitudes)",
+    "url": "https://www.fishlat.com/",
+    "notes": "ML-powered rapid assessment tool predicting environmental & fisheries impact of offshore infrastructure (removal, reefing, installation); supports permitting and decommissioning decisions; cost-effective data-rich alternative to traditional surveys; VentureWell OEA Stage 2 (spring 2026); Laguna Beach, CA; parent: Blue Latitudes LLC",
+    "last_updated": "2026-05-26"
   }
 ]

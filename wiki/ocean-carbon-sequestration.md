@@ -30,11 +30,14 @@ Sector overview for ocean-based carbon dioxide removal companies.
 
 ## Funding Landscape (2025-2026)
 - Captura leads at $45.3M Series A
-- Equatic raised $11.6M Series A (Aug 2025)
+- Ebb Carbon: $20M Series A (largest ocean CDR Series A to date)
+- Equatic: $11.6M Series A; world's largest ocean CDR plant in Singapore (UCLA ICM partner); targeting <$100/t CDR
+- Planetary Technologies: $11.35M Series A (Evok Innovations, BDC, Amplify); total ~$15.2M; Frontier $31M commitment
+- SeaO2: €2M+ seed; preparing €12M Series A for early 2027; BlueInvest EU recognition
 - pHathom: $4M seed (2026), $12M committed total
 - Calcarea: $3.5M seed
-- Apeiron Labs: $9.5M Series A (Feb 2026) — new entrant providing AUV-based ocean data platform
-- Frontier prepurchases supporting multiple CDR startups
+- Apeiron Labs: $9.5M Series A (Feb 2026) — AUV-based ocean data platform
+- Frontier prepurchases supporting multiple CDR startups (Planetary, Ebb Carbon, others)
 
 ---
-*Last updated: 2026-05-16*
+**Last updated: 2026-05-26**

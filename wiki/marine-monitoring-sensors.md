@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-05-25  
-**Companies Tracked**: 8
+**Last Updated**: 2026-05-26  
+**Companies Tracked**: 10
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -54,6 +54,18 @@ SUNFISH® AUV — person-portable hovering autonomous underwater vehicle with AI
 - **Site**: [sunfishinc.com](https://sunfishinc.com/)
 - **Funding**: VentureWell/NOAA OEA Stage 1 (Spring 2026) — $15K TDC award
 - **Location**: Austin, TX / Tallahassee, FL
+
+### TDSX (Tampa Deep Sea Xplorers) (NEW)
+Barracuda AUV for cost-effective underwater exploration & data collection — sub-bottom profiling, water column characterization, ocean current/temp/salinity. NOAA/DoD/DHS SBIR partnerships. XPRISE-recognized. Actively commercializing (orders open).
+- **Site**: [tampadeepseaxplorers.com](https://tampadeepseaxplorers.com/)
+- **Funding**: VentureWell/NOAA OEA Stage 0 (Spring 2026); NOAA/DoD/DHS SBIRs
+- **Location**: Tampa, FL
+
+### FishLAT (Blue Latitudes) (NEW)
+ML-powered rapid assessment tool predicting environmental & fisheries impact of offshore infrastructure removal, reefing, or installation. Cost-effective regulatory permitting support.
+- **Site**: [fishlat.com](https://www.fishlat.com/)
+- **Funding**: VentureWell/NOAA OEA Stage 2 (Spring 2026) — $50K TDC award
+- **Location**: Laguna Beach, CA
 
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring

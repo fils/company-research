@@ -1,12 +1,12 @@
 # Ebb Carbon
 
 **Official Site**: https://www.ebbcarbon.com/
-**Last Updated**: 2026-05-17
+**Last Updated**: 2026-05-26
 
 **Business Model**: Electrochemical processing of desalination brine — recovers freshwater, produces CDR via ocean alkalinity, and low-cost industrial chemicals.
 **Key Tech**: Modular electrochemical membrane stacks.
-**Funding/Backers**: Microsoft, Stripe CDR purchases; DOE/PNNL pilots; Isometric verification.
-**Recent (2026)**: Google collaboration; Project Macoma learnings published.
+**Funding/Backers**: $20M Series A (2026); Microsoft landmark CDR deal up to 350,000 tCO2 over 10 yrs; Google collaboration (Dec 2025); Stripe CDR purchases; DOE/PNNL pilots; Isometric verification.
+**Recent (2026)**: Project Macoma operational learnings published (Feb 2026); salmon ecological safety study published (Feb 2026); largest ocean CDR Series A to date.
 
 ## Data & Measurement Needs
 

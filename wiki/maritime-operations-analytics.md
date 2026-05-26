@@ -1,7 +1,7 @@
 # Maritime Operations & Analytics
 
-**Last Updated**: 2026-05-25  
-**Companies Tracked**: 3
+**Last Updated**: 2026-05-26  
+**Companies Tracked**: 4
 
 This sector covers companies building AI-native operating systems and service orchestration platforms for the maritime industry — shipping, port logistics, fleet management, and maritime compliance. These companies transform fragmented operational data into actionable intelligence through domain-specific AI models.
 
@@ -21,6 +21,12 @@ Zero-emission maritime shipping via robotic wind propulsion (modern containerize
 3D visualization and digital authentication for maritime fleet management. New Bedford, MA. VentureWell OEA Stage 2 ($50K TDC).
 - **Site**: [vesselops.com](https://vesselops.com/)
 - **Funding**: $50K TDC (VentureWell/NOAA OEA Stage 2)
+
+### Zeaclub (NEW)
+AI-powered collaborative workspace connecting shipowners, charterers, brokers, agents, ports in one shared platform. Structured data replaces email chains and spreadsheets.
+- **Site**: [zeaclub.com](https://www.zeaclub.com/)
+- **Funding**: VentureWell/NOAA OEA Stage 0 (Spring 2026)
+- **Location**: Wilmington, DE
 
 ## Cross-Company Patterns
 - **Maritime Language Models**: Domain-specific LLMs trained on shipping, port, and compliance data — significant advantage over general-purpose AI

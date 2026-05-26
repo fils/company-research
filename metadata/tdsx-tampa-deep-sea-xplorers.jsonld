@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "TDSX (Tampa Deep Sea Xplorers)",
+  "url": "https://tampadeepseaxplorers.com/",
+  "description": "Barracuda AUV for cost-effective underwater exploration and ocean data collection. Autonomous underwater vehicles for offshore energy, oceanographic research, and defense applications.",
+  "foundingLocation": "Tampa, Florida",
+  "sector": "Marine Monitoring & Sensors",
+  "funding": {
+    "rounds": [],
+    "sources": ["NOAA SBIR", "DoD SBIR", "DHS S&T SBIR", "StartEngine equity crowdfunding"]
+  },
+  "technology": "Barracuda AUV — autonomous underwater vehicle; sub-bottom profiling; water column characterization; ocean current/temp/salinity profiling",
+  "marineDataNeeds": {
+    "primaryDataTypes": ["water column profiles", "sub-bottom profiles", "ocean current data", "temperature/salinity", "bathymetry"],
+    "keyMeasurements": ["temperature", "salinity", "current speed/direction", "tide", "water clarity", "bio-luminescence"],
+    "observationPlatforms": ["Barracuda AUV", "small-footprint autonomous underwater vehicles"],
+    "knownDataGaps": ["deep-sea real-time telemetry", "affordable ocean observation for small operators"],
+    "interestInExternalServices": ["NOAA data integration", "partnerships with oceanographic research institutions"]
+  },
+  "partnerships": ["NOAA SBIR", "DoD", "DHS", "USF Mechanical Engineering", "Braid Theory", "Hello Tomorrow"],
+  "last_updated": "2026-05-26"
+}
