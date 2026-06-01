@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Quartermaster",
+  "url": "https://www.quartermaster.us/",
+  "description": "Maritime-technology startup building SmartMast™, a distributed maritime sensing and AI analytics network mounted on commercial vessels. 600+ ships equipped across 25+ countries, 10M+ sq mi covered, 400K+ vessels identified without AIS, 20+ rescues. $43M Series A (May 2026) co-led by First Round Capital and Quiet Capital.",
+  "sector": "Ocean Data & AI",
+  "foundingDate": "2024",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Arlington",
+      "addressRegion": "VA",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Maritime domain awareness",
+    "Distributed sensor networks",
+    "Maritime computer vision",
+    "AIS fraud / spoofing detection",
+    "Vessel-mounted RF sensing (AIS, ADS-B, VHF, radar)",
+    "Real-time satcom telemetry",
+    "Maritime AI analytics",
+    "Crowdsourced maritime intelligence"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "43000000",
+      "currency": "USD"
+    },
+    "funder": ["First Round Capital", "Quiet Capital"],
+    "date": "2026-05"
+  },
+  "products": [
+    {
+      "@type": "Product",
+      "name": "SmartMast",
+      "description": "Vessel-mounted sensor package (HD/IR cameras, dual software-defined radios, onboard AI, satcom) installed on vessels >20 GT"
+    },
+    {
+      "@type": "Product",
+      "name": "Quartermaster Analytics Platform",
+      "description": "Real-time maritime intelligence dashboard with multimodal AI for vessel classification, pattern-of-life detection, alerts"
+    }
+  ],
+  "keyPeople": [
+    {
+      "@type": "Person",
+      "name": "Neil Sobin",
+      "jobTitle": "Founder & CEO"
+    }
+  ],
+  "scale": {
+    "shipsEquipped": "600+",
+    "countriesCovered": "25+",
+    "oceanSquareMiles": "10000000+",
+    "vesselsIdentifiedWithoutAIS": "400000+",
+    "maritimeRescuesAssisted": "20+"
+  },
+  "customers": ["Government / defense", "Commercial shipping operators", "Insurance providers", "Marine autonomy developers", "Search and rescue organizations"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "vessel tracking data (location, heading, speed, ID)",
+      "HD video and IR imagery from vessel-mounted cameras (24/7)",
+      "AIS, ADS-B, VHF voice, and radar signal capture",
+      "onboard AI-processed vessel classification and pattern-of-life data",
+      "real-time satcom telemetry streams",
+      "geolocation and time-stamped records for forensic/legal use",
+      "crowdsourced maritime domain awareness feeds",
+      "training datasets for marine autonomy AI (computer vision, vessel behavior)",
+      "cross-vessel network data (neighbor vessel context)",
+      "multi-modal fusion: video + RF + radar + AIS"
+    ],
+    "keyMeasurements": [
+      "vessel position, heading, speed, course over ground",
+      "vessel classification (cargo, tanker, fishing, military, leisure)",
+      "RF emissions (AIS broadcasts, ADS-B, VHF voice)",
+      "radar signature and bearing",
+      "visual range/IR imagery (360°, 31x zoom)",
+      "neighbor-vessel relative position and intent",
+      "anomaly/incident flags"
+    ],
+    "observationPlatforms": [
+      "vessel-mounted SmartMast sensor packages",
+      "global satcom network (sub-5s global transmission)",
+      "onboard edge AI processing",
+      "centralized analytics platform (web dashboard)"
+    ],
+    "dataGaps": [
+      "independent verification of vessel identity (AIS is opt-in, spoofable)",
+      "high-resolution real-time maritime activity in 25+ countries",
+      "training data for marine computer vision (low-hanging fruit vs social media AI)"
+    ],
+    "interestInExternalData": "High — network grows with each vessel joined; data is core product; external data services that augment maritime intelligence (weather, oceanographic, regulatory) are complementary"
+  },
+  "potentialAction": "Sale/lease of SmartMast hardware; subscription analytics platform; government/defense contracts; training data licensing",
+  "dateModified": "2026-06-01",
+  "sourceUrl": "https://www.quartermaster.us/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

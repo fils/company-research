@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-05-26  
-**Companies Tracked**: 10
+**Last Updated**: 2026-06-01  
+**Companies Tracked**: 12
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -66,6 +66,18 @@ ML-powered rapid assessment tool predicting environmental & fisheries impact of 
 - **Site**: [fishlat.com](https://www.fishlat.com/)
 - **Funding**: VentureWell/NOAA OEA Stage 2 (Spring 2026) — $50K TDC award
 - **Location**: Laguna Beach, CA
+
+### Ulysses (NEW)
+Mako AUV + Kraken surface/subsea launch-recovery-recharge system. Modular "Lego-like" payload design with swappable batteries, sensors, compute modules. 50x cheaper than legacy AUVs ($50K unit cost); 72hr endurance, 200 lb payload, 5,000 ft depth; cooperative swarms with stealthy low-bandwidth comms; 40x more subsea computing power. $46M total raised (seed + Series A, April 2026) led by a16z American Dynamism.
+- **Site**: [theoceancompany.com](https://www.theoceancompany.com/)
+- **Funding**: $46M (a16z lead, Harpoon, Superorganism, Quiet Capital)
+- **Location**: Dublin → San Francisco, CA
+
+### Vatn Systems (NEW)
+Defense-tech modular AUVs operating in cooperative swarms; "next underwater defense prime" positioning. Advanced navigation in GPS/vision/comm-denied environments. $60M Series A (Dec 2025) — one of the largest AUV defense raises. New AUV-torpedo product line + state-of-the-art Rhode Island manufacturing facility. First international contract: Singapore.
+- **Site**: [vatnsystems.com](https://www.vatnsystems.com/)
+- **Funding**: $60M Series A (Dec 2025)
+- **Location**: Rhode Island
 
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring

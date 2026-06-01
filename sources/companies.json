@@ -432,5 +432,26 @@
     "url": "https://www.fishlat.com/",
     "notes": "ML-powered rapid assessment tool predicting environmental & fisheries impact of offshore infrastructure (removal, reefing, installation); supports permitting and decommissioning decisions; cost-effective data-rich alternative to traditional surveys; VentureWell OEA Stage 2 (spring 2026); Laguna Beach, CA; parent: Blue Latitudes LLC",
     "last_updated": "2026-05-26"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Ulysses",
+    "url": "https://www.theoceancompany.com/",
+    "notes": "Modular autonomous underwater vehicles (Mako AUV) + Kraken launch/recovery system; $46M total (seed + Series A, April 2026) led by a16z American Dynamism (Erin Price-Wright, Ryan McEntush); 50x cheaper than legacy AUVs ($50K unit cost); 72hr endurance, 200 lb payload, 5,000 ft depth; cooperative swarms; 40x more subsea computing power; ecosystem restoration + defense; customers: US Navy, VIMS, Mote Marine Lab, Great Barrier Reef Foundation, Nature Conservancy, Government of Australia; founded Dublin, HQ San Francisco",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Vatn Systems",
+    "url": "https://www.vatnsystems.com/",
+    "notes": "Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) — one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manufacturing facility; first international contract: Singapore; advanced navigation in GPS/comm-denied environments; stealthy low-bandwidth inter-vehicle comms; 'next underwater defense prime' positioning; customers: US Navy, allied navies, research institutions",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Quartermaster",
+    "url": "https://www.quartermaster.us/",
+    "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model — free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
+    "last_updated": "2026-06-01"
   }
 ]

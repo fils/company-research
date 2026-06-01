@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Vatn Systems",
+  "url": "https://www.vatnsystems.com/",
+  "description": "Defense-technology company building affordable, modular autonomous underwater vehicles (AUVs) that operate in cooperative swarms for naval warfare, subsea surveillance, research, and commercial maritime missions. Rhode Island-based; founded 2023. $60M Series A (Dec 2025). New AUV-torpedo product line and Rhode Island manufacturing facility.",
+  "sector": "Marine Monitoring & Sensors",
+  "foundingDate": "2023",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "RI",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Autonomous Underwater Vehicles (AUVs)",
+    "Cooperative swarm robotics",
+    "Subsea navigation in GPS/comm-denied environments",
+    "Modular marine robotics",
+    "Inertial navigation with sensor fusion",
+    "Underwater defense systems",
+    "Stealthy low-bandwidth AUV communications"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "60000000",
+      "currency": "USD"
+    },
+    "date": "2025-12"
+  },
+  "products": [
+    {
+      "@type": "Product",
+      "name": "Modular AUV platform",
+      "description": "Affordable, attritable autonomous underwater vehicle with modular building block structure; deployable by hand, air, or surface vessel"
+    },
+    {
+      "@type": "Product",
+      "name": "AUV-torpedo product line",
+      "description": "New torpedo-form-factor AUV unveiled alongside Rhode Island manufacturing facility opening"
+    }
+  ],
+  "customers": ["US Navy", "Allied navies (Singapore first international contract)", "Research institutions"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "AUV-mounted acoustic/optical/magnetic sensor data",
+      "cooperative swarm telemetry (stealthy low-bandwidth)",
+      "bathymetric and seafloor mapping data",
+      "subsea infrastructure surveillance (pipelines, cables, ports)",
+      "multi-vehicle data fusion for navigation",
+      "inertial navigation error reduction data",
+      "subsea environmental monitoring",
+      "defense ISR data",
+      "edge AI decisions for autonomy",
+      "communication-denied environment navigation"
+    ],
+    "keyMeasurements": [
+      "acoustic signatures (active/passive sonar)",
+      "magnetic anomalies",
+      "bathymetry / seafloor topography",
+      "current and tidal velocity profiles",
+      "subsea temperature and salinity",
+      "AUV position, heading, attitude",
+      "vessel/contact classification probabilities"
+    ],
+    "observationPlatforms": [
+      "cooperative AUV swarms (hand-launched, air-launched, surface-vessel-launched)",
+      "modular sensor payloads (range/accuracy/sensor-customizable)",
+      "low-bandwidth inter-vehicle comms network",
+      "edge AI for onboard decision making"
+    ],
+    "dataGaps": [
+      "scalable, attritable AUV platforms for high-risk missions",
+      "cooperative swarm navigation in GPS/comm-denied undersea environments",
+      "low-cost inertial navigation error reduction for swarm deployments"
+    ],
+    "interestInExternalData": "High — defense ISR, environmental monitoring, and post-mission analysis all benefit from external oceanographic and remote sensing data fusion"
+  },
+  "potentialAction": "Sale/lease of attritable AUVs to defense customers; cooperative swarm mission services; international defense sales",
+  "dateModified": "2026-06-01",
+  "sourceUrl": "https://www.vatnsystems.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}

@@ -1,0 +1,114 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Ulysses",
+  "alternateName": "The Ocean Company",
+  "url": "https://www.theoceancompany.com/",
+  "description": "Builds small, low-cost, modular autonomous underwater vehicles (AUVs) and dual-domain (surface/subsea) systems for marine data acquisition, ecosystem restoration, and defense. Mako AUV + Kraken launch/recovery/recharge system. Vertically integrated manufacturing in San Francisco. 50x cheaper than legacy AUVs.",
+  "sector": "Marine Monitoring & Sensors",
+  "foundingDate": "2022",
+  "foundingLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Dublin",
+      "addressCountry": "Ireland"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Autonomous Underwater Vehicles (AUVs)",
+    "Modular marine robotics",
+    "Cooperative swarm robotics",
+    "Subsea data acquisition",
+    "Marine ecosystem restoration",
+    "Underwater domain awareness",
+    "Edge AI for subsea computing",
+    "Defense autonomous systems"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A + Seed",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "46000000",
+      "currency": "USD"
+    },
+    "funder": ["Andreessen Horowitz (American Dynamism)", "Harpoon Ventures", "Superorganism", "Quiet Capital"],
+    "date": "2026-04"
+  },
+  "products": [
+    {
+      "@type": "Product",
+      "name": "Mako AUV",
+      "description": "Autonomous underwater vehicle, 72hr endurance, 200 lb max payload, 5,000 ft depth rating"
+    },
+    {
+      "@type": "Product",
+      "name": "Kraken",
+      "description": "Autonomous launch, recovery, and recharge system for surface/subsea operations"
+    }
+  ],
+  "trustedBy": [
+    "US Navy",
+    "VIMS (Virginia Institute of Marine Science)",
+    "Mote Marine Laboratory",
+    "Great Barrier Reef Foundation",
+    "Government of Australia",
+    "The Nature Conservancy",
+    "UWA (University of Western Australia)",
+    "Florida Department of Environmental Protection",
+    "Westport"
+  ],
+  "founders": ["Akhil", "Will O'Brien", "Colm O'Brien", "Jamie"],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "AUV-mounted acoustic and optical sensor data",
+      "real-time cooperative swarm telemetry",
+      "bathymetric mapping at 5,000 ft depth",
+      "subsea environmental data (temperature, salinity, current profiles)",
+      "marine ecosystem baseline data (seagrass, coral, benthic communities)",
+      "subsea infrastructure inspection imagery",
+      "GPS/comm-denied environment navigation data",
+      "edge-compute data products (40x computing power onboard)",
+      "heterogeneous modular payload data",
+      "persistent data relay through surface vehicles (Kraken)"
+    ],
+    "keyMeasurements": [
+      "subsea temperature, salinity, dissolved oxygen",
+      "current velocity profiles",
+      "acoustic backscatter (multibeam, side-scan)",
+      "optical imagery (HD video, stills)",
+      "bathymetry / seafloor topography",
+      "marine biomass / seagrass coverage",
+      "coral health and bleaching",
+      "benthic community composition"
+    ],
+    "observationPlatforms": [
+      "Mako AUV fleet (swarm-capable)",
+      "Kraken surface vessel (launch/recovery/recharge)",
+      "modular sensor payloads (Lego-style)",
+      "edge AI compute nodes onboard"
+    ],
+    "dataGaps": [
+      "scalable, low-cost persistent ocean observation at depth",
+      "reliable navigation in GPS/comm-denied undersea environments",
+      "real-time swarm-coordinated data relay to shore",
+      "high-resolution ecosystem baseline data for restoration targets"
+    ],
+    "interestInExternalData": "High — mission planning, ecosystem baseline establishment, and post-mission analysis all benefit from integrating external oceanographic and remote sensing data"
+  },
+  "potentialAction": "Sale/lease of AUV platforms; subsea survey and intervention services; defense and ecosystem restoration contracts",
+  "dateModified": "2026-06-01",
+  "sourceUrl": "https://www.theoceancompany.com/",
+  "additionalType": "Corporation",
+  "knowledgeGraph": "company-research"
+}
