@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SeaDeep",
+  "url": "https://www.seadeep.io/",
+  "description": "AI platform for ocean mapping, monitoring, underwater inspection",
+  "sector": "Ocean Data & AI",
+  "lastUpdated": "2026-06-17"
+}

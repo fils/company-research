@@ -453,5 +453,19 @@
     "url": "https://www.quartermaster.us/",
     "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model — free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
     "last_updated": "2026-06-01"
+  },
+  {
+    "sector": "Coastal Risk & Intelligence",
+    "name": "Coastal Measures",
+    "url": "https://www.coastalmeasures.com/",
+    "notes": "CUMULUS platform for coastal risk analytics, hydrokinetic site identification, resilient-community intelligence; AI-driven coastal data platform; $260K seed from Maine Angels (2026); focuses on ocean data intelligence for blue economy projects and coastal communities; strong marine data needs for risk modeling and site selection",
+    "last_updated": "2026-06-17"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "SeaDeep",
+    "url": "https://www.seadeep.io/",
+    "notes": "AI platform for ocean mapping, monitoring, underwater inspection using AI for marine robotics autonomy; subsea exploration intelligence; grants $1M+; partners with Seabed 2030; focuses on AI-powered ocean data for coral reefs, pipelines, offshore energy; marine data intensive for real-time underwater perception and mapping",
+    "last_updated": "2026-06-17"
   }
 ]
