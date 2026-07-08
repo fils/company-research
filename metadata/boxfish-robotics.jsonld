@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Boxfish Robotics",
+  "url": "https://www.boxfishrobotics.com/",
+  "description": "Manufactures hovering AUVs, ROVs, and resident AUVs (ARV-i) for marine science, environmental monitoring, coral reef assessment, aquaculture, infrastructure inspection, and filming. AI-powered (NVIDIA Jetson, ROS2), 6DOF precision.",
+  "foundingLocation": "Auckland, NZ",
+  "stage": "Growth / product sales",
+  "businessModel": "Hardware sales (AUV/ROV/ARV + accessories), solutions/services for research/monitoring/aquaculture, training/support",
+  "keyTechnology": "Boxfish AUV (tetherless hovering, 600m, AI autonomy), ARV-i resident vehicle, photogrammetry, 8K video",
+  "marineDataNeeds": {
+    "primaryDataTypes": ["High-res video/imagery", "3D photogrammetry models", "environmental sensor data", "biodiversity assessments"],
+    "keyMeasurements": ["Temp, salinity, DO, currents, species data, structural condition, fish behavior"],
+    "observationPrograms": ["Coral reef monitoring (ICRS 2026 demos)", "aquaculture resident ops", "port/infrastructure surveys"],
+    "gaps": "Scalable persistent ecosystem monitoring; AI pipelines for species/change detection",
+    "interest": "Real-time ocean data feeds, satellite integration, MRV/sensor networks, AI training datasets"
+  },
+  "lastUpdated": "2026-07-08"
+}

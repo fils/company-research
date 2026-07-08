@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Orpheus Ocean",
+  "url": "https://orpheusocean.com/",
+  "description": "Designs, builds, and operates autonomous underwater vehicles (AUVs) for seafloor data collection and monitoring in extreme deep-sea environments up to 11,000m. Cost-effective access for marine resources, offshore infrastructure, subsea defense.",
+  "foundingLocation": "New England, MA, USA",
+  "funding": "$2.8M Pre-Seed; InnovateMass award for offshore wind surveys",
+  "businessModel": "AUV sales, operations, data collection services, grants/partnerships for deep-sea exploration and monitoring",
+  "keyTechnology": "Orpheus AUV with multiple operational modes, small-footprint deep-sea capable, benthic monitoring",
+  "marineDataNeeds": {
+    "primaryDataTypes": ["Seafloor imagery", "bathymetry", "environmental parameters", "benthic ecosystem data"],
+    "keyMeasurements": ["Depth, temperature, salinity, currents, sediment, biodiversity, minerals"],
+    "observationPrograms": ["Seabed 2030", "NOAA Ocean Exploration", "offshore wind site surveys"],
+    "gaps": "High-resolution cost-effective deep-sea data at scale; real-time baselines for permitting/MRV",
+    "interest": "Oceanographic integration, MRV telemetry, multi-sensor fusion"
+  },
+  "lastUpdated": "2026-07-08"
+}
