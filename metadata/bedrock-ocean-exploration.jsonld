@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bedrock Ocean Exploration",
+  "url": "https://www.bedrockocean.com/",
+  "description": "Custom AUVs and cloud-native platform for high-resolution seafloor mapping and monitoring. IHO special-order geophysical surveys for energy, infrastructure, defense, and science.",
+  "sector": "Marine Monitoring & Sensors",
+  "knowsAbout": [
+    "Autonomous underwater vehicles",
+    "Seafloor mapping",
+    "Multibeam bathymetry",
+    "Side-scan sonar",
+    "Sub-bottom profiling",
+    "Offshore wind site characterization"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A-2",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "25000000",
+      "currency": "USD"
+    },
+    "funder": [
+      "Primary",
+      "Northzone",
+      "Costanoa Ventures",
+      "Harmony Partners",
+      "Katapult Ocean",
+      "Autopilot",
+      "Mana Ventures"
+    ],
+    "date": "2025-06",
+    "totalRaisedApprox": "58500000"
+  },
+  "products": [
+    {
+      "@type": "Product",
+      "name": "Bedrock AUV Fleet",
+      "description": "Rapidly deployable AUVs with MBES, SSS, MAG, SBP payloads and edge QA/QC"
+    },
+    {
+      "@type": "Product",
+      "name": "Mosaic",
+      "description": "Cloud-native seafloor data platform"
+    }
+  ],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "bathymetric point clouds",
+      "side-scan imagery",
+      "sub-bottom profiles",
+      "magnetometer grids",
+      "change-detection time series"
+    ],
+    "keyMeasurements": [
+      "depth",
+      "backscatter",
+      "sediment layering",
+      "magnetic anomalies",
+      "cable/route clearance"
+    ],
+    "observationPlatforms": [
+      "custom AUV fleets",
+      "edge compute onboard",
+      "any-vessel launch"
+    ],
+    "knownGaps": [
+      "global high-resolution seafloor coverage",
+      "frequent revisits for change detection at commercial cost"
+    ]
+  },
+  "dateModified": "2026-07-10"
+}

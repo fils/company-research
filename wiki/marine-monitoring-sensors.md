@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-08  
-**Companies Tracked**: 14
+**Last Updated**: 2026-07-10  
+**Companies Tracked**: 17
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -79,8 +79,27 @@ Defense-tech modular AUVs operating in cooperative swarms; "next underwater defe
 - **Funding**: $60M Series A (Dec 2025)
 - **Location**: Rhode Island
 
+
+### HavocAI (NEW 2026-07-10)
+All-domain collaborative autonomy (sea/air/land). $100M Series A (May 2026), ~$200M total. ASV fleets + C2/Insights/Connect/OS software for one-to-many control in DDIL environments. Maritime domain awareness, port security, sensor fusion. Providence, RI.
+- **Site**: [havocai.com](https://www.havocai.com/)
+- **Funding**: $100M Series A (May 2026); ~$200M total
+- **Location**: Providence, RI
+
+### Seasats (NEW 2026-07-10)
+Long-endurance small USVs (Lightfish / Quickfish / Heavyfish) for MDA, defense, science. $20M Series A (Feb 2026); >$40M equity; >$100M gov contracts incl. $24M APFIT. 6-month missions; Taiwan Strait autonomous transit (May 2026).
+- **Site**: [seasats.com](https://seasats.com/)
+- **Funding**: $20M Series A (Konvoy); >$40M equity; >$100M contracts
+- **Location**: San Diego, CA
+
+### Bedrock Ocean Exploration (NEW 2026-07-10)
+Seafloor mapping AUVs + Mosaic cloud platform. IHO special-order MBES/SSS/MAG/SBP surveys. $25M Series A-2 (2025); ~$58.5M total. Any-vessel deploy for offshore wind, cables, ports, defense, science.
+- **Site**: [bedrockocean.com](https://www.bedrockocean.com/)
+- **Funding**: $25M Series A-2 (~$58.5M total)
+- **Location**: US (ocean survey ops)
+
 ## Cross-Company Marine Data Patterns
-- **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring
+- **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)
 - **Survey-grade data**: High-resolution oceanographic and environmental data collection from autonomous platforms
 - **Cost reduction**: Common theme of reducing marine data collection costs through automation (Omission 50-70%, MarineSitu >4000 days durability, Ocean State Sensing 800m+ range)
 - **Conservation focus**: BeamSea targets coral reef health; HALOBLUE targets coastal restoration; others serve broader ocean observation needs

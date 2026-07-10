@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "HavocAI",
+  "alternateName": "Havoc",
+  "url": "https://www.havocai.com/",
+  "description": "All-domain collaborative autonomy company enabling one-to-many control of autonomous assets across sea, air, and land. Software suite (C2, Insights, Connect, OS) plus ASV fleets for maritime domain awareness, port security, and defense logistics.",
+  "sector": "Marine Monitoring & Sensors",
+  "foundingDate": "2024",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Providence",
+      "addressRegion": "RI",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Collaborative autonomy",
+    "Autonomous surface vessels (ASVs)",
+    "Maritime domain awareness",
+    "DDIL communications",
+    "Sensor fusion",
+    "Port security",
+    "Defense autonomous systems"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "100000000",
+      "currency": "USD"
+    },
+    "funder": [
+      "B Capital",
+      "Lockheed Martin",
+      "Outlander VC",
+      "Scout VC",
+      "Clear Street",
+      "SAIC",
+      "Cobalt Capital",
+      "Boardman Bay Capital Management"
+    ],
+    "date": "2026-05",
+    "totalRaisedApprox": "200000000"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Paul Lwin"
+  },
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "multi-sensor maritime domain awareness streams",
+      "ASV telemetry and edge mission logs",
+      "radar / EO-IR / AIS fusion products",
+      "port and critical infrastructure patrol data"
+    ],
+    "keyMeasurements": [
+      "vessel tracks without AIS",
+      "threat classification confidence",
+      "comms-degraded network health",
+      "real-time situational awareness coverage"
+    ],
+    "observationPlatforms": [
+      "ASV fleets",
+      "heterogeneous air/surface/ground autonomous assets",
+      "edge AI nodes"
+    ],
+    "knownGaps": [
+      "persistent wide-area ocean sensing under DDIL conditions",
+      "cross-platform sensor calibration at fleet scale"
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "media@havocai.com"
+  },
+  "dateModified": "2026-07-10"
+}

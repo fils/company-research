@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Seasats",
+  "url": "https://seasats.com/",
+  "description": "Long-endurance small uncrewed surface vehicles (Lightfish, Quickfish, Heavyfish) for maritime domain awareness, defense, commercial, and scientific missions. Modular 50+ payload library; data-as-a-service option.",
+  "sector": "Marine Monitoring & Sensors",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "addressCountry": "USA"
+    }
+  },
+  "knowsAbout": [
+    "Uncrewed surface vehicles (USVs)",
+    "Maritime domain awareness",
+    "Long-endurance ocean sensing",
+    "Modular ocean payloads",
+    "Autonomous maritime security"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "name": "Series A",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": "20000000",
+      "currency": "USD"
+    },
+    "funder": [
+      "Konvoy Ventures",
+      "Shield Capital",
+      "DNS Capital",
+      "Techstars",
+      "Tanis Venture Management",
+      "Crumpton Ventures",
+      "Dorado Group"
+    ],
+    "date": "2026-02",
+    "totalEquityApprox": "40000000+",
+    "governmentContractsApprox": "100000000+"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Mike Flanigan"
+  },
+  "products": [
+    {
+      "@type": "Product",
+      "name": "Lightfish",
+      "description": "Hand-deployable long-endurance sUSV"
+    },
+    {
+      "@type": "Product",
+      "name": "Quickfish",
+      "description": "High-speed interceptor USV"
+    },
+    {
+      "@type": "Product",
+      "name": "Heavyfish",
+      "description": "Higher payload hybrid USV for MDA/ASW/sonar"
+    }
+  ],
+  "dataNeeds": {
+    "primaryDataTypes": [
+      "surface ocean sensor streams",
+      "MDA tracks",
+      "acoustic/optical payload data",
+      "metocean time series"
+    ],
+    "keyMeasurements": [
+      "wave height",
+      "wind speed",
+      "SST",
+      "vessel detections without AIS",
+      "HAB indicators",
+      "pipeline anomaly signals"
+    ],
+    "observationPlatforms": [
+      "Lightfish",
+      "Quickfish",
+      "Heavyfish",
+      "UAS launched from USV"
+    ],
+    "knownGaps": [
+      "ocean-wide persistent coverage at affordable cost",
+      "real-time multi-payload fusion at fleet scale"
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "info@seasats.com"
+  },
+  "dateModified": "2026-07-10"
+}

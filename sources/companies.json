@@ -3,7 +3,7 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Ebb Carbon",
     "url": "https://www.ebbcarbon.com/",
-    "notes": "Electrochemical CDR from brine; $20M Series A (2026) \u2014 largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Project Macoma operational OAE pilot (Feb 2026); salmon ecological safety study (Feb 2026)",
+    "notes": "Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Project Macoma operational OAE pilot (Feb 2026); salmon ecological safety study (Feb 2026)",
     "last_updated": "2026-05-26"
   },
   {
@@ -73,7 +73,7 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "SeaO2",
     "url": "https://www.seao2.com/",
-    "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; preparing \u20ac12M Series A for early 2027; \u20ac2M+ seed raised; BlueInvest recognition (EU Commission, Feb 2026); GCNE accelerator selected; R&D MIT subsidy with Redstack for Carbon Stream project; nominated for Offshore Wind Innovators Award 2025; Hello Tomorrow Deep Tech Pioneer; marine MRV intensive; EC DOC workshop participation informing CRCF certification",
+    "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; preparing €12M Series A for early 2027; €2M+ seed raised; BlueInvest recognition (EU Commission, Feb 2026); GCNE accelerator selected; R&D MIT subsidy with Redstack for Carbon Stream project; nominated for Offshore Wind Innovators Award 2025; Hello Tomorrow Deep Tech Pioneer; marine MRV intensive; EC DOC workshop participation informing CRCF certification",
     "last_updated": "2026-05-26"
   },
   {
@@ -232,7 +232,7 @@
   },
   {
     "sector": "Offshore Energy",
-    "name": "\u00d8rsted",
+    "name": "Ørsted",
     "url": "https://orsted.com/",
     "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
     "last_updated": "2026-05-16"
@@ -290,7 +290,7 @@
     "sector": "Ocean Data & AI",
     "name": "Amphitrite",
     "url": "https://www.amphitrite.fr/",
-    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); \u20ac1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
+    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); €1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
     "last_updated": "2026-05-16"
   },
   {
@@ -304,8 +304,8 @@
     "sector": "Ocean Data & AI",
     "name": "Coastal Measures",
     "url": "https://www.coastalmeasures.com/",
-    "notes": "Coastal intelligence platform (CUMULUS) powered by YSOK AI; unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into governed data fabric; automated QA/QC; NOAA, USACE, NSF, Sofar Ocean partners; VentureWell OEA Stage 2 (spring 2026); Greenland, NH",
-    "last_updated": "2026-05-17"
+    "notes": "Coastal intelligence platform (CUMULUS) powered by YSOK AI; unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into governed data fabric; automated QA/QC; NOAA, USACE, NSF, Sofar Ocean partners; VentureWell OEA Stage 2 (spring 2026); Greenland, NH; $260K seed from Maine Angels (2026); also positions CUMULUS for coastal risk analytics, hydrokinetic site identification, resilient-community intelligence",
+    "last_updated": "2026-07-10"
   },
   {
     "sector": "Ocean Data & AI",
@@ -444,22 +444,15 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "Vatn Systems",
     "url": "https://www.vatnsystems.com/",
-    "notes": "Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) \u2014 one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manufacturing facility; first international contract: Singapore; advanced navigation in GPS/comm-denied environments; stealthy low-bandwidth inter-vehicle comms; 'next underwater defense prime' positioning; customers: US Navy, allied navies, research institutions",
+    "notes": "Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) — one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manufacturing facility; first international contract: Singapore; advanced navigation in GPS/comm-denied environments; stealthy low-bandwidth inter-vehicle comms; 'next underwater defense prime' positioning; customers: US Navy, allied navies, research institutions",
     "last_updated": "2026-06-01"
   },
   {
     "sector": "Ocean Data & AI",
     "name": "Quartermaster",
     "url": "https://www.quartermaster.us/",
-    "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model \u2014 free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
+    "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model — free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
     "last_updated": "2026-06-01"
-  },
-  {
-    "sector": "Coastal Risk & Intelligence",
-    "name": "Coastal Measures",
-    "url": "https://www.coastalmeasures.com/",
-    "notes": "CUMULUS platform for coastal risk analytics, hydrokinetic site identification, resilient-community intelligence; AI-driven coastal data platform; $260K seed from Maine Angels (2026); focuses on ocean data intelligence for blue economy projects and coastal communities; strong marine data needs for risk modeling and site selection",
-    "last_updated": "2026-06-17"
   },
   {
     "sector": "Ocean Data & AI",
@@ -481,5 +474,26 @@
     "url": "https://www.boxfishrobotics.com/",
     "notes": "Hovering AUV and resident vehicles for marine science, environmental monitoring, coral reef ecosystem assessment, infrastructure inspection; 6DOF thrusters, NVIDIA Jetson AI, ROS2; reliable for research and conservation; Auckland, NZ; 11-50 employees; active demos at ICRS 2026; marine data intensive for biodiversity mapping and monitoring",
     "last_updated": "2026-07-08"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "HavocAI",
+    "url": "https://www.havocai.com/",
+    "notes": "All-domain collaborative autonomy (sea/air/land); $100M Series A (May 2026) bringing total capital to ~$200M; Providence RI; 100+ ASVs built/deployed, 30+ delivered to DoD, 25,000+ autonomous hours; software suite (C2, Insights, Connect, OS) for one-to-many control in DDIL environments; maritime domain awareness, port security, sensor fusion; investors include B Capital, Lockheed Martin, Outlander VC, Scout VC, SAIC, Clear Street; RIMPAC 2026 demo; Fast Company Top Defense Tech 2026",
+    "last_updated": "2026-07-10"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Seasats",
+    "url": "https://seasats.com/",
+    "notes": "Small uncrewed surface vehicles (sUSVs) for long-endurance ocean sensing & MDA; $20M Series A (Feb 2026, Konvoy Ventures lead) — >$40M total equity; >$100M US government contracts including $24M DoW APFIT; San Diego; Lightfish/Quickfish/Heavyfish product line; 6-month endurance missions; 50+ modular payloads; Taiwan Strait autonomous transit (May 2026); data-as-a-service option",
+    "last_updated": "2026-07-10"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Bedrock Ocean Exploration",
+    "url": "https://www.bedrockocean.com/",
+    "notes": "Seafloor mapping AUVs + cloud data platform (Mosaic); $25M Series A-2 (Jun 2025) led by Primary/Northzone (Costanoa, Harmony Partners, Katapult Ocean et al.); total funding ~$58.5M over 3 rounds; IHO special-order geophysical surveys (MBES, SSS, MAG, SBP); deploy from any vessel; offshore wind, subsea cables, ports, defense MDA, science; edge QA/QC during acquisition",
+    "last_updated": "2026-07-10"
   }
 ]
