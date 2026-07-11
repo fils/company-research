@@ -2,24 +2,25 @@
 
 Sector overview for ocean-based carbon dioxide removal companies.
 
-## Companies (15 monitored)
+## Companies (16 monitored)
 | Company | Technology | Funding Status | Marine Data Dependency |
 |---------|-----------|---------------|----------------------|
-| [Ebb Carbon](/wiki/ebb-carbon.md) | Electrochemical brine processing + OAE | Series A | Very High |
+| [Ebb Carbon](/wiki/ebb-carbon.md) | Electrochemical brine processing + OAE | $20M Series A | Very High |
 | [Captura](/wiki/captura.md) | Direct Ocean Capture (DOC) via BPMED | $45.3M Series A | Extremely High |
-| [Planetary Technologies](/wiki/planetary-technologies.md) | Ocean Alkalinity Enhancement (OAE) | Undisclosed | Extremely High |
+| [Planetary Technologies](/wiki/planetary-technologies.md) | Ocean Alkalinity Enhancement (OAE) | ~$15.2M Series A; $31M Frontier | Extremely High |
 | [Running Tide](/wiki/running-tide.md) | Biomass sequestration | Seed | Very High |
 | [Equatic](/wiki/equatic.md) | Seawater electrolysis + H2 production | $11.6M Series A | Extremely High |
 | [Vaulted Deep](/wiki/vaulted-deep.md) | Biomass carbon removal | Seed | Moderate |
 | [Seabound](/wiki/seabound.md) | Shipboard carbon capture | Undisclosed | High |
-| [Gigablue](/wiki/gigablue.md) | AI-optimized ocean CDR | Seed | Very High |
+| [Gigablue](/wiki/gigablue.md) | AI-optimized ocean CDR | $20M Series A | Very High |
 | [Limenet](/wiki/limenet.md) | AWL pH equilibration | Pre-commercial | Very High |
 | [Kelp Blue](/wiki/kelp-blue.md) | Giant kelp cultivation for blue carbon | Seed | High |
-| [SeaO2](/wiki/seao2.md) | Electrochemical DOC | Pre-commercial | Extremely High |
+| [SeaO2](/wiki/seao2.md) | Electrochemical DOC | Pre-commercial; €12M Series A prep | Extremely High |
 | [pHathom Technologies](/wiki/phathom-technologies.md) | AWL + biomass CO2 dissolution | $4M seed, $12M comm. | Extremely High |
 | [Calcarea](/wiki/calcarea.md) | AWL ship-board CCS | $3.5M seed | Extremely High |
 | [Carbon Time](/wiki/carbon-time.md) | OAE (multi-method) | Team for the Planet | Extremely High |
 | [Apeiron Labs](/wiki/apeiron-labs.md) | AUV ocean data platform | $9.5M Series A (Feb 2026) | Core Business |
+| [Pronoe](/wiki/pronoe.md) (NEW) | Asset-light electrochemical OAE on industrial discharge | $3.05M Frontier/Google pre-purchase | Very High |
 
 ## Cross-Company Marine Data Patterns
 - **Universal demand**: Real-time carbonate chemistry (pH, DIC, alkalinity) monitoring
@@ -37,7 +38,8 @@ Sector overview for ocean-based carbon dioxide removal companies.
 - pHathom: $4M seed (2026), $12M committed total
 - Calcarea: $3.5M seed
 - Apeiron Labs: $9.5M Series A (Feb 2026) — AUV-based ocean data platform
-- Frontier prepurchases supporting multiple CDR startups (Planetary, Ebb Carbon, others)
+- Pronoe: $3.05M Frontier/Google pre-purchase — asset-light electrochemical OAE on industrial discharge; Frontier's first French portfolio company
+- Frontier prepurchases supporting multiple CDR startups (Planetary, Ebb Carbon, Pronoe, others)
 
 ---
-**Last updated: 2026-05-26**
+**Last updated: 2026-07-11**

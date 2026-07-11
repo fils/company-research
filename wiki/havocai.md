@@ -25,6 +25,9 @@ HavocAI (branded Havoc) builds all-domain collaborative autonomy software and pl
 - Sensor fusion (radar, EO/IR, AIS) for track classification
 - Air/land expansion via Mavrik and Teleo acquisitions
 - RIMPAC 2026 demo planned
+- **Metal Shark partnership** (Jul 1, 2026): integrating HavocAI autonomy into combat-ready vessel fleets
+- **Hanwha partnership** (Jul 2026): jointly developing 200-foot autonomous surface vessels (ASV)
+- **Newsweek America's Greatest Startup Workplaces 2026** (Jul 2026)
 
 ### Data & Measurement Needs
 - Primary data types: multi-sensor maritime domain awareness streams; ASV/edge telemetry; radar/EO-IR/AIS fusion products; port patrol sensor feeds
@@ -33,7 +36,7 @@ HavocAI (branded Havoc) builds all-domain collaborative autonomy software and pl
 - Known data gaps: persistent ocean sensing under contested comms; cross-platform sensor calibration at fleet scale; high-fidelity ocean environment models for autonomy planning
 - Interest in external data services: High — bathymetry, metocean forecasts, AIS reference feeds, satellite MDA, and coastal baseline maps improve mission planning and fusion quality
 
-**Last Updated**: 2026-07-10
+**Last Updated**: 2026-07-11
 
 ---
 **Cross-links**: [Marine Monitoring & Sensors](marine-monitoring-sensors.md)

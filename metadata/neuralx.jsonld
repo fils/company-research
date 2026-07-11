@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "NeuralX",
+  "url": "https://neuralx.ai/",
+  "description": "Decision intelligence platform for aquaculture that turns underwater camera feeds into actionable insights on feeding, harvest timing, and fish health using proprietary AI and 3D synthetic training data.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Los Angeles, California, USA"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Masaki Nakada",
+    "jobTitle": "Founder & CEO",
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "UCLA"
+    },
+    "award": ["MIT Technology Review Innovators Under 35 Japan", "Forbes Next 1000"]
+  },
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": "2-10"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "100000",
+    "description": "Ocean Exchange 2025 Winner ($100K prize) + Neptune Award. 7+ paid pilots active. Crunchbase-listed with partially disclosed funding."
+  },
+  "award": [
+    "Ocean Exchange 2025 Winner ($100,000)",
+    "Ocean Exchange Neptune Award 2025"
+  ],
+  "keywords": ["aquaculture", "AI", "computer vision", "fish health", "biomass estimation", "decision intelligence", "synthetic training data", "underwater video", "salmon", "Kanpachi"],
+  "knowsAbout": [
+    "Real-time fish counting from underwater cameras",
+    "Biomass estimation with 92%+ accuracy",
+    "Satiation detection for feed optimization",
+    "Early disease detection via behavioral anomalies",
+    "3D synthetic training data generation",
+    "Artificial life simulation for AI training"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "contact@neuralx.ai",
+    "url": "https://www.neuralx.ai/#contact",
+    "contactType": "sales"
+  },
+  "last_updated": "2026-07-11"
+}

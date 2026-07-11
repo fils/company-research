@@ -479,8 +479,8 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "HavocAI",
     "url": "https://www.havocai.com/",
-    "notes": "All-domain collaborative autonomy (sea/air/land); $100M Series A (May 2026) bringing total capital to ~$200M; Providence RI; 100+ ASVs built/deployed, 30+ delivered to DoD, 25,000+ autonomous hours; software suite (C2, Insights, Connect, OS) for one-to-many control in DDIL environments; maritime domain awareness, port security, sensor fusion; investors include B Capital, Lockheed Martin, Outlander VC, Scout VC, SAIC, Clear Street; RIMPAC 2026 demo; Fast Company Top Defense Tech 2026",
-    "last_updated": "2026-07-10"
+    "notes": "All-domain collaborative autonomy (sea/air/land); $100M Series A (May 2026) bringing total capital to ~$200M; Providence RI; 100+ ASVs built/deployed, 30+ delivered to DoD, 25,000+ autonomous hours; software suite (C2, Insights, Connect, OS) for one-to-many control in DDIL environments; maritime domain awareness, port security, sensor fusion; investors include B Capital, Lockheed Martin, Outlander VC, Scout VC, SAIC, Clear Street; RIMPAC 2026 demo; Fast Company Top Defense Tech 2026; Metal Shark partnership (Jul 2026) for combat-ready autonomous fleets; Hanwha partnership (Jul 2026) for 200-foot ASV development; Newsweek America's Greatest Startup Workplaces 2026",
+    "last_updated": "2026-07-11"
   },
   {
     "sector": "Marine Monitoring & Sensors",
@@ -490,10 +490,31 @@
     "last_updated": "2026-07-10"
   },
   {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "Pronoe",
+    "url": "https://www.pronoe.earth/",
+    "notes": "Asset-light electrochemical alkalinity enhancement on industrial discharge streams; $3.05M Frontier/Google carbon removal pre-purchase (Frontier's first French portfolio company); automated water treatment systems co-located at industrial sites; coastal acidification mitigation co-benefit; France-based; Bpifrance/French Tech/EIT/AirMiners affiliations",
+    "last_updated": "2026-07-11"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Aquaticode",
+    "url": "https://aquaticode.com/",
+    "notes": "AI-powered aquaculture phenotyping; $6M Series A (Aug 2022, Nacre Capital, Innocreative Capital, Martin Halusa, Einar Wathne); SORTpro automatic high-speed salmon gender sorting (10K fish/hr, >95% accuracy); SORTvax vaccination optimization; >3M image/video training database; >15 industrial research partnerships; contracts for 60M fish sorted; Norway-based; NCE Seafood Innovation Cluster; expanding to bass/bream 2026",
+    "last_updated": "2026-07-11"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "NeuralX",
+    "url": "https://neuralx.ai/",
+    "notes": "Decision intelligence for aquaculture from underwater video feeds; Ocean Exchange 2025 Winner ($100K) + Neptune Award; proprietary 3D Artificial Life Simulation Engine for synthetic training data (DeepFoids NeurIPS 2022); 92%+ biomass accuracy, 0.43cm length error; performance-based pricing (25% of savings, 4.0x ROI); 7+ paid pilots (Kanpachi, Tiger Prawn, Salmon); founder Masaki Nakada (UCLA PhD, MIT TR35 Japan, Forbes Next 1000); Los Angeles-based",
+    "last_updated": "2026-07-11"
+  },
+  {
     "sector": "Marine Monitoring & Sensors",
     "name": "Bedrock Ocean Exploration",
     "url": "https://www.bedrockocean.com/",
     "notes": "Seafloor mapping AUVs + cloud data platform (Mosaic); $25M Series A-2 (Jun 2025) led by Primary/Northzone (Costanoa, Harmony Partners, Katapult Ocean et al.); total funding ~$58.5M over 3 rounds; IHO special-order geophysical surveys (MBES, SSS, MAG, SBP); deploy from any vessel; offshore wind, subsea cables, ports, defense MDA, science; edge QA/QC during acquisition",
-    "last_updated": "2026-07-10"
+    "last_updated": "2026-07-11"
   }
 ]

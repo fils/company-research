@@ -85,6 +85,7 @@ All-domain collaborative autonomy (sea/air/land). $100M Series A (May 2026), ~$2
 - **Site**: [havocai.com](https://www.havocai.com/)
 - **Funding**: $100M Series A (May 2026); ~$200M total
 - **Location**: Providence, RI
+- **Updates (Jul 2026)**: Metal Shark partnership for combat-ready autonomous fleets; Hanwha partnership for 200-foot ASV development; Newsweek America's Greatest Startup Workplaces 2026
 
 ### Seasats (NEW 2026-07-10)
 Long-endurance small USVs (Lightfish / Quickfish / Heavyfish) for MDA, defense, science. $20M Series A (Feb 2026); >$40M equity; >$100M gov contracts incl. $24M APFIT. 6-month missions; Taiwan Strait autonomous transit (May 2026).

@@ -2,7 +2,7 @@
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (12 monitored)
+## Companies (14 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -15,8 +15,10 @@ Sector overview for aquaculture technology and monitoring companies.
 | [Nearview LLC](/wiki/nearview-llc.md) | Multi-object AI for lobster buoys/gear detection from aerial/satellite imagery | Moderate |
 | [ORCA](/wiki/orca.md) | AI foundation models predicting environmental shocks to fisheries/aquaculture | Critical |
 | [MacroBreed](/wiki/macrobreed.md) | Kelp genomics & selective breeding; $11M+ grants; 300% yield improvement | High |
-| [Dirigo Sea Farm](/wiki/dirigo-sea-farm.md) (NEW) | Seaweed-based biomaterials for plastic replacement; kelp cultivation | High |
-| [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) (NEW) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
+| [Dirigo Sea Farm](/wiki/dirigo-sea-farm.md) | Seaweed-based biomaterials for plastic replacement; kelp cultivation | High |
+| [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
+| [Aquaticode](/wiki/aquaticode.md) (NEW) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
+| [NeuralX](/wiki/neuralx.md) (NEW) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -32,6 +34,9 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Marine spatial AI**: Nearview LLC's multi-object detection for buoy/gear identification helps deconflict aquaculture sites with commercial fishing operations — critical as ocean space becomes more contested
 - **eDNA/RNA monitoring**: Nucleic Sensing Systems brings continuous, autonomous molecular-level biosensing — unique capability for aquaculture health management and pathogen detection
 - **Sustainable biomaterials**: Dirigo Sea Farm's kelp-derived materials expand aquaculture value chain into downstream products, increasing demand for cultivation site monitoring
+- **Performance-based AI pricing**: NeuralX's 25%-of-savings model is a novel go-to-market — aligns incentives with farm profitability and removes adoption barriers
+- **Synthetic training data moat**: NeuralX's 3D Artificial Life Simulation Engine generates rare-event training data (disease outbreaks, equipment failures) that competitors cannot capture in the wild — a defensible technical moat for computer vision in aquaculture
+- **Genotype-phenotype decoding**: Aquaticode's research into mapping visual expression (phenotype) to DNA (genotype) represents a frontier approach beyond simple gender sorting — could enable predictive breeding from pixel data
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -43,4 +48,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-05-25*
+*Last updated: 2026-07-11*

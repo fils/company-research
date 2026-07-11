@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Aquaticode",
+  "url": "https://aquaticode.com/",
+  "description": "AI-powered aquaculture technology company building machine learning solutions to optimize farm production, including automated fish sorting by gender and performance traits.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Norway"
+  },
+  "founder": {
+    "@type": "Organization",
+    "name": "Nacre Capital"
+  },
+  "ceo": {
+    "@type": "Person",
+    "name": "Stian Rognlid"
+  },
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": "11-50"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "6000000",
+    "description": "Series A (first external round, August 2022). Investors: Nacre Capital, Innocreative Capital, Martin Halusa (former Apax chairman), Einar Wathne (NCE Seafood Innovation Cluster chairman)."
+  },
+  "keywords": ["aquaculture", "AI", "machine learning", "computer vision", "salmon farming", "fish sorting", "phenotyping", "Norway"],
+  "knowsAbout": [
+    "Machine vision for fish phenotyping",
+    "Gender sorting in juvenile salmon",
+    "Non-invasive fish identification",
+    "Feed Conversion Ratio optimization",
+    "Aquaculture production efficiency"
+  ],
+  "memberOf": {
+    "@type": "Organization",
+    "name": "NCE Seafood Innovation Cluster"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "url": "https://aquaticode.com/contact/",
+    "contactType": "sales"
+  },
+  "last_updated": "2026-07-11"
+}

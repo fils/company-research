@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Pronoe",
+  "url": "https://www.pronoe.earth/",
+  "description": "French ocean carbon removal company developing automated water treatment systems that restore the ocean's natural capacity to permanently remove CO2 from the air using electrochemical alkalinity enhancement on industrial discharge streams.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "France"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "3050000",
+    "description": "Frontier carbon removal pre-purchase: $3.05M (facilitated by Frontier on behalf of Google). Initial $500K catalytic pre-purchase (2025), expanded to $3.05M. Frontier's first French portfolio company."
+  },
+  "keywords": ["ocean carbon removal", "alkalinity enhancement", "CDR", "carbon credits", "coastal acidification", "water treatment", "industrial discharge", "France", "Frontier", "asset-light"],
+  "knowsAbout": [
+    "Electrochemical alkalinity enhancement of industrial outflows",
+    "Ocean carbon dioxide removal (CDR)",
+    "Coastal acidification mitigation",
+    "CO2 removal certificate issuance",
+    "Asset-light CDR using existing industrial infrastructure"
+  ],
+  "memberOf": [
+    {"@type": "Organization", "name": "Bpifrance"},
+    {"@type": "Organization", "name": "French Tech"},
+    {"@type": "Organization", "name": "EIT (European Institute of Innovation & Technology)"},
+    {"@type": "Organization", "name": "AirMiners"},
+    {"@type": "Organization", "name": "Frontier Climate portfolio"}
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "hello@pronoe.earth",
+    "url": "https://www.pronoe.earth/",
+    "contactType": "general"
+  },
+  "last_updated": "2026-07-11"
+}
