@@ -12,7 +12,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - Satellite-derived oceanographic products (SWOT, altimetry, SAR, optical)
 - Bridging the gap between public ocean data and commercial applications
 
-**Companies Profiled (5 companies)**
+**Companies Profiled (7 companies)**
 
 - **Amphitrite**: AI-powered ocean data intelligence platform. Combines satellite data (SWOT, altimetry, SAR) with in-situ measurements and predictive AI for real-time maritime intelligence. Serves commercial shipping, naval defence, and offshore operations. €1.2M seed (2024). Partners include SHOM, CNES, ESA, Mercator Ocean, CMA CGM, Subsea7. Supported by NVIDIA Inception and Microsoft GenAI Studio.
 
@@ -22,6 +22,10 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 
 - **Dottir Labs** (NEW): MIT spinout developing real-time molecular-level water quality monitoring via patented Raman spectroscopy. Reagent-free, non-destructive optical sensors for aquaculture, biotech, oil & gas, chemical manufacturing. VentureWell OEA Stage 2 (Spring 2026). BlueSwell Cohort V.
 - **Quartermaster** (NEW): SmartMast distributed maritime sensing network mounted on commercial vessels worldwide. 600+ ships across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS; 20+ maritime rescues. $43M Series A (May 2026) co-led by First Round Capital and Quiet Capital. Positions as upgrade over fraud-prone AIS via "pro-mariner" model. Founder/CEO Neil Sobin. Arlington, VA.
+
+- **SeaDeep** (NEW): AI platform for ocean mapping, monitoring, underwater inspection. AI-powered marine robotics autonomy for subsea exploration intelligence. $1M+ grants. Partners with Seabed 2030. Focuses on coral reefs, pipelines, offshore energy.
+
+- **Sofar Ocean** (NEW): Largest privately-owned ocean sensor network in the world. 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations. ~$75-78.5M total funding (Series B $39M led by USV/Foundry Group). Products: Spotter Platform (surface/subsurface sensing), Wayfinder (voyage optimization, 4-8% fuel reduction), Marine Weather (50% more accurate than traditional models). Partners: NOAA, US Navy, NVIDIA, MOL, MITRE, ONR. In-Q-Tel backed. San Francisco HQ.
 
 **Cross-Sector Synergies**
 
@@ -44,5 +48,5 @@ This sector is highly complementary to every other sector in the knowledge graph
 - VentureWell OEA Spring 2026 cohorts revealed 51 startups across Stages 0-2 — heavy concentration in data/sensor/AI solutions
 
 ---
-*Last updated: 2026-06-01*
-**Total Companies**: 5 (Ocean Data & AI sector — emerging, +1 this update)
+*Last updated: 2026-07-12*
+**Total Companies**: 7 (Ocean Data & AI sector — +2 this update: SeaDeep, Sofar Ocean)

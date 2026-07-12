@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-10  
-**Companies Tracked**: 17
+**Last Updated**: 2026-07-12  
+**Companies Tracked**: 18
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -98,6 +98,12 @@ Seafloor mapping AUVs + Mosaic cloud platform. IHO special-order MBES/SSS/MAG/SB
 - **Site**: [bedrockocean.com](https://www.bedrockocean.com/)
 - **Funding**: $25M Series A-2 (~$58.5M total)
 - **Location**: US (ocean survey ops)
+
+### Saronic Technologies (NEW)
+Autonomous surface vessels (ASVs) for defense maritime autonomy. $1.75B Series D at $9.25B valuation (Mar 2026), ~$2.6B total funding. Product line: Spyglass (6'), Corsair (24'), Mirage (52'), Marauder (180'). US Navy MUSV Marketplace, DARPA Pulling Guard, NVIDIA partnership. Austin TX HQ, $300M Louisiana shipyard.
+- **Site**: [saronic.com](https://www.saronic.com/)
+- **Funding**: ~$2.6B total ($1.75B Series D, Mar 2026, $9.25B valuation)
+- **Location**: Austin, TX
 
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)

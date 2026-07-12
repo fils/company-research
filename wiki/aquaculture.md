@@ -2,7 +2,7 @@
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (14 monitored)
+## Companies (15 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -19,6 +19,7 @@ Sector overview for aquaculture technology and monitoring companies.
 | [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
 | [Aquaticode](/wiki/aquaticode.md) (NEW) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
 | [NeuralX](/wiki/neuralx.md) (NEW) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
+| [Tidal](/wiki/tidal.md) (NEW) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -48,4 +49,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-07-11*
+*Last updated: 2026-07-12*

@@ -516,5 +516,26 @@
     "url": "https://www.bedrockocean.com/",
     "notes": "Seafloor mapping AUVs + cloud data platform (Mosaic); $25M Series A-2 (Jun 2025) led by Primary/Northzone (Costanoa, Harmony Partners, Katapult Ocean et al.); total funding ~$58.5M over 3 rounds; IHO special-order geophysical surveys (MBES, SSS, MAG, SBP); deploy from any vessel; offshore wind, subsea cables, ports, defense MDA, science; edge QA/QC during acquisition",
     "last_updated": "2026-07-11"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Saronic Technologies",
+    "url": "https://www.saronic.com/",
+    "notes": "Autonomous surface vessels (ASVs) for defense maritime autonomy; $1.75B Series D (Mar 2026) at $9.25B valuation; total funding ~$2.6B; product line: Spyglass (6'), Corsair (24', 1000+nm, 35+kt, 1000lb payload), Mirage (52', 2500+nm, 3500lb), Marauder (180', 5400nm, 150MT payload); US Navy MUSV Marketplace selected; DARPA Pulling Guard program; NVIDIA strategic collaboration; Path Robotics manufacturing AI partnership; Lloyd's Register partnership (UK/EU/AUS); Taiwan NCSIST MOU; Castelion hypersonic launch demo; Hornbeck Offshore partnership; $300M Louisiana shipyard expansion (3200 jobs); San Diego West Coast facility; a16z American Dynamism 50: AI Edition; Austin TX HQ; founded 2023",
+    "last_updated": "2026-07-12"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Sofar Ocean",
+    "url": "https://www.sofarocean.com/",
+    "notes": "Largest privately-owned ocean sensor network in the world; 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations; total funding ~$75-78.5M (Series B $39M led by USV/Foundry Group; Series B-III $22.25M Dec 2024); investors: Union Square Ventures, True Ventures, Craft Ventures, In-Q-Tel, Hartree Partners; products: Spotter Platform (surface/subsurface sensing: waves, wind, weather, sound, currents, temp, water quality), Wayfinder (voyage optimization: 4-8% fuel reduction), Marine Weather (50% more accurate than traditional models); partners: NOAA, US Navy, NVIDIA, MOL, MITRE, ONR, UWA, UT; Spotter Scout mobile autonomous; San Francisco HQ",
+    "last_updated": "2026-07-12"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Tidal",
+    "url": "https://www.tidalx.ai/en",
+    "notes": "AI-powered underwater vision + robotics for aquaculture; Alphabet/X (moonshot factory) spinout (Aug 2024); funding from Perry Creek, Kverva-backed IVC, Futurum Ventures; Orca camera system (newest gen); 300+ cameras deployed with Mowi; real-time biomass estimation, sea lice detection, fish welfare monitoring, autonomous feeding; NS9415 hardware certification; Google Cloud infrastructure; TIME Best Inventions 2023; strategic collaborations: Mowi (individual fish ID for salmon breeding), SalMar; expanding to Chile, Australia, Norway (Bergen office); Mountain View CA HQ + Bergen Norway office; ex-Aquabyte sales exec as Norway GM; 'fishal recognition' individual fish tracking",
+    "last_updated": "2026-07-12"
   }
 ]

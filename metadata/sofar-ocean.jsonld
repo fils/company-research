@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Sofar Ocean",
+  "url": "https://www.sofarocean.com/",
+  "description": "Operator of the largest privately-owned ocean sensor network in the world. Provides real-time ocean data, voyage optimization, and marine weather forecasting for governments, defense, and commercial shipping.",
+  "foundingDate": "2019",
+  "foundingLocation": "San Francisco, California, USA",
+  "funding": {
+    "total": "~$75-78.5M",
+    "rounds": [
+      {
+        "type": "Series A",
+        "amount": "$7M",
+        "date": "2019",
+        "leadInvestors": ["Peter Rive", "True Ventures"]
+      },
+      {
+        "type": "Series B",
+        "amount": "$39M",
+        "leadInvestors": ["Union Square Ventures", "Foundry Group"]
+      },
+      {
+        "type": "Series B-III",
+        "amount": "$22.25M",
+        "date": "2024-12"
+      }
+    ]
+  },
+  "investors": ["Union Square Ventures", "True Ventures", "Craft Ventures", "In-Q-Tel", "Hartree Partners", "Foundry Group"],
+  "products": [
+    {
+      "name": "Spotter Platform",
+      "description": "Global network of 2,500+ solar-powered ocean sensing platforms; surface (waves, wind, weather) and subsurface (sound, currents, temp, water quality, water level)"
+    },
+    {
+      "name": "Wayfinder",
+      "description": "Voyage optimization software; 4-8% average fuel reduction; daily routing and RPM guidance"
+    },
+    {
+      "name": "Marine Weather",
+      "description": "Ocean weather forecasting 50% more accurate than traditional models"
+    },
+    {
+      "name": "Spotter Scout",
+      "description": "Mobile autonomous surface platform for survey, transit, and station-keeping"
+    }
+  ],
+  "scaleMetrics": {
+    "observationsPerDay": "1.5M",
+    "spottersDeployed": "2500+",
+    "hoursOfObservations": "25M+"
+  },
+  "partners": ["NOAA", "US Navy", "NVIDIA", "MOL", "MITRE", "ONR", "UWA", "UT", "Eagle Bulk Shipping", "Quinault Indian Nation"],
+  "keyTechnology": [
+    "Largest privately-owned ocean sensor network (2,500+ Spotters)",
+    "Real-time wave, wind, weather, subsurface acoustic/oceanographic data",
+    "Proprietary ocean weather models (50% more accurate)",
+    "Voyage optimization algorithms (4-8% fuel savings)",
+    "Solar-powered long-endurance sensor platforms",
+    "Mobile autonomous surface platforms",
+    "Ocean intelligence data fusion"
+  ],
+  "marineDataNeeds": {
+    "dataTypes": ["wave spectra", "wind vectors", "atmospheric pressure", "sea surface temperature", "subsurface acoustics", "ocean currents", "water quality parameters", "water level"],
+    "measurements": ["significant wave height", "wave period/direction", "wind speed/direction", "sea surface temperature", "subsurface temperature profiles", "ocean current speed/direction", "dissolved oxygen", "pH", "turbidity", "acoustic signatures"],
+    "observationPlatforms": ["Spotter drifter network (2,500+ units)", "Spotter Scout autonomous surface vehicles", "satellite remote sensing integration", "shipboard telemetry via Wayfinder"],
+    "dataGaps": ["deep ocean subsurface coverage below Spotter drifter depth", "Arctic ocean observation coverage", "real-time data density in Southern Hemisphere"],
+    "externalDataInterest": "satellite altimetry, Argo float data, NOAA buoy network integration, additional subsurface sensor partnerships"
+  },
+  "sector": "Ocean Data & AI",
+  "lastUpdated": "2026-07-12"
+}

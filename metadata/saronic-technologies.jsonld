@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Saronic Technologies",
+  "url": "https://www.saronic.com/",
+  "description": "Autonomous surface vessel (ASV) manufacturer for defense maritime autonomy. Designs and manufactures AI-driven unmanned surface vessels for the US Navy and allied navies.",
+  "foundingDate": "2023",
+  "foundingLocation": "Austin, Texas, USA",
+  "numberOfEmployees": "1000+",
+  "funding": {
+    "total": "~$2.6B",
+    "rounds": [
+      {
+        "type": "Series A",
+        "amount": "$55M",
+        "date": "2023-10",
+        "leadInvestors": ["Caffeinated Capital", "Silent Ventures"]
+      },
+      {
+        "type": "Series D",
+        "amount": "$1.75B",
+        "date": "2026-03",
+        "valuation": "$9.25B"
+      }
+    ]
+  },
+  "investors": ["Caffeinated Capital", "Silent Ventures", "a16z American Dynamism", "Ensemble VC"],
+  "products": [
+    {
+      "name": "Spyglass",
+      "description": "6-foot autonomous surface vessel for reconnaissance"
+    },
+    {
+      "name": "Corsair",
+      "description": "24' ASV, 1000+nm range, 35+kt top speed, 1000lb payload"
+    },
+    {
+      "name": "Mirage",
+      "description": "52' ASV, 2500+nm range, 35+kt top speed, 3500lb payload"
+    },
+    {
+      "name": "Marauder",
+      "description": "180' ASV, 5400nm range, 150MT max payload, ISO container compatible"
+    }
+  ],
+  "partners": [
+    "US Navy (MUSV Marketplace)",
+    "DARPA (Pulling Guard Program)",
+    "NVIDIA",
+    "Path Robotics",
+    "Lloyd's Register",
+    "Taiwan NCSIST",
+    "Castelion",
+    "Hornbeck Offshore",
+    "AUVSI"
+  ],
+  "keyTechnology": [
+    "AI-driven autonomous navigation",
+    "Multi-asset teaming and data fusion",
+    "Digital twin simulation",
+    "Modular payload architecture",
+    "Resilient contested-environment communications",
+    "Manufacturing AI (automated shipbuilding)"
+  ],
+  "marineDataNeeds": {
+    "dataTypes": ["real-time sea state data", "wave height", "wind speed", "current profiles", "bathymetric data"],
+    "measurements": ["sea state", "wave height", "wind speed/direction", "ocean currents", "water depth", "temperature"],
+    "observationPlatforms": ["onboard ASV sensors", "satellite communications", "multichannel comms in contested environments"],
+    "dataGaps": ["persistent wide-area oceanographic coverage for ASV operations", "real-time environmental data for autonomous navigation in extreme sea states"],
+    "externalDataInterest": "meteorological/oceanographic (METOC) data feeds for mission planning and autonomous navigation"
+  },
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-07-12"
+}

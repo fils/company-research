@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Tidal",
+  "alternateName": "TidalX AI Inc.",
+  "url": "https://www.tidalx.ai/en",
+  "description": "AI-powered underwater vision and robotics company for aquaculture. Alphabet/X (moonshot factory) spinout providing real-time biomass estimation, sea lice detection, fish welfare monitoring, and autonomous feeding.",
+  "foundingDate": "2024-08",
+  "foundingLocation": "Mountain View, California, USA",
+  "parentOrganization": "Alphabet Inc. (X Development LLC, origin)",
+  "funding": {
+    "total": "Undisclosed",
+    "rounds": [
+      {
+        "type": "Spinout Funding",
+        "date": "2024-08",
+        "investors": ["Perry Creek", "Kverva-backed IVC", "Futurum Ventures"]
+      }
+    ]
+  },
+  "investors": ["Perry Creek", "Kverva-backed IVC", "Futurum Ventures"],
+  "products": [
+    {
+      "name": "Orca Camera System",
+      "description": "Newest generation underwater camera for aquaculture pens; multiple built-in cameras, NS9415 certified, Google Cloud infrastructure, over-the-air updates"
+    }
+  ],
+  "scaleMetrics": {
+    "camerasDeployed": "300+",
+    "deploymentPartner": "Mowi ASA"
+  },
+  "partners": ["Mowi ASA", "SalMar", "Google Cloud", "Alphabet/X"],
+  "keyTechnology": [
+    "Underwater computer vision ('fishal recognition')",
+    "Individual fish tracking and identification",
+    "Real-time biomass estimation with ML",
+    "Sea lice computer-vision detection",
+    "Autonomous robotic camera navigation",
+    "Google Cloud enterprise infrastructure",
+    "Fish behavior detection and ocean simulation",
+    "NS9415-certified hardware"
+  ],
+  "recognition": ["TIME Best Inventions 2023"],
+  "marineDataNeeds": {
+    "dataTypes": ["underwater video/image streams", "fish biomass data", "sea lice count imagery", "fish behavior telemetry", "feeding data", "environmental sensor data (pen-level)"],
+    "measurements": ["fish biomass (weight)", "fish length", "sea lice count per fish", "fish welfare indicators", "feed conversion ratio", "water temperature (pen)", "dissolved oxygen (pen)", "salinity (pen)"],
+    "observationPlatforms": ["Orca autonomous robotic cameras (300+ deployed)", "pen-mounted sensor arrays", "Google Cloud data processing pipeline"],
+    "dataGaps": ["open-ocean baseline environmental data for comparison", "real-time water quality at pen depth (beyond camera-mounted sensors)", "ecosystem-level impact monitoring beyond farm perimeter"],
+    "externalDataInterest": "oceanographic data for site selection, environmental baseline data for regulatory compliance, satellite SST/chlorophyll for farm environment context"
+  },
+  "sector": "Aquaculture",
+  "lastUpdated": "2026-07-12"
+}
