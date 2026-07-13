@@ -1,7 +1,7 @@
 # Maritime Operations & Analytics
 
-**Last Updated**: 2026-05-26  
-**Companies Tracked**: 4
+**Last Updated**: 2026-07-13  
+**Companies Tracked**: 6
 
 This sector covers companies building AI-native operating systems and service orchestration platforms for the maritime industry — shipping, port logistics, fleet management, and maritime compliance. These companies transform fragmented operational data into actionable intelligence through domain-specific AI models.
 
@@ -28,6 +28,18 @@ AI-powered collaborative workspace connecting shipowners, charterers, brokers, a
 - **Funding**: VentureWell/NOAA OEA Stage 0 (Spring 2026)
 - **Location**: Wilmington, DE
 
+### Orca AI (NEW)
+AI-powered computer vision & situational awareness for maritime navigation safety + collision avoidance. $72.5M Series B (May 2025, Brighton Park Capital lead); total funding $111M. World's largest marine visual dataset (80M+ nm). 1,500+ vessels deployed. Products: SeaPod, FleetView, Co-Captain, MasterView. Samsung Heavy Industries partnership for autonomous newbuildings (Apr 2026). Lloyd's Register independent assessment (Apr 2026). $100K fuel savings/vessel/yr, 54% reduction in close encounters. Customers: MSC, NYK, Scorpio, Seaspan, Maran Tankers. Founded 2018, Tel Aviv, Israel.
+- **Site**: [orca-ai.io](https://www.orca-ai.io/)
+- **Funding**: $111M total (Series B: $72.5M)
+- **Key Tech**: Computer vision, marine visual dataset, AI collision avoidance, autonomous navigation
+
+### Sea Machines Robotics (NEW)
+Autonomous control & navigation systems for commercial and defense vessels. ~$42M total funding. Products: SM300-SP/NG (autonomy systems), SELKIE (modular USV), STORMRUNNER (contested waters AUSV), AI-ris (4K computer vision). 200+ deliveries worldwide. US Navy MASC program (STEAMRACER-class). DRS partnership for Maritime Counter-UAS (Apr 2026). Shintoa Corporation Japan expansion (Apr 2026). Record year of bookings 2026. GPS-denied & comms-denied environment operations. Boston, MA.
+- **Site**: [sea-machines.com](https://sea-machines.com/)
+- **Funding**: ~$42M total (Series A $10M + Series B $20M + $12M additional)
+- **Key Tech**: Vessel autonomy, GPS-denied navigation, USV, computer vision, dual-use commercial+defense
+
 ## Cross-Company Patterns
 - **Maritime Language Models**: Domain-specific LLMs trained on shipping, port, and compliance data — significant advantage over general-purpose AI
 - **Workflow Automation**: Target 80-90% reduction in manual operational tasks (documentation, scheduling, compliance reporting)
@@ -35,6 +47,10 @@ AI-powered collaborative workspace connecting shipowners, charterers, brokers, a
 - **Regulatory Compliance**: CII (Carbon Intensity Indicator), IMO regulations, emissions tracking increasingly drive adoption
 - **Wind Propulsion Revival**: Aloft Systems represents the modern robotic sail movement — containerized wind propulsion for decarbonization, targeting immediate shipping emissions reduction without engine replacement
 - **Fleet Digitization**: VesselOps's 3D visualization + digital authentication shows growing need for standardized fleet identity and operational transparency
+- **Marine Computer Vision as Network Moat**: Orca AI's 80M+ nautical mile visual dataset is the world's largest; Sea Machines' AI-ris 4K vision system — both companies leverage proprietary visual data as a defensible barrier to entry. Data network effects: more vessels = more data = better models = more customers
+- **Autonomous Shipping Infrastructure**: Orca AI (Samsung SHI newbuildings, NYK autonomous voyage) and Sea Machines (US Navy MASC, DRS Counter-UAS) are building the autonomous navigation stack for both commercial and defense vessels — convergence of these markets through dual-use technology
+- **GPS-Denied Operations**: Sea Machines' GPS-denied/comms-denied capability and Orca AI's GPS spoofing detection reflect growing demand for resilient navigation in contested environments — driven by defense requirements spilling into commercial shipping
+- **Voyage Optimization ROI**: Orca AI's $100K/vessel/yr fuel savings + 195K tons CO₂ reduction demonstrates concrete ROI driving adoption; Sea Machines' autonomy reduces crew costs and enables unmanned operations
 
 ## Data & Measurement Needs
 Maritime operations companies need:

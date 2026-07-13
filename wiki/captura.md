@@ -1,11 +1,12 @@
 # Captura
 
 **Official Site**: https://capturacorp.com/
-**Last Updated**: 2026-05-17
+**Last Updated**: 2026-07-13
+**Status**: Series B funded; commercial execution phase
 
-**Focus**: Direct Ocean Capture (DOC) using bipolar membrane electrodialysis.
-**Status**: 1 kt/yr pilot operational in Hawaii; commercial scaling validated by Equinor.
-**Backers & News**: TIME Top GreenTech 2026; XPRIZE; Frontier/Stripe/Equinor; new Cura partnership for cement decarbonization.
+**Focus**: Direct Ocean Capture (DOC) using proprietary PFAS-free bipolar membrane electrodialysis.
+**Status**: 1 kt/yr pilot at HOST Park Kona + 100 t/yr system at AltaSea (Port of LA); entering commercial execution phase; first electrodialysis stack orders for lithium extraction.
+**Backers & News**: $12.5M Series B (Jun 2026, Equinor Ventures lead); total funding ~$57.5M; investors include Aramco Ventures, EDP Ventures, Eni Next, Hitachi Ventures, JAL Innovation Fund, Maersk Growth, mTerra Ventures, National Grid Partners; TIME Top GreenTech 2026; XPRIZE; eSAF supplier deal in France; CEO Steve Oldham; only US-based complete electrodialysis system plant (Pasadena); expanding into critical minerals, industrial water, energy storage.
 
 ## Data & Measurement Needs
 

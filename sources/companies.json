@@ -10,8 +10,8 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Captura",
     "url": "https://capturacorp.com/",
-    "notes": "Direct Ocean Capture; $21M raise reported (ESG Dive 2026); total funding ~$45M; operates 1000 t/yr pilot plant at HOST Park Kona; proprietary bipolar membrane electrodialysis; eSAF partnership in France (May 2026); TIME's America's Top GreenTech Companies 2026",
-    "last_updated": "2026-05-26"
+    "notes": "Direct Ocean Capture; $12.5M Series B (Jun 2026, Equinor Ventures lead; Aramco Ventures, EDP Ventures, Eni Next, Freeflow Ventures, Hitachi Ventures, JAL Innovation Fund, Maersk Growth, mTerra Ventures, National Grid Partners); total funding ~$57.5M; operates 1000 t/yr pilot at HOST Park Kona + AltaSea 100 t/yr system (Port of LA); proprietary PFAS-free bipolar membrane electrodialysis; eSAF supplier deal in France (May 2026); TIME's America's Top GreenTech Companies 2026; expanding domestic manufacturing in Pasadena — only US-based complete electrodialysis system plant; first orders for lithium extraction market; CEO Steve Oldham; entering commercial execution phase",
+    "last_updated": "2026-07-13"
   },
   {
     "sector": "Ocean Carbon Sequestration",
@@ -157,8 +157,8 @@
     "sector": "Aquaculture",
     "name": "Vycarb",
     "url": "https://vycarb.com/",
-    "notes": "Carbon storage & aquaculture environment monitoring; new partnerships & funding for 2026 scaling (ESG Dive exclusive)",
-    "last_updated": "2026-05-24"
+    "notes": "Water-based CO2 capture & storage; $5M seed (Oct 2025, Twynam lead; Shell, Hatch Blue, Singapore govt); partnerships with Tomco Systems (industrial CO2 mgmt) & atdepth (MIT spinout ocean monitoring, Google/NASA-backed); industrial gas integration — accepts point-source CO2 as input, converts to bicarbonate; East River NYC pilot running 1+ yr; moving from pilots to commercial deployments; pipeline in US, Europe, Asia Pacific; founded 2022 by CEO Garrett Boudinot; Brooklyn-based; decentralized carbon removal with real-time autonomous CO2 measurement in water",
+    "last_updated": "2026-07-13"
   },
   {
     "sector": "Aquaculture",
@@ -537,5 +537,19 @@
     "url": "https://www.tidalx.ai/en",
     "notes": "AI-powered underwater vision + robotics for aquaculture; Alphabet/X (moonshot factory) spinout (Aug 2024); funding from Perry Creek, Kverva-backed IVC, Futurum Ventures; Orca camera system (newest gen); 300+ cameras deployed with Mowi; real-time biomass estimation, sea lice detection, fish welfare monitoring, autonomous feeding; NS9415 hardware certification; Google Cloud infrastructure; TIME Best Inventions 2023; strategic collaborations: Mowi (individual fish ID for salmon breeding), SalMar; expanding to Chile, Australia, Norway (Bergen office); Mountain View CA HQ + Bergen Norway office; ex-Aquabyte sales exec as Norway GM; 'fishal recognition' individual fish tracking",
     "last_updated": "2026-07-12"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "Orca AI",
+    "url": "https://www.orca-ai.io/",
+    "notes": "AI-powered computer vision & situational awareness for maritime navigation safety + collision avoidance; $72.5M Series B (May 2025, Brighton Park Capital lead; Ankona Capital, Hyperlink Ventures, OCV Partners, Mizmaa Ventures); total funding $111M over 5 rounds; founded 2018 by Yarden Gross (CEO) & Dor Raviv (CTO); Tel Aviv, Israel; world's largest marine visual dataset (80M+ nautical miles); 1,500+ vessels booked; products: SeaPod (bridge awareness), FleetView (office ops), Co-Captain (autonomous nav assistant), MasterView; $100K fuel savings/vessel/yr, 54% reduction in close encounters, 195K tons CO2 reduction (2024); customers: MSC, NYK, Scorpio, Seaspan, Maran Tankers, North Standard; Samsung Heavy Industries partnership (Apr 2026) for autonomous newbuildings; Lloyd's Register independent assessment (Apr 2026); powered world's first autonomous commercial voyage in congested waters (NYK); expanding into defense & government",
+    "last_updated": "2026-07-13"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "Sea Machines Robotics",
+    "url": "https://sea-machines.com/",
+    "notes": "Autonomous control & navigation systems for commercial and defense vessels; Boston MA; products: SM300-SP (attritable compact), SM300-NG (class-approved), SELKIE (modular USV), STORMRUNNER (contested waters AUSV), AI-ris (4K computer vision), SM Link APIs, FleetViewer; 200+ deliveries worldwide; dual-use commercial+defense; operates in GPS-denied and comms-denied environments; US Navy MASC program (STEAMRACER-class autonomous ship); DRS partnership for Maritime Counter-UAS (Apr 2026); Shintoa Corporation Japan market expansion (Apr 2026); record year of bookings 2026; funding ~$42M total ($10M Series A Accomplice/Eniac + $20M Series B + $12M additional); SELKIE validated in West Philippine Sea; vessels from 10ft RHIBs to 300ft workboats; export-ready with US + Europe production",
+    "last_updated": "2026-07-13"
   }
 ]

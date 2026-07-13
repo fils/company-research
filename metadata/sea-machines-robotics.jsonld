@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Sea Machines Robotics",
+  "url": "https://sea-machines.com/",
+  "description": "Autonomous control and navigation systems for commercial and defense vessels; dual-use USVs and autonomy systems",
+  "foundingDate": "2015",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Boston",
+    "addressRegion": "MA",
+    "addressCountry": "USA"
+  },
+  "fundingRound": [
+    {"@type": "MonetaryAmount", "name": "Series A", "amount": "10000000", "currency": "USD", "investors": ["Accomplice", "Eniac Ventures"]},
+    {"@type": "MonetaryAmount", "name": "Series B", "amount": "20000000", "currency": "USD"},
+    {"@type": "MonetaryAmount", "name": "Additional", "amount": "12000000", "currency": "USD", "investors": ["Geekdom Fund"]},
+    {"@type": "MonetaryAmount", "name": "Total Funding", "amount": "42000000", "currency": "USD"}
+  ],
+  "knowsAbout": ["Autonomous Vessels", "Maritime Autonomy", "USV", "GPS-denied Navigation", "Computer Vision", "Defense Maritime", "Commercial Marine"],
+  "product": ["SM300-SP", "SM300-NG", "SELKIE", "STORMRUNNER", "AI-ris", "SM Link", "FleetViewer"],
+  "customer": ["US Navy", "DRS", "Commercial fleet operators"],
+  "partner": ["DRS", "Shintoa Corporation", "US Navy"]
+}

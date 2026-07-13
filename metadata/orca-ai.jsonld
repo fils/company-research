@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Orca AI",
+  "url": "https://www.orca-ai.io/",
+  "description": "AI-powered computer vision and situational awareness for maritime navigation safety, collision avoidance, and autonomous shipping",
+  "foundingDate": "2018",
+  "founders": [
+    {"@type": "Person", "name": "Yarden Gross", "jobTitle": "CEO"},
+    {"@type": "Person", "name": "Dor Raviv", "jobTitle": "CTO"}
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Tel Aviv",
+    "addressCountry": "Israel"
+  },
+  "fundingRound": [
+    {"@type": "MonetaryAmount", "name": "Series B", "amount": "72500000", "currency": "USD", "date": "2025-05-06", "investors": ["Brighton Park Capital (lead)", "Ankona Capital", "Hyperlink Ventures", "OCV Partners", "Mizmaa Ventures"]},
+    {"@type": "MonetaryAmount", "name": "Total Funding", "amount": "111000000", "currency": "USD"}
+  ],
+  "numberOfEmployees": {"@type": "QuantitativeValue", "value": "50-200"},
+  "knowsAbout": ["Maritime AI", "Computer Vision", "Collision Avoidance", "Autonomous Shipping", "Navigation Safety", "Situational Awareness"],
+  "product": ["SeaPod", "FleetView", "Co-Captain", "MasterView"],
+  "customer": ["MSC", "NYK", "Scorpio", "Seaspan", "Maran Tankers", "North Standard"],
+  "partner": ["Samsung Heavy Industries", "Lloyd's Register", "North Standard", "NYK", "Nippon Foundation"]
+}
