@@ -1,7 +1,7 @@
 # Maritime Operations & Analytics
 
-**Last Updated**: 2026-07-13  
-**Companies Tracked**: 6
+**Last Updated**: 2026-07-14  
+**Companies Tracked**: 7
 
 This sector covers companies building AI-native operating systems and service orchestration platforms for the maritime industry — shipping, port logistics, fleet management, and maritime compliance. These companies transform fragmented operational data into actionable intelligence through domain-specific AI models.
 
@@ -40,6 +40,12 @@ Autonomous control & navigation systems for commercial and defense vessels. ~$42
 - **Funding**: ~$42M total (Series A $10M + Series B $20M + $12M additional)
 - **Key Tech**: Vessel autonomy, GPS-denied navigation, USV, computer vision, dual-use commercial+defense
 
+### SEA.AI (NEW 2026-07-14)
+Maritime machine vision for safety at sea — AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables). €3M Series A. Founded 2018 in Austria (formerly OSCAR); 45 employees across Austria/France/Portugal/USA. Products: Watchkeeper (ultra-wide FoV, NEW), Sentry (commercial/gov), Brain (AI retrofit for existing thermal cameras), Competition (ocean racing). Counter-USV detection for defense. NVIDIA edge AI partner; Robosys Automation partnership for machine-vision-based autonomous collision avoidance; GICAN member (Jul 2026). Multi-segment: recreational → commercial → security → defense.
+- **Site**: [sea.ai](https://www.sea.ai/)
+- **Funding**: €3M Series A
+- **Key Tech**: Optical+thermal camera fusion, AI object detection/classification, counter-USV detection, NVIDIA edge AI
+
 ## Cross-Company Patterns
 - **Maritime Language Models**: Domain-specific LLMs trained on shipping, port, and compliance data — significant advantage over general-purpose AI
 - **Workflow Automation**: Target 80-90% reduction in manual operational tasks (documentation, scheduling, compliance reporting)
@@ -51,6 +57,8 @@ Autonomous control & navigation systems for commercial and defense vessels. ~$42
 - **Autonomous Shipping Infrastructure**: Orca AI (Samsung SHI newbuildings, NYK autonomous voyage) and Sea Machines (US Navy MASC, DRS Counter-UAS) are building the autonomous navigation stack for both commercial and defense vessels — convergence of these markets through dual-use technology
 - **GPS-Denied Operations**: Sea Machines' GPS-denied/comms-denied capability and Orca AI's GPS spoofing detection reflect growing demand for resilient navigation in contested environments — driven by defense requirements spilling into commercial shipping
 - **Voyage Optimization ROI**: Orca AI's $100K/vessel/yr fuel savings + 195K tons CO₂ reduction demonstrates concrete ROI driving adoption; Sea Machines' autonomy reduces crew costs and enables unmanned operations
+- **Radar/AIS Gap Filling**: SEA.AI detects objects that escape both radar and AIS (unsignalled craft, debris, persons overboard) — optical AI as the only sensor layer that sees non-cooperative surface contacts. The counter-USV use case (defense) is particularly timely given drone boat threat proliferation in 2025-2026 naval conflicts
+- **Camera Retrofit Business Model**: SEA.AI's Brain product upgrades existing thermal cameras with AI — a retrofit approach distinct from full-system sales, lowering adoption barriers for vessel operators who already have camera hardware
 
 ## Data & Measurement Needs
 Maritime operations companies need:

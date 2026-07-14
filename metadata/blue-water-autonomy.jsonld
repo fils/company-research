@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Blue Water Autonomy",
+  "alternateName": "Blue Water Autonomy Inc.",
+  "url": "https://www.blw.ai/",
+  "description": "Autonomous warships for US Navy — full-size unmanned surface vessels designed for mass production and months-long open-ocean endurance. Founded 2024 in Boston by repeat entrepreneurs and Navy veterans.",
+  "foundingDate": "2024",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "Rylan Hamilton",
+      "jobTitle": "CEO & Co-Founder",
+      "description": "Ex-U.S. Navy engineering & surface warfare officer; Amazon Robotics early leader; founder of 6 River Systems (sold to Shopify for $450M); Harvard Business School"
+    },
+    {
+      "@type": "Person",
+      "name": "Scott N. Miller",
+      "jobTitle": "CTO & Co-Founder",
+      "description": "MIT Master's in Ocean Engineering; ex-iRobot VP of Engineering (launched Roomba/Scooba); founder of Dragon Innovation (acquired by Avnet)"
+    },
+    {
+      "@type": "Person",
+      "name": "Austin Gray",
+      "jobTitle": "CSO & Co-Founder",
+      "description": "Ex-U.S. Navy intelligence officer (Pentagon, carrier strike groups); MIT & Harvard masters; Ukraine drone factory volunteer"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 64000000,
+    "description": "Total funding: $14M seed (Apr 2025) + $50M Series A (Aug 2025, GV lead; Eclipse, Riot, Impatient Ventures)"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Boston",
+    "addressRegion": "MA",
+    "addressCountry": "US"
+  },
+  "knowsAbout": [
+    "Autonomous surface vessels",
+    "Unmanned naval ships",
+    "Maritime autonomy",
+    "US Navy MUSV programs",
+    "Mass-production shipbuilding",
+    "Full-stack autonomy (hardware + software + AI)"
+  ],
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Defense prime contractor — builds autonomous warships for US Navy; full-stack hardware+software+AI integration from keel up; mass-production-first design philosophy; dual-use trajectory expanding to commercial maritime",
+  "lastFundingRound": "Series A — $50M (Aug 2025, GV lead; Dave Munichiello joins Board)",
+  "totalFunding": "~$64M",
+  "investors": ["GV (Google Ventures)", "Eclipse", "Riot", "Impatient Ventures"],
+  "marineDataNeeds": {
+    "primaryDataTypes": ["Oceanographic sensor data for autonomous navigation", "Met-ocean data for route planning", "Bathymetric/seafloor data"],
+    "keyMeasurements": ["Wave height", "Current speed", "Wind speed", "Sea state", "GPS-denied navigation reference data"],
+    "observationPlatforms": ["Autonomous vessel onboard sensors", "Persistent open-ocean monitoring"],
+    "knownGaps": ["Persistent wide-area ocean observation for autonomous navigation in contested environments"],
+    "interestInExternalDataServices": "Met-ocean forecasts and satellite ocean data for autonomous route planning and safety"
+  }
+}

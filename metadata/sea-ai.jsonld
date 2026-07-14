@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SEA.AI",
+  "alternateName": "SEA.AI GmbH (formerly OSCAR)",
+  "url": "https://www.sea.ai/",
+  "description": "Maritime machine vision for safety at sea. AI-powered camera systems detect and classify objects on water surface that escape radar/AIS — unsignalled craft, debris, persons overboard, kayaks, inflatables. Founded 2018 in Austria.",
+  "foundingDate": "2018",
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 3000000,
+    "description": "€3M Series A funding round to boost R&D and expand AI-powered machine vision for maritime safety"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Austria (HQ)",
+    "addressCountry": "Austria"
+  },
+  "employeeCount": "45",
+  "offices": ["Austria", "France", "Portugal", "USA"],
+  "knowsAbout": [
+    "Maritime machine vision",
+    "AI object detection and classification",
+    "Computer vision for maritime safety",
+    "Counter-USV detection",
+    "Collision avoidance",
+    "Thermal + optical camera fusion",
+    "NVIDIA edge AI"
+  ],
+  "sector": "Maritime Operations & Analytics",
+  "businessModel": "Hardware+software product sales — sells complete camera+AI systems (Watchkeeper, Sentry, Competition) for recreational/commercial/security/defense; Brain product upgrades existing thermal cameras with AI (retrofit); multi-segment from recreational sailing to defense counter-USV",
+  "lastFundingRound": "€3M Series A",
+  "totalFunding": "€3M",
+  "partnerships": ["NVIDIA (edge AI)", "Robosys Automation (machine-vision-based autonomous collision avoidance)", "GICAN (French Naval Industry Association, Jul 2026)"],
+  "products": ["Watchkeeper (ultra-wide FoV)", "Sentry (commercial/government)", "Brain (AI module for existing thermal cameras)", "Competition (ocean racing yachts)"],
+  "markets": ["Recreational (sailors/motor boaters)", "Commercial (workboats/ferries/offshore)", "Security (coastal monitoring/SAR)", "Defence (counter-USV, persistent visual intelligence)"],
+  "marineDataNeeds": {
+    "primaryDataTypes": ["Real-time optical imagery", "Thermal imagery", "AIS vessel tracking data", "Radar contacts"],
+    "keyMeasurements": ["Object detection/classification on water surface", "Range to surface contacts", "Day/night detection capability"],
+    "observationPlatforms": ["Onboard camera systems (Watchkeeper/Sentry/Competition)", "Existing thermal cameras (Brain retrofit)"],
+    "knownGaps": ["Persistent 24/7 visual coverage of vast water areas for security/defense use cases"],
+    "interestInExternalDataServices": "AIS/radar fusion data for complementary situational awareness; satellite ocean data for persistent wide-area monitoring"
+  }
+}

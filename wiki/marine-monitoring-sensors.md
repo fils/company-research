@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-12  
-**Companies Tracked**: 18
+**Last Updated**: 2026-07-14  
+**Companies Tracked**: 20
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -104,6 +104,18 @@ Autonomous surface vessels (ASVs) for defense maritime autonomy. $1.75B Series D
 - **Site**: [saronic.com](https://www.saronic.com/)
 - **Funding**: ~$2.6B total ($1.75B Series D, Mar 2026, $9.25B valuation)
 - **Location**: Austin, TX
+
+### Blue Water Autonomy (NEW 2026-07-14)
+Autonomous warships for US Navy — full-size unmanned surface vessels (Liberty-class, 190-ft) designed for mass production and months-long open-ocean endurance. $50M Series A (Aug 2025, GV lead) + $14M seed = ~$64M total. Founded 2024, Boston MA. Full-stack autonomy (hardware+software+AI from keel up). Repeat entrepreneurs: Rylan Hamilton (CEO, ex-Navy → Amazon Robotics → 6 River Systems/Shopify $450M exit), Scott Miller (CTO, ex-iRobot VP Eng/Roomba, MIT Ocean Eng), Austin Gray (CSO, ex-Navy intel, Ukraine drone factory). Pentagon $2.1B MUSV funding. China 200x US shipbuilding capacity driving urgency.
+- **Site**: [blw.ai](https://www.blw.ai/)
+- **Funding**: ~$64M ($50M Series A GV-led + $14M seed)
+- **Location**: Boston, MA
+
+### Maritime Robotics (NEW 2026-07-14)
+Norwegian USV & autonomous navigation pioneer since 2005 (Trondheim). €28M growth investment (Jun 2026, MS+PARTNERS lead; EnvisionTech, Nysnø, Umoe) + $12M growth capital (Sep 2024). Revenue 5x in 5 years, 2x in 2 years; hundreds of systems delivered. Products: SEACONTROL autonomous navigation system (retrofit to crewed/uncrewed vessels), Mariner X USV, Otter USV, mine countermeasures USV (Jan 2026). Dual-use commercial+defense: offshore energy, hydrography, environmental monitoring, fisheries, maritime security. Eelume partnership; NATO REPMUS 2025 demo. CEO/co-founder Vegard Evjen Hovstein. Structural shift from pilot projects to fleet-level deployment.
+- **Site**: [maritimerobotics.com](https://www.maritimerobotics.com/)
+- **Funding**: €28M + $12M growth capital
+- **Location**: Trondheim, Norway
 
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)

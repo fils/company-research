@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BiOceanOr",
+  "url": "https://bioceanor.com/",
+  "description": "AI-powered water quality forecasting for aquaculture — combines biology & AI for environmental intelligence. Products: AquaCHECK, AquaFORECAST, AquaLYTICS. Deployed in 10+ countries.",
+  "foundingDate": "2018",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "Samuel Dupont",
+      "jobTitle": "CEO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 2500000,
+    "description": "~€2.5M total (€2M equity first round 2023 via Yield Lab Europe lead; €500K convertible; BlueInvest-supported). Tracxn reports ~$5.4M across 7 rounds since 2018."
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "France",
+    "addressCountry": "France"
+  },
+  "employeeCount": "20+",
+  "knowsAbout": [
+    "AI water quality forecasting",
+    "Aquaculture environmental monitoring",
+    "Hypoxia prediction",
+    "Harmful algal bloom (HAB) early warning",
+    "Fish welfare monitoring",
+    "Feed optimization",
+    "Real-time sensor data fusion"
+  ],
+  "sector": "Aquaculture",
+  "businessModel": "SaaS subscription for water quality monitoring/forecasting — AquaCHECK (data QA), AquaFORECAST (12h oxygen forecast), AquaLYTICS (cross-farm analytics); data integration from real-time sensors + satellite/sampling; multi-country deployment",
+  "lastFundingRound": "€2M equity (Yield Lab Europe lead) + €500K convertible",
+  "totalFunding": "~€2.5M ($5.4M per Tracxn across 7 rounds)",
+  "investors": ["Yield Lab Europe", "BlueInvest (EU Commission)"],
+  "deployments": ["10+ countries", "Chilean salmon (PREDIMAR oxygen prediction)", "Norway (Alexia Mouton country lead)"],
+  "products": ["AquaCHECK", "AquaFORECAST", "AquaLYTICS", "PREDIMAR"],
+  "keyMetrics": {
+    "dataPointsPerMonth": "10M+",
+    "oxygenForecastAccuracy": "0.5 mg/L (12h horizon)",
+    "yearsR&D": "5",
+    "countriesDeployed": "10+"
+  },
+  "marineDataNeeds": {
+    "primaryDataTypes": ["Real-time water quality sensor data", "Satellite ocean color/temperature", "Ocean current data", "Sampling/lab data"],
+    "keyMeasurements": ["Dissolved oxygen", "Temperature", "Salinity", "pH", "Chlorophyll", "Harmful algal bloom indicators", "Current speed/direction"],
+    "observationPlatforms": ["In-situ aquaculture sensors", "Satellite remote sensing", "Water sampling"],
+    "knownGaps": ["Predictive HAB forecasting at farm-scale resolution", "Real-time ocean current data at coastal aquaculture sites"],
+    "interestInExternalDataServices": "High-resolution satellite ocean color and SST for aquaculture site monitoring; regional ocean model forecasts"
+  }
+}

@@ -2,7 +2,7 @@
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (15 monitored)
+## Companies (16 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -19,7 +19,8 @@ Sector overview for aquaculture technology and monitoring companies.
 | [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
 | [Aquaticode](/wiki/aquaticode.md) (NEW) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
 | [NeuralX](/wiki/neuralx.md) (NEW) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
-| [Tidal](/wiki/tidal.md) (NEW) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
+|| [Tidal](/wiki/tidal.md) (NEW) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
+|| [BiOceanOr](/wiki/bioceanor.md) (NEW) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -38,6 +39,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Performance-based AI pricing**: NeuralX's 25%-of-savings model is a novel go-to-market — aligns incentives with farm profitability and removes adoption barriers
 - **Synthetic training data moat**: NeuralX's 3D Artificial Life Simulation Engine generates rare-event training data (disease outbreaks, equipment failures) that competitors cannot capture in the wild — a defensible technical moat for computer vision in aquaculture
 - **Genotype-phenotype decoding**: Aquaticode's research into mapping visual expression (phenotype) to DNA (genotype) represents a frontier approach beyond simple gender sorting — could enable predictive breeding from pixel data
+- **Biology+AI water quality forecasting**: BiOceanOr's 5-year R&D combining oceanographers/marine biologists with ML produces 12h oxygen forecasts at 0.5 mg/L accuracy — a concrete performance benchmark. The biology+AI combination is a moat vs pure-software competitors. Addresses shared critical risk (hypoxia, HABs) across ALL aquaculture operations, complementing sensor-hardware (Innovasea), computer vision (Aquabyte/Tidal), and synthetic data (NeuralX) approaches
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -49,4 +51,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-07-12*
+*Last updated: 2026-07-14*

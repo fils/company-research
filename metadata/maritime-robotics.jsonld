@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Maritime Robotics",
+  "alternateName": "Maritime Robotics AS",
+  "url": "https://www.maritimerobotics.com/",
+  "description": "Norwegian USV & autonomous navigation pioneer since 2005. Provides integrated sea drone solutions combining autonomous navigation, vessel design, and modular payload systems for mission-critical dual-use operations (commercial + defense).",
+  "foundingDate": "2005",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "Vegard Evjen Hovstein",
+      "jobTitle": "Co-Founder & CEO",
+      "email": "vegard@maritimerobotics.com"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 28000000,
+    "description": "€28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe). Plus earlier $12M growth capital (Sep 2024, NRP Zero + Norwegian state fund)."
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Trondheim",
+    "addressCountry": "Norway"
+  },
+  "knowsAbout": [
+    "Uncrewed surface vessels (USVs)",
+    "Autonomous navigation systems",
+    "Mine countermeasures",
+    "Hydrography",
+    "Offshore energy environmental monitoring",
+    "Fisheries management",
+    "Maritime security & defense"
+  ],
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Hardware + autonomy platform sales — turn-key USVs (Mariner X, Otter, mine countermeasures USV) + SEACONTROL autonomous navigation retrofit for crewed/uncrewed vessels; modular payload architecture (sensor-agnostic); dual-use commercial+defense customers",
+  "lastFundingRound": "€28M growth investment (Jun 2026, MS+PARTNERS lead)",
+  "totalFunding": "€28M + $12M (2024 growth capital) — Tracxn reports $12M Series A (Sep 2024)",
+  "investors": ["MS+PARTNERS (Mustard Seed + Partners)", "EnvisionTech", "Nysnø Climate Investment", "Umoe", "NRP Zero"],
+  "revenueGrowth": "~5x over 5 years; 2x over last 2 years",
+  "delivered": "Hundreds of autonomous systems to industrial and defense customers worldwide",
+  "partnerships": ["Eelume (subsea inspection, Oct 2025)", "NATO REPMUS 2025 demo"],
+  "marineDataNeeds": {
+    "primaryDataTypes": ["Hydrographic survey data", "Oceanographic sensor data", "Environmental monitoring data", "Defense maritime domain awareness data"],
+    "keyMeasurements": ["Bathymetry", "Water column properties", "Temperature", "Salinity", "Ocean currents", "Mine detection sonar data"],
+    "observationPlatforms": ["USVs (Mariner X, Otter)", "SEACONTROL autonomous navigation", "Modular payload sensor suites"],
+    "knownGaps": ["Cost-efficient persistent wide-area ocean observation for autonomous platforms"],
+    "interestInExternalDataServices": "Met-ocean data for autonomous mission planning; satellite ocean data for USV operations"
+  }
+}

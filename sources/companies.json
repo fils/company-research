@@ -551,5 +551,33 @@
     "url": "https://sea-machines.com/",
     "notes": "Autonomous control & navigation systems for commercial and defense vessels; Boston MA; products: SM300-SP (attritable compact), SM300-NG (class-approved), SELKIE (modular USV), STORMRUNNER (contested waters AUSV), AI-ris (4K computer vision), SM Link APIs, FleetViewer; 200+ deliveries worldwide; dual-use commercial+defense; operates in GPS-denied and comms-denied environments; US Navy MASC program (STEAMRACER-class autonomous ship); DRS partnership for Maritime Counter-UAS (Apr 2026); Shintoa Corporation Japan market expansion (Apr 2026); record year of bookings 2026; funding ~$42M total ($10M Series A Accomplice/Eniac + $20M Series B + $12M additional); SELKIE validated in West Philippine Sea; vessels from 10ft RHIBs to 300ft workboats; export-ready with US + Europe production",
     "last_updated": "2026-07-13"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Blue Water Autonomy",
+    "url": "https://www.blw.ai/",
+    "notes": "Autonomous warships for US Navy — full-size unmanned surface vessels for open-ocean endurance. $50M Series A (Aug 2025, GV lead — Dave Munichiello joins board; Eclipse, Riot, Impatient Ventures participating) bringing total funding to $64M ($14M seed Apr 2025). Liberty-class 190-ft autonomous ship unveiled at WEST 2026 San Diego; designed for mass production and months-long open-ocean endurance. Founded 2024 in Boston by repeat entrepreneurs and Navy veterans: Rylan Hamilton (CEO, ex-Navy officer → Amazon Robotics → 6 River Systems founder, sold to Shopify for $450M), Scott Miller (CTO, ex-iRobot VP Eng helping launch Roomba/Scooba, MIT Ocean Eng, Dragon Innovation founder), Austin Gray (CSO, ex-Navy intelligence, Ukraine drone factory volunteer). Full-stack autonomy suite integrating hardware+software+AI; team quadrupled since seed; 50+ selected suppliers; long-lead material acquisition started; DC office opened; shipbuilding veterans with track record of 30+ US Navy ships delivered including DARPA NOMARS. Pentagon $2.1B Congressional funding for MUSV programs. China shipbuilding dominance (200x US capacity) driving urgency",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Maritime Robotics",
+    "url": "https://www.maritimerobotics.com/",
+    "notes": "Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — on top of $12M growth capital (Sep 2024, NRP Zero + Norwegian state fund). Revenue ~5x over 5 years, 2x over 2 years; hundreds of autonomous systems delivered. Products: SEACONTROL autonomous navigation system (retrofit to crewed/uncrewed surface vessels), Mariner X USV (modular sensor platform), mine countermeasures USV (launched Jan 2026), Otter USV. Dual-use commercial+defense: offshore energy, hydrography, environmental monitoring, fisheries management, maritime security & defense. Eelume partnership for subsea inspection (Oct 2025); NATO REPMUS 2025 demo; DALO Industry Days, Euronaval, SMM Hamburg, Nor-Fishing 2026 exhibiting. Trondheim HQ + London office; CEO/co-founder Vegard Evjen Hovstein. Structural shift from pilot projects to fleet-level deployment strategies",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "SEA.AI",
+    "url": "https://www.sea.ai/",
+    "notes": "Maritime machine vision for safety at sea; AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables). €3M Series A funding round. Founded 2018 in Austria (formerly OSCAR); 45 employees across Austria, France, Portugal, USA; GICAN (French Naval Industry Association) member (Jul 2026); NVIDIA edge AI partner. Product line: Watchkeeper (ultra-wide FoV, NEW), Sentry (commercial/government/motoryachts), Brain (AI module for existing thermal cameras), Competition (ocean racing yachts). Counter-USV detection spotlight use case for naval/coast guard. Markets: recreational, commercial (workboats/ferries/offshore vessels), security (coastal monitoring/SAR), defence (persistent automated visual intelligence, surface threat detection). Robosys Automation partnership for world's first machine-vision-based maritime autonomous surface collision avoidance system. Sailing Software Update V8.0 (Jul 2026). SMM Hamburg Sep 2026 exhibiting. Born in Brittany, developed in Europe, for the maritime world",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "BiOceanOr",
+    "url": "https://bioceanor.com/",
+    "notes": "AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence. ~€2.5M total funding (€2M equity first round 2023 via Yield Lab Europe lead; €500K convertible; BlueInvest-supported; Tracxn reports ~$5.4M across 7 rounds since 2018). Products: AquaCHECK (data consistency QA), AquaFORECAST (12h-horizon oxygen forecast with 0.5 mg/L accuracy), AquaLYTICS (cross-farm analytics). 10M+ data points processed/month; 20+ experts (data scientists, oceanographers, marine biologists, fish health biologists); 5 years of R&D validated at sea. Deployed in 10+ countries incl. Chilean salmon (PREDIMAR oxygen prediction system) and Norwegian operations (Alexia Mouton country lead). CEO Samuel Dupont. Use cases: prevent hypoxia, optimize feeding/aeration, protect animal welfare. Climate-resilient aquaculture focus as environmental pressures (oxygen depletion, HABs, fluctuating feed intake, fish stress) intensify",
+    "last_updated": "2026-07-14"
   }
 ]
