@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-14  
-**Companies Tracked**: 20
+**Last Updated**: 2026-07-15  
+**Companies Tracked**: 21
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -116,6 +116,12 @@ Norwegian USV & autonomous navigation pioneer since 2005 (Trondheim). €28M gro
 - **Site**: [maritimerobotics.com](https://www.maritimerobotics.com/)
 - **Funding**: €28M + $12M growth capital
 - **Location**: Trondheim, Norway
+
+### Hullbot (NEW 2026-07-15)
+Autonomous underwater robots for ship hull cleaning & inspection (proactive hull grooming). $10.5M Series A (Nov 2025, Katapult Ocean lead). Prevents biofouling buildup, reduces drag and fuel consumption. Cloud robotics platform with real-time analytics. Works with all coatings (gentle brushes). Cleans propellers and niche areas. Routine inspections without divers. Global service with international hubs. UNSW-backed. Customers: Ultramar, NRMA Marine, FRS Clipper, Journey Beyond, APFC Fastcat. Proactive grooming as-a-service (no upfront cost). Sydney, Australia.
+- **Site**: [hullbot.com](https://www.hullbot.com/)
+- **Funding**: $10.5M Series A (Nov 2025, Katapult Ocean)
+- **Location**: Sydney, Australia
 
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)

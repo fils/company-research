@@ -12,7 +12,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - Satellite-derived oceanographic products (SWOT, altimetry, SAR, optical)
 - Bridging the gap between public ocean data and commercial applications
 
-**Companies Profiled (7 companies)**
+**Companies Profiled (8 companies)**
 
 - **Amphitrite**: AI-powered ocean data intelligence platform. Combines satellite data (SWOT, altimetry, SAR) with in-situ measurements and predictive AI for real-time maritime intelligence. Serves commercial shipping, naval defence, and offshore operations. €1.2M seed (2024). Partners include SHOM, CNES, ESA, Mercator Ocean, CMA CGM, Subsea7. Supported by NVIDIA Inception and Microsoft GenAI Studio.
 
@@ -26,6 +26,8 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - **SeaDeep** (NEW): AI platform for ocean mapping, monitoring, underwater inspection. AI-powered marine robotics autonomy for subsea exploration intelligence. $1M+ grants. Partners with Seabed 2030. Focuses on coral reefs, pipelines, offshore energy.
 
 - **Sofar Ocean** (NEW): Largest privately-owned ocean sensor network in the world. 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations. ~$75-78.5M total funding (Series B $39M led by USV/Foundry Group). Products: Spotter Platform (surface/subsurface sensing), Wayfinder (voyage optimization, 4-8% fuel reduction), Marine Weather (50% more accurate than traditional models). Partners: NOAA, US Navy, NVIDIA, MOL, MITRE, ONR. In-Q-Tel backed. San Francisco HQ.
+
+- **Ubotica** (NEW 2026-07-15): Orbital AI / cognitive Earth observation for real-time maritime intelligence from space. $11M funding (Jun 2026). SPACE:AI platform — 11 missions flown, 30+ AI models (vessel detection, autonomous targeting). Subscription-based predictive maritime surveillance: detects dark vessels and shadow fleets. Cognitive EO paradigm: predict → task → process at edge → learn. Fugro partnership for space-to-seabed intelligence (subsea sensors + USVs + UAVs). NASA JPL collaboration (FAME federated satellite network). ESA partner. Dublin, Ireland. Extends Ocean Data & AI to the space domain — uniquely combines satellite edge AI with Fugro's subsea infrastructure for unified maritime intelligence.
 
 **Cross-Sector Synergies**
 
@@ -48,5 +50,5 @@ This sector is highly complementary to every other sector in the knowledge graph
 - VentureWell OEA Spring 2026 cohorts revealed 51 startups across Stages 0-2 — heavy concentration in data/sensor/AI solutions
 
 ---
-*Last updated: 2026-07-12*
-**Total Companies**: 7 (Ocean Data & AI sector — +2 this update: SeaDeep, Sofar Ocean)
+*Last updated: 2026-07-15*
+**Total Companies**: 8 (Ocean Data & AI sector — +1 this update: Ubotica)

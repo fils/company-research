@@ -2,7 +2,7 @@
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (16 monitored)
+## Companies (17 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -21,6 +21,7 @@ Sector overview for aquaculture technology and monitoring companies.
 | [NeuralX](/wiki/neuralx.md) (NEW) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
 || [Tidal](/wiki/tidal.md) (NEW) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
 || [BiOceanOr](/wiki/bioceanor.md) (NEW) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
+|| [AquaExchange](/wiki/aquaexchange.md) (NEW) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -40,6 +41,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Synthetic training data moat**: NeuralX's 3D Artificial Life Simulation Engine generates rare-event training data (disease outbreaks, equipment failures) that competitors cannot capture in the wild — a defensible technical moat for computer vision in aquaculture
 - **Genotype-phenotype decoding**: Aquaticode's research into mapping visual expression (phenotype) to DNA (genotype) represents a frontier approach beyond simple gender sorting — could enable predictive breeding from pixel data
 - **Biology+AI water quality forecasting**: BiOceanOr's 5-year R&D combining oceanographers/marine biologists with ML produces 12h oxygen forecasts at 0.5 mg/L accuracy — a concrete performance benchmark. The biology+AI combination is a moat vs pure-software competitors. Addresses shared critical risk (hypoxia, HABs) across ALL aquaculture operations, complementing sensor-hardware (Innovasea), computer vision (Aquabyte/Tidal), and synthetic data (NeuralX) approaches
+- **Full-stack IoT ecosystem**: AquaExchange's hardware + AI + finance + insurance + marketplace approach is distinct from single-product competitors. 20K devices deployed across 4 countries with embedded finance and disease insurance — the "One Smart Ecosystem" philosophy addresses the entire farmer lifecycle (seed to harvest), not just monitoring. Acoustic demand-based feeding (FeedMon) is a novel modality beyond camera-based approaches
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)

@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Hullbot",
+  "url": "https://www.hullbot.com/",
+  "description": "Autonomous underwater robots for ship hull cleaning and inspection. Proactive hull grooming prevents biofouling buildup, reducing drag and fuel consumption. Cloud robotics platform with real-time analytics.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Sydney, Australia"
+  },
+  "knowsAbout": [
+    "Autonomous underwater robotics",
+    "Hull cleaning and inspection",
+    "Biofouling prevention",
+    "Cloud robotics",
+    "Vessel performance optimization",
+    "Marine inspection automation"
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "name": "Series A",
+    "amount": "$10,500,000",
+    "currency": "USD",
+    "date": "2025-11"
+  },
+  "investor": [
+    {"@type": "Organization", "name": "Katapult Ocean"}
+  ],
+  "affiliation": [
+    {"@type": "Organization", "name": "UNSW (University of New South Wales)"},
+    {"@type": "Organization", "name": "Trinity Ventures"}
+  ],
+  "keywords": "underwater robotics, hull cleaning, biofouling, autonomous inspection, vessel efficiency",
+  "areaServed": "Global"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "AquaExchange",
+  "url": "https://aquaexchange.com/",
+  "description": "Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, and insurance. 20,000 devices deployed across 80,000 acres in 4 countries.",
+  "foundingDate": "2020",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Vijayawada, India"
+  },
+  "knowsAbout": [
+    "IoT aquaculture",
+    "Shrimp farm automation",
+    "AI-powered pathogen detection",
+    "Water quality monitoring",
+    "Automated feeding systems",
+    "Farm management software",
+    "Embedded finance for aquaculture",
+    "Acoustic demand-based feeding"
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "name": "Series B",
+    "amount": "$8,000,000",
+    "currency": "USD",
+    "date": "2026-03"
+  },
+  "investor": [
+    {"@type": "Organization", "name": "NABVENTURES"}
+  ],
+  "keywords": "aquaculture IoT, shrimp farming, AI pathogen detection, water quality monitoring, farm automation",
+  "areaServed": ["India", "Asia-Pacific", "Global"],
+  "award": "Responsible Seafood Innovation Award finalist (Global Seafood Advocacy)"
+}

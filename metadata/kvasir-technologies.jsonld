@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Kvasir Technologies",
+  "url": "https://kvasirtechnologies.com/",
+  "description": "Climate-neutral drop-in marine biofuel from lignocellulosic biomass. Simple one-step process converting non-edible agricultural and forestry waste into 1:1 fossil fuel replacement with >96% GHG reduction.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Copenhagen, Denmark"
+  },
+  "knowsAbout": [
+    "Drop-in biofuel",
+    "Biomass liquefaction",
+    "Marine fuel decarbonization",
+    "Lignocellulosic biomass conversion",
+    "IMO 2030/2050 compliance",
+    "Bio-crude oil",
+    "Climate-neutral aviation fuel"
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "name": "Series A",
+    "amount": "€10,000,000",
+    "currency": "EUR",
+    "date": "2026-06"
+  },
+  "investor": [
+    {"@type": "Organization", "name": "Maersk"},
+    {"@type": "Organization", "name": "EU (European Union)"},
+    {"@type": "Organization", "name": "Innovation Fund Denmark"},
+    {"@type": "Organization", "name": "EIFO (Danish Export and Investment Fund)"},
+    {"@type": "Organization", "name": "Footprint Firm"},
+    {"@type": "Organization", "name": "Heartland"},
+    {"@type": "Organization", "name": "VR Ventures"}
+  ],
+  "affiliation": [
+    {"@type": "Organization", "name": "DTU (Technical University of Denmark)"},
+    {"@type": "Organization", "name": "Alfa Laval"},
+    {"@type": "Organization", "name": "Force Technology"}
+  ],
+  "keywords": "marine biofuel, drop-in fuel, biomass conversion, shipping decarbonization, IMO compliance",
+  "areaServed": "Global"
+}

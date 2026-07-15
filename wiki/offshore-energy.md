@@ -9,6 +9,8 @@
 - Oshen: https://www.oshendata.com/
 - Pittsburgh Coastal Energy: https://www.linkedin.com/company/pghcoastal
 - Sitkana: https://www.sitkana.com/
+- Fleetzero: https://www.fleetzero.com/
+- Kvasir Technologies: https://kvasirtechnologies.com/
 
 **Overview (as of May 2026)**
 
@@ -35,6 +37,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 | [Oshen](/wiki/oshen.md) | C-Star autonomous ocean robots | £2M ARIA | Core Business |
 | [Pittsburgh Coastal Energy](/wiki/pittsburgh-coastal-energy.md) (NEW) | Modular onboard wave-energy converters for subsea power | $50K TDC (OEA Stage 2), $25K Baylor New Venture | High |
 | [Sitkana](/wiki/sitkana.md) (NEW) | Tidal current hydrogenerators for remote communities | $50K TDC (OEA Stage 2), DOE Grant | Critical |
+| [Fleetzero](/wiki/fleetzero.md) (NEW) | Leviathan modular marine battery systems + hybrid/electric propulsion | $43M Series A (Jan 2026, Obvious Ventures/Maersk Growth/Breakthrough Energy) | High |
+| [Kvasir Technologies](/wiki/kvasir-technologies.md) (NEW) | Climate-neutral drop-in marine biofuel from biomass waste | €10M Series A (Jun 2026) | High |
 
 **Key Insights**
 - All offshore energy companies require high-quality metocean data and marine environmental baselines.
@@ -44,6 +48,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - Installation, IMR, and decommissioning phases represent major data and service needs.
 - **Pittsburgh Coastal Energy** represents a growing niche: onboard wave energy harvesting for autonomous subsea operations — modular converters that power maritime defense assets without shore infrastructure.
 - **Sitkana**'s removable-anchor tidal generators open the market for small-scale coastal/off-grid energy in tidal-rich regions (Alaska, Pacific NW) — a complementary approach to utility-scale tidal farms.
+- **Fleetzero** ($43M Series A) brings marine battery electrification to commercial shipping — Leviathan modular energy storage (3.8 MWh per container, double power/half price) + modular hull construction to lower shipyard costs. Price parity with fossil fuels (no green premium) is the key differentiator. AET partnership for world's longest-range hybrid-electric vessel. Maersk Growth as strategic investor-customer.
+- **Kvasir Technologies** (€10M Series A, DTU spinout) offers a complementary decarbonization pathway: drop-in biofuel from lignocellulosic waste with >96% GHG reduction, no engine modification needed. Maersk as strategic investor-customer. Enables IMO 2030/2050 compliance for existing fleet without vessel replacement — critical bridge solution while electrification scales.
 
-**Last Updated**: 2026-05-25
-**Total Companies**: 8 (Offshore Energy sector)
+**Last Updated**: 2026-07-15
+**Total Companies**: 10 (Offshore Energy sector)

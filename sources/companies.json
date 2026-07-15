@@ -579,5 +579,40 @@
     "url": "https://bioceanor.com/",
     "notes": "AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence. ~€2.5M total funding (€2M equity first round 2023 via Yield Lab Europe lead; €500K convertible; BlueInvest-supported; Tracxn reports ~$5.4M across 7 rounds since 2018). Products: AquaCHECK (data consistency QA), AquaFORECAST (12h-horizon oxygen forecast with 0.5 mg/L accuracy), AquaLYTICS (cross-farm analytics). 10M+ data points processed/month; 20+ experts (data scientists, oceanographers, marine biologists, fish health biologists); 5 years of R&D validated at sea. Deployed in 10+ countries incl. Chilean salmon (PREDIMAR oxygen prediction system) and Norwegian operations (Alexia Mouton country lead). CEO Samuel Dupont. Use cases: prevent hypoxia, optimize feeding/aeration, protect animal welfare. Climate-resilient aquaculture focus as environmental pressures (oxygen depletion, HABs, fluctuating feed intake, fish stress) intensify",
     "last_updated": "2026-07-14"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Fleetzero",
+    "url": "https://www.fleetzero.com/",
+    "notes": "Marine energy & robotics — ultra energy-dense modular marine battery systems (Leviathan) + hybrid/electric propulsion for commercial vessels. $43M Series A (Jan 2026, Obvious Ventures + Maersk Growth + Breakthrough Energy Ventures + 8090 Ventures). Founded 2021, Houston TX; YC alumni. Leviathan modular energy storage: 3.8 MWh in 25% container footprint; double the power at half the price. Battery barge (55 MWh). Modular hull construction to lower shipbuilding costs. AET partnership for world's longest-range hybrid-electric vessel. Team: US Navy veterans, seafarers, industry experts. End-to-end integration (concept to commissioning). Selected to build world's longest-range hybrid-electric vessel (2025). Price parity with fossil fuel solutions — payback under 6 years, positive within 2 years for many projects",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Hullbot",
+    "url": "https://www.hullbot.com/",
+    "notes": "Autonomous underwater robots for ship hull cleaning & inspection (proactive hull grooming). $10.5M Series A (Nov 2025, Katapult Ocean lead). Prevents biofouling buildup, reduces drag and fuel consumption. Cloud robotics platform with real-time analytics. Works with all coatings (gentle brush system). Cleans propellers and niche areas. Routine inspections without divers. Global service with international hubs. UNSW-backed (University of New South Wales). Customers: Ultramar, NRMA Marine, FRS Clipper, Journey Beyond/Cruise Whitsundays, APFC Fastcat. Founded in Sydney, Australia. Autonomous frequent cleaning as-a-service (no upfront cost to vessel operators). Proactive grooming vs reactive cleaning paradigm shift",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Ubotica",
+    "url": "https://ubotica.com/",
+    "notes": "Orbital AI / cognitive Earth observation for real-time maritime intelligence from space. $11M funding round (Jun 2026). SPACE:AI platform — 11 missions successfully flown, 30+ AI models deployed (vessel detection, autonomous targeting, anomaly detection). Subscription-based predictive maritime surveillance: detects dark vessels and shadow fleets, tracks suspicious activity, delivers decision-grade intelligence in near-real-time. Cognitive EO paradigm: predicts risk → decides what to task → processes at edge → learns. Fugro partnership for space-to-seabed maritime intelligence (combining satellite EO with Fugro's global ocean infrastructure: subsea sensors, offshore vessels, USVs, UAVs). NASA JPL collaboration (FAME — federated autonomous measurement satellite network). ESA partner. NOVI Space partnership for orbit edge computing. Dublin, Ireland HQ. Proven with ESA, NASA JPL, and commercial satellite operators",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Kvasir Technologies",
+    "url": "https://kvasirtechnologies.com/",
+    "notes": "Climate-neutral drop-in marine biofuel from lignocellulosic biomass (non-edible agricultural & forestry waste). €10M Series A (Jun 2026). Spin-out from DTU (Technical University of Denmark). >96% GHG emission reduction vs fossil marine fuel. Simple one-step process: pressurized 'cooking' of biomass in alcohol. No engine modification or infrastructure changes needed — direct drop-in replacement. Meets IMO 2030 (40% reduction) and 2050 (50% reduction) targets. Markets: marine fuel (primary), bio-crude oil (refinery co-feeding), aviation fuel, value-added chemicals. Investors/partners: Maersk, EU, Innovation Fund Denmark, EIFO, Alfa Laval, Footprint Firm, Heartland. Force Technology corrosion testing partnership for pilot plant materials. Copenhagen-based",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "AquaExchange",
+    "url": "https://aquaexchange.com/",
+    "notes": "Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance. $8M Series B (Mar 2026, NABVENTURES lead). 20,000 devices deployed, 80,000 acres, 4 countries; serving shrimp industry 5+ years. Products: CheckTray (feed consumption & behavior monitoring), WaterMon (GPS-enabled water quality monitoring), Patholense (AI-powered microscopy pathogen detection), PumpMon (pump performance monitoring), PowerMon/APFC (power monitoring + automatic power factor correction), AquaBot (automated precision feeding), Static Feeders (100kg/200kg), Feed Mixer, Starter (smart aerator controller), Smart Scale, FeedMon (demand-based intelligent feeding via acoustic listening), Shrimp Counter (AI-powered stock estimation), ProBrew Master (probiotic brewing), NextFarm app (farm management). Vijayawada, India; founded 2020. Responsible Seafood Innovation Award finalist. One Smart Ecosystem approach connecting every pond",
+    "last_updated": "2026-07-15"
   }
 ]

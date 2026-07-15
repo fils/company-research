@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Fleetzero",
+  "url": "https://www.fleetzero.com/",
+  "description": "Marine energy & robotics company designing ultra energy-dense modular marine battery systems (Leviathan) and hybrid/electric propulsion systems for commercial vessels. Pioneering modular hull construction.",
+  "foundingDate": "2021",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Houston, TX, USA"
+  },
+  "knowsAbout": [
+    "Marine battery systems",
+    "Hybrid electric propulsion",
+    "Modular hull construction",
+    "Vessel electrification",
+    "Marine energy storage",
+    "Decarbonization of shipping",
+    "Autonomous vessel technology"
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "name": "Series A",
+    "amount": "$43,000,000",
+    "currency": "USD",
+    "date": "2026-01"
+  },
+  "investor": [
+    {"@type": "Organization", "name": "Obvious Ventures"},
+    {"@type": "Organization", "name": "Maersk Growth"},
+    {"@type": "Organization", "name": "Breakthrough Energy Ventures"},
+    {"@type": "Organization", "name": "8090 Ventures"},
+    {"@type": "Organization", "name": "Founders Fund"},
+    {"@type": "Organization", "name": "Flexport"},
+    {"@type": "Organization", "name": "Benson Capital Partners"},
+    {"@type": "Organization", "name": "McKinley Capital"},
+    {"@type": "Organization", "name": "Y Combinator"}
+  ],
+  "partner": [
+    {"@type": "Organization", "name": "AET"},
+    {"@type": "Organization", "name": "Maersk"}
+  ],
+  "keywords": "marine electrification, battery storage, shipping decarbonization, modular propulsion",
+  "areaServed": "Global"
+}

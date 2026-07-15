@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Ubotica",
+  "url": "https://ubotica.com/",
+  "description": "Orbital AI / cognitive Earth observation company providing real-time maritime intelligence from space. SPACE:AI platform with 11 missions flown and 30+ AI models for vessel detection, autonomous targeting, and anomaly detection.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Dublin, Ireland"
+  },
+  "knowsAbout": [
+    "Orbital AI",
+    "Cognitive Earth Observation",
+    "Satellite edge computing",
+    "Maritime surveillance",
+    "Dark vessel detection",
+    "Space-to-seabed intelligence",
+    "AI-powered satellite tasking"
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "name": "Funding Round",
+    "amount": "$11,000,000",
+    "currency": "USD",
+    "date": "2026-06"
+  },
+  "investor": [],
+  "partner": [
+    {"@type": "Organization", "name": "Fugro"},
+    {"@type": "Organization", "name": "NASA JPL"},
+    {"@type": "Organization", "name": "ESA (European Space Agency)"},
+    {"@type": "Organization", "name": "NOVI Space"},
+    {"@type": "Organization", "name": "Open Cosmos"},
+    {"@type": "Organization", "name": "Thales"},
+    {"@type": "Organization", "name": "GMV"},
+    {"@type": "Organization", "name": "CGI"}
+  ],
+  "keywords": "orbital AI, satellite maritime intelligence, dark vessel detection, cognitive EO, space edge computing",
+  "areaServed": "Global"
+}
