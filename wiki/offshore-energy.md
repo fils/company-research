@@ -11,10 +11,12 @@
 - Sitkana: https://www.sitkana.com/
 - Fleetzero: https://www.fleetzero.com/
 - Kvasir Technologies: https://kvasirtechnologies.com/
+- Sizable Energy: https://sizableenergy.com/
+- Voltai: https://www.voltai.ca/
 
-**Overview (as of May 2026)**
+**Overview (as of July 2026)**
 
-Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), and tidal current hydrogenerators for remote communities (Sitkana). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
+Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), and vessel-mounted wave harvesters (Voltai). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
 
 **Core Themes**
 - Floating wind platform technology (Ørsted, Gazelle, Principle Power, BW Ideol)
@@ -22,6 +24,9 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - Autonomous ocean robotics for persistent sensing (Oshen — C-Star constellations, NOAA contracts)
 - Wave energy harvesting for subsea power (Pittsburgh Coastal Energy — modular converters)
 - Tidal current energy for remote coastal communities (Sitkana — DOE-funded, Alaska-based)
+- Marine electrification & fuels (Fleetzero batteries; Kvasir drop-in biofuel)
+- Ocean long-duration storage (Sizable Energy — offshore pumped hydro with brine)
+- Onboard vessel wave harvesting (Voltai — motion-to-power without added drag)
 - Extreme demand for oceanographic and meteorological (metocean) data
 - Extensive marine environmental surveys and biodiversity monitoring requirements
 
@@ -35,10 +40,12 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 | [BW Ideol](/wiki/bw-ideol.md) | Damping Pool® floating platform | Project-based | High |
 | [Panthalassa](/wiki/panthalassa.md) | Wave-powered offshore AI computing | $140M Series B (May 2026) | Critical |
 | [Oshen](/wiki/oshen.md) | C-Star autonomous ocean robots | £2M ARIA | Core Business |
-| [Pittsburgh Coastal Energy](/wiki/pittsburgh-coastal-energy.md) (NEW) | Modular onboard wave-energy converters for subsea power | $50K TDC (OEA Stage 2), $25K Baylor New Venture | High |
-| [Sitkana](/wiki/sitkana.md) (NEW) | Tidal current hydrogenerators for remote communities | $50K TDC (OEA Stage 2), DOE Grant | Critical |
-| [Fleetzero](/wiki/fleetzero.md) (NEW) | Leviathan modular marine battery systems + hybrid/electric propulsion | $43M Series A (Jan 2026, Obvious Ventures/Maersk Growth/Breakthrough Energy) | High |
-| [Kvasir Technologies](/wiki/kvasir-technologies.md) (NEW) | Climate-neutral drop-in marine biofuel from biomass waste | €10M Series A (Jun 2026) | High |
+| [Pittsburgh Coastal Energy](/wiki/pittsburgh-coastal-energy.md) | Modular onboard wave-energy converters for subsea power | $50K TDC (OEA Stage 2), $25K Baylor New Venture | High |
+| [Sitkana](/wiki/sitkana.md) | Tidal current hydrogenerators for remote communities | $50K TDC (OEA Stage 2), DOE Grant | Critical |
+| [Fleetzero](/wiki/fleetzero.md) | Leviathan modular marine battery systems + hybrid/electric propulsion | $43M Series A (Jan 2026, Obvious Ventures/Maersk Growth/Breakthrough Energy) | High |
+| [Kvasir Technologies](/wiki/kvasir-technologies.md) | Climate-neutral drop-in marine biofuel from biomass waste | €10M Series A (Jun 2026) | High |
+| [Sizable Energy](/wiki/sizable-energy.md) (NEW) | Gigawatt-scale ocean pumped hydro LDES (brine reservoirs) | $8M seed (Oct 2025, Playground Global) | Critical |
+| [Voltai](/wiki/voltai.md) (NEW) | Onboard wave/motion energy harvesting for ships (no added drag) | CAD $1.83M pre-seed (Oct 2025, Invest Nova Scotia) | High |
 
 **Key Insights**
 - All offshore energy companies require high-quality metocean data and marine environmental baselines.
@@ -50,6 +57,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - **Sitkana**'s removable-anchor tidal generators open the market for small-scale coastal/off-grid energy in tidal-rich regions (Alaska, Pacific NW) — a complementary approach to utility-scale tidal farms.
 - **Fleetzero** ($43M Series A) brings marine battery electrification to commercial shipping — Leviathan modular energy storage (3.8 MWh per container, double power/half price) + modular hull construction to lower shipyard costs. Price parity with fossil fuels (no green premium) is the key differentiator. AET partnership for world's longest-range hybrid-electric vessel. Maersk Growth as strategic investor-customer.
 - **Kvasir Technologies** (€10M Series A, DTU spinout) offers a complementary decarbonization pathway: drop-in biofuel from lignocellulosic waste with >96% GHG reduction, no engine modification needed. Maersk as strategic investor-customer. Enables IMO 2030/2050 compliance for existing fleet without vessel replacement — critical bridge solution while electrification scales.
+- **Sizable Energy** ($8M seed) brings long-duration energy storage offshore via brine pumped hydro — zero land use, modular GW-scale potential, and natural coupling with floating wind/PV. Distinct from generation (wave/tidal/wind) and vessel propulsion (Fleetzero/Kvasir/Voltai): it firms variable renewables at sea.
+- **Voltai** (CAD $1.83M pre-seed) adds vessel-mounted motion-to-power harvesting without added drag — a retrofit-friendly fourth decarbonization pathway alongside batteries (Fleetzero), drop-in biofuel (Kvasir), and drag reduction (Hullbot).
 
-**Last Updated**: 2026-07-15
-**Total Companies**: 10 (Offshore Energy sector)
+**Last Updated**: 2026-07-16
+**Total Companies**: 12 (Offshore Energy sector)

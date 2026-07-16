@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Seaber",
+  "url": "https://seaber.fr/",
+  "description": "French manufacturer of micro-AUVs (YUCO science/civil, MARVEL defense/survey).",
+  "funding": "~$2M seed (Oct 2025)",
+  "industry": "Marine Robotics",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "FR"
+  },
+  "sameAs": [
+    "https://seaber.fr/"
+  ]
+}

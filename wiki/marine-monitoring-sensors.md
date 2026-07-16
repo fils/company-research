@@ -1,7 +1,7 @@
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-15  
-**Companies Tracked**: 21
+**Last Updated**: 2026-07-16  
+**Companies Tracked**: 23
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -123,6 +123,18 @@ Autonomous underwater robots for ship hull cleaning & inspection (proactive hull
 - **Funding**: $10.5M Series A (Nov 2025, Katapult Ocean)
 - **Location**: Sydney, Australia
 
+### Clear Robotics (NEW 2026-07-16)
+All-electric AI autonomous USVs (Clearbot) for waterway solid waste recovery, hyacinth removal, bathymetric/draft survey, and infrastructure surveillance. $1.75M seed (Jun 2026, Katapult Ocean). Fleet of ~26–27 vessels across UAE, Singapore, India, Philippines. Partners: ADB (Pasig River), Veolia HK, JNPA Mumbai, municipal authorities. Rental/services + distributor models. Hong Kong / Singapore roots.
+- **Site**: [clearbot.org](https://www.clearbot.org/)
+- **Funding**: $1.75M seed (Jun 2026, Katapult Ocean)
+- **Location**: Hong Kong / Singapore (multi-market fleet)
+
+### Seaber (NEW 2026-07-16)
+French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m, 8–10 h) and MARVEL (defense/survey: MCM, ASW training, coast guard). Payloads: CTD, physico, side-scan, PAM, 3DSS, camera, eDNA, magnetometer, multibeam. SEAPLAN software. ~$2M seed (Oct 2025; Sodero, Breizh Up, FNX, Défense Angels). Thesis: fleets of numerous small affordable AUVs.
+- **Site**: [seaber.fr](https://seaber.fr/)
+- **Funding**: ~$2M seed (Oct 2025)
+- **Location**: France
+
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)
 - **Survey-grade data**: High-resolution oceanographic and environmental data collection from autonomous platforms
@@ -133,6 +145,8 @@ Autonomous underwater robots for ship hull cleaning & inspection (proactive hull
 - **Fiber optic sensing**: Ocean State Sensing's DTS approach provides unprecedented water column temperature resolution (25cm intervals)
 - **Edge AI**: MarineSitu's SituAI processes >95% classification accuracy onboard, reducing data transmission costs
 - **Portability**: Sunfish's person-portable AUV and HALOBLUE's lower-cost approach both democratize access to underwater monitoring
+- **Micro-AUV fleet economics** (Seaber): Complements defense AUV primes (Ulysses, Vatn) and survey AUVs (Bedrock) at the low-cost/single-person-deploy end — payload diversity (CTD, eDNA, PAM, magnetometry) makes YUCO a science workhorse
+- **Environmental service USVs** (Clear Robotics): Distinct from defense ASV primes (Saronic, Blue Water, HavocAI) — mission is urban/port waste, hyacinth, and survey with zero-emission fleet ops and waste-mass data co-products; Katapult Ocean co-invests alongside Hullbot
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

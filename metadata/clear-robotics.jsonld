@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Clear Robotics",
+  "url": "https://www.clearbot.org/",
+  "description": "All-electric AI autonomous USVs for waterway waste recovery, survey, and surveillance.",
+  "funding": "$1.75M seed (Jun 2026, Katapult Ocean)",
+  "industry": "Marine Robotics",
+  "sameAs": [
+    "https://www.clearbot.org/"
+  ]
+}

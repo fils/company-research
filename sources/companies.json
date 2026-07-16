@@ -614,5 +614,40 @@
     "url": "https://aquaexchange.com/",
     "notes": "Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance. $8M Series B (Mar 2026, NABVENTURES lead). 20,000 devices deployed, 80,000 acres, 4 countries; serving shrimp industry 5+ years. Products: CheckTray (feed consumption & behavior monitoring), WaterMon (GPS-enabled water quality monitoring), Patholense (AI-powered microscopy pathogen detection), PumpMon (pump performance monitoring), PowerMon/APFC (power monitoring + automatic power factor correction), AquaBot (automated precision feeding), Static Feeders (100kg/200kg), Feed Mixer, Starter (smart aerator controller), Smart Scale, FeedMon (demand-based intelligent feeding via acoustic listening), Shrimp Counter (AI-powered stock estimation), ProBrew Master (probiotic brewing), NextFarm app (farm management). Vijayawada, India; founded 2020. Responsible Seafood Innovation Award finalist. One Smart Ecosystem approach connecting every pond",
     "last_updated": "2026-07-15"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Biosort",
+    "url": "https://biosort.no/en",
+    "notes": "Individual-based sea lice control + FishID AI/machine vision for salmon aquaculture. NOK 100M+ (~$10.4M) venture round (Feb 2026) from Grieg Kapital, Hatch Blue, IVC, Farvatn, Futurum Ventures + existing owners. Founded 2010 by former Tomra engineers; built on Cermaq iFarm development-license project (4 production cycles). FishID identifies/tracks individual salmon; early-stage parasite removal + individual health journals (lice count, growth, welfare). Goal: continuous lice removal to suppress population growth and reduce well-boat treatments. Research partners: Nofima, IMR, NMBU, Norwegian Veterinary Institute, SINTEF Ocean, NTNU. CEO Geir Stang Hauge. Norway.",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Sizable Energy",
+    "url": "https://sizableenergy.com/",
+    "notes": "Gigawatt-scale ocean energy storage using offshore pumped hydro with brine: seabed reservoir + floating reservoir + connecting pipe + reversible pump-turbines. $8M seed (Oct 2025, Playground Global lead; Bow Capital et al.). Italian pioneer; co-founders Manuele Aufiero (CEO), Carlo Fiorina, Stefano Bernardi (founding investor). Modular/scalable, zero land use, synergistic with floating wind/PV, high RTE. Wave-basin and at-sea proof-of-concept completed; ideal sites identified in 50+ countries. Long-duration energy storage (LDES) for renewables integration.",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Clear Robotics",
+    "url": "https://www.clearbot.org/",
+    "notes": "All-electric AI autonomous unmanned surface vessels (Clearbot) for solid waste recovery, hyacinth removal, bathymetric/draft survey, and waterway surveillance. $1.75M seed (Jun 2026, Katapult Ocean). Fleet of 26–27 USVs deployed across UAE, Singapore, India, Philippines and other markets. Clients/partners include ADB (Pasig River pilot), Veolia HK, JNPA Mumbai, Rajasthan municipalities, Hong Kong Highway Dept. Vessel classes: Class 3, Class 2, Alligator (hyacinth), Fetch. Business models: rental/services + distributor. Hong Kong / Singapore roots (Open Ocean Engineering / NUS Enterprise). Zero-emission autonomous waterway operations.",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Seaber",
+    "url": "https://seaber.fr/",
+    "notes": "French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m depth, 8–10 h autonomy) and MARVEL (security/defense: MCM, ASW training, coast guard). Payloads include CTD, multi-parameter physico, side-scan, PAM acoustic recorder, 3DSS, HR camera, eDNA sampler, magnetometer, multibeam. SEAPLAN mission software. Single-person multi-modal deployment. ~$1.8–2M seed (Oct 2025; investors Sodero, Breizh Up, FNX Ventures, Défense Angels). Applications: coastal monitoring/hydrography, harbours, marine biology/aquaculture, SAR/security, mine countermeasures, beach reconnaissance. Thesis: fleets of numerous small affordable AUVs. France.",
+    "last_updated": "2026-07-16"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Voltai",
+    "url": "https://www.voltai.ca/",
+    "notes": "Onboard wave/motion energy harvesting for ships — electrostatic generators converting wave and vibration energy into electricity without added drag. CAD $1.83M oversubscribed pre-seed (Oct 2025) co-led by Invest Nova Scotia. Modular systems scalable 25W to multi-MW. Pilots: NSCC research vessel; Net Zero Atlantic project for fishing vessels and ferries; Canadian Coast Guard Innovative Solutions Canada challenge (2 phases). Family-founded in Dartmouth, Nova Scotia (CEO Maja Maher). Positioning: emission-free energy source rivaling heavy fuel oil on cost for regulatory compliance. Supports: CDL, NRC IRAP, Ocean Startup Project, Clean Foundation, Springboard Atlantic.",
+    "last_updated": "2026-07-16"
   }
 ]

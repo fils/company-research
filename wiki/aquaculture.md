@@ -2,7 +2,7 @@
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (17 monitored)
+## Companies (18 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -17,11 +17,12 @@ Sector overview for aquaculture technology and monitoring companies.
 | [MacroBreed](/wiki/macrobreed.md) | Kelp genomics & selective breeding; $11M+ grants; 300% yield improvement | High |
 | [Dirigo Sea Farm](/wiki/dirigo-sea-farm.md) | Seaweed-based biomaterials for plastic replacement; kelp cultivation | High |
 | [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
-| [Aquaticode](/wiki/aquaticode.md) (NEW) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
-| [NeuralX](/wiki/neuralx.md) (NEW) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
-|| [Tidal](/wiki/tidal.md) (NEW) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
-|| [BiOceanOr](/wiki/bioceanor.md) (NEW) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
-|| [AquaExchange](/wiki/aquaexchange.md) (NEW) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
+| [Aquaticode](/wiki/aquaticode.md) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
+| [NeuralX](/wiki/neuralx.md) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
+| [Tidal](/wiki/tidal.md) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
+| [BiOceanOr](/wiki/bioceanor.md) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
+| [AquaExchange](/wiki/aquaexchange.md) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
+| [Biosort](/wiki/biosort.md) (NEW) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -42,6 +43,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Genotype-phenotype decoding**: Aquaticode's research into mapping visual expression (phenotype) to DNA (genotype) represents a frontier approach beyond simple gender sorting — could enable predictive breeding from pixel data
 - **Biology+AI water quality forecasting**: BiOceanOr's 5-year R&D combining oceanographers/marine biologists with ML produces 12h oxygen forecasts at 0.5 mg/L accuracy — a concrete performance benchmark. The biology+AI combination is a moat vs pure-software competitors. Addresses shared critical risk (hypoxia, HABs) across ALL aquaculture operations, complementing sensor-hardware (Innovasea), computer vision (Aquabyte/Tidal), and synthetic data (NeuralX) approaches
 - **Full-stack IoT ecosystem**: AquaExchange's hardware + AI + finance + insurance + marketplace approach is distinct from single-product competitors. 20K devices deployed across 4 countries with embedded finance and disease insurance — the "One Smart Ecosystem" philosophy addresses the entire farmer lifecycle (seed to harvest), not just monitoring. Acoustic demand-based feeding (FeedMon) is a novel modality beyond camera-based approaches
+- **Individual-ID + intervention (not just monitoring)**: Biosort's FishID + early lice removal closes the loop from observation to action at the individual fish level — distinct from biomass/phenotyping cameras (Aquabyte/Tidal/Aquaticode) that primarily measure. Continuous parasite suppression reduces well-boat treatments and targets the industry's top biological risk (sea lice)
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -53,4 +55,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-07-14*
+*Last updated: 2026-07-16*

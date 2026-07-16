@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Biosort",
+  "url": "https://biosort.no/en",
+  "description": "Individual-based sea lice control and FishID AI/machine vision for salmon aquaculture.",
+  "foundingDate": "2010",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NO"
+  },
+  "funding": "NOK 100M+ (Feb 2026)",
+  "industry": "Aquaculture Technology",
+  "sameAs": [
+    "https://biosort.no/en"
+  ]
+}

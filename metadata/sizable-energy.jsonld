@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Sizable Energy",
+  "url": "https://sizableenergy.com/",
+  "description": "Gigawatt-scale ocean-based pumped hydro energy storage using brine reservoirs.",
+  "funding": "$8M seed (Oct 2025)",
+  "industry": "Offshore Energy Storage",
+  "sameAs": [
+    "https://sizableenergy.com/"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Voltai",
+  "url": "https://www.voltai.ca/",
+  "description": "Onboard wave/motion energy harvesting systems for marine vessels.",
+  "funding": "CAD $1.83M pre-seed (Oct 2025)",
+  "industry": "Marine Energy",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 Research Dr",
+    "addressLocality": "Dartmouth",
+    "addressRegion": "NS",
+    "addressCountry": "CA"
+  },
+  "sameAs": [
+    "https://www.voltai.ca/"
+  ]
+}
