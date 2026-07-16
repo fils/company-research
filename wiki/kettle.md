@@ -1,28 +1,40 @@
+---
+type: Company
+title: Kettle
+description: Climate perils insurance & underwriting data
+resource: https://ourkettle.com/
+tags:
+- climate-risk
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Climate Risk
+---
+
 # Kettle
 
 **Sector**: Climate Risk
 
 **Official Site**: https://ourkettle.com/
 
-**Overview**  
+**Overview**
 Kettle specializes in insurance and reinsurance for climate-exacerbated catastrophic risks, with a primary focus on wildfire in California. The company uses advanced AI modeling to predict ignition, spread, and building vulnerability.
 
-**Technology**  
+**Technology**
 - Three proprietary AI models (Ignition, Spread, Building Vulnerability)
 - Consumes 130+ TB of satellite, weather, real estate, and utility data
 - 70+ risk indicators
 - Demonstrated 97.23% accuracy in predicting burned properties in California over 4 years
 
-**Business Model**  
+**Business Model**
 - Excess & Surplus (E&S) property insurance for wildfire
 - Reinsurance products
 - Targets: HOAs, resorts, high-value homes, commercial campuses, and vineyards dropped by traditional insurers
 - Combines risk assessment, protection, and mitigation pricing
 
-**Marine / Coastal Relevance**  
+**Marine / Coastal Relevance**
 While primarily wildfire-focused, the risk modeling approach is transferable to coastal and marine-adjacent properties facing extreme weather.
 
-**Last Updated**: 2026-05-18  
+**Last Updated**: 2026-05-18
 **Status**: Full profile ready
 
 ### Data & Measurement Needs

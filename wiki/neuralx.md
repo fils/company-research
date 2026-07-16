@@ -1,3 +1,15 @@
+---
+type: Company
+title: NeuralX
+description: Decision intelligence for aquaculture from underwater video feeds; Ocean Exchange 2025 Winner ($100K) + Neptune Award; proprietary 3D Artificial Life Simulation Engine for synthetic training data (DeepFoids NeurIPS 20...
+resource: https://neuralx.ai/
+tags:
+- aquaculture
+timestamp: '2026-07-11T00:00:00Z'
+date: '2026-07-11'
+sector: Aquaculture
+---
+
 # NeuralX
 
 **Sector**: Aquaculture

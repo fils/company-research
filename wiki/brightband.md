@@ -1,3 +1,15 @@
+---
+type: Company
+title: Brightband
+description: AI weather & climate forecasting; $10M Series A (Prelude Ventures, Starshot Capital); NOAA partner for NNJA-AI observational data archive; open-source benchmark weather datasets; ex-Google X, MIT, NSF AI2ES team
+resource: https://www.brightband.com/
+tags:
+- climate-risk
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Climate Risk
+---
+
 **Sector**: Climate Risk (AI Weather/Climate Data)
 **Official Site**: https://www.brightband.com/
 

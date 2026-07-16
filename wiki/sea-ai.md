@@ -1,3 +1,15 @@
+---
+type: Company
+title: SEA.AI
+description: Maritime machine vision for safety at sea; AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables).
+resource: https://www.sea.ai/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-07-14T00:00:00Z'
+date: '2026-07-14'
+sector: Maritime Operations & Analytics
+---
+
 # SEA.AI
 
 **Sector**: Maritime Operations & Analytics

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Blue Water Autonomy
+description: Autonomous warships for US Navy — full-size unmanned surface vessels for open-ocean endurance.
+resource: https://www.blw.ai/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-14T00:00:00Z'
+date: '2026-07-14'
+sector: Marine Monitoring & Sensors
+---
+
 # Blue Water Autonomy
 
 **Sector**: Marine Monitoring & Sensors

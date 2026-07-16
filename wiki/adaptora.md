@@ -1,7 +1,19 @@
+---
+type: Company
+title: Adaptora
+description: Subsurface risk intelligence platform for coastal land subsidence; ultra-high resolution ground deformation sensors; deploying on Governors Island; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Brooklyn, NY (Tensor...
+resource: https://www.tensora.tech/
+tags:
+- coastal-risk-infrastructure
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Coastal Risk & Infrastructure
+---
+
 # Adaptora
 
-**Sector**: Coastal Risk & Infrastructure  
-**Official Site**: https://www.tensora.tech/  
+**Sector**: Coastal Risk & Infrastructure
+**Official Site**: https://www.tensora.tech/
 **Last Updated**: 2026-05-24
 
 ## Business Model

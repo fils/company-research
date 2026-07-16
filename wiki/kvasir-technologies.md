@@ -1,3 +1,15 @@
+---
+type: Company
+title: Kvasir Technologies
+description: Climate-neutral drop-in marine biofuel from lignocellulosic biomass (non-edible agricultural & forestry waste).
+resource: https://kvasirtechnologies.com/
+tags:
+- offshore-energy
+timestamp: '2026-07-15T00:00:00Z'
+date: '2026-07-15'
+sector: Offshore Energy
+---
+
 # Kvasir Technologies
 
 **Sector**: Offshore Energy

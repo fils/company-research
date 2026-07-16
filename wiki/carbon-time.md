@@ -1,3 +1,15 @@
+---
+type: Company
+title: Carbon Time
+description: Ocean alkalinity enhancement CDR; >20,000 yr permanence; European-based pioneer
+resource: https://www.carbon-time.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-13T00:00:00Z'
+date: '2026-05-13'
+sector: Ocean Carbon Sequestration
+---
+
 # Carbon Time
 
 **Sector**: Ocean Carbon Sequestration

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Sofar Ocean
+description: Largest privately-owned ocean sensor network in the world; 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations; total funding ~$75-78.5M (Series B $39M led by U...
+resource: https://www.sofarocean.com/
+tags:
+- ocean-data-ai
+timestamp: '2026-07-12T00:00:00Z'
+date: '2026-07-12'
+sector: Ocean Data & AI
+---
+
 # Sofar Ocean
 
 **Sector**: Ocean Data & AI

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Seabound
+description: Onboard carbon capture from shipping exhaust; marine CDR synergy
+resource: https://www.seabound.co/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Ocean Carbon Sequestration
+---
+
 # Seabound
 
 **Official Site**: https://www.seabound.co/

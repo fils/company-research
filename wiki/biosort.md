@@ -1,3 +1,15 @@
+---
+type: Company
+title: Biosort
+description: Individual-based sea lice control + FishID AI/machine vision for salmon aquaculture.
+resource: https://biosort.no/en
+tags:
+- aquaculture
+timestamp: '2026-07-16T00:00:00Z'
+date: '2026-07-16'
+sector: Aquaculture
+---
+
 # Biosort
 
 **Sector**: Aquaculture

@@ -1,6 +1,15 @@
+---
+type: Sector
+title: Coastal Risk & Infrastructure
+description: '**Last Updated**: 2026-05-25 **Companies Tracked**: 3'
+tags:
+- coastal-risk-infrastructure
+sector: Coastal Risk Infrastructure
+---
+
 # Coastal Risk & Infrastructure
 
-**Last Updated**: 2026-05-25  
+**Last Updated**: 2026-05-25
 **Companies Tracked**: 3
 
 This sector covers companies building subsurface risk intelligence, structural monitoring, and infrastructure resilience platforms for coastal areas — critical for climate adaptation planning in areas vulnerable to land subsidence, sea level rise, structural degradation, and coastal flooding.

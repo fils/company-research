@@ -1,3 +1,15 @@
+---
+type: Company
+title: Saronic Technologies
+description: 'Autonomous surface vessels (ASVs) for defense maritime autonomy; $1.75B Series D (Mar 2026) at $9.25B valuation; total funding ~$2.6B; product line: Spyglass (6''), Corsair (24'', 1000+nm, 35+kt, 1000lb payload), Mirage...'
+resource: https://www.saronic.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-12T00:00:00Z'
+date: '2026-07-12'
+sector: Marine Monitoring & Sensors
+---
+
 # Saronic Technologies
 
 **Sector**: Marine Monitoring & Sensors

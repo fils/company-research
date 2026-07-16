@@ -1,3 +1,15 @@
+---
+type: Company
+title: Calcarea
+description: Ship-board carbon capture converting CO2 to oceanic bicarbonate; Caltech spun-out; $3.5M seed; founded by Jess Adkins
+resource: https://calcarea.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-13T00:00:00Z'
+date: '2026-05-13'
+sector: Ocean Carbon Sequestration
+---
+
 # Calcarea
 
 **Sector**: Ocean Carbon Sequestration

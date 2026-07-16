@@ -1,3 +1,15 @@
+---
+type: Company
+title: Aquaticode
+description: AI-powered aquaculture phenotyping; $6M Series A (Aug 2022, Nacre Capital, Innocreative Capital, Martin Halusa, Einar Wathne); SORTpro automatic high-speed salmon gender sorting (10K fish/hr, >95% accuracy); SORTvax v...
+resource: https://aquaticode.com/
+tags:
+- aquaculture
+timestamp: '2026-07-11T00:00:00Z'
+date: '2026-07-11'
+sector: Aquaculture
+---
+
 # Aquaticode
 
 **Sector**: Aquaculture

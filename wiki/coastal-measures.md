@@ -1,3 +1,15 @@
+---
+type: Company
+title: Coastal Measures
+description: Coastal intelligence platform (CUMULUS) powered by YSOK AI; unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into governed data fabric; automated QA/QC; NOAA, USACE, NSF, Sofar Ocean partners;...
+resource: https://www.coastalmeasures.com/
+tags:
+- ocean-data-ai
+timestamp: '2026-07-10T00:00:00Z'
+date: '2026-07-10'
+sector: Ocean Data & AI
+---
+
 # Coastal Measures
 
 **Sector**: Coastal Risk & Intelligence

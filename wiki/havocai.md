@@ -1,3 +1,15 @@
+---
+type: Company
+title: HavocAI
+description: All-domain collaborative autonomy (sea/air/land); $100M Series A (May 2026) bringing total capital to ~$200M; Providence RI; 100+ ASVs built/deployed, 30+ delivered to DoD, 25,000+ autonomous hours; software suite (C2...
+resource: https://www.havocai.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-11T00:00:00Z'
+date: '2026-07-11'
+sector: Marine Monitoring & Sensors
+---
+
 # HavocAI
 
 **Sector**: Marine Monitoring & Sensors

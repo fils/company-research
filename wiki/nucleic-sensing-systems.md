@@ -1,3 +1,15 @@
+---
+type: Company
+title: Nucleic Sensing Systems
+description: Autonomous biosensing of eDNA/RNA for aquaculture health monitoring; VentureWell OEA Stage 2 (spring 2026, $50K TDC); St.
+resource: https://www.linkedin.com/company/ns2co
+tags:
+- aquaculture
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Aquaculture
+---
+
 # Nucleic Sensing Systems
 
 **Sector**: Aquaculture

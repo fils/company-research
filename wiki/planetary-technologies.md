@@ -1,3 +1,15 @@
+---
+type: Company
+title: Planetary Technologies
+description: Ocean alkalinity enhancement; $11.35M Series A (Oct 2024, Evok Innovations lead, BDC Capital, Amplify Capital); total funding ~$15.2M; Halifax OAE Joint Learning Opportunity with Carbon to Sea Initiative; Frontier $31...
+resource: https://www.planetarytech.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Ocean Carbon Sequestration
+---
+
 # Planetary Technologies
 
 **Official Site**: https://www.planetarytech.com/

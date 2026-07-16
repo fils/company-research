@@ -1,3 +1,15 @@
+---
+type: Company
+title: Gazelle Wind Power
+description: Floating wind platforms; needs oceanographic/metocean data services
+resource: https://gazellewindpower.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Offshore Energy
+---
+
 # Gazelle Wind Power
 
 **Sector**: Offshore Energy

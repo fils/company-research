@@ -1,7 +1,19 @@
+---
+type: Company
+title: AquaFrontier Technologies
+description: Biomimetic autonomous hardware + cloud data pipelines for democratizing ocean observation; real-time ocean intelligence platform; Brooklyn, NY; VentureWell OEA Stage 0 (spring 2026)
+resource: https://aquafrontier.tech/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Marine Monitoring & Sensors
+---
+
 # AquaFrontier Technologies
 
-**Sector**: Marine Monitoring & Sensors  
-**Official Site**: https://aquafrontier.tech/  
+**Sector**: Marine Monitoring & Sensors
+**Official Site**: https://aquafrontier.tech/
 **Last Updated**: 2026-05-24
 
 ## Business Model

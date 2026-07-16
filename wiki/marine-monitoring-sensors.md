@@ -1,6 +1,15 @@
+---
+type: Sector
+title: Marine Monitoring & Sensors
+description: '**Last Updated**: 2026-07-16 **Companies Tracked**: 23'
+tags:
+- marine-monitoring-sensors
+sector: Marine Monitoring Sensors
+---
+
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-16  
+**Last Updated**: 2026-07-16
 **Companies Tracked**: 23
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
@@ -78,7 +87,6 @@ Defense-tech modular AUVs operating in cooperative swarms; "next underwater defe
 - **Site**: [vatnsystems.com](https://www.vatnsystems.com/)
 - **Funding**: $60M Series A (Dec 2025)
 - **Location**: Rhode Island
-
 
 ### HavocAI (NEW 2026-07-10)
 All-domain collaborative autonomy (sea/air/land). $100M Series A (May 2026), ~$200M total. ASV fleets + C2/Insights/Connect/OS software for one-to-many control in DDIL environments. Maritime domain awareness, port security, sensor fusion. Providence, RI.

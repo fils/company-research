@@ -1,3 +1,15 @@
+---
+type: Company
+title: Aloft Systems
+description: Sustainable zero-emission shipping via robotic wind propulsion / modern sails; containerized sail systems; BlueSwell startup; VentureWell OEA Stage 2 (spring 2026); Boston, MA; ex-Autodesk Research spinout
+resource: https://www.aloft.systems/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Maritime Operations & Analytics
+---
+
 # Aloft Systems
 
 **Sector**: Maritime Operations & Analytics

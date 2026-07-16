@@ -1,3 +1,15 @@
+---
+type: Company
+title: BW Ideol
+description: Floating offshore wind solutions and infrastructure
+resource: https://www.bw-ideol.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Offshore Energy
+---
+
 # BW Ideol
 
 **Sector**: Offshore Energy

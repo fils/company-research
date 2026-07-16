@@ -1,3 +1,15 @@
+---
+type: Company
+title: AquaExchange
+description: Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance.
+resource: https://aquaexchange.com/
+tags:
+- aquaculture
+timestamp: '2026-07-15T00:00:00Z'
+date: '2026-07-15'
+sector: Aquaculture
+---
+
 # AquaExchange
 
 **Sector**: Aquaculture

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Sitkana
+description: Ocean current energy systems powering remote communities; DOE grant; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Juneau, AK; tidal stream generation for Alaska coastal communities; removable anchor installation;...
+resource: https://www.sitkana.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Offshore Energy
+---
+
 # Sitkana
 
 **Sector**: Offshore Energy

@@ -1,3 +1,12 @@
+---
+type: Sector
+title: Offshore Energy
+description: '**Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/'
+tags:
+- offshore-energy
+sector: Offshore Energy
+---
+
 # Offshore Energy
 
 **Official Sector Sources**:
@@ -34,18 +43,18 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 
 | Company | Technology | Funding | Marine Data Dependency |
 |---------|-----------|---------|----------------------|
-| [Ørsted](/wiki/orsted.md) | Offshore wind development & operations | Public company (OMX) | Very High |
-| [Gazelle Wind Power](/wiki/gazelle-wind-power.md) | Lightweight floating platforms | Undisclosed | High |
-| [Principle Power](/wiki/principle-power.md) | WindFloat® semi-submersible | Project-based | Critical |
-| [BW Ideol](/wiki/bw-ideol.md) | Damping Pool® floating platform | Project-based | High |
-| [Panthalassa](/wiki/panthalassa.md) | Wave-powered offshore AI computing | $140M Series B (May 2026) | Critical |
-| [Oshen](/wiki/oshen.md) | C-Star autonomous ocean robots | £2M ARIA | Core Business |
-| [Pittsburgh Coastal Energy](/wiki/pittsburgh-coastal-energy.md) | Modular onboard wave-energy converters for subsea power | $50K TDC (OEA Stage 2), $25K Baylor New Venture | High |
-| [Sitkana](/wiki/sitkana.md) | Tidal current hydrogenerators for remote communities | $50K TDC (OEA Stage 2), DOE Grant | Critical |
-| [Fleetzero](/wiki/fleetzero.md) | Leviathan modular marine battery systems + hybrid/electric propulsion | $43M Series A (Jan 2026, Obvious Ventures/Maersk Growth/Breakthrough Energy) | High |
-| [Kvasir Technologies](/wiki/kvasir-technologies.md) | Climate-neutral drop-in marine biofuel from biomass waste | €10M Series A (Jun 2026) | High |
-| [Sizable Energy](/wiki/sizable-energy.md) (NEW) | Gigawatt-scale ocean pumped hydro LDES (brine reservoirs) | $8M seed (Oct 2025, Playground Global) | Critical |
-| [Voltai](/wiki/voltai.md) (NEW) | Onboard wave/motion energy harvesting for ships (no added drag) | CAD $1.83M pre-seed (Oct 2025, Invest Nova Scotia) | High |
+| [Ørsted](orsted.md) | Offshore wind development & operations | Public company (OMX) | Very High |
+| [Gazelle Wind Power](gazelle-wind-power.md) | Lightweight floating platforms | Undisclosed | High |
+| [Principle Power](principle-power.md) | WindFloat® semi-submersible | Project-based | Critical |
+| [BW Ideol](bw-ideol.md) | Damping Pool® floating platform | Project-based | High |
+| [Panthalassa](panthalassa.md) | Wave-powered offshore AI computing | $140M Series B (May 2026) | Critical |
+| [Oshen](oshen.md) | C-Star autonomous ocean robots | £2M ARIA | Core Business |
+| [Pittsburgh Coastal Energy](pittsburgh-coastal-energy.md) | Modular onboard wave-energy converters for subsea power | $50K TDC (OEA Stage 2), $25K Baylor New Venture | High |
+| [Sitkana](sitkana.md) | Tidal current hydrogenerators for remote communities | $50K TDC (OEA Stage 2), DOE Grant | Critical |
+| [Fleetzero](fleetzero.md) | Leviathan modular marine battery systems + hybrid/electric propulsion | $43M Series A (Jan 2026, Obvious Ventures/Maersk Growth/Breakthrough Energy) | High |
+| [Kvasir Technologies](kvasir-technologies.md) | Climate-neutral drop-in marine biofuel from biomass waste | €10M Series A (Jun 2026) | High |
+| [Sizable Energy](sizable-energy.md) (NEW) | Gigawatt-scale ocean pumped hydro LDES (brine reservoirs) | $8M seed (Oct 2025, Playground Global) | Critical |
+| [Voltai](voltai.md) (NEW) | Onboard wave/motion energy harvesting for ships (no added drag) | CAD $1.83M pre-seed (Oct 2025, Invest Nova Scotia) | High |
 
 **Key Insights**
 - All offshore energy companies require high-quality metocean data and marine environmental baselines.

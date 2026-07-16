@@ -1,3 +1,15 @@
+---
+type: Company
+title: Ulysses
+description: Modular autonomous underwater vehicles (Mako AUV) + Kraken launch/recovery system; $46M total (seed + Series A, April 2026) led by a16z American Dynamism (Erin Price-Wright, Ryan McEntush); 50x cheaper than legacy AUV...
+resource: https://www.theoceancompany.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-06-01T00:00:00Z'
+date: '2026-06-01'
+sector: Marine Monitoring & Sensors
+---
+
 # Ulysses
 
 **Sector**: Marine Monitoring & Sensors

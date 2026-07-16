@@ -1,3 +1,15 @@
+---
+type: Company
+title: Ocean State Sensing
+description: 'Distributed Temperature Sensing (DTS) fiber optic ThermoTrawl systems; 25cm resolution, 800m+ range; real-time water column profiling; applications: fisheries, defense, climate research, aquaculture; reduce bycatch 10...'
+resource: https://oceanstatesensing.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Marine Monitoring & Sensors
+---
+
 # Ocean State Sensing
 
 **Sector**: Marine Monitoring & Sensors

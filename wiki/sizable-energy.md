@@ -1,3 +1,15 @@
+---
+type: Company
+title: Sizable Energy
+description: 'Gigawatt-scale ocean energy storage using offshore pumped hydro with brine: seabed reservoir + floating reservoir + connecting pipe + reversible pump-turbines.'
+resource: https://sizableenergy.com/
+tags:
+- offshore-energy
+timestamp: '2026-07-16T00:00:00Z'
+date: '2026-07-16'
+sector: Offshore Energy
+---
+
 # Sizable Energy
 
 **Sector**: Offshore Energy

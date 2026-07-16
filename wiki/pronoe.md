@@ -1,3 +1,15 @@
+---
+type: Company
+title: Pronoe
+description: Asset-light electrochemical alkalinity enhancement on industrial discharge streams; $3.05M Frontier/Google carbon removal pre-purchase (Frontier's first French portfolio company); automated water treatment systems co-...
+resource: https://www.pronoe.earth/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-07-11T00:00:00Z'
+date: '2026-07-11'
+sector: Ocean Carbon Sequestration
+---
+
 # Pronoe
 
 **Sector**: Ocean Carbon Sequestration

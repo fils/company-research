@@ -1,3 +1,15 @@
+---
+type: Company
+title: Boxfish Robotics
+description: Hovering AUV and resident vehicles for marine science, environmental monitoring, coral reef ecosystem assessment, infrastructure inspection; 6DOF thrusters, NVIDIA Jetson AI, ROS2; reliable for research and conservati...
+resource: https://www.boxfishrobotics.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-08T00:00:00Z'
+date: '2026-07-08'
+sector: Marine Monitoring & Sensors
+---
+
 # Boxfish Robotics
 
 **Sector**: Marine Monitoring & Sensors

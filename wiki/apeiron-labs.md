@@ -1,3 +1,15 @@
+---
+type: Company
+title: Apeiron Labs
+description: AUV-based ocean data platform; $9.5M Series A (Feb 2026); low-cost autonomous underwater vehicles for persistent ocean observation; real-time ocean intelligence; led by Dyne Ventures; MIT News May 2026 feature on ocea...
+resource: https://www.apeironlabs.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-17T00:00:00Z'
+date: '2026-05-17'
+sector: Ocean Carbon Sequestration
+---
+
 # Apeiron Labs
 
 **Sector**: Ocean Carbon Sequestration / Ocean Data

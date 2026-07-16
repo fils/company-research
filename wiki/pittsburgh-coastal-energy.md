@@ -1,3 +1,15 @@
+---
+type: Company
+title: Pittsburgh Coastal Energy
+description: Subsea power via modular onboard wave-energy converters for autonomous maritime systems; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Pittsburgh, PA; ocean wave charging for underwater systems; NOAA/defense applic...
+resource: https://www.linkedin.com/company/pghcoastal
+tags:
+- offshore-energy
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Offshore Energy
+---
+
 # Pittsburgh Coastal Energy
 
 **Sector**: Offshore Energy

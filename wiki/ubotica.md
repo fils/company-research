@@ -1,3 +1,15 @@
+---
+type: Company
+title: Ubotica
+description: Orbital AI / cognitive Earth observation for real-time maritime intelligence from space.
+resource: https://ubotica.com/
+tags:
+- ocean-data-ai
+timestamp: '2026-07-15T00:00:00Z'
+date: '2026-07-15'
+sector: Ocean Data & AI
+---
+
 # Ubotica
 
 **Sector**: Ocean Data & AI

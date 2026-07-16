@@ -1,3 +1,15 @@
+---
+type: Company
+title: TDSX (Tampa Deep Sea Xplorers)
+description: 'Barracuda AUV for cost-effective underwater exploration & data collection; sub-bottom profiling, water column characterization, ocean current/temp/salinity profiles; applications: offshore energy, oceanographic resear...'
+resource: https://tampadeepseaxplorers.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Marine Monitoring & Sensors
+---
+
 # TDSX (Tampa Deep Sea Xplorers)
 
 **Sector**: Marine Monitoring & Sensors

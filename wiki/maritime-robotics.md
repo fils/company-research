@@ -1,3 +1,15 @@
+---
+type: Company
+title: Maritime Robotics
+description: Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — o...
+resource: https://www.maritimerobotics.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-14T00:00:00Z'
+date: '2026-07-14'
+sector: Marine Monitoring & Sensors
+---
+
 # Maritime Robotics
 
 **Sector**: Marine Monitoring & Sensors

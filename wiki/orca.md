@@ -1,7 +1,19 @@
+---
+type: Company
+title: ORCA
+description: AI foundation modeling to predict environmental shocks to fisheries; VentureWell OEA Stage 0 (spring 2026); Oregon-based
+resource: https://orca-ocean.com/
+tags:
+- aquaculture
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Aquaculture
+---
+
 # ORCA
 
-**Sector**: Aquaculture  
-**Official Site**: https://www.orca-ocean.ai/  
+**Sector**: Aquaculture
+**Official Site**: https://www.orca-ocean.ai/
 **Last Updated**: 2026-05-24
 
 ## Business Model
@@ -24,5 +36,5 @@ ORCA is pioneering AI foundation modeling of the oceans to predict environmental
 - **Interest in external data services**: NOAA oceanographic buoy data feeds, satellite chlorophyll/SST products, state fisheries monitoring data, real-time water quality station networks, climate model forecast outputs
 
 ## Contact
-- Location: Oregon  
+- Location: Oregon
 - VentureWell OEA Stage 0 (Spring 2026)

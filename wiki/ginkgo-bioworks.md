@@ -1,24 +1,36 @@
+---
+type: Company
+title: Ginkgo Bioworks
+description: Synthetic biology platform, marine microbes & enzymes
+resource: https://www.ginkgo.bio/
+tags:
+- bioprospecting
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Bioprospecting
+---
+
 # Ginkgo Bioworks
 
 **Sector**: Bioprospecting (Synthetic Biology / Marine Biotechnology)
 
-**Overview**  
+**Overview**
 Ginkgo Bioworks builds autonomous labs and cloud platforms that make biology programmable at scale. While best known for synthetic biology, Ginkgo explicitly works on marine microbes and enzymes for various industrial and pharmaceutical applications.
 
-**Technology**  
-- Autonomous robotic labs  
-- Cloud-based biology experimentation platform  
+**Technology**
+- Autonomous robotic labs
+- Cloud-based biology experimentation platform
 - AI + high-throughput screening for organism engineering
 
-**Business Model**  
-- Platform company offering access to autonomous labs and cloud wet-lab services  
-- Enterprise partnerships (Bjorn, Pfizer, Corteva, Bayer, etc.)  
+**Business Model**
+- Platform company offering access to autonomous labs and cloud wet-lab services
+- Enterprise partnerships (Bjorn, Pfizer, Corteva, Bayer, etc.)
 - Focus shifting heavily toward autonomous lab offerings in 2026
 
-**Marine Relevance**  
+**Marine Relevance**
 High for the Bioprospecting sector. Ginkgo’s platform targets marine microbes and enzymes, making it directly relevant to ocean biotechnology discovery and development.
 
-**Last Updated**: 2026-05-18  
+**Last Updated**: 2026-05-18
 **Status**: Full profile ready
 
 ### Data & Measurement Needs

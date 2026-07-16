@@ -1,3 +1,15 @@
+---
+type: Company
+title: Bluemvmt
+description: AI-powered ocean data platform transforming unstructured IoT data (satellite, marine sensors, disparate databases) into actionable insights; Narrative Detection ML; Data Insight AI; sidecar integrations; VentureWell O...
+resource: https://www.bluemvmt.com/
+tags:
+- ocean-data-ai
+timestamp: '2026-05-17T00:00:00Z'
+date: '2026-05-17'
+sector: Ocean Data & AI
+---
+
 # Bluemvmt
 
 **Sector**: Ocean Data & AI

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Nexus Ocean AI
+description: Maritime AI-native service orchestration; genAI persona (SAM) + Maritime Language Model; automated 90% of maritime workflows; $400K seed (Aug 2024, Tradeworks.vc); Google Cloud partner; MPA Mint Grant; Singapore-based...
+resource: https://nexusoceanai.com/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Maritime Operations & Analytics
+---
+
 # Nexus Ocean AI
 
 **Sector**: Maritime Operations & Analytics

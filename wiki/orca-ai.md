@@ -1,3 +1,15 @@
+---
+type: Company
+title: Orca AI
+description: AI-powered computer vision & situational awareness for maritime navigation safety + collision avoidance; $72.5M Series B (May 2025, Brighton Park Capital lead; Ankona Capital, Hyperlink Ventures, OCV Partners, Mizmaa...
+resource: https://www.orca-ai.io/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-07-13T00:00:00Z'
+date: '2026-07-13'
+sector: Maritime Operations & Analytics
+---
+
 # Orca AI
 
 **Sector**: Maritime Operations & Analytics

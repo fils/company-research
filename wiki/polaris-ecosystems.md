@@ -1,3 +1,15 @@
+---
+type: Company
+title: Polaris EcoSystems
+description: Photogrammetric reconstruction for automated remote monitoring of structural degradation in piers, ports, and shoreline assets; time-indexable 3D reconstructions; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Austi...
+resource: https://labs.polariseco.com/
+tags:
+- coastal-risk-infrastructure
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Coastal Risk & Infrastructure
+---
+
 # Polaris EcoSystems
 
 **Sector**: Coastal Risk & Infrastructure

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Equatic
+description: Ocean-based CDI / CDR; new NA commercial plant; world's largest ocean CDR plant planned in Singapore; UCLA Institute for Carbon Management partnership; targeting <$100/t CDR; strong marine env.
+resource: https://equatic.tech/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Ocean Carbon Sequestration
+---
+
 # Equatic
 
 **Official Site**: https://equatic.tech/

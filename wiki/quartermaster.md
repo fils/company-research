@@ -1,3 +1,15 @@
+---
+type: Company
+title: Quartermaster
+description: SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ s...
+resource: https://www.quartermaster.us/
+tags:
+- ocean-data-ai
+timestamp: '2026-06-01T00:00:00Z'
+date: '2026-06-01'
+sector: Ocean Data & AI
+---
+
 # Quartermaster
 
 **Sector**: Ocean Data & AI

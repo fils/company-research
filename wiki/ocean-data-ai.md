@@ -1,3 +1,14 @@
+---
+type: Sector
+title: Ocean Data & AI
+description: Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
+tags:
+- ocean-data-ai
+timestamp: '2026-07-15T00:00:00Z'
+date: '2026-07-15'
+sector: Ocean Data Ai
+---
+
 # Ocean Data & AI
 
 **Overview (as of May 2026)**

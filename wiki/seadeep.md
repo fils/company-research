@@ -1,3 +1,15 @@
+---
+type: Company
+title: SeaDeep
+description: AI platform for ocean mapping, monitoring, underwater inspection using AI for marine robotics autonomy; subsea exploration intelligence; grants $1M+; partners with Seabed 2030; focuses on AI-powered ocean data for cor...
+resource: https://www.seadeep.io/
+tags:
+- ocean-data-ai
+timestamp: '2026-06-17T00:00:00Z'
+date: '2026-06-17'
+sector: Ocean Data & AI
+---
+
 # SeaDeep
 
 **Sector**: Ocean Data & AI

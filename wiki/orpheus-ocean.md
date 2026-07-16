@@ -1,3 +1,15 @@
+---
+type: Company
+title: Orpheus Ocean
+description: Deep-sea AUV for cost-effective exploration, benthic monitoring & assessment; .8M Pre-Seed; partnerships with Seabed 2030, NOAA Ocean Exploration, InnovateMass, WHOI heritage; small-footprint AUV for depths up to 11,0...
+resource: https://orpheusocean.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-08T00:00:00Z'
+date: '2026-07-08'
+sector: Marine Monitoring & Sensors
+---
+
 # Orpheus Ocean
 
 **Sector**: Marine Monitoring & Sensors

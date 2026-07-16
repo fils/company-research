@@ -1,3 +1,15 @@
+---
+type: Company
+title: BiOceanOr
+description: AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence.
+resource: https://bioceanor.com/
+tags:
+- aquaculture
+timestamp: '2026-07-14T00:00:00Z'
+date: '2026-07-14'
+sector: Aquaculture
+---
+
 # BiOceanOr
 
 **Sector**: Aquaculture

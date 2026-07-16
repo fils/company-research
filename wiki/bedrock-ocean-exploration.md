@@ -1,3 +1,15 @@
+---
+type: Company
+title: Bedrock Ocean Exploration
+description: Seafloor mapping AUVs + cloud data platform (Mosaic); $25M Series A-2 (Jun 2025) led by Primary/Northzone (Costanoa, Harmony Partners, Katapult Ocean et al.); total funding ~$58.5M over 3 rounds; IHO special-order geo...
+resource: https://www.bedrockocean.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-11T00:00:00Z'
+date: '2026-07-11'
+sector: Marine Monitoring & Sensors
+---
+
 # Bedrock Ocean Exploration
 
 **Sector**: Marine Monitoring & Sensors

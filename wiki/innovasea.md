@@ -1,3 +1,15 @@
+---
+type: Company
+title: Innovasea
+description: 'Sustainable aquaculture tech: real-time environmental sensors (aquaMeasure), fish tracking (NexTrak acoustic telemetry), cloud communications; extensive marine sensor network needs'
+resource: https://www.innovasea.com/
+tags:
+- aquaculture
+timestamp: '2026-05-13T00:00:00Z'
+date: '2026-05-13'
+sector: Aquaculture
+---
+
 # Innovasea
 
 **Sector**: Aquaculture

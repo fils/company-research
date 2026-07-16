@@ -1,3 +1,15 @@
+---
+type: Company
+title: Omission Inc
+description: Portable autonomous surface vessels (ASVs) + unmanned aerial systems (UAS); reduces nearshore marine data collection cost by 50-70%; survey-grade marine data; Saco, ME; VentureWell OEA Stage 0 (spring 2026)
+resource: https://www.omissioninc.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Marine Monitoring & Sensors
+---
+
 # Omission Inc
 
 **Sector**: Marine Monitoring & Sensors

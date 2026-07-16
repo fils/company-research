@@ -1,10 +1,22 @@
+---
+type: Company
+title: Climate X
+description: AI-powered climate risk analytics and decision platforms
+resource: https://climate-x.com
+tags:
+- climate-risk
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Climate Risk
+---
+
 # Climate X
 
 **Sector**: Climate Risk
 
 **Official Site**: https://climate-x.com/
 
-**Overview**  
+**Overview**
 Climate X provides trusted physical climate risk data and analytics for global financial institutions, real estate, and asset managers. It turns climate hazard data into actionable financial metrics through three core products: Spectra, Adapt, and Carta.
 
 **Core Products**
@@ -12,13 +24,13 @@ Climate X provides trusted physical climate risk data and analytics for global f
 - **Adapt**: Climate adaptation and resilience software (CapEx/ROI modeling aligned with ISO/EU Taxonomy)
 - **Carta**: Global corporate asset mapping (18.7 million companies)
 
-**Business Model**  
+**Business Model**
 Enterprise SaaS platform. Trusted by institutions managing over $13.5 trillion AUM. Strong regulatory compliance focus (SSB5/25, ECB, IFRS S2, EU Taxonomy).
 
-**Marine / Coastal Relevance**  
+**Marine / Coastal Relevance**
 Extremely useful for ports, coastal real estate, offshore infrastructure, and marine terminal operators. Many clients operate marine-adjacent assets.
 
-**Last Updated**: 2026-05-18  
+**Last Updated**: 2026-05-18
 **Status**: Full profile ready
 
 ### Data & Measurement Needs

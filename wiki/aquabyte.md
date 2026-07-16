@@ -1,25 +1,37 @@
+---
+type: Company
+title: Aquabyte
+description: AI computer vision + biomass monitoring; high marine sensor & ocean data needs
+resource: https://aquabyte.com/
+tags:
+- aquaculture
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Aquaculture
+---
+
 # Aquabyte
 
 **Sector**: Aquaculture
 
-**Overview**  
+**Overview**
 Aquabyte is a leader in AI-powered aquaculture monitoring. The company uses computer vision and machine learning to deliver real-time data on fish welfare, biomass estimation, sea lice counting, and overall farm productivity.
 
-**Technology**  
-- All-in-one computer vision + machine learning platform  
-- Underwater cameras with AI analysis  
-- Real-time insights on fish health, growth, and parasites  
+**Technology**
+- All-in-one computer vision + machine learning platform
+- Underwater cameras with AI analysis
+- Real-time insights on fish health, growth, and parasites
 - Helps farmers improve welfare, productivity, and sustainability
 
-**Business Model**  
-- SaaS platform sold to fish farming operations worldwide  
-- Focus on salmon and other high-value aquaculture species  
+**Business Model**
+- SaaS platform sold to fish farming operations worldwide
+- Focus on salmon and other high-value aquaculture species
 - Recently partnered with Vitruvian Partners for growth
 
-**Marine Data Relevance**  
+**Marine Data Relevance**
 Extremely high need for high-quality underwater imaging, environmental sensors, and ocean chemistry data. Directly applicable to marine sensor and ocean data needs.
 
-**Key Insight**  
+**Key Insight**
 One of the clearest examples of how advanced monitoring technology is transforming sustainable aquaculture.
 
 |**Last Updated**: 2026-05-17

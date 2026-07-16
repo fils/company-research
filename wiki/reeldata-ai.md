@@ -1,3 +1,15 @@
+---
+type: Company
+title: ReelData AI
+description: AI-powered precision aquaculture for land-based farms; $8M Series A (2025); AI suite (ReelAppetite, ReelWeight, ReelCount) for feed optimization, biomass estimation, fish health monitoring; camera systems for behavior...
+resource: https://www.reeldata.ai/
+tags:
+- aquaculture
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Aquaculture
+---
+
 # ReelData AI
 
 **Sector**: Aquaculture

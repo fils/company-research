@@ -1,3 +1,15 @@
+---
+type: Company
+title: Hullbot
+description: Autonomous underwater robots for ship hull cleaning & inspection (proactive hull grooming).
+resource: https://www.hullbot.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-15T00:00:00Z'
+date: '2026-07-15'
+sector: Marine Monitoring & Sensors
+---
+
 # Hullbot
 
 **Sector**: Marine Monitoring & Sensors

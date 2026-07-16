@@ -1,3 +1,15 @@
+---
+type: Company
+title: Amphitrite
+description: AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); €1.2M seed (2024); advanced SWOT satellite technology integration; Fran...
+resource: https://www.amphitrite.fr/
+tags:
+- ocean-data-ai
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Ocean Data & AI
+---
+
 **Sector**: Ocean Data & AI
 **Official Site**: https://www.amphitrite.fr/
 

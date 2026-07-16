@@ -1,3 +1,14 @@
+---
+type: Sector
+title: Aquaculture
+description: Sector overview for aquaculture technology and monitoring companies.
+tags:
+- aquaculture
+timestamp: '2026-07-16T00:00:00Z'
+date: '2026-07-16'
+sector: Aquaculture
+---
+
 # Aquaculture
 
 Sector overview for aquaculture technology and monitoring companies.
@@ -5,24 +16,24 @@ Sector overview for aquaculture technology and monitoring companies.
 ## Companies (18 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
-| [Aquabyte](/wiki/aquabyte.md) | AI computer vision + biomass monitoring | Critical |
-| [Vycarb](/wiki/vycarb.md) | Carbon storage + aquaculture env. monitoring | High |
-| [Innovasea](/wiki/innovasea.md) | Sensors, telemetry, aquaculture software | Critical |
-| [ReelData AI](/wiki/reeldata-ai.md) | AI suite for land-based RAS (feeding, biomass, health) | High |
-| [Kurma AI](/wiki/kurma-ai.md) | GenAI/LLM + CV for aquaculture & fisheries | High |
-| [Astraeus Ocean Systems](/wiki/astraeus-ocean-systems.md) | Mariculture crop modeling + autonomous vessel fleet | Critical |
-| [OctaPulse](/wiki/octapulse.md) | AI-powered fish phenotyping & selective breeding; robotics + CV | High |
-| [Nearview LLC](/wiki/nearview-llc.md) | Multi-object AI for lobster buoys/gear detection from aerial/satellite imagery | Moderate |
-| [ORCA](/wiki/orca.md) | AI foundation models predicting environmental shocks to fisheries/aquaculture | Critical |
-| [MacroBreed](/wiki/macrobreed.md) | Kelp genomics & selective breeding; $11M+ grants; 300% yield improvement | High |
-| [Dirigo Sea Farm](/wiki/dirigo-sea-farm.md) | Seaweed-based biomaterials for plastic replacement; kelp cultivation | High |
-| [Nucleic Sensing Systems](/wiki/nucleic-sensing-systems.md) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
-| [Aquaticode](/wiki/aquaticode.md) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
-| [NeuralX](/wiki/neuralx.md) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
-| [Tidal](/wiki/tidal.md) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
-| [BiOceanOr](/wiki/bioceanor.md) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
-| [AquaExchange](/wiki/aquaexchange.md) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
-| [Biosort](/wiki/biosort.md) (NEW) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
+| [Aquabyte](aquabyte.md) | AI computer vision + biomass monitoring | Critical |
+| [Vycarb](vycarb.md) | Carbon storage + aquaculture env. monitoring | High |
+| [Innovasea](innovasea.md) | Sensors, telemetry, aquaculture software | Critical |
+| [ReelData AI](reeldata-ai.md) | AI suite for land-based RAS (feeding, biomass, health) | High |
+| [Kurma AI](kurma-ai.md) | GenAI/LLM + CV for aquaculture & fisheries | High |
+| [Astraeus Ocean Systems](astraeus-ocean-systems.md) | Mariculture crop modeling + autonomous vessel fleet | Critical |
+| [OctaPulse](octapulse.md) | AI-powered fish phenotyping & selective breeding; robotics + CV | High |
+| [Nearview LLC](nearview-llc.md) | Multi-object AI for lobster buoys/gear detection from aerial/satellite imagery | Moderate |
+| [ORCA](orca.md) | AI foundation models predicting environmental shocks to fisheries/aquaculture | Critical |
+| [MacroBreed](macrobreed.md) | Kelp genomics & selective breeding; $11M+ grants; 300% yield improvement | High |
+| [Dirigo Sea Farm](dirigo-sea-farm.md) | Seaweed-based biomaterials for plastic replacement; kelp cultivation | High |
+| [Nucleic Sensing Systems](nucleic-sensing-systems.md) | Autonomous eDNA/RNA biosensors for aquaculture health monitoring | Critical |
+| [Aquaticode](aquaticode.md) | AI-powered fish phenotyping & gender sorting; $6M Series A; Norway | High |
+| [NeuralX](neuralx.md) | Decision intelligence from underwater video; Ocean Exchange 2025 winner; 3D synthetic training data | High |
+| [Tidal](tidal.md) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
+| [BiOceanOr](bioceanor.md) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
+| [AquaExchange](aquaexchange.md) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
+| [Biosort](biosort.md) (NEW) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)

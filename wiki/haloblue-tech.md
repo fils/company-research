@@ -1,3 +1,15 @@
+---
+type: Company
+title: HALOBLUE Tech
+description: Autonomous monitoring systems for coastal restoration projects; defensible environmental data at lower cost per acre than vessel surveys; California State University based; VentureWell OEA Stage 1 (spring 2026, $15K T...
+resource: https://www.linkedin.com/company/haloblue-tech
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Marine Monitoring & Sensors
+---
+
 # HALOBLUE Tech
 
 **Sector**: Marine Monitoring & Sensors

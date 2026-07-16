@@ -1,3 +1,15 @@
+---
+type: Company
+title: Sunfish Inc
+description: 'SUNFISH AUV: person-portable hovering autonomous underwater vehicle with AI and SLAM for complex 3D biodiversity mapping; NASA partnership; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Austin, TX / Tallahassee, FL...'
+resource: https://sunfishinc.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Marine Monitoring & Sensors
+---
+
 # Sunfish Inc
 
 **Sector**: Marine Monitoring & Sensors

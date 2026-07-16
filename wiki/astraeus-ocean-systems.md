@@ -1,3 +1,15 @@
+---
+type: Company
+title: Astraeus Ocean Systems
+description: Mariculture crop modeling + autonomous vessel fleet for real-time ocean intelligence; Watchline hardware (temp, salinity, DO, optical sensors); Digital Oyster/Digital Kelp biological models; Almanac platform for farm...
+resource: https://www.astraeusocean.com/
+tags:
+- aquaculture
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Aquaculture
+---
+
 **Sector**: Aquaculture (Shellfish & Seaweed Mariculture)
 **Official Site**: https://www.astraeusocean.com/
 

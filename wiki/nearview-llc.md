@@ -1,7 +1,19 @@
+---
+type: Company
+title: Nearview LLC
+description: Multi-object AI detection (lobster buoys, boats, aquaculture gear) from aerial/satellite imagery for marine user deconfliction; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Portsmouth/Durham, NH
+resource: https://nearview.com/
+tags:
+- aquaculture
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Aquaculture
+---
+
 # Nearview LLC
 
-**Sector**: Aquaculture  
-**Official Site**: https://nearviewllc.com/  
+**Sector**: Aquaculture
+**Official Site**: https://nearviewllc.com/
 **Last Updated**: 2026-05-24
 
 ## Business Model
@@ -24,5 +36,5 @@ Nearview LLC develops multi-object detection AI for identifying lobster buoys, b
 - **Interest in external data services**: NOAA fisheries management zone data, USCG vessel traffic data, state lobster commission buoy registry data, satellite imagery providers (Planet, Maxar), AIS data aggregators
 
 ## Contact
-- Location: Portsmouth/Durham, NH  
+- Location: Portsmouth/Durham, NH
 - Program: VentureWell OEA Stage 1 (Spring 2026)

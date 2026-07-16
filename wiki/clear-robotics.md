@@ -1,3 +1,15 @@
+---
+type: Company
+title: Clear Robotics
+description: All-electric AI autonomous unmanned surface vessels (Clearbot) for solid waste recovery, hyacinth removal, bathymetric/draft survey, and waterway surveillance.
+resource: https://www.clearbot.org/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-16T00:00:00Z'
+date: '2026-07-16'
+sector: Marine Monitoring & Sensors
+---
+
 # Clear Robotics
 
 **Sector**: Marine Monitoring & Sensors

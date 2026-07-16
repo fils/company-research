@@ -1,3 +1,15 @@
+---
+type: Company
+title: Seasats
+description: Small uncrewed surface vehicles (sUSVs) for long-endurance ocean sensing & MDA; $20M Series A (Feb 2026, Konvoy Ventures lead) — >$40M total equity; >$100M US government contracts including $24M DoW APFIT; San Diego;...
+resource: https://seasats.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-10T00:00:00Z'
+date: '2026-07-10'
+sector: Marine Monitoring & Sensors
+---
+
 # Seasats
 
 **Sector**: Marine Monitoring & Sensors

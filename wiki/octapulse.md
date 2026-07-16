@@ -1,3 +1,15 @@
+---
+type: Company
+title: OctaPulse
+description: AI-powered fish phenotyping & selective breeding for aquaculture; YC W26; VentureWell OEA Stage 2 (spring 2026); Carnegie Mellon, NVIDIA partners; robotics + computer vision for hatchery automation; $70K Seafood Indus...
+resource: https://www.tryoctapulse.com/
+tags:
+- aquaculture
+timestamp: '2026-05-17T00:00:00Z'
+date: '2026-05-17'
+sector: Aquaculture
+---
+
 # OctaPulse
 
 **Sector**: Aquaculture

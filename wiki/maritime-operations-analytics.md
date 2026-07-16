@@ -1,6 +1,15 @@
+---
+type: Sector
+title: Maritime Operations & Analytics
+description: '**Last Updated**: 2026-07-14 **Companies Tracked**: 7'
+tags:
+- maritime-operations-analytics
+sector: Maritime Operations Analytics
+---
+
 # Maritime Operations & Analytics
 
-**Last Updated**: 2026-07-14  
+**Last Updated**: 2026-07-14
 **Companies Tracked**: 7
 
 This sector covers companies building AI-native operating systems and service orchestration platforms for the maritime industry — shipping, port logistics, fleet management, and maritime compliance. These companies transform fragmented operational data into actionable intelligence through domain-specific AI models.

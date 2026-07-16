@@ -1,3 +1,15 @@
+---
+type: Company
+title: Tidal
+description: AI-powered underwater vision + robotics for aquaculture; Alphabet/X (moonshot factory) spinout (Aug 2024); funding from Perry Creek, Kverva-backed IVC, Futurum Ventures; Orca camera system (newest gen); 300+ cameras d...
+resource: https://www.tidalx.ai/en
+tags:
+- aquaculture
+timestamp: '2026-07-12T00:00:00Z'
+date: '2026-07-12'
+sector: Aquaculture
+---
+
 # Tidal
 
 **Sector**: Aquaculture

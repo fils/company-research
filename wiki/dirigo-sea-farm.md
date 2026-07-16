@@ -1,3 +1,15 @@
+---
+type: Company
+title: Dirigo Sea Farm
+description: Seaweed-based materials to replace plastics; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Portland, ME; sustainable marine biomaterials
+resource: https://www.dirigoseafarm.com/
+tags:
+- aquaculture
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Aquaculture
+---
+
 # Dirigo Sea Farm
 
 **Sector**: Aquaculture

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Seaber
+description: 'French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m depth, 8–10 h autonomy) and MARVEL (security/defense: MCM, ASW training, coast guard).'
+resource: https://seaber.fr/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-07-16T00:00:00Z'
+date: '2026-07-16'
+sector: Marine Monitoring & Sensors
+---
+
 # Seaber
 
 **Sector**: Marine Monitoring & Sensors

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Captura
+description: Direct Ocean Capture; $12.5M Series B (Jun 2026, Equinor Ventures lead; Aramco Ventures, EDP Ventures, Eni Next, Freeflow Ventures, Hitachi Ventures, JAL Innovation Fund, Maersk Growth, mTerra Ventures, National Grid...
+resource: https://capturacorp.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-07-13T00:00:00Z'
+date: '2026-07-13'
+sector: Ocean Carbon Sequestration
+---
+
 # Captura
 
 **Official Site**: https://capturacorp.com/

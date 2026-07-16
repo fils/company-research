@@ -1,3 +1,15 @@
+---
+type: Company
+title: Dottir Labs
+description: MIT spinout (2023); real-time molecular-level water quality monitoring via patented Raman spectroscopy; reagent-free, non-destructive optical sensors; aquaculture, biotech, oil & gas, chemical manufacturing applicatio...
+resource: https://dottirlabs.com/
+tags:
+- ocean-data-ai
+timestamp: '2026-05-17T00:00:00Z'
+date: '2026-05-17'
+sector: Ocean Data & AI
+---
+
 # Dottir Labs
 
 **Sector**: Ocean Data & AI

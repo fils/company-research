@@ -1,3 +1,15 @@
+---
+type: Company
+title: Seeweed LLC
+description: AI-driven app-managed underwater game camera system for long-term aquatic monitoring; Saint Paul, MN; VentureWell OEA Stage 1 (spring 2026, $15K TDC); mobile app managed camera
+resource: https://www.instagram.com/seeweedgamecameras
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Marine Monitoring & Sensors
+---
+
 # Seeweed LLC
 
 **Sector**: Marine Monitoring & Sensors

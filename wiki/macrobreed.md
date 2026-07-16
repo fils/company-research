@@ -1,7 +1,19 @@
+---
+type: Company
+title: MacroBreed
+description: Genomics + selective breeding to increase seaweed aquaculture production; mariculture crop genetics; VentureWell OEA Stage 0 (spring 2026); NY-based
+resource: https://macrobreed.com/
+tags:
+- aquaculture
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Aquaculture
+---
+
 # MacroBreed
 
-**Sector**: Aquaculture  
-**Official Site**: https://macrobreed.com/  
+**Sector**: Aquaculture
+**Official Site**: https://macrobreed.com/
 **Last Updated**: 2026-05-24
 
 ## Business Model

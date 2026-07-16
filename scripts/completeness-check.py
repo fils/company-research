@@ -72,11 +72,31 @@ def check_sector_counts(companies):
             if listed_count != expected_count:
                 errors.append(f"SECTOR COUNT MISMATCH: wiki/{sector_slug}.md says {listed_count} companies but companies.json has {expected_count} for '{sector}'")
 
+# OKF reserved filenames + sector overview stems (not company profiles)
+OKF_RESERVED = {"index", "log"}
+SECTOR_STEMS = {
+    "ocean-carbon-sequestration",
+    "climate-risk",
+    "bioprospecting",
+    "aquaculture",
+    "offshore-energy",
+    "ocean-data-ai",
+    "maritime-operations-analytics",
+    "coastal-risk-infrastructure",
+    "marine-monitoring-sensors",
+}
+WIKI_NON_COMPANY = OKF_RESERVED | SECTOR_STEMS | {"readme"}
+
+
 def check_duplicates():
     """Check for similarly-named files."""
     raw_files = [f.stem for f in (REPO_DIR / "raw").glob("*.md") if f.is_file()]
-    wiki_files = [f.stem for f in (REPO_DIR / "wiki").glob("*.md") if f.is_file()]
-    
+    wiki_files = [
+        f.stem
+        for f in (REPO_DIR / "wiki").glob("*.md")
+        if f.is_file() and f.stem not in WIKI_NON_COMPANY
+    ]
+
     # Check for colliding slugs
     for files_list, label in [(raw_files, "raw"), (wiki_files, "wiki")]:
         normalized = {}
@@ -89,16 +109,14 @@ def check_duplicates():
 def check_orphans(companies):
     """Check for files without corresponding company entries."""
     company_slugs = {slugify(c["name"]) for c in companies}
-    
+
     for dirname, label in [("raw", "raw"), ("wiki", "wiki")]:
         for f in (REPO_DIR / dirname).glob("*.md"):
             slug = f.stem
-            # Skip sector overview pages in wiki/
-            if label == "wiki":
-                sector_files = re.compile(r'^(ocean-carbon-sequestration|climate-risk|bioprospecting|aquaculture|offshore-energy|ocean-data-ai|maritime-operations-analytics|coastal-risk-infrastructure|marine-monitoring-sensors)$')
-                if sector_files.match(slug):
-                    continue
-            
+            # Skip OKF reserved files and sector overview pages in wiki/
+            if label == "wiki" and slug in WIKI_NON_COMPANY:
+                continue
+
             if slug not in company_slugs:
                 errors.append(f"ORPHANED: {label}/{slug}.md has no entry in companies.json")
 

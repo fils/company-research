@@ -1,3 +1,15 @@
+---
+type: Company
+title: BeamSea Associates
+description: Automated coral reef ecosystem monitoring via fluorescence-enhanced 3D LiDAR + ML; species-level assessment at operational scales; SBIR/STTR funded (NASA, NOAA); Loxahatchee, FL; VentureWell OEA Stage 1 (spring 2026,...
+resource: https://www.beamsea.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-24T00:00:00Z'
+date: '2026-05-24'
+sector: Marine Monitoring & Sensors
+---
+
 # BeamSea Associates
 
 **Sector**: Marine Monitoring & Sensors

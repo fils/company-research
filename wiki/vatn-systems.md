@@ -1,3 +1,15 @@
+---
+type: Company
+title: Vatn Systems
+description: Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) — one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manu...
+resource: https://www.vatnsystems.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-06-01T00:00:00Z'
+date: '2026-06-01'
+sector: Marine Monitoring & Sensors
+---
+
 # Vatn Systems
 
 **Sector**: Marine Monitoring & Sensors

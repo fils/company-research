@@ -1,12 +1,17 @@
 ---
-Sector: Climate Risk
-Company: Jupiter Intelligence
-Official Site: https://www.jupiterintel.com/
-Last Updated: 2026-05-03
+type: Company
+title: Jupiter Intelligence
+description: Climate risk modeling & analytics
+resource: https://www.jupiterintel.com/
+tags:
+- climate-risk
+timestamp: '2026-05-03T00:00:00Z'
+date: 2026-05-03
+sector: Climate Risk
 ---
 
 **Business Model**: Climate risk analytics SaaS / enterprise platform (ClimateScore Global). Subscription or per-project use for:
-- Portfolio & asset physical risk assessment 
+- Portfolio & asset physical risk assessment
 - Stress testing, MRM compliance
 - Adaptation planning & ROI quantification
 - Regulatory disclosure support
@@ -35,4 +40,4 @@ Serves banks, insurers, energy/infra (BP, Equinor, Fannie Mae), real estate. "Bu
 
 Jupiter Intelligence provides decision-grade physical climate risk analytics for major financial and infrastructure organisations. Headline CMS: "Climate risk is capital risk".
 
-**- Marine relevance**: Heavy client base in offshore energy, ports, insurance. Needs detailed coastal and ocean data (sea level rise, storm surge, SST, ocean currents). Natural customer of ocean data services (sensors, satellites, MRV). 
+**- Marine relevance**: Heavy client base in offshore energy, ports, insurance. Needs detailed coastal and ocean data (sea level rise, storm surge, SST, ocean currents). Natural customer of ocean data services (sensors, satellites, MRV).

@@ -1,19 +1,31 @@
+---
+type: Company
+title: Gigablue
+description: Durable ocean carbon removal; deep-sea monitoring with custom ROVs; large-scale CDR credits; marine scientific research focus
+resource: https://www.gigablue.co/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Ocean Carbon Sequestration
+---
+
 # Gigablue
 
-**Sector**: Ocean Carbon Sequestration  
-**Official Site**: https://www.gigablue.co/  
-**Last Updated**: 2026-05-03  
+**Sector**: Ocean Carbon Sequestration
+**Official Site**: https://www.gigablue.co/
+**Last Updated**: 2026-05-03
 
-**Overview**  
+**Overview**
 Gigablue accelerates durable ocean carbon removal through Microalgae Carbon Fixation and Sinking (MCFS). Uses AI-powered oceanographic intelligence platform to identify optimal deep-sea deployment zones (>1,000m) and custom substrate formulations that drive phytoplankton blooms which sink and sequester carbon permanently on the seafloor. Strong emphasis on scientific rigor, regulatory compliance (NZ EPA permitted), and transparent MMRV using custom deep-ocean ROVs.
 
-**Business Model**  
+**Business Model**
 Sale of high-integrity, permanent carbon removal credits to major corporate and government buyers. Nature-based, scalable, low-cost approach leveraging the ocean's natural carbon cycle. Major deal announced with SkiesFifty. Partners include RAIN Foundation and Carbon Plant Exchange.
 
-**Key Technology**  
-- Microalgae Carbon Fixation & Sinking (MCFS)  
-- AI platform combining satellite, in-situ sensor, ROV, and research data  
-- Deep-sea dispersion, oxygen, and nutrient modeling  
+**Key Technology**
+- Microalgae Carbon Fixation & Sinking (MCFS)
+- AI platform combining satellite, in-situ sensor, ROV, and research data
+- Deep-sea dispersion, oxygen, and nutrient modeling
 - Permitted research trials in New Zealand EEZ (Great South Basin)
 
 ### Data & Measurement Needs
@@ -22,13 +34,13 @@ Sale of high-integrity, permanent carbon removal credits to major corporate and 
 - **Observation platforms/programs**: Custom ROVs and sensor networks, satellite validation, pre/post-trial sampling campaigns, EPA NZ monitoring protocols.
 - **Known data gaps**: High-resolution spatial coverage for site selection, cost-effective continuous deep-ocean telemetry, robust baselines for local ecosystem impact assessment.
 
-**Marine Data Pain Points**  
+**Marine Data Pain Points**
 Extensive MRV for regulatory compliance and credit integrity drives need for affordable real-time deep-ocean sensor networks and standardized marine data services.
 
-**Contacts / Notes**  
+**Contacts / Notes**
 PhD-led scientific team. NZ and international trials ongoing. Strong focus on local community engagement, employment, and publishing methods/data.
 
 ---
 
-**Added during daily research run 2026-05-03**  
-**Backlink**: See [Ocean Carbon Sequestration](../ocean-carbon-sequestration.md)
+**Added during daily research run 2026-05-03**
+**Backlink**: See [Ocean Carbon Sequestration](ocean-carbon-sequestration.md)

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Principle Power
+description: Floating offshore wind platform technology
+resource: https://www.principlepower.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Offshore Energy
+---
+
 # Principle Power
 
 **Sector**: Offshore Energy

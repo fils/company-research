@@ -1,3 +1,15 @@
+---
+type: Company
+title: Mira Intel
+description: 'AI drones and patented structural monitoring for coastal/marine infrastructure resilience; high-resolution aerial drone imagery, ongoing condition assessment, predictive analytic modeling; projects: Governor''s Island,...'
+resource: https://miraintel.com/
+tags:
+- coastal-risk-infrastructure
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Coastal Risk & Infrastructure
+---
+
 # Mira Intel
 
 **Sector**: Coastal Risk & Infrastructure

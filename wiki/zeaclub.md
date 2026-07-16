@@ -1,3 +1,15 @@
+---
+type: Company
+title: Zeaclub
+description: AI-powered maritime collaborative workspace connecting ship owners, charterers, brokers, agents, ports in one platform; real-time collaboration replacing email chains & spreadsheets; structured data entry & validation...
+resource: https://www.zeaclub.com/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Maritime Operations & Analytics
+---
+
 # Zeaclub
 
 **Sector**: Maritime Operations & Analytics

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Ebb Carbon
+description: Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Projec...
+resource: https://www.ebbcarbon.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Ocean Carbon Sequestration
+---
+
 # Ebb Carbon
 
 **Official Site**: https://www.ebbcarbon.com/

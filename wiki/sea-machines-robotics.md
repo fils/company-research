@@ -1,3 +1,15 @@
+---
+type: Company
+title: Sea Machines Robotics
+description: 'Autonomous control & navigation systems for commercial and defense vessels; Boston MA; products: SM300-SP (attritable compact), SM300-NG (class-approved), SELKIE (modular USV), STORMRUNNER (contested waters AUSV), AI-...'
+resource: https://sea-machines.com/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-07-13T00:00:00Z'
+date: '2026-07-13'
+sector: Maritime Operations & Analytics
+---
+
 # Sea Machines Robotics
 
 **Sector**: Maritime Operations & Analytics

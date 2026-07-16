@@ -1,3 +1,15 @@
+---
+type: Company
+title: Oshen
+description: Autonomous ocean robots (C-Stars) for persistent wide-area ocean intelligence; NOAA contracts; funded by UK ARIA; extreme weather data collection; real-time wave height, wind speed, oceanographic data
+resource: https://www.oshendata.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Offshore Energy
+---
+
 # Oshen
 
 **Sector**: Offshore Energy / Ocean Data

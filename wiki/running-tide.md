@@ -1,3 +1,15 @@
+---
+type: Company
+title: Running Tide
+description: Ocean-based biomass sequestration; shut down June 2024; legacy protocol for open-ocean CDR
+resource: https://runningtidexmason.webflow.io/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-17T00:00:00Z'
+date: '2026-05-17'
+sector: Ocean Carbon Sequestration
+---
+
 # Running Tide
 
 **Official Site**: (defunct — https://runningtidexmason.webflow.io/ no longer active)

@@ -1,14 +1,26 @@
+---
+type: Company
+title: pHathom Technologies
+description: Accelerated Weathering of Limestone (AWL) for biomass-sourced CO2 dissolution in seawater and limestone neutralization; durable calcium bicarbonate storage; supports marine life; $4M seed 2026 (total $12M committed).
+resource: https://phathom.tech/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Ocean Carbon Sequestration
+---
+
 # pHathom Technologies
 
-**Sector**: Ocean Carbon Sequestration / Ocean Alkalinity Enhancement  
-**Official Site**: https://phathom.tech/  
-**Last Updated**: 2026-05-04  
+**Sector**: Ocean Carbon Sequestration / Ocean Alkalinity Enhancement
+**Official Site**: https://phathom.tech/
+**Last Updated**: 2026-05-04
 
 ---
 
 ## Overview
 
-pHathom Technologies (Atlantic Canada) develops a modular, infrastructure-light carbon removal solution that bolts directly onto existing coastal biomass power plants. The technology captures emitted CO₂, dissolves it in seawater, and uses limestone to convert it into stable calcium bicarbonate — accelerating the natural mineral weathering process that stores carbon in the ocean for millennia (>10,000 years). 
+pHathom Technologies (Atlantic Canada) develops a modular, infrastructure-light carbon removal solution that bolts directly onto existing coastal biomass power plants. The technology captures emitted CO₂, dissolves it in seawater, and uses limestone to convert it into stable calcium bicarbonate — accelerating the natural mineral weathering process that stores carbon in the ocean for millennia (>10,000 years).
 
 The process provides two powerful outcomes simultaneously:
 1. Durably remove and store atmospheric CO₂ as ocean bicarbonate.
@@ -80,13 +92,13 @@ pHathom is an extremely high-intensity marine data user. Their entire business m
 
 ## Wiki Links / Back-References
 - See full 23-company tracklist in [sources/companies.json](../sources/companies.json).
-- Sector Overview: [Ocean Carbon Sequestration](../wiki/ocean-carbon-sequestration.md).
+- Sector Overview: [Ocean Carbon Sequestration](ocean-carbon-sequestration.md).
 - Related companies: SeaO2, Equatic, Gigablue, Limenet, Kelp Blue, Planetary Technologies.
 
-**Added to repo as of 2026-05-04 cron run** — new profile in tracked set (now 23 companies). 
+**Added to repo as of 2026-05-04 cron run** — new profile in tracked set (now 23 companies).
 
-**Raw data**: `raw/phathom-technologies.md`  
-**Structured metadata**: `metadata/phathom-technologies.jsonld`  
+**Raw data**: `raw/phathom-technologies.md`
+**Structured metadata**: `metadata/phathom-technologies.jsonld`
 
 ---
 

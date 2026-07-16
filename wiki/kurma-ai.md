@@ -1,3 +1,15 @@
+---
+type: Company
+title: Kurma Ai
+description: GenAI & computer vision for aquaculture and fisheries; AQUA-7B foundation model, AquaChat AI assistant, AQUA OS agentic platform, AquaEye fisheries compliance; VentureWell/NOAA Ocean Enterprise Accelerator Stage 0 (20...
+resource: https://kurma.ai/
+tags:
+- aquaculture
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Aquaculture
+---
+
 **Sector**: Aquaculture
 **Official Site**: https://kurma.ai/
 

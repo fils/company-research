@@ -1,3 +1,15 @@
+---
+type: Company
+title: Voltai
+description: Onboard wave/motion energy harvesting for ships — electrostatic generators converting wave and vibration energy into electricity without added drag.
+resource: https://www.voltai.ca/
+tags:
+- offshore-energy
+timestamp: '2026-07-16T00:00:00Z'
+date: '2026-07-16'
+sector: Offshore Energy
+---
+
 # Voltai
 
 **Sector**: Offshore Energy

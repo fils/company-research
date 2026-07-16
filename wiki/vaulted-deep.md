@@ -1,3 +1,15 @@
+---
+type: Company
+title: Vaulted Deep
+description: Biomass carbon removal from waste; scalable BiCRS approach
+resource: https://vaulteddeep.com/
+tags:
+- ocean-carbon-sequestration
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Ocean Carbon Sequestration
+---
+
 # Vaulted Deep
 
 **Official Site**: https://vaulteddeep.com/

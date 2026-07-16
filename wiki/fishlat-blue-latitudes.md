@@ -1,3 +1,15 @@
+---
+type: Company
+title: FishLAT (Blue Latitudes)
+description: ML-powered rapid assessment tool predicting environmental & fisheries impact of offshore infrastructure (removal, reefing, installation); supports permitting and decommissioning decisions; cost-effective data-rich alt...
+resource: https://www.fishlat.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-26T00:00:00Z'
+date: '2026-05-26'
+sector: Marine Monitoring & Sensors
+---
+
 # FishLAT (Blue Latitudes)
 
 **Sector**: Marine Monitoring & Sensors

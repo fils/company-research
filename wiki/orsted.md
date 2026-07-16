@@ -1,3 +1,15 @@
+---
+type: Company
+title: Ørsted
+description: Offshore wind major; extensive marine environmental surveys & monitoring
+resource: https://orsted.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Offshore Energy
+---
+
 # Ørsted
 
 **Sector**: Offshore Energy

@@ -1,3 +1,15 @@
+---
+type: Company
+title: MarineSitu
+description: Hardware-enabled software for persistent underwater monitoring; SituAI detection/classification >95% accuracy; DOE and US Navy trusted; cameras/ controllers for marine energy, aquaculture, fish counting, reef monitori...
+resource: https://www.marinesitu.com/
+tags:
+- marine-monitoring-sensors
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Marine Monitoring & Sensors
+---
+
 # MarineSitu
 
 **Sector**: Marine Monitoring & Sensors

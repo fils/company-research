@@ -1,3 +1,15 @@
+---
+type: Company
+title: Fleetzero
+description: Marine energy & robotics — ultra energy-dense modular marine battery systems (Leviathan) + hybrid/electric propulsion for commercial vessels.
+resource: https://www.fleetzero.com/
+tags:
+- offshore-energy
+timestamp: '2026-07-15T00:00:00Z'
+date: '2026-07-15'
+sector: Offshore Energy
+---
+
 # Fleetzero
 
 **Sector**: Offshore Energy

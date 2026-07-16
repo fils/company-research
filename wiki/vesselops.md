@@ -1,3 +1,15 @@
+---
+type: Company
+title: VesselOps
+description: 3D visualization and digital authentication for fleet management; VentureWell OEA Stage 2 (spring 2026, $50K TDC); New Bedford, MA; maritime fleet operations software
+resource: https://vesselops.com/
+tags:
+- maritime-operations-analytics
+timestamp: '2026-05-25T00:00:00Z'
+date: '2026-05-25'
+sector: Maritime Operations & Analytics
+---
+
 # VesselOps
 
 **Sector**: Maritime Operations & Analytics

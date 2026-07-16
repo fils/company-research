@@ -1,3 +1,12 @@
+---
+type: Sector
+title: Climate Risk
+description: Climate risk intelligence providers in the knowledge graph specialize in translating physical climate hazards into financial and operational impacts.
+tags:
+- climate-risk
+sector: Climate Risk
+---
+
 # Climate Risk
 
 **Overview (as of May 2026)**
@@ -30,5 +39,5 @@ Climate risk intelligence providers in the knowledge graph specialize in transla
 - Strong data synergy with offshore energy companies (Ørsted, Principle Power, BW Ideol, Gazelle).
 - Brightband's AI weather forecasting tools directly benefit offshore wind and maritime operations.
 
-**Last Updated**: 2026-05-16  
+**Last Updated**: 2026-05-16
 **Total Companies**: 5 (Climate Risk sector)

@@ -1,3 +1,15 @@
+---
+type: Company
+title: Panthalassa
+description: Ocean wave-powered AI computing & data centers; $140M Series B (May 2026) led by Peter Thiel; ~$1B valuation; offshore compute nodes and wave energy generation; Fortune/FT/Reuters coverage May 2026; marine environment...
+resource: https://panthalassa.com/
+tags:
+- offshore-energy
+timestamp: '2026-05-16T00:00:00Z'
+date: '2026-05-16'
+sector: Offshore Energy
+---
+
 # Panthalassa
 
 **Sector**: Offshore Energy
