@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "XOCEAN",
+  "url": "https://xocean.com/",
+  "email": "info@xocean.com",
+  "description": "Turnkey ocean data delivery using uncrewed surface vessels for offshore wind, geophysical, environmental, and hydrographic customers.",
+  "foundingDate": "2017",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathcor Technical Centre",
+    "addressLocality": "Rathcor, Co. Louth",
+    "postalCode": "A91 DVT0",
+    "addressCountry": "IE"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 115000000,
+    "description": "€115M growth investment (Jan 2025) via S2G; Climate Investment, Morgan Stanley 1GT, Crown Family affiliate"
+  },
+  "sector": "Ocean Data & AI",
+  "businessModel": "Fixed-price turnkey USV ocean data campaigns + data library licensing; carbon-neutral survey alternative to crewed vessels",
+  "lastFundingRound": "€115M growth (Jan 2025)",
+  "totalFunding": "€115M disclosed growth round",
+  "investors": [
+    "S2G Ventures",
+    "Climate Investment",
+    "Morgan Stanley 1GT",
+    "CC Industries (Crown Family affiliate)"
+  ],
+  "knowsAbout": [
+    "Uncrewed surface vessels",
+    "Multibeam bathymetry",
+    "Offshore wind survey",
+    "Ocean data services",
+    "Subsea cable route survey"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "MBES bathymetry",
+      "Side-scan sonar",
+      "Sub-bottom profiler",
+      "Magnetometer",
+      "Environmental monitoring"
+    ],
+    "keyMeasurements": [
+      "Depth",
+      "Backscatter",
+      "Shallow geology",
+      "Magnetic anomalies",
+      "Habitat metrics",
+      "Metocean operability"
+    ],
+    "observationPlatforms": [
+      "In-house USV fleet",
+      "Shore remote operations centers",
+      "Data library"
+    ],
+    "knownGaps": [
+      "Seamless EEZ modern bathymetry",
+      "Co-collected eDNA/acoustic habitat standards"
+    ],
+    "interestInExternalDataServices": "Satellite bathymetry cues, EMODnet/NOAA archives, metocean forecasts"
+  }
+}

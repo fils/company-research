@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Endurance Energy",
+  "url": "https://www.enduranceenergy.com/",
+  "description": "Subsea geothermal power systems delivering 24/7 baseload renewable electricity from seafloor heat sources.",
+  "foundingDate": "2025",
+  "founder": {
+    "@type": "Person",
+    "name": "Andrew Redd",
+    "jobTitle": "CEO & Founder"
+  },
+  "email": "info@enduranceenergy.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seattle",
+    "addressRegion": "WA",
+    "addressCountry": "US"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 54000000,
+    "description": "$54M Series A (Jun 2026) led by Founders Fund; cumulative ~$84M per PitchBook"
+  },
+  "sector": "Offshore Energy",
+  "businessModel": "Modular subsea geothermal power plants for islands, industry, and AI data centers; factory units clusterable to GW scale",
+  "lastFundingRound": "Series A — $54M (Jun 2026, Founders Fund lead)",
+  "totalFunding": "~$54M Series A; ~$84M cumulative (PitchBook)",
+  "investors": [
+    "Founders Fund",
+    "Ascend",
+    "Construct Capital",
+    "Felicis Ventures",
+    "First Round Capital",
+    "Point72 Ventures",
+    "Riot Ventures",
+    "Voyager Ventures"
+  ],
+  "knowsAbout": [
+    "Subsea geothermal energy",
+    "Mid-ocean ridge heat extraction",
+    "Modular offshore power",
+    "OOI cabled observatory integration",
+    "Seafloor robotics installation"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Seafloor heat flux",
+      "Bathymetry",
+      "Cabled observatory telemetry",
+      "ROV/AUV survey data",
+      "Benthic ecology baselines"
+    ],
+    "keyMeasurements": [
+      "Temperature gradients",
+      "Hydrothermal chemistry",
+      "Seismicity/deformation",
+      "Currents",
+      "Power/cable integrity"
+    ],
+    "observationPlatforms": [
+      "OOI Regional Cabled Array",
+      "Adélie 100 kW pilot",
+      "AUV/ROV site characterization"
+    ],
+    "knownGaps": [
+      "High-resolution heat-flux maps at candidate sites",
+      "Multi-year environmental baselines for permitting"
+    ],
+    "interestInExternalDataServices": "OOI/NSF cabled data, NOAA/USGS seafloor products, commercial AUV survey fleets"
+  }
+}

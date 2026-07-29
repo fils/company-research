@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Saildrone",
+  "legalName": "Saildrone, Inc.",
+  "url": "https://www.saildrone.com/",
+  "description": "Autonomous unmanned surface vehicles for maritime defense, ocean intelligence, mapping, and METOC — fully managed persistent data and effects at sea.",
+  "foundingDate": "2012",
+  "founder": {
+    "@type": "Person",
+    "name": "Richard Jenkins",
+    "jobTitle": "Founder & CEO"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Alameda",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 345000000,
+    "description": ">$345M total incl. $60M EIFO-led (May 2025) and $50M Lockheed Martin strategic (Oct 2025)"
+  },
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Fully managed autonomous USV missions delivering ocean/ISR data via Mission Portal+API; defense platform programs with effector integration path",
+  "lastFundingRound": "Lockheed Martin $50M strategic (Oct 2025); prior $60M EIFO-led (May 2025)",
+  "totalFunding": ">$345M",
+  "investors": [
+    "Bond",
+    "EIFO",
+    "Lockheed Martin",
+    "Lux Capital",
+    "Crowley",
+    "XN",
+    "Standard Investments",
+    "Emerson Collective",
+    "Capricorn Technology Impact Fund",
+    "Social Capital",
+    "Tribe Capital",
+    "Schmidt Family Foundation",
+    "Exor Seeds",
+    "Washington Harbor Partners",
+    "Academy Securities",
+    "Pinegrove"
+  ],
+  "knowsAbout": [
+    "Autonomous surface vehicles",
+    "Maritime domain awareness",
+    "Anti-submarine warfare USVs",
+    "Ocean mapping",
+    "METOC unmanned observations"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Surface ISR",
+      "Acoustic ASW",
+      "Multibeam bathymetry",
+      "METOC",
+      "Satellite MDA overlays"
+    ],
+    "keyMeasurements": [
+      "Contact tracks",
+      "Acoustic signatures",
+      "Depth/backscatter",
+      "Hurricane met",
+      "GNSS-denied navigation error"
+    ],
+    "observationPlatforms": [
+      "Explorer/Voyager/Surveyor/Spectre fleet",
+      "Mission Portal",
+      "Allied navy/USCG tasking"
+    ],
+    "knownGaps": [
+      "Labeled multi-domain ASW corpora",
+      "Autonomous kinetic ROE telemetry standards"
+    ],
+    "interestInExternalDataServices": "Satellite MDA, navy acoustic oceanography, metocean adaptive sampling models"
+  }
+}

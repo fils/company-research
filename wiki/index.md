@@ -28,13 +28,13 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Bioprospecting](bioprospecting.md) - **Official Sector Sources**: - Ginkgo Bioworks: https://www.ginkgo.bio/
 * [Climate Risk](climate-risk.md) - Climate risk intelligence providers in the knowledge graph specialize in translating physical climate hazards into financial and operational impacts.
 * [Coastal Risk & Infrastructure](coastal-risk-infrastructure.md) - **Last Updated**: 2026-05-25 **Companies Tracked**: 3
-* [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-07-16 **Companies Tracked**: 23
+* [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-07-29 **Companies Tracked**: 25
 * [Maritime Operations & Analytics](maritime-operations-analytics.md) - **Last Updated**: 2026-07-14 **Companies Tracked**: 7
 * [Ocean Carbon Sequestration](ocean-carbon-sequestration.md) - Sector overview for ocean-based carbon dioxide removal companies.
 * [Ocean Data & AI](ocean-data-ai.md) - Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 * [Offshore Energy](offshore-energy.md) - **Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/
 
-# Companies (93)
+# Companies (97)
 
 ## Aquaculture
 
@@ -87,11 +87,13 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [HALOBLUE Tech](haloblue-tech.md) - Autonomous monitoring systems for coastal restoration projects; defensible environmental data at lower cost per acre than vessel surveys; California State University based; VentureWell OEA Stage 1 (spring 2026, $15K T...
 * [HavocAI](havocai.md) - All-domain collaborative autonomy (sea/air/land); $100M Series A (May 2026) bringing total capital to ~$200M; Providence RI; 100+ ASVs built/deployed, 30+ delivered to DoD, 25,000+ autonomous hours; software suite (C2...
 * [Hullbot](hullbot.md) - Autonomous underwater robots for ship hull cleaning & inspection (proactive hull grooming).
+* [Kraken Technology](kraken-technology.md) - UK maritime defence USV/USSV unicorn — $175M Series B at $1B (Jul 2026, DTCP); K3 SCOUT / K4 MANTA / K5; Anduril, Rheinmetall, Davie manufacturing; USSOCOM $49M OTA; Fareham, UK.
 * [MarineSitu](marinesitu.md) - Hardware-enabled software for persistent underwater monitoring; SituAI detection/classification >95% accuracy; DOE and US Navy trusted; cameras/ controllers for marine energy, aquaculture, fish counting, reef monitori...
 * [Maritime Robotics](maritime-robotics.md) - Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — o...
 * [Ocean State Sensing](ocean-state-sensing.md) - Distributed Temperature Sensing (DTS) fiber optic ThermoTrawl systems; 25cm resolution, 800m+ range; real-time water column profiling; applications: fisheries, defense, climate research, aquaculture; reduce bycatch 10...
 * [Omission Inc](omission-inc.md) - Portable autonomous surface vessels (ASVs) + unmanned aerial systems (UAS); reduces nearshore marine data collection cost by 50-70%; survey-grade marine data; Saco, ME; VentureWell OEA Stage 0 (spring 2026)
 * [Orpheus Ocean](orpheus-ocean.md) - Deep-sea AUV for cost-effective exploration, benthic monitoring & assessment; .8M Pre-Seed; partnerships with Seabed 2030, NOAA Ocean Exploration, InnovateMass, WHOI heritage; small-footprint AUV for depths up to 11,0...
+* [Saildrone](saildrone.md) - Autonomous USV leader for maritime defense & ocean intelligence — Explorer/Voyager/Surveyor/Spectre; >$345M raised; Lockheed Martin $50M strategic; 2.5M nm sailed; Alameda, CA.
 * [Saronic Technologies](saronic-technologies.md) - Autonomous surface vessels (ASVs) for defense maritime autonomy; $1.75B Series D (Mar 2026) at $9.25B valuation; total funding ~$2.6B; product line: Spyglass (6'), Corsair (24', 1000+nm, 35+kt, 1000lb payload), Mirage...
 * [Seaber](seaber.md) - French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m depth, 8–10 h autonomy) and MARVEL (security/defense: MCM, ASW training, coast guard).
 * [Seasats](seasats.md) - Small uncrewed surface vehicles (sUSVs) for long-endurance ocean sensing & MDA; $20M Series A (Feb 2026, Konvoy Ventures lead) — >$40M total equity; >$100M US government contracts including $24M DoW APFIT; San Diego;...
@@ -140,10 +142,12 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [SeaDeep](seadeep.md) - AI platform for ocean mapping, monitoring, underwater inspection using AI for marine robotics autonomy; subsea exploration intelligence; grants $1M+; partners with Seabed 2030; focuses on AI-powered ocean data for cor...
 * [Sofar Ocean](sofar-ocean.md) - Largest privately-owned ocean sensor network in the world; 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations; total funding ~$75-78.5M (Series B $39M led by U...
 * [Ubotica](ubotica.md) - Orbital AI / cognitive Earth observation for real-time maritime intelligence from space.
+* [XOCEAN](xocean.md) - Turnkey ocean data via in-house USV fleet — €115M growth (Jan 2025); Ørsted/Shell/bp customers; 48.6+ GW offshore wind supported; Ireland HQ.
 
 ## Offshore Energy
 
 * [BW Ideol](bw-ideol.md) - Floating offshore wind solutions and infrastructure
+* [Endurance Energy](endurance-energy.md) - Subsea geothermal baseload power — $54M Series A (Jun 2026, Founders Fund); Adélie OOI Axial Seamount pilot; Tonga partnership; Seattle.
 * [Fleetzero](fleetzero.md) - Marine energy & robotics — ultra energy-dense modular marine battery systems (Leviathan) + hybrid/electric propulsion for commercial vessels.
 * [Gazelle Wind Power](gazelle-wind-power.md) - Floating wind platforms; needs oceanographic/metocean data services
 * [Kvasir Technologies](kvasir-technologies.md) - Climate-neutral drop-in marine biofuel from lignocellulosic biomass (non-edible agricultural & forestry waste).

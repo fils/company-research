@@ -649,5 +649,33 @@
     "url": "https://www.voltai.ca/",
     "notes": "Onboard wave/motion energy harvesting for ships — electrostatic generators converting wave and vibration energy into electricity without added drag. CAD $1.83M oversubscribed pre-seed (Oct 2025) co-led by Invest Nova Scotia. Modular systems scalable 25W to multi-MW. Pilots: NSCC research vessel; Net Zero Atlantic project for fishing vessels and ferries; Canadian Coast Guard Innovative Solutions Canada challenge (2 phases). Family-founded in Dartmouth, Nova Scotia (CEO Maja Maher). Positioning: emission-free energy source rivaling heavy fuel oil on cost for regulatory compliance. Supports: CDL, NRC IRAP, Ocean Startup Project, Clean Foundation, Springboard Atlantic.",
     "last_updated": "2026-07-16"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Endurance Energy",
+    "url": "https://www.enduranceenergy.com/",
+    "notes": "Subsea geothermal power from mid-ocean ridge / Ring of Fire heat — modular seafloor plants for 24/7 baseload renewable electricity (islands, industry, hyperscale AI data centers). $54M Series A (Jun 2026) led by Founders Fund; participants Ascend, Construct Capital, Felicis, First Round, Point72 Ventures, Riot Ventures, Voyager Ventures. Total raised ~$84M (PitchBook). Founded by ex-SpaceX engineer Andrew Redd (Dragon/Starship); ~25 staff, ~12 ex-SpaceX; VP Eng ex-Helion. Adélie: planned 100 kW subsea system for 1-year Axial Seamount caldera deployment tied to OOI Regional Cabled Array (Oregon coast, Sep 2026 target). Tonga government partnership for subsea geothermal test. Advantages claimed: weather-independent baseload, zero surface footprint (gen+tx on/under seafloor), GW-scale in months via factory modular units, O&G/geothermal tech heritage. Seattle HQ. Contact: info@enduranceenergy.com.",
+    "last_updated": "2026-07-29"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Kraken Technology",
+    "url": "https://krakentechnology.com/",
+    "notes": "UK maritime defence USV/USSV prime (NOT Kraken Robotics). Modular uncrewed platforms: K3 SCOUT USV, K4 MANTA stealth USSV, K5 high-payload USV. $175M Series B at $1B valuation (9 Jul 2026) led by DTCP; British Business Bank, NATO Innovation Fund, Rheinmetall, Inocea, HICO, Thesiger, BOKA, Supernova Invest, Hakluyt; prior NIF/NSSIF/SmartCap/Notion/Speedinvest converted. Contracts: UK MoD, NATO partners, USSOCOM $49M OTA. Manufacturing: Rheinmetall Blohm+Voss (Hamburg K3 series), Anduril (US), Davie/Inocea (Canada). World-first USV airdrop (K3 SCOUT from A400M, Jul 2026). Founder/CEO Mal Crease; CTO Amelia Gould (Jul 2026); Kraken US CEO Justin Litko. Fareham/Segensworth UK. Dual-use path: defence, security, offshore wind/O&G survey.",
+    "last_updated": "2026-07-29"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "XOCEAN",
+    "url": "https://xocean.com/",
+    "notes": "Ireland-based turnkey ocean data delivery via in-house USV fleet — geophysical, environmental, asset integrity, bathymetry, fisheries for offshore wind and civil hydrography. €115M (~$118M) growth investment (Jan 2025) via S2G Ventures structure; Climate Investment, Morgan Stanley 1GT, Crown Family CC Industries affiliate. Customers: Ørsted, Shell, bp, SSE, RWE, Vattenfall, EnBW, Eneco (5-year NL framework), governments in 23+ jurisdictions. 4.9M+ GB data processed; 48.6+ GW offshore wind supported; fleet >1.2M km cumulative (Jul 2026). Sensors: MBES, SSS, SBP, magnetometer. Models: fixed-price turnkey campaigns + data library licensing. Offices: Ireland (Rathcor/Dundalk), UK, US, Canada, Norway, Australia (Melbourne), NL hub IJmuiden. Founded 2017. Carbon-neutral USV ocean data thesis.",
+    "last_updated": "2026-07-29"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Saildrone",
+    "url": "https://www.saildrone.com/",
+    "notes": "Alameda CA autonomous USV leader for maritime defense & ocean intelligence. Wind+solar endurance platforms: Explorer (METOC), Voyager (MDA/coastal), Surveyor (deep-ocean mapping/ASW), Spectre (170-ft ASW/VLS-class, 2026). 12+ years ops; 2.5M nm sailed; 65K days at sea. Funding: $60M (May 2025, EIFO lead + Lux/Crowley et al.); $50M Lockheed Martin strategic (Oct 2025) for JAGM launcher integration / live-fire 2026; prior $75M C-1 (2024), $100M Series C (2021 Bond); total >$345M. Investors: BOND, XN, Standard, Emerson Collective, Crowley, Capricorn, Lux, Social Capital, Tribe, Schmidt Family Foundation, Exor Seeds, Washington Harbor, Academy Securities, Pinegrove. Missions: MDA, ASW/undersea detection, ocean mapping, sub-bottom, METOC, kinetics/effectors; USCG BPA, Danish Armed Forces Baltic Voyagers, hurricane eye science. Fully managed data delivery (Mission Portal + API). CEO Richard Jenkins.",
+    "last_updated": "2026-07-29"
   }
 ]

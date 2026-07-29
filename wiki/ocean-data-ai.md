@@ -23,7 +23,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - Satellite-derived oceanographic products (SWOT, altimetry, SAR, optical)
 - Bridging the gap between public ocean data and commercial applications
 
-**Companies Profiled (8 companies)**
+**Companies Profiled (9 companies)**
 
 - **Amphitrite**: AI-powered ocean data intelligence platform. Combines satellite data (SWOT, altimetry, SAR) with in-situ measurements and predictive AI for real-time maritime intelligence. Serves commercial shipping, naval defence, and offshore operations. €1.2M seed (2024). Partners include SHOM, CNES, ESA, Mercator Ocean, CMA CGM, Subsea7. Supported by NVIDIA Inception and Microsoft GenAI Studio.
 
@@ -39,6 +39,8 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - **Sofar Ocean** (NEW): Largest privately-owned ocean sensor network in the world. 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations. ~$75-78.5M total funding (Series B $39M led by USV/Foundry Group). Products: Spotter Platform (surface/subsurface sensing), Wayfinder (voyage optimization, 4-8% fuel reduction), Marine Weather (50% more accurate than traditional models). Partners: NOAA, US Navy, NVIDIA, MOL, MITRE, ONR. In-Q-Tel backed. San Francisco HQ.
 
 - **Ubotica** (NEW 2026-07-15): Orbital AI / cognitive Earth observation for real-time maritime intelligence from space. $11M funding (Jun 2026). SPACE:AI platform — 11 missions flown, 30+ AI models (vessel detection, autonomous targeting). Subscription-based predictive maritime surveillance: detects dark vessels and shadow fleets. Cognitive EO paradigm: predict → task → process at edge → learn. Fugro partnership for space-to-seabed intelligence (subsea sensors + USVs + UAVs). NASA JPL collaboration (FAME federated satellite network). ESA partner. Dublin, Ireland. Extends Ocean Data & AI to the space domain — uniquely combines satellite edge AI with Fugro's subsea infrastructure for unified maritime intelligence.
+
+- **XOCEAN** (NEW 2026-07-29): Ireland-based turnkey ocean data delivery via in-house USV fleet (MBES, SSS, SBP, magnetometer). **€115M (~$118M)** growth investment (Jan 2025; S2G-structured with Climate Investment, Morgan Stanley 1GT, Crown Family affiliate). Customers: Ørsted, Shell, bp, SSE, RWE, Vattenfall, EnBW, Eneco (5-year NL framework); 23+ jurisdictions; 48.6+ GW offshore wind supported; fleet >1.2M km cumulative. Dual model: fixed-price turnkey campaigns + data library licensing. Carbon-neutral survey alternative to crewed vessels. Offices IE/UK/US/CA/NO/AU + IJmuiden hub.
 
 **Cross-Sector Synergies**
 
@@ -61,5 +63,5 @@ This sector is highly complementary to every other sector in the knowledge graph
 - VentureWell OEA Spring 2026 cohorts revealed 51 startups across Stages 0-2 — heavy concentration in data/sensor/AI solutions
 
 ---
-*Last updated: 2026-07-15*
-**Total Companies**: 8 (Ocean Data & AI sector — +1 this update: Ubotica)
+*Last updated: 2026-07-29*
+**Total Companies**: 9 (Ocean Data & AI sector — +1 this update: XOCEAN)

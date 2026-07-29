@@ -1,7 +1,7 @@
 ---
 type: Sector
 title: Marine Monitoring & Sensors
-description: '**Last Updated**: 2026-07-16 **Companies Tracked**: 23'
+description: '**Last Updated**: 2026-07-29 **Companies Tracked**: 25'
 tags:
 - marine-monitoring-sensors
 sector: Marine Monitoring Sensors
@@ -9,8 +9,8 @@ sector: Marine Monitoring Sensors
 
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-16
-**Companies Tracked**: 23
+**Last Updated**: 2026-07-29
+**Companies Tracked**: 25
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -143,6 +143,18 @@ French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m, 8–10 h
 - **Funding**: ~$2M seed (Oct 2025)
 - **Location**: France
 
+### Kraken Technology (NEW 2026-07-29)
+UK maritime defence USV/USSV unicorn (not Kraken Robotics). K3 SCOUT, K4 MANTA stealth USSV, K5 high-payload USV. **$175M Series B at $1B valuation** (9 Jul 2026, DTCP lead; British Business Bank, NATO Innovation Fund, Rheinmetall, Inocea et al.). $49M USSOCOM OTA. Manufacturing: Rheinmetall Blohm+Voss (Hamburg), Anduril (US), Davie/Inocea (Canada). World-first USV airdrop (K3 from A400M). Founder/CEO Mal Crease. Fareham, UK.
+- **Site**: [krakentechnology.com](https://krakentechnology.com/)
+- **Funding**: $175M Series B @ $1B (Jul 2026, DTCP)
+- **Location**: Fareham, UK
+
+### Saildrone (NEW 2026-07-29)
+Alameda autonomous USV leader for maritime defense & ocean intelligence. Explorer / Voyager / Surveyor / Spectre (~170-ft ASW class). 12+ years, ~2.5M nm, ~65K days at sea. **>$345M** raised incl. $60M EIFO-led (May 2025) and **$50M Lockheed Martin** strategic (Oct 2025, JAGM integration). Fully managed Mission Portal + API data delivery. CEO Richard Jenkins.
+- **Site**: [saildrone.com](https://www.saildrone.com/)
+- **Funding**: >$345M total; Lockheed $50M strategic (Oct 2025)
+- **Location**: Alameda, CA (+ Copenhagen EU HQ)
+
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)
 - **Survey-grade data**: High-resolution oceanographic and environmental data collection from autonomous platforms
@@ -155,6 +167,8 @@ French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m, 8–10 h
 - **Portability**: Sunfish's person-portable AUV and HALOBLUE's lower-cost approach both democratize access to underwater monitoring
 - **Micro-AUV fleet economics** (Seaber): Complements defense AUV primes (Ulysses, Vatn) and survey AUVs (Bedrock) at the low-cost/single-person-deploy end — payload diversity (CTD, eDNA, PAM, magnetometry) makes YUCO a science workhorse
 - **Environmental service USVs** (Clear Robotics): Distinct from defense ASV primes (Saronic, Blue Water, HavocAI) — mission is urban/port waste, hyacinth, and survey with zero-emission fleet ops and waste-mass data co-products; Katapult Ocean co-invests alongside Hullbot
+- **NATO multi-nation USV manufacturing** (Kraken Technology): $1B UK unicorn with Rheinmetall/Anduril/Davie production footprint + airdrop insertion — European counterpart to US defense ASV primes; NIF/NSSIF strategic capital
+- **Sail-endurance ISR/ASW continuum** (Saildrone): Longest open-ocean unmanned time-series moat; science METOC → defense MDA/ASW → Lockheed kinetic effector path; complements high-speed modular (Kraken) and full-size warship (Blue Water/Saronic) designs
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

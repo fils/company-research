@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Kraken Technology",
+  "legalName": "Kraken Technology Group Ltd",
+  "alternateName": "Kraken Technology Group",
+  "url": "https://krakentechnology.com/",
+  "email": "contact@krakentechnology.com",
+  "description": "UK maritime defence company designing modular autonomous surface and subsurface vessels (K3 SCOUT, K4 MANTA, K5) for NATO and allied missions.",
+  "foundingDate": "2020",
+  "founder": {
+    "@type": "Person",
+    "name": "Mal Crease",
+    "jobTitle": "Founder & CEO"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Area 1, 5 Sopwith Park, Concorde Close",
+    "addressLocality": "Fareham",
+    "addressRegion": "Hampshire",
+    "postalCode": "PO15 5RT",
+    "addressCountry": "GB"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 175000000,
+    "description": "$175M Series B at $1B valuation (9 Jul 2026) led by DTCP"
+  },
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Defence USV/USSV OEM with localized manufacturing partnerships (Rheinmetall, Anduril, Davie); dual-use security and offshore survey path",
+  "lastFundingRound": "Series B — $175M at $1B (Jul 2026, DTCP lead)",
+  "totalFunding": "$175M Series B disclosed; prior seed/strategic + $49M USSOCOM OTA",
+  "investors": [
+    "DTCP",
+    "British Business Bank",
+    "NATO Innovation Fund",
+    "Rheinmetall",
+    "Inocea Group",
+    "HICO",
+    "Thesiger Capital Group",
+    "BOKA Capital",
+    "Supernova Invest",
+    "Hakluyt Capital",
+    "NSSIF",
+    "SmartCap",
+    "Notion Capital",
+    "Speedinvest"
+  ],
+  "knowsAbout": [
+    "Unmanned surface vessels",
+    "Unmanned subsurface vessels",
+    "Maritime defence autonomy",
+    "High sea state robotics",
+    "USV airdrop deployment"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Autonomy perception sensor fusion",
+      "Metocean",
+      "Bathymetry",
+      "ISR video/tracks",
+      "Acoustic data"
+    ],
+    "keyMeasurements": [
+      "Sea state",
+      "Wave spectra",
+      "Contact classification",
+      "GNSS-denied navigation integrity"
+    ],
+    "observationPlatforms": [
+      "K3/K4/K5 organic sensors",
+      "Fleet C2",
+      "Sea trials instrumentation"
+    ],
+    "knownGaps": [
+      "Contested-environment training corpora",
+      "NATO-standard USV autonomy test metrics"
+    ],
+    "interestInExternalDataServices": "Metocean, satellite MDA, acoustic oceanography, ENC updates"
+  }
+}
