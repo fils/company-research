@@ -1,7 +1,7 @@
 ---
 type: Sector
 title: Marine Monitoring & Sensors
-description: '**Last Updated**: 2026-07-29 **Companies Tracked**: 25'
+description: '**Last Updated**: 2026-08-05 **Companies Tracked**: 27'
 tags:
 - marine-monitoring-sensors
 sector: Marine Monitoring Sensors
@@ -9,8 +9,8 @@ sector: Marine Monitoring Sensors
 
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-07-29
-**Companies Tracked**: 25
+**Last Updated**: 2026-08-05
+**Companies Tracked**: 27
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -155,6 +155,18 @@ Alameda autonomous USV leader for maritime defense & ocean intelligence. Explore
 - **Funding**: >$345M total; Lockheed $50M strategic (Oct 2025)
 - **Location**: Alameda, CA (+ Copenhagen EU HQ)
 
+### WSense (NEW 2026-08-05)
+Italian Internet of Underwater Things (IoUT) — patented multi-modal underwater wireless mesh (acoustic/optical) connecting multi-vendor sensors, AUVs, and ASVs for real-time high-density ocean data. Products: W·Node, W·Mesh, W·Gateway, W·Cloud. **€10M pre-Series B** (Oct 2025); total **>€25M**. Partners: Fincantieri DEEP, Hub Ocean, Terna. CEO Chiara Petrioli (Sapienza). Rome HQ; Bergen + London offices.
+- **Site**: [wsense.it](https://wsense.it/)
+- **Funding**: >€25M; €10M pre-B (Indico, SIMEST, SWEN Blue Ocean, CDP, Fincantieri)
+- **Location**: Rome, Italy
+
+### Oceanic Constellations (NEW 2026-08-05)
+Japan (Kamakura) **Marine Satellite Cluster™** — swarm of small USVs forming persistent ocean sensor/comms constellation. **¥2B Series B1** (Jan 2026) with JAFCO, Globis, **NYK**; ~$24.7M total. 20+ swarm-control patents. Keihin Dock mass-production path; illegal-fishing demo with Kamakura/Shonan fisheries. Commercialisation 2027. CEO Takuma Honda.
+- **Site**: [oceanic-constellations.com](https://www.oceanic-constellations.com/)
+- **Funding**: ¥2B Series B1 (~$13M); ~$24.7M total
+- **Location**: Kamakura, Japan
+
 ## Cross-Company Marine Data Patterns
 - **Autonomous platforms**: All companies build autonomous systems (ASVs, AUVs, cameras) for persistent ocean monitoring; 2026 wave adds collaborative multi-asset C2 (HavocAI), long-endurance sUSVs (Seasats), and commercial seafloor survey AUVs (Bedrock)
 - **Survey-grade data**: High-resolution oceanographic and environmental data collection from autonomous platforms
@@ -169,6 +181,8 @@ Alameda autonomous USV leader for maritime defense & ocean intelligence. Explore
 - **Environmental service USVs** (Clear Robotics): Distinct from defense ASV primes (Saronic, Blue Water, HavocAI) — mission is urban/port waste, hyacinth, and survey with zero-emission fleet ops and waste-mass data co-products; Katapult Ocean co-invests alongside Hullbot
 - **NATO multi-nation USV manufacturing** (Kraken Technology): $1B UK unicorn with Rheinmetall/Anduril/Davie production footprint + airdrop insertion — European counterpart to US defense ASV primes; NIF/NSSIF strategic capital
 - **Sail-endurance ISR/ASW continuum** (Saildrone): Longest open-ocean unmanned time-series moat; science METOC → defense MDA/ASW → Lockheed kinetic effector path; complements high-speed modular (Kraken) and full-size warship (Blue Water/Saronic) designs
+- **Underwater IoT fabric** (WSense): Comms layer that multi-vendor AUV/ASV/sensor fleets lack — multi-hop acoustic/optical mesh + cloud APIs; Fincantieri/Terna/Hub Ocean proof points; enables CCS, MPA, and cable integrity MRV
+- **Asia-Pacific USV constellation** (Oceanic Constellations): Swarm-first Marine Satellite Cluster with NYK shipyard path and 20+ patents — APAC counterpart to US/EU defense USV primes; dual-use monitoring + illegal fishing + rocket recovery
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

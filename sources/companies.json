@@ -3,14 +3,14 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "Ebb Carbon",
     "url": "https://www.ebbcarbon.com/",
-    "notes": "Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Project Macoma operational OAE pilot (Feb 2026); salmon ecological safety study (Feb 2026)",
+    "notes": "Electrochemical CDR from brine; $20M Series A (2026) \u2014 largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Project Macoma operational OAE pilot (Feb 2026); salmon ecological safety study (Feb 2026)",
     "last_updated": "2026-05-26"
   },
   {
     "sector": "Ocean Carbon Sequestration",
     "name": "Captura",
     "url": "https://capturacorp.com/",
-    "notes": "Direct Ocean Capture; $12.5M Series B (Jun 2026, Equinor Ventures lead; Aramco Ventures, EDP Ventures, Eni Next, Freeflow Ventures, Hitachi Ventures, JAL Innovation Fund, Maersk Growth, mTerra Ventures, National Grid Partners); total funding ~$57.5M; operates 1000 t/yr pilot at HOST Park Kona + AltaSea 100 t/yr system (Port of LA); proprietary PFAS-free bipolar membrane electrodialysis; eSAF supplier deal in France (May 2026); TIME's America's Top GreenTech Companies 2026; expanding domestic manufacturing in Pasadena — only US-based complete electrodialysis system plant; first orders for lithium extraction market; CEO Steve Oldham; entering commercial execution phase",
+    "notes": "Direct Ocean Capture; $12.5M Series B (Jun 2026, Equinor Ventures lead; Aramco Ventures, EDP Ventures, Eni Next, Freeflow Ventures, Hitachi Ventures, JAL Innovation Fund, Maersk Growth, mTerra Ventures, National Grid Partners); total funding ~$57.5M; operates 1000 t/yr pilot at HOST Park Kona + AltaSea 100 t/yr system (Port of LA); proprietary PFAS-free bipolar membrane electrodialysis; eSAF supplier deal in France (May 2026); TIME's America's Top GreenTech Companies 2026; expanding domestic manufacturing in Pasadena \u2014 only US-based complete electrodialysis system plant; first orders for lithium extraction market; CEO Steve Oldham; entering commercial execution phase",
     "last_updated": "2026-07-13"
   },
   {
@@ -73,7 +73,7 @@
     "sector": "Ocean Carbon Sequestration",
     "name": "SeaO2",
     "url": "https://www.seao2.com/",
-    "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; preparing €12M Series A for early 2027; €2M+ seed raised; BlueInvest recognition (EU Commission, Feb 2026); GCNE accelerator selected; R&D MIT subsidy with Redstack for Carbon Stream project; nominated for Offshore Wind Innovators Award 2025; Hello Tomorrow Deep Tech Pioneer; marine MRV intensive; EC DOC workshop participation informing CRCF certification",
+    "notes": "Electrochemical Direct Ocean Capture (DOC); gigaton-scale potential; renewable-powered; preparing \u20ac12M Series A for early 2027; \u20ac2M+ seed raised; BlueInvest recognition (EU Commission, Feb 2026); GCNE accelerator selected; R&D MIT subsidy with Redstack for Carbon Stream project; nominated for Offshore Wind Innovators Award 2025; Hello Tomorrow Deep Tech Pioneer; marine MRV intensive; EC DOC workshop participation informing CRCF certification",
     "last_updated": "2026-05-26"
   },
   {
@@ -157,7 +157,7 @@
     "sector": "Aquaculture",
     "name": "Vycarb",
     "url": "https://vycarb.com/",
-    "notes": "Water-based CO2 capture & storage; $5M seed (Oct 2025, Twynam lead; Shell, Hatch Blue, Singapore govt); partnerships with Tomco Systems (industrial CO2 mgmt) & atdepth (MIT spinout ocean monitoring, Google/NASA-backed); industrial gas integration — accepts point-source CO2 as input, converts to bicarbonate; East River NYC pilot running 1+ yr; moving from pilots to commercial deployments; pipeline in US, Europe, Asia Pacific; founded 2022 by CEO Garrett Boudinot; Brooklyn-based; decentralized carbon removal with real-time autonomous CO2 measurement in water",
+    "notes": "Water-based CO2 capture & storage; $5M seed (Oct 2025, Twynam lead; Shell, Hatch Blue, Singapore govt); partnerships with Tomco Systems (industrial CO2 mgmt) & atdepth (MIT spinout ocean monitoring, Google/NASA-backed); industrial gas integration \u2014 accepts point-source CO2 as input, converts to bicarbonate; East River NYC pilot running 1+ yr; moving from pilots to commercial deployments; pipeline in US, Europe, Asia Pacific; founded 2022 by CEO Garrett Boudinot; Brooklyn-based; decentralized carbon removal with real-time autonomous CO2 measurement in water",
     "last_updated": "2026-07-13"
   },
   {
@@ -232,7 +232,7 @@
   },
   {
     "sector": "Offshore Energy",
-    "name": "Ørsted",
+    "name": "\u00d8rsted",
     "url": "https://orsted.com/",
     "notes": "Offshore wind major; extensive marine environmental surveys & monitoring",
     "last_updated": "2026-05-16"
@@ -290,7 +290,7 @@
     "sector": "Ocean Data & AI",
     "name": "Amphitrite",
     "url": "https://www.amphitrite.fr/",
-    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); €1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
+    "notes": "AI-powered ocean data intelligence platform; satellite & in-situ data fusion for maritime operations (shipping efficiency, maritime sovereignty); \u20ac1.2M seed (2024); advanced SWOT satellite technology integration; France-based",
     "last_updated": "2026-05-16"
   },
   {
@@ -444,14 +444,14 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "Vatn Systems",
     "url": "https://www.vatnsystems.com/",
-    "notes": "Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) — one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manufacturing facility; first international contract: Singapore; advanced navigation in GPS/comm-denied environments; stealthy low-bandwidth inter-vehicle comms; 'next underwater defense prime' positioning; customers: US Navy, allied navies, research institutions",
+    "notes": "Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) \u2014 one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manufacturing facility; first international contract: Singapore; advanced navigation in GPS/comm-denied environments; stealthy low-bandwidth inter-vehicle comms; 'next underwater defense prime' positioning; customers: US Navy, allied navies, research institutions",
     "last_updated": "2026-06-01"
   },
   {
     "sector": "Ocean Data & AI",
     "name": "Quartermaster",
     "url": "https://www.quartermaster.us/",
-    "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model — free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
+    "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model \u2014 free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
     "last_updated": "2026-06-01"
   },
   {
@@ -486,7 +486,7 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "Seasats",
     "url": "https://seasats.com/",
-    "notes": "Small uncrewed surface vehicles (sUSVs) for long-endurance ocean sensing & MDA; $20M Series A (Feb 2026, Konvoy Ventures lead) — >$40M total equity; >$100M US government contracts including $24M DoW APFIT; San Diego; Lightfish/Quickfish/Heavyfish product line; 6-month endurance missions; 50+ modular payloads; Taiwan Strait autonomous transit (May 2026); data-as-a-service option",
+    "notes": "Small uncrewed surface vehicles (sUSVs) for long-endurance ocean sensing & MDA; $20M Series A (Feb 2026, Konvoy Ventures lead) \u2014 >$40M total equity; >$100M US government contracts including $24M DoW APFIT; San Diego; Lightfish/Quickfish/Heavyfish product line; 6-month endurance missions; 50+ modular payloads; Taiwan Strait autonomous transit (May 2026); data-as-a-service option",
     "last_updated": "2026-07-10"
   },
   {
@@ -556,35 +556,35 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "Blue Water Autonomy",
     "url": "https://www.blw.ai/",
-    "notes": "Autonomous warships for US Navy — full-size unmanned surface vessels for open-ocean endurance. $50M Series A (Aug 2025, GV lead — Dave Munichiello joins board; Eclipse, Riot, Impatient Ventures participating) bringing total funding to $64M ($14M seed Apr 2025). Liberty-class 190-ft autonomous ship unveiled at WEST 2026 San Diego; designed for mass production and months-long open-ocean endurance. Founded 2024 in Boston by repeat entrepreneurs and Navy veterans: Rylan Hamilton (CEO, ex-Navy officer → Amazon Robotics → 6 River Systems founder, sold to Shopify for $450M), Scott Miller (CTO, ex-iRobot VP Eng helping launch Roomba/Scooba, MIT Ocean Eng, Dragon Innovation founder), Austin Gray (CSO, ex-Navy intelligence, Ukraine drone factory volunteer). Full-stack autonomy suite integrating hardware+software+AI; team quadrupled since seed; 50+ selected suppliers; long-lead material acquisition started; DC office opened; shipbuilding veterans with track record of 30+ US Navy ships delivered including DARPA NOMARS. Pentagon $2.1B Congressional funding for MUSV programs. China shipbuilding dominance (200x US capacity) driving urgency",
+    "notes": "Autonomous warships for US Navy \u2014 full-size unmanned surface vessels for open-ocean endurance. $50M Series A (Aug 2025, GV lead \u2014 Dave Munichiello joins board; Eclipse, Riot, Impatient Ventures participating) bringing total funding to $64M ($14M seed Apr 2025). Liberty-class 190-ft autonomous ship unveiled at WEST 2026 San Diego; designed for mass production and months-long open-ocean endurance. Founded 2024 in Boston by repeat entrepreneurs and Navy veterans: Rylan Hamilton (CEO, ex-Navy officer \u2192 Amazon Robotics \u2192 6 River Systems founder, sold to Shopify for $450M), Scott Miller (CTO, ex-iRobot VP Eng helping launch Roomba/Scooba, MIT Ocean Eng, Dragon Innovation founder), Austin Gray (CSO, ex-Navy intelligence, Ukraine drone factory volunteer). Full-stack autonomy suite integrating hardware+software+AI; team quadrupled since seed; 50+ selected suppliers; long-lead material acquisition started; DC office opened; shipbuilding veterans with track record of 30+ US Navy ships delivered including DARPA NOMARS. Pentagon $2.1B Congressional funding for MUSV programs. China shipbuilding dominance (200x US capacity) driving urgency",
     "last_updated": "2026-07-14"
   },
   {
     "sector": "Marine Monitoring & Sensors",
     "name": "Maritime Robotics",
     "url": "https://www.maritimerobotics.com/",
-    "notes": "Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — on top of $12M growth capital (Sep 2024, NRP Zero + Norwegian state fund). Revenue ~5x over 5 years, 2x over 2 years; hundreds of autonomous systems delivered. Products: SEACONTROL autonomous navigation system (retrofit to crewed/uncrewed surface vessels), Mariner X USV (modular sensor platform), mine countermeasures USV (launched Jan 2026), Otter USV. Dual-use commercial+defense: offshore energy, hydrography, environmental monitoring, fisheries management, maritime security & defense. Eelume partnership for subsea inspection (Oct 2025); NATO REPMUS 2025 demo; DALO Industry Days, Euronaval, SMM Hamburg, Nor-Fishing 2026 exhibiting. Trondheim HQ + London office; CEO/co-founder Vegard Evjen Hovstein. Structural shift from pilot projects to fleet-level deployment strategies",
+    "notes": "Norwegian USV & autonomous navigation pioneer since 2005; \u20ac28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysn\u00f8 Climate Investment, Umoe, founders/employees participating) \u2014 on top of $12M growth capital (Sep 2024, NRP Zero + Norwegian state fund). Revenue ~5x over 5 years, 2x over 2 years; hundreds of autonomous systems delivered. Products: SEACONTROL autonomous navigation system (retrofit to crewed/uncrewed surface vessels), Mariner X USV (modular sensor platform), mine countermeasures USV (launched Jan 2026), Otter USV. Dual-use commercial+defense: offshore energy, hydrography, environmental monitoring, fisheries management, maritime security & defense. Eelume partnership for subsea inspection (Oct 2025); NATO REPMUS 2025 demo; DALO Industry Days, Euronaval, SMM Hamburg, Nor-Fishing 2026 exhibiting. Trondheim HQ + London office; CEO/co-founder Vegard Evjen Hovstein. Structural shift from pilot projects to fleet-level deployment strategies",
     "last_updated": "2026-07-14"
   },
   {
     "sector": "Maritime Operations & Analytics",
     "name": "SEA.AI",
     "url": "https://www.sea.ai/",
-    "notes": "Maritime machine vision for safety at sea; AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables). €3M Series A funding round. Founded 2018 in Austria (formerly OSCAR); 45 employees across Austria, France, Portugal, USA; GICAN (French Naval Industry Association) member (Jul 2026); NVIDIA edge AI partner. Product line: Watchkeeper (ultra-wide FoV, NEW), Sentry (commercial/government/motoryachts), Brain (AI module for existing thermal cameras), Competition (ocean racing yachts). Counter-USV detection spotlight use case for naval/coast guard. Markets: recreational, commercial (workboats/ferries/offshore vessels), security (coastal monitoring/SAR), defence (persistent automated visual intelligence, surface threat detection). Robosys Automation partnership for world's first machine-vision-based maritime autonomous surface collision avoidance system. Sailing Software Update V8.0 (Jul 2026). SMM Hamburg Sep 2026 exhibiting. Born in Brittany, developed in Europe, for the maritime world",
+    "notes": "Maritime machine vision for safety at sea; AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables). \u20ac3M Series A funding round. Founded 2018 in Austria (formerly OSCAR); 45 employees across Austria, France, Portugal, USA; GICAN (French Naval Industry Association) member (Jul 2026); NVIDIA edge AI partner. Product line: Watchkeeper (ultra-wide FoV, NEW), Sentry (commercial/government/motoryachts), Brain (AI module for existing thermal cameras), Competition (ocean racing yachts). Counter-USV detection spotlight use case for naval/coast guard. Markets: recreational, commercial (workboats/ferries/offshore vessels), security (coastal monitoring/SAR), defence (persistent automated visual intelligence, surface threat detection). Robosys Automation partnership for world's first machine-vision-based maritime autonomous surface collision avoidance system. Sailing Software Update V8.0 (Jul 2026). SMM Hamburg Sep 2026 exhibiting. Born in Brittany, developed in Europe, for the maritime world",
     "last_updated": "2026-07-14"
   },
   {
     "sector": "Aquaculture",
     "name": "BiOceanOr",
     "url": "https://bioceanor.com/",
-    "notes": "AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence. ~€2.5M total funding (€2M equity first round 2023 via Yield Lab Europe lead; €500K convertible; BlueInvest-supported; Tracxn reports ~$5.4M across 7 rounds since 2018). Products: AquaCHECK (data consistency QA), AquaFORECAST (12h-horizon oxygen forecast with 0.5 mg/L accuracy), AquaLYTICS (cross-farm analytics). 10M+ data points processed/month; 20+ experts (data scientists, oceanographers, marine biologists, fish health biologists); 5 years of R&D validated at sea. Deployed in 10+ countries incl. Chilean salmon (PREDIMAR oxygen prediction system) and Norwegian operations (Alexia Mouton country lead). CEO Samuel Dupont. Use cases: prevent hypoxia, optimize feeding/aeration, protect animal welfare. Climate-resilient aquaculture focus as environmental pressures (oxygen depletion, HABs, fluctuating feed intake, fish stress) intensify",
+    "notes": "AI-powered water quality forecasting for aquaculture \u2014 combining biology & AI for environmental intelligence. ~\u20ac2.5M total funding (\u20ac2M equity first round 2023 via Yield Lab Europe lead; \u20ac500K convertible; BlueInvest-supported; Tracxn reports ~$5.4M across 7 rounds since 2018). Products: AquaCHECK (data consistency QA), AquaFORECAST (12h-horizon oxygen forecast with 0.5 mg/L accuracy), AquaLYTICS (cross-farm analytics). 10M+ data points processed/month; 20+ experts (data scientists, oceanographers, marine biologists, fish health biologists); 5 years of R&D validated at sea. Deployed in 10+ countries incl. Chilean salmon (PREDIMAR oxygen prediction system) and Norwegian operations (Alexia Mouton country lead). CEO Samuel Dupont. Use cases: prevent hypoxia, optimize feeding/aeration, protect animal welfare. Climate-resilient aquaculture focus as environmental pressures (oxygen depletion, HABs, fluctuating feed intake, fish stress) intensify",
     "last_updated": "2026-07-14"
   },
   {
     "sector": "Offshore Energy",
     "name": "Fleetzero",
     "url": "https://www.fleetzero.com/",
-    "notes": "Marine energy & robotics — ultra energy-dense modular marine battery systems (Leviathan) + hybrid/electric propulsion for commercial vessels. $43M Series A (Jan 2026, Obvious Ventures + Maersk Growth + Breakthrough Energy Ventures + 8090 Ventures). Founded 2021, Houston TX; YC alumni. Leviathan modular energy storage: 3.8 MWh in 25% container footprint; double the power at half the price. Battery barge (55 MWh). Modular hull construction to lower shipbuilding costs. AET partnership for world's longest-range hybrid-electric vessel. Team: US Navy veterans, seafarers, industry experts. End-to-end integration (concept to commissioning). Selected to build world's longest-range hybrid-electric vessel (2025). Price parity with fossil fuel solutions — payback under 6 years, positive within 2 years for many projects",
+    "notes": "Marine energy & robotics \u2014 ultra energy-dense modular marine battery systems (Leviathan) + hybrid/electric propulsion for commercial vessels. $43M Series A (Jan 2026, Obvious Ventures + Maersk Growth + Breakthrough Energy Ventures + 8090 Ventures). Founded 2021, Houston TX; YC alumni. Leviathan modular energy storage: 3.8 MWh in 25% container footprint; double the power at half the price. Battery barge (55 MWh). Modular hull construction to lower shipbuilding costs. AET partnership for world's longest-range hybrid-electric vessel. Team: US Navy veterans, seafarers, industry experts. End-to-end integration (concept to commissioning). Selected to build world's longest-range hybrid-electric vessel (2025). Price parity with fossil fuel solutions \u2014 payback under 6 years, positive within 2 years for many projects",
     "last_updated": "2026-07-15"
   },
   {
@@ -598,21 +598,21 @@
     "sector": "Ocean Data & AI",
     "name": "Ubotica",
     "url": "https://ubotica.com/",
-    "notes": "Orbital AI / cognitive Earth observation for real-time maritime intelligence from space. $11M funding round (Jun 2026). SPACE:AI platform — 11 missions successfully flown, 30+ AI models deployed (vessel detection, autonomous targeting, anomaly detection). Subscription-based predictive maritime surveillance: detects dark vessels and shadow fleets, tracks suspicious activity, delivers decision-grade intelligence in near-real-time. Cognitive EO paradigm: predicts risk → decides what to task → processes at edge → learns. Fugro partnership for space-to-seabed maritime intelligence (combining satellite EO with Fugro's global ocean infrastructure: subsea sensors, offshore vessels, USVs, UAVs). NASA JPL collaboration (FAME — federated autonomous measurement satellite network). ESA partner. NOVI Space partnership for orbit edge computing. Dublin, Ireland HQ. Proven with ESA, NASA JPL, and commercial satellite operators",
+    "notes": "Orbital AI / cognitive Earth observation for real-time maritime intelligence from space. $11M funding round (Jun 2026). SPACE:AI platform \u2014 11 missions successfully flown, 30+ AI models deployed (vessel detection, autonomous targeting, anomaly detection). Subscription-based predictive maritime surveillance: detects dark vessels and shadow fleets, tracks suspicious activity, delivers decision-grade intelligence in near-real-time. Cognitive EO paradigm: predicts risk \u2192 decides what to task \u2192 processes at edge \u2192 learns. Fugro partnership for space-to-seabed maritime intelligence (combining satellite EO with Fugro's global ocean infrastructure: subsea sensors, offshore vessels, USVs, UAVs). NASA JPL collaboration (FAME \u2014 federated autonomous measurement satellite network). ESA partner. NOVI Space partnership for orbit edge computing. Dublin, Ireland HQ. Proven with ESA, NASA JPL, and commercial satellite operators",
     "last_updated": "2026-07-15"
   },
   {
     "sector": "Offshore Energy",
     "name": "Kvasir Technologies",
     "url": "https://kvasirtechnologies.com/",
-    "notes": "Climate-neutral drop-in marine biofuel from lignocellulosic biomass (non-edible agricultural & forestry waste). €10M Series A (Jun 2026). Spin-out from DTU (Technical University of Denmark). >96% GHG emission reduction vs fossil marine fuel. Simple one-step process: pressurized 'cooking' of biomass in alcohol. No engine modification or infrastructure changes needed — direct drop-in replacement. Meets IMO 2030 (40% reduction) and 2050 (50% reduction) targets. Markets: marine fuel (primary), bio-crude oil (refinery co-feeding), aviation fuel, value-added chemicals. Investors/partners: Maersk, EU, Innovation Fund Denmark, EIFO, Alfa Laval, Footprint Firm, Heartland. Force Technology corrosion testing partnership for pilot plant materials. Copenhagen-based",
+    "notes": "Climate-neutral drop-in marine biofuel from lignocellulosic biomass (non-edible agricultural & forestry waste). \u20ac10M Series A (Jun 2026). Spin-out from DTU (Technical University of Denmark). >96% GHG emission reduction vs fossil marine fuel. Simple one-step process: pressurized 'cooking' of biomass in alcohol. No engine modification or infrastructure changes needed \u2014 direct drop-in replacement. Meets IMO 2030 (40% reduction) and 2050 (50% reduction) targets. Markets: marine fuel (primary), bio-crude oil (refinery co-feeding), aviation fuel, value-added chemicals. Investors/partners: Maersk, EU, Innovation Fund Denmark, EIFO, Alfa Laval, Footprint Firm, Heartland. Force Technology corrosion testing partnership for pilot plant materials. Copenhagen-based",
     "last_updated": "2026-07-15"
   },
   {
     "sector": "Aquaculture",
     "name": "AquaExchange",
     "url": "https://aquaexchange.com/",
-    "notes": "Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance. $8M Series B (Mar 2026, NABVENTURES lead). 20,000 devices deployed, 80,000 acres, 4 countries; serving shrimp industry 5+ years. Products: CheckTray (feed consumption & behavior monitoring), WaterMon (GPS-enabled water quality monitoring), Patholense (AI-powered microscopy pathogen detection), PumpMon (pump performance monitoring), PowerMon/APFC (power monitoring + automatic power factor correction), AquaBot (automated precision feeding), Static Feeders (100kg/200kg), Feed Mixer, Starter (smart aerator controller), Smart Scale, FeedMon (demand-based intelligent feeding via acoustic listening), Shrimp Counter (AI-powered stock estimation), ProBrew Master (probiotic brewing), NextFarm app (farm management). Vijayawada, India; founded 2020. Responsible Seafood Innovation Award finalist. One Smart Ecosystem approach connecting every pond",
+    "notes": "Full-stack IoT/AI platform for shrimp aquaculture \u2014 farm automation, AI analytics, marketplace, embedded finance, insurance. $8M Series B (Mar 2026, NABVENTURES lead). 20,000 devices deployed, 80,000 acres, 4 countries; serving shrimp industry 5+ years. Products: CheckTray (feed consumption & behavior monitoring), WaterMon (GPS-enabled water quality monitoring), Patholense (AI-powered microscopy pathogen detection), PumpMon (pump performance monitoring), PowerMon/APFC (power monitoring + automatic power factor correction), AquaBot (automated precision feeding), Static Feeders (100kg/200kg), Feed Mixer, Starter (smart aerator controller), Smart Scale, FeedMon (demand-based intelligent feeding via acoustic listening), Shrimp Counter (AI-powered stock estimation), ProBrew Master (probiotic brewing), NextFarm app (farm management). Vijayawada, India; founded 2020. Responsible Seafood Innovation Award finalist. One Smart Ecosystem approach connecting every pond",
     "last_updated": "2026-07-15"
   },
   {
@@ -633,28 +633,28 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "Clear Robotics",
     "url": "https://www.clearbot.org/",
-    "notes": "All-electric AI autonomous unmanned surface vessels (Clearbot) for solid waste recovery, hyacinth removal, bathymetric/draft survey, and waterway surveillance. $1.75M seed (Jun 2026, Katapult Ocean). Fleet of 26–27 USVs deployed across UAE, Singapore, India, Philippines and other markets. Clients/partners include ADB (Pasig River pilot), Veolia HK, JNPA Mumbai, Rajasthan municipalities, Hong Kong Highway Dept. Vessel classes: Class 3, Class 2, Alligator (hyacinth), Fetch. Business models: rental/services + distributor. Hong Kong / Singapore roots (Open Ocean Engineering / NUS Enterprise). Zero-emission autonomous waterway operations.",
+    "notes": "All-electric AI autonomous unmanned surface vessels (Clearbot) for solid waste recovery, hyacinth removal, bathymetric/draft survey, and waterway surveillance. $1.75M seed (Jun 2026, Katapult Ocean). Fleet of 26\u201327 USVs deployed across UAE, Singapore, India, Philippines and other markets. Clients/partners include ADB (Pasig River pilot), Veolia HK, JNPA Mumbai, Rajasthan municipalities, Hong Kong Highway Dept. Vessel classes: Class 3, Class 2, Alligator (hyacinth), Fetch. Business models: rental/services + distributor. Hong Kong / Singapore roots (Open Ocean Engineering / NUS Enterprise). Zero-emission autonomous waterway operations.",
     "last_updated": "2026-07-16"
   },
   {
     "sector": "Marine Monitoring & Sensors",
     "name": "Seaber",
     "url": "https://seaber.fr/",
-    "notes": "French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m depth, 8–10 h autonomy) and MARVEL (security/defense: MCM, ASW training, coast guard). Payloads include CTD, multi-parameter physico, side-scan, PAM acoustic recorder, 3DSS, HR camera, eDNA sampler, magnetometer, multibeam. SEAPLAN mission software. Single-person multi-modal deployment. ~$1.8–2M seed (Oct 2025; investors Sodero, Breizh Up, FNX Ventures, Défense Angels). Applications: coastal monitoring/hydrography, harbours, marine biology/aquaculture, SAR/security, mine countermeasures, beach reconnaissance. Thesis: fleets of numerous small affordable AUVs. France.",
+    "notes": "French micro-AUV manufacturer: YUCO (science/civil, ~10 kg, 1 m, 300 m depth, 8\u201310 h autonomy) and MARVEL (security/defense: MCM, ASW training, coast guard). Payloads include CTD, multi-parameter physico, side-scan, PAM acoustic recorder, 3DSS, HR camera, eDNA sampler, magnetometer, multibeam. SEAPLAN mission software. Single-person multi-modal deployment. ~$1.8\u20132M seed (Oct 2025; investors Sodero, Breizh Up, FNX Ventures, D\u00e9fense Angels). Applications: coastal monitoring/hydrography, harbours, marine biology/aquaculture, SAR/security, mine countermeasures, beach reconnaissance. Thesis: fleets of numerous small affordable AUVs. France.",
     "last_updated": "2026-07-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Voltai",
     "url": "https://www.voltai.ca/",
-    "notes": "Onboard wave/motion energy harvesting for ships — electrostatic generators converting wave and vibration energy into electricity without added drag. CAD $1.83M oversubscribed pre-seed (Oct 2025) co-led by Invest Nova Scotia. Modular systems scalable 25W to multi-MW. Pilots: NSCC research vessel; Net Zero Atlantic project for fishing vessels and ferries; Canadian Coast Guard Innovative Solutions Canada challenge (2 phases). Family-founded in Dartmouth, Nova Scotia (CEO Maja Maher). Positioning: emission-free energy source rivaling heavy fuel oil on cost for regulatory compliance. Supports: CDL, NRC IRAP, Ocean Startup Project, Clean Foundation, Springboard Atlantic.",
+    "notes": "Onboard wave/motion energy harvesting for ships \u2014 electrostatic generators converting wave and vibration energy into electricity without added drag. CAD $1.83M oversubscribed pre-seed (Oct 2025) co-led by Invest Nova Scotia. Modular systems scalable 25W to multi-MW. Pilots: NSCC research vessel; Net Zero Atlantic project for fishing vessels and ferries; Canadian Coast Guard Innovative Solutions Canada challenge (2 phases). Family-founded in Dartmouth, Nova Scotia (CEO Maja Maher). Positioning: emission-free energy source rivaling heavy fuel oil on cost for regulatory compliance. Supports: CDL, NRC IRAP, Ocean Startup Project, Clean Foundation, Springboard Atlantic.",
     "last_updated": "2026-07-16"
   },
   {
     "sector": "Offshore Energy",
     "name": "Endurance Energy",
     "url": "https://www.enduranceenergy.com/",
-    "notes": "Subsea geothermal power from mid-ocean ridge / Ring of Fire heat — modular seafloor plants for 24/7 baseload renewable electricity (islands, industry, hyperscale AI data centers). $54M Series A (Jun 2026) led by Founders Fund; participants Ascend, Construct Capital, Felicis, First Round, Point72 Ventures, Riot Ventures, Voyager Ventures. Total raised ~$84M (PitchBook). Founded by ex-SpaceX engineer Andrew Redd (Dragon/Starship); ~25 staff, ~12 ex-SpaceX; VP Eng ex-Helion. Adélie: planned 100 kW subsea system for 1-year Axial Seamount caldera deployment tied to OOI Regional Cabled Array (Oregon coast, Sep 2026 target). Tonga government partnership for subsea geothermal test. Advantages claimed: weather-independent baseload, zero surface footprint (gen+tx on/under seafloor), GW-scale in months via factory modular units, O&G/geothermal tech heritage. Seattle HQ. Contact: info@enduranceenergy.com.",
+    "notes": "Subsea geothermal power from mid-ocean ridge / Ring of Fire heat \u2014 modular seafloor plants for 24/7 baseload renewable electricity (islands, industry, hyperscale AI data centers). $54M Series A (Jun 2026) led by Founders Fund; participants Ascend, Construct Capital, Felicis, First Round, Point72 Ventures, Riot Ventures, Voyager Ventures. Total raised ~$84M (PitchBook). Founded by ex-SpaceX engineer Andrew Redd (Dragon/Starship); ~25 staff, ~12 ex-SpaceX; VP Eng ex-Helion. Ad\u00e9lie: planned 100 kW subsea system for 1-year Axial Seamount caldera deployment tied to OOI Regional Cabled Array (Oregon coast, Sep 2026 target). Tonga government partnership for subsea geothermal test. Advantages claimed: weather-independent baseload, zero surface footprint (gen+tx on/under seafloor), GW-scale in months via factory modular units, O&G/geothermal tech heritage. Seattle HQ. Contact: info@enduranceenergy.com.",
     "last_updated": "2026-07-29"
   },
   {
@@ -668,7 +668,7 @@
     "sector": "Ocean Data & AI",
     "name": "XOCEAN",
     "url": "https://xocean.com/",
-    "notes": "Ireland-based turnkey ocean data delivery via in-house USV fleet — geophysical, environmental, asset integrity, bathymetry, fisheries for offshore wind and civil hydrography. €115M (~$118M) growth investment (Jan 2025) via S2G Ventures structure; Climate Investment, Morgan Stanley 1GT, Crown Family CC Industries affiliate. Customers: Ørsted, Shell, bp, SSE, RWE, Vattenfall, EnBW, Eneco (5-year NL framework), governments in 23+ jurisdictions. 4.9M+ GB data processed; 48.6+ GW offshore wind supported; fleet >1.2M km cumulative (Jul 2026). Sensors: MBES, SSS, SBP, magnetometer. Models: fixed-price turnkey campaigns + data library licensing. Offices: Ireland (Rathcor/Dundalk), UK, US, Canada, Norway, Australia (Melbourne), NL hub IJmuiden. Founded 2017. Carbon-neutral USV ocean data thesis.",
+    "notes": "Ireland-based turnkey ocean data delivery via in-house USV fleet \u2014 geophysical, environmental, asset integrity, bathymetry, fisheries for offshore wind and civil hydrography. \u20ac115M (~$118M) growth investment (Jan 2025) via S2G Ventures structure; Climate Investment, Morgan Stanley 1GT, Crown Family CC Industries affiliate. Customers: \u00d8rsted, Shell, bp, SSE, RWE, Vattenfall, EnBW, Eneco (5-year NL framework), governments in 23+ jurisdictions. 4.9M+ GB data processed; 48.6+ GW offshore wind supported; fleet >1.2M km cumulative (Jul 2026). Sensors: MBES, SSS, SBP, magnetometer. Models: fixed-price turnkey campaigns + data library licensing. Offices: Ireland (Rathcor/Dundalk), UK, US, Canada, Norway, Australia (Melbourne), NL hub IJmuiden. Founded 2017. Carbon-neutral USV ocean data thesis.",
     "last_updated": "2026-07-29"
   },
   {
@@ -677,5 +677,33 @@
     "url": "https://www.saildrone.com/",
     "notes": "Alameda CA autonomous USV leader for maritime defense & ocean intelligence. Wind+solar endurance platforms: Explorer (METOC), Voyager (MDA/coastal), Surveyor (deep-ocean mapping/ASW), Spectre (170-ft ASW/VLS-class, 2026). 12+ years ops; 2.5M nm sailed; 65K days at sea. Funding: $60M (May 2025, EIFO lead + Lux/Crowley et al.); $50M Lockheed Martin strategic (Oct 2025) for JAGM launcher integration / live-fire 2026; prior $75M C-1 (2024), $100M Series C (2021 Bond); total >$345M. Investors: BOND, XN, Standard, Emerson Collective, Crowley, Capricorn, Lux, Social Capital, Tribe, Schmidt Family Foundation, Exor Seeds, Washington Harbor, Academy Securities, Pinegrove. Missions: MDA, ASW/undersea detection, ocean mapping, sub-bottom, METOC, kinetics/effectors; USCG BPA, Danish Armed Forces Baltic Voyagers, hurricane eye science. Fully managed data delivery (Mission Portal + API). CEO Richard Jenkins.",
     "last_updated": "2026-07-29"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "WSense",
+    "url": "https://wsense.it/",
+    "notes": "Italian Internet of Underwater Things (IoUT) deep-tech: patented multi-modal underwater wireless communications (acoustic/optical) + mesh networking enabling real-time high-density ocean data from multi-vendor sensors/AUVs/ASVs. Products: W\u00b7Node, W\u00b7Node Enhanced (deep + onboard AI), W\u00b7Mesh, W\u00b7Gateway, W\u00b7Edge, W\u00b7Cloud, W\u00b7Micro. \u20ac10M pre-Series B (Oct 2025) Indico Capital + SIMEST; prior \u20ac7.2M bridge (Apr 2025) and \u20ac9\u201311M Series A (SWEN Blue Ocean et al.); total funding >\u20ac25\u201329M. Investors: CDP Venture Capital, SWEN Blue Ocean, RunwayFBU, Axon, Fincantieri, Rypples, Indico, SIMEST. Partners: Fincantieri DEEP, Hub Ocean MoU, Terna. Use cases: smart cables/pipelines, asset integrity, defense AUV swarms, offshore energy, CCS, MPAs, seismic. CEO Chiara Petrioli (Sapienza). HQ Rome; offices Bergen, London; 80+ engineers. Contact: wsense@wsense.it.",
+    "last_updated": "2026-08-05"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Ace Aquatec",
+    "url": "https://aceaquatec.com/",
+    "notes": "Scotland welfare-first aquaculture tech: AI biomass/health cameras (multi-species individual tracking, wound/maturation detection), in-water electric humane stunners, emerging sea lice removal systems. \u00a310M (~$11.3\u201313.9M) oversubscribed round (May 2025) led by Stolt Ventures with Scottish Enterprise and Aqua-Spark (\u00a37.5M equity + \u00a32.5M debt); total raised ~$23.4M (PitchBook). CEO Nathan Pyne-Carter; CFO Alan MacLeod; board Axel de M\u00e9gille (Stolt Ventures). Offices Dundee, Glasgow, Chile. Partners: JBT Marel preferred provider, Shrimp Welfare Project portable stunner. AI + sensors for full fish lifecycle welfare from cage to harvest. Contact via aceaquatec.com.",
+    "last_updated": "2026-08-05"
+  },
+  {
+    "sector": "Ocean Carbon Sequestration",
+    "name": "CREW Carbon",
+    "url": "https://crewcarbon.com/",
+    "notes": "Yale Carbon Containment Lab spinout (2022): wastewater process intensification via smart-dosing of alkaline minerals (e.g. calcium carbonate) that improves WWTP performance AND permanently removes CO2 as bicarbonate \u2014 asset-light CDR on existing industrial/municipal infrastructure. $25M oversubscribed Series A (14 May 2026): $19M equity + $6M grants/non-dilutive; led by Burnt Island Ventures; AP Ventures, Sony Innovation Fund, Builders Vision, Kibo Invest, Idemitsu Ventures, New York Ventures + existing Counteract, ANIMO, Connecticut Innovations, Ponderosa, Echo River. Prior $5.3M seed; $2.35M Colorado Energy Office award (Feb 2026). ~10 WWTP deployments US/Europe (HRSD); $33M+ CDR offtakes (JP Morgan, Google, Autodesk, Stripe via Frontier); 2,000+ tCO2 removed. Proprietary MRV. HQ Brooklyn NY / New Haven CT. Contact: hello@crewcarbon.com / clare.bennett@crewcarbon.com.",
+    "last_updated": "2026-08-05"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Oceanic Constellations",
+    "url": "https://www.oceanic-constellations.com/",
+    "notes": "Japan (Kamakura) USV swarm 'Marine Satellite Cluster' \u2014 mass-deployed small waterborne drones forming sensor + communications constellation for persistent ocean monitoring, disaster prevention, resource development, illegal fishing, MDA. \u00a52B (~$13M) Series B1 (Jan 2026) co-led JAFCO + Globis Capital; investors Nippon Yusen (NYK equity Feb 2026), DBJ Capital, Astart, Coral Capital, Green Coinvest. Total raised ~$24.7M (PitchBook). 20+ patents on marine swarm control. Partners: NYK/Keihin Dock mass production; Kamakura City + Shonan Fisheries Coop illegal fishing demo; offshore rocket recovery with NYK. First continuous night ops of domestic small USV; auto recovery with multi-sensor spatial recognition (Jun 2026). Commercialisation target 2027. Founded Nov 2023; CEO Takuma Honda.",
+    "last_updated": "2026-08-05"
   }
 ]

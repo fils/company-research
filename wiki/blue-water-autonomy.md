@@ -32,6 +32,7 @@ Blue Water Autonomy builds autonomous warships for the U.S. Navy — full-size u
 - **$14M seed** (Apr 2025) — emerged from stealth
 - **Total funding: ~$64M**
 - Since seed: team quadrupled, on-water engineering tests completed, long-lead material acquired from 50+ suppliers, DC office opened
+- **NAVOCEANO IDIQ** (Aug 2026): Selected for multi-year multiple-award indefinite-quantity contract with Naval Oceanographic Office — **$40M ceiling** for autonomous deep-ocean survey missions (competes alongside other awardees)
 
 ## Leadership
 
@@ -79,4 +80,4 @@ Blue Water Autonomy builds autonomous warships for the U.S. Navy — full-size u
 
 Blue Water Autonomy enters the Marine Monitoring & Sensors sector alongside other defense ASV primes (Saronic Technologies $2.6B, HavocAI ~$200M, Seasats >$40M). What distinguishes Blue Water is its **full-size warship** focus (190-ft Liberty-class) vs smaller ASVs, and its **mass-production-first** philosophy led by repeat hardware entrepreneurs (6 River Systems/Shopify exit, iRobot/Roomba scaling). The Pentagon's $2.1B MUSV funding and China shipbuilding gap (200x US capacity) provide strong macro tailwinds.
 
-*Profile last updated: 2026-07-14*
+*Profile last updated: 2026-08-05*

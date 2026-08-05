@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Oceanic Constellations",
+  "legalName": "Oceanic Constellations Inc.",
+  "url": "https://www.oceanic-constellations.com/",
+  "description": "Japanese developer of Marine Satellite Cluster USV swarms for persistent ocean monitoring, communications, and dual-use maritime missions.",
+  "foundingDate": "2023",
+  "founder": {
+    "@type": "Person",
+    "name": "Takuma Honda",
+    "jobTitle": "CEO"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Kamakura",
+    "addressCountry": "JP"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": 2000000000,
+    "description": "\u00a52B Series B1 (Jan 2026); ~$24.7M total raised (PitchBook)"
+  },
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Build/operate small-USV constellations for persistent ocean sensing and dual-use maritime missions; mass-produce via shipyard partners",
+  "lastFundingRound": "\u00a52B Series B1 (Jan 2026) \u2014 Globis, JAFCO, NYK et al.",
+  "totalFunding": "~$24.7M",
+  "investors": [
+    "Globis Capital Partners",
+    "JAFCO Group",
+    "Nippon Yusen (NYK)",
+    "DBJ Capital",
+    "Astart",
+    "Coral Capital",
+    "Green Coinvest"
+  ],
+  "knowsAbout": [
+    "USV swarm control",
+    "Marine satellite constellation",
+    "Ocean monitoring networks",
+    "Illegal fishing enforcement USVs",
+    "Offshore rocket recovery support"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Swarm telemetry",
+      "Surface METOC",
+      "Vessel ISR",
+      "Dark-vessel detection",
+      "Mesh comms metrics"
+    ],
+    "keyMeasurements": [
+      "Relative navigation",
+      "Energy state",
+      "Contact tracks",
+      "Wave/wind",
+      "Link budget"
+    ],
+    "observationPlatforms": [
+      "Marine Satellite Cluster USVs",
+      "Kamakura illegal-fishing demo",
+      "NYK/Keihin production units"
+    ],
+    "knownGaps": [
+      "Open swarm coordination datasets",
+      "Multi-USV C2 interchange standards"
+    ],
+    "interestInExternalDataServices": "Satellite SAR/RF cueing, coast guard tracks, fisheries registries, metocean forecasts"
+  }
+}

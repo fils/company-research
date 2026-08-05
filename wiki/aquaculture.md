@@ -4,8 +4,8 @@ title: Aquaculture
 description: Sector overview for aquaculture technology and monitoring companies.
 tags:
 - aquaculture
-timestamp: '2026-07-16T00:00:00Z'
-date: '2026-07-16'
+timestamp: '2026-08-05T00:00:00Z'
+date: '2026-08-05'
 sector: Aquaculture
 ---
 
@@ -13,7 +13,7 @@ sector: Aquaculture
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (18 monitored)
+## Companies (19 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -33,7 +33,8 @@ Sector overview for aquaculture technology and monitoring companies.
 | [Tidal](tidal.md) | Alphabet/X spinout; AI underwater vision + Orca camera; 300+ deployed with Mowi; "fishal recognition" | Critical |
 | [BiOceanOr](bioceanor.md) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
 | [AquaExchange](aquaexchange.md) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
-| [Biosort](biosort.md) (NEW) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
+| [Biosort](biosort.md) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
+| [Ace Aquatec](ace-aquatec.md) (NEW) | Welfare-first AI cameras + humane stunners + sea lice systems; £10M Stolt Ventures (May 2025); ~$23.4M total | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -41,6 +42,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Data platforms**: Cloud-based data management for multi-farm operations
 - **Gap**: Interoperability between sensor systems remains a challenge
 - **Marine telemetry**: Shared interest in environmental baseline data for regulatory compliance
+- **Welfare-first full lifecycle** (Ace Aquatec): AI biomass/health cameras + in-water electric humane stunners + sea lice pipeline — cage-to-harvest welfare hardware, distinct from pure CV biomass players (Aquabyte/Tidal) and individual-ID intervention (Biosort)
 - **RAS specialization**: ReelData AI targets land-based RAS specifically, complementing open-ocean focus of Innovasea and Aquabyte
 - **GenAI/LLM**: Kurma AI's AQUA-7B and AquaChat bring conversational AI to farming operations
 - **Biological crop modeling**: Astraeus Digital Oyster/Digital Kelp is a novel approach distinct from camera-based fish monitoring

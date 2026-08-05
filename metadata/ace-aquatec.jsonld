@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Ace Aquatec",
+  "url": "https://aceaquatec.com/",
+  "description": "Welfare-first aquaculture technology: AI biomass and health cameras plus in-water electric humane stunners and emerging sea lice systems.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Dundee",
+    "addressCountry": "GB"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Nathan Pyne-Carter",
+    "jobTitle": "CEO"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "GBP",
+    "value": 10000000,
+    "description": "\u00a310M May 2025 Stolt Ventures-led round; ~$23.4M total funding"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "AI camera + humane stunner hardware/software sales to global fish farmers; OEM partnerships (JBT Marel)",
+  "lastFundingRound": "\u00a310M oversubscribed (May 2025) led by Stolt Ventures; Scottish Enterprise; Aqua-Spark",
+  "totalFunding": "~$23.4M",
+  "investors": [
+    "Stolt Ventures",
+    "Scottish Enterprise",
+    "Aqua-Spark",
+    "Seabird Ventures"
+  ],
+  "knowsAbout": [
+    "Aquaculture AI computer vision",
+    "Fish welfare monitoring",
+    "Humane electric stunning",
+    "Sea lice control systems",
+    "Biomass estimation"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Underwater video",
+      "Biomass estimates",
+      "Individual fish tracks",
+      "Welfare/health labels",
+      "Sea lice counts"
+    ],
+    "keyMeasurements": [
+      "Weight distribution",
+      "Wound incidence",
+      "Maturation",
+      "Lice load",
+      "Stun efficacy",
+      "DO/temp/salinity"
+    ],
+    "observationPlatforms": [
+      "Cage AI cameras",
+      "Harvest stunners",
+      "Multi-country farm deployments"
+    ],
+    "knownGaps": [
+      "Cross-species welfare label corpora",
+      "Turbid/night lice ground truth"
+    ],
+    "interestInExternalDataServices": "Farm environmental feeds, SST/bloom alerts, disease databases, insurer loss data"
+  }
+}

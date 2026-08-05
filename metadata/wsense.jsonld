@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "WSense",
+  "legalName": "WSense S.r.l.",
+  "url": "https://wsense.it/",
+  "description": "Internet of Underwater Things platform \u2014 multi-modal underwater wireless mesh networking for real-time ocean data from multi-vendor sensors and autonomous vehicles.",
+  "foundingDate": "2017",
+  "founder": {
+    "@type": "Person",
+    "name": "Chiara Petrioli",
+    "jobTitle": "CEO"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Corso d'Italia 39",
+    "addressLocality": "Rome",
+    "postalCode": "00198",
+    "addressCountry": "IT"
+  },
+  "email": "wsense@wsense.it",
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 25000000,
+    "description": ">\u20ac25M total incl. \u20ac10M pre-Series B (Oct 2025)"
+  },
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "IoUT hardware+software platform sales and integrations for critical marine infrastructure, defense, offshore energy, CCS, and MPAs",
+  "lastFundingRound": "\u20ac10M pre-Series B (Oct 2025) \u2014 Indico Capital, SIMEST + existing",
+  "totalFunding": ">\u20ac25M",
+  "investors": [
+    "Indico Capital Partners",
+    "SIMEST",
+    "CDP Venture Capital",
+    "SWEN Blue Ocean",
+    "RunwayFBU",
+    "Axon Partners Group",
+    "Fincantieri",
+    "Rypples",
+    "Katapult Ocean"
+  ],
+  "knowsAbout": [
+    "Internet of Underwater Things",
+    "Underwater wireless communications",
+    "Acoustic and optical mesh networking",
+    "AUV swarm communications",
+    "Subsea infrastructure monitoring"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Underwater acoustic/optical telemetry",
+      "Multi-sensor node streams",
+      "AUV/ASV C2",
+      "Cable/pipeline integrity",
+      "CCS monitoring"
+    ],
+    "keyMeasurements": [
+      "Channel quality",
+      "Packet reliability",
+      "Node localization",
+      "Integrity/leak indicators",
+      "Depth and temperature"
+    ],
+    "observationPlatforms": [
+      "W\u00b7Node networks",
+      "Multi-vendor AUV/ASV fleets",
+      "Smart cable routes",
+      "Fincantieri DEEP"
+    ],
+    "knownGaps": [
+      "Basin-scale multi-vendor protocol standards",
+      "Labeled CCS leakage signatures"
+    ],
+    "interestInExternalDataServices": "Hub Ocean sharing, satellite surface cueing, offshore digital twins, MDA underwater layers"
+  }
+}

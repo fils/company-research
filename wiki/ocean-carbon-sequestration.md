@@ -4,8 +4,8 @@ title: Ocean Carbon Sequestration
 description: Sector overview for ocean-based carbon dioxide removal companies.
 tags:
 - ocean-carbon-sequestration
-timestamp: '2026-07-11T00:00:00Z'
-date: '2026-07-11'
+timestamp: '2026-08-05T00:00:00Z'
+date: '2026-08-05'
 sector: Ocean Carbon Sequestration
 ---
 
@@ -13,7 +13,7 @@ sector: Ocean Carbon Sequestration
 
 Sector overview for ocean-based carbon dioxide removal companies.
 
-## Companies (16 monitored)
+## Companies (17 monitored)
 | Company | Technology | Funding Status | Marine Data Dependency |
 |---------|-----------|---------------|----------------------|
 | [Ebb Carbon](ebb-carbon.md) | Electrochemical brine processing + OAE | $20M Series A | Very High |
@@ -31,7 +31,8 @@ Sector overview for ocean-based carbon dioxide removal companies.
 | [Calcarea](calcarea.md) | AWL ship-board CCS | $3.5M seed | Extremely High |
 | [Carbon Time](carbon-time.md) | OAE (multi-method) | Team for the Planet | Extremely High |
 | [Apeiron Labs](apeiron-labs.md) | AUV ocean data platform | $9.5M Series A (Feb 2026) | Core Business |
-| [Pronoe](pronoe.md) (NEW) | Asset-light electrochemical OAE on industrial discharge | $3.05M Frontier/Google pre-purchase | Very High |
+| [Pronoe](pronoe.md) | Asset-light electrochemical OAE on industrial discharge | $3.05M Frontier/Google pre-purchase | Very High |
+| [CREW Carbon](crew-carbon.md) (NEW) | WWTP alkalinity smart-dosing + permanent CDR credits | $25M Series A (May 2026); $33M+ offtakes | Very High |
 
 ## Cross-Company Marine Data Patterns
 - **Universal demand**: Real-time carbonate chemistry (pH, DIC, alkalinity) monitoring
@@ -39,6 +40,7 @@ Sector overview for ocean-based carbon dioxide removal companies.
 - **Ecosystem baselines**: Environmental impact data essential for licensing and credibility
 - **Sensor networks**: Need for spatially distributed, high-frequency ocean observation platforms
 - **Gap**: No unified ocean MRV data infrastructure exists — each company builds its own
+- **In-plant wastewater alkalinity CDR** (CREW Carbon): Yale spinout smart-doses CaCO₃ in existing WWTPs — dual WWTP opex savings + durable bicarbonate CDR; $25M Series A; JP Morgan/Google/Stripe offtakes — extends asset-light industrial cluster with Pronoe (outfall OAE)
 
 ## Funding Landscape (2025-2026)
 - Captura leads at $45.3M Series A

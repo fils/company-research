@@ -28,16 +28,17 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Bioprospecting](bioprospecting.md) - **Official Sector Sources**: - Ginkgo Bioworks: https://www.ginkgo.bio/
 * [Climate Risk](climate-risk.md) - Climate risk intelligence providers in the knowledge graph specialize in translating physical climate hazards into financial and operational impacts.
 * [Coastal Risk & Infrastructure](coastal-risk-infrastructure.md) - **Last Updated**: 2026-05-25 **Companies Tracked**: 3
-* [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-07-29 **Companies Tracked**: 25
+* [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-08-05 **Companies Tracked**: 27
 * [Maritime Operations & Analytics](maritime-operations-analytics.md) - **Last Updated**: 2026-07-14 **Companies Tracked**: 7
 * [Ocean Carbon Sequestration](ocean-carbon-sequestration.md) - Sector overview for ocean-based carbon dioxide removal companies.
 * [Ocean Data & AI](ocean-data-ai.md) - Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 * [Offshore Energy](offshore-energy.md) - **Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/
 
-# Companies (97)
+# Companies (101)
 
 ## Aquaculture
 
+* [Ace Aquatec](ace-aquatec.md) - Welfare-first aqua AI cameras + humane stunners — £10M Stolt Ventures round (May 2025); ~$23.4M total; Dundee, Scotland.
 * [Aquabyte](aquabyte.md) - AI computer vision + biomass monitoring; high marine sensor & ocean data needs
 * [AquaExchange](aquaexchange.md) - Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance.
 * [Aquaticode](aquaticode.md) - AI-powered aquaculture phenotyping; $6M Series A (Aug 2022, Nacre Capital, Innocreative Capital, Martin Halusa, Einar Wathne); SORTpro automatic high-speed salmon gender sorting (10K fish/hr, >95% accuracy); SORTvax v...
@@ -91,6 +92,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [MarineSitu](marinesitu.md) - Hardware-enabled software for persistent underwater monitoring; SituAI detection/classification >95% accuracy; DOE and US Navy trusted; cameras/ controllers for marine energy, aquaculture, fish counting, reef monitori...
 * [Maritime Robotics](maritime-robotics.md) - Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — o...
 * [Ocean State Sensing](ocean-state-sensing.md) - Distributed Temperature Sensing (DTS) fiber optic ThermoTrawl systems; 25cm resolution, 800m+ range; real-time water column profiling; applications: fisheries, defense, climate research, aquaculture; reduce bycatch 10...
+* [Oceanic Constellations](oceanic-constellations.md) - Japan USV swarm Marine Satellite Cluster — ¥2B Series B; NYK/JAFCO/Globis; 20+ swarm patents; Kamakura.
 * [Omission Inc](omission-inc.md) - Portable autonomous surface vessels (ASVs) + unmanned aerial systems (UAS); reduces nearshore marine data collection cost by 50-70%; survey-grade marine data; Saco, ME; VentureWell OEA Stage 0 (spring 2026)
 * [Orpheus Ocean](orpheus-ocean.md) - Deep-sea AUV for cost-effective exploration, benthic monitoring & assessment; .8M Pre-Seed; partnerships with Seabed 2030, NOAA Ocean Exploration, InnovateMass, WHOI heritage; small-footprint AUV for depths up to 11,0...
 * [Saildrone](saildrone.md) - Autonomous USV leader for maritime defense & ocean intelligence — Explorer/Voyager/Surveyor/Spectre; >$345M raised; Lockheed Martin $50M strategic; 2.5M nm sailed; Alameda, CA.
@@ -102,6 +104,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [TDSX (Tampa Deep Sea Xplorers)](tdsx-tampa-deep-sea-xplorers.md) - Barracuda AUV for cost-effective underwater exploration & data collection; sub-bottom profiling, water column characterization, ocean current/temp/salinity profiles; applications: offshore energy, oceanographic resear...
 * [Ulysses](ulysses.md) - Modular autonomous underwater vehicles (Mako AUV) + Kraken launch/recovery system; $46M total (seed + Series A, April 2026) led by a16z American Dynamism (Erin Price-Wright, Ryan McEntush); 50x cheaper than legacy AUV...
 * [Vatn Systems](vatn-systems.md) - Defense-tech modular AUVs operating in cooperative swarms; $60M Series A (Dec 2025) — one of largest AUV defense raises to date; founded 2023, Rhode Island-based; new AUV-torpedo product line; state-of-the-art RI manu...
+* [WSense](wsense.md) - Internet of Underwater Things — underwater wireless mesh IoUT; >€25M raised; Fincantieri partner; Rome.
 
 ## Maritime Operations & Analytics
 
@@ -119,6 +122,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Calcarea](calcarea.md) - Ship-board carbon capture converting CO2 to oceanic bicarbonate; Caltech spun-out; $3.5M seed; founded by Jess Adkins
 * [Captura](captura.md) - Direct Ocean Capture; $12.5M Series B (Jun 2026, Equinor Ventures lead; Aramco Ventures, EDP Ventures, Eni Next, Freeflow Ventures, Hitachi Ventures, JAL Innovation Fund, Maersk Growth, mTerra Ventures, National Grid...
 * [Carbon Time](carbon-time.md) - Ocean alkalinity enhancement CDR; >20,000 yr permanence; European-based pioneer
+* [CREW Carbon](crew-carbon.md) - Wastewater alkalinity CDR + process intensification — $25M Series A (May 2026); $33M+ offtakes; Yale spinout.
 * [Ebb Carbon](ebb-carbon.md) - Electrochemical CDR from brine; $20M Series A (2026) — largest ocean CDR Series A to date, Carbon Herald report; landmark Microsoft CDR deal up to 350,000 tCO2 over 10 yrs (2024); Google partnership (Dec 2025); Projec...
 * [Equatic](equatic.md) - Ocean-based CDI / CDR; new NA commercial plant; world's largest ocean CDR plant planned in Singapore; UCLA Institute for Carbon Management partnership; targeting <$100/t CDR; strong marine env.
 * [Gigablue](gigablue.md) - Durable ocean carbon removal; deep-sea monitoring with custom ROVs; large-scale CDR credits; marine scientific research focus
