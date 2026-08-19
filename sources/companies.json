@@ -705,5 +705,40 @@
     "url": "https://www.oceanic-constellations.com/",
     "notes": "Japan (Kamakura) USV swarm 'Marine Satellite Cluster' \u2014 mass-deployed small waterborne drones forming sensor + communications constellation for persistent ocean monitoring, disaster prevention, resource development, illegal fishing, MDA. \u00a52B (~$13M) Series B1 (Jan 2026) co-led JAFCO + Globis Capital; investors Nippon Yusen (NYK equity Feb 2026), DBJ Capital, Astart, Coral Capital, Green Coinvest. Total raised ~$24.7M (PitchBook). 20+ patents on marine swarm control. Partners: NYK/Keihin Dock mass production; Kamakura City + Shonan Fisheries Coop illegal fishing demo; offshore rocket recovery with NYK. First continuous night ops of domestic small USV; auto recovery with multi-sensor spatial recognition (Jun 2026). Commercialisation target 2027. Founded Nov 2023; CEO Takuma Honda.",
     "last_updated": "2026-08-05"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "BeeX",
+    "url": "https://www.beex.sg/",
+    "notes": "Singapore autonomous underwater drones (A.IKANBILIS flagship + BETTA/CASPER/ALPHA fleet) + SAMbal software for end-to-end inspection planning\u2192geo-referenced reporting. $7.7M Series A (Jun/Aug 2026) led by Monk's Hill Ventures; SEEDS/SG Growth Capital, ShipsFocus, OCTAVE Capital, NUS Technology Holdings. 700+ deployments APAC/Europe; 18,000+ hours in water; 50% cost savings vs WROV+DP2. Commercial: offshore wind, O&G, subsea cables, coastal infra. Defense: Singapore MINDEF multi-million contract for mine countermeasures/base protection/ISR. Founders Grace Chia (CEO) & Goh Eng Wei (CTO). Dual-use AUV autonomy at industrial grade.",
+    "last_updated": "2026-08-19"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Unseenlabs",
+    "url": "https://unseenlabs.com/en/",
+    "notes": "French space RF GEOINT leader for maritime domain awareness \u2014 detects/geolocates shipborne RF emitters from LEO to find dark vessels that evade AIS. \u20ac85M Series C (Feb 2024) led by Supernova Invest, ISALT Strategic Transition Fund, UNEXO; historical 360 Capital, OMNES, Bpifrance, Breizh Up/UI, S2G Ventures; total funding ~\u20ac120M. Constellation scaling toward ~20\u201325 nanosats for ~30-min revisit (from 4\u20136h). Serves governments, fisheries IUU, offshore facilities, marine insurers, shipowners, NGOs, trade intelligence. Gen-2 multi-domain RF (maritime/land/space) announced 2026. Founders Cl\u00e9ment & Jonathan Galic (2015, Brittany).",
+    "last_updated": "2026-08-19"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Oceanloop",
+    "url": "https://oceanloop.com/",
+    "notes": "Munich software-driven land-based marine RAS (raceway platform) scaling Europe's first land-based Giant Grouper. Up to \u20ac38.5M financing (Aug 2026): equity from Hatch Blue Blue Revolution Fund + Stolt Ventures; \u20ac32M EIB venture-debt (facility Oct 2024, amended Jul 2026 for grouper). Modular Oceanloop 100/1,000/4,000 m\u00b3 systems; <0.5% water exchange, ~60% recirculation energy savings vs conventional RAS, Co-Pilot digital tools (sensors + CV + lab analytics). CEO Dr. Fabian Riedel; decade+ ops with Sander Aqua; Kiel/Baltic pilot; Honest Catch sister distribution. Licensing + owned farms model for international rollout.",
+    "last_updated": "2026-08-19"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Spoor",
+    "url": "https://www.spoor.ai/",
+    "notes": "Oslo AI computer-vision platform for continuous bird/bat monitoring at onshore and offshore wind farms \u2014 Sky Intelligence Platform for EIA, permitting, curtailment reduction, collision risk. \u20ac8M Series A to scale biodiversity monitoring software. Buoy-mounted offshore camera systems (4,500+ daytime hours/year); \u226595% detection accuracy; 1M+ birds training data; detections to 1.5 km; day/night. Customers/partners: \u00d8rsted (Borssele trial), RWE, Ocean Winds, BTO, The Biodiversity Consultancy. De-risks offshore wind permitting with regulator-ready species-level flight height/flux datasets.",
+    "last_updated": "2026-08-19"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Nernst Electric",
+    "url": "https://www.nernstelectric.com/",
+    "notes": "Irish startup: on-site high-purity oxygen generation via ceramic Oxygen Transport Membrane (OTM) + additive manufacturing \u2014 targets remote fish farms where liquid oxygen logistics fail. \u20ac1.7M Seed (Jul 2026) from Hatch Blue Blue Revolution Fund; prior Hatch Accelerator Fund II pre-seed (Jul 2025). Founders Nick Farandos & Chris Matson (2023). Claims: <200 kWh/t O2 possible (vs PSA >1000), 100% O2 selectivity, no moving parts, >10x turndown, scalable <1 kg to >100 t/day. Primary beachhead aquaculture; also water treatment, mining/metallurgy, steel. First aquaculture deployment post-seed.",
+    "last_updated": "2026-08-19"
   }
 ]

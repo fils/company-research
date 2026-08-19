@@ -4,8 +4,8 @@ title: Aquaculture
 description: Sector overview for aquaculture technology and monitoring companies.
 tags:
 - aquaculture
-timestamp: '2026-08-05T00:00:00Z'
-date: '2026-08-05'
+timestamp: '2026-08-19T00:00:00Z'
+date: '2026-08-19'
 sector: Aquaculture
 ---
 
@@ -13,7 +13,7 @@ sector: Aquaculture
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (19 monitored)
+## Companies (21 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -34,7 +34,9 @@ Sector overview for aquaculture technology and monitoring companies.
 | [BiOceanOr](bioceanor.md) | AI water quality forecasting; 12h oxygen forecast 0.5 mg/L accuracy; 10M+ data points/mo; 10+ countries | Critical |
 | [AquaExchange](aquaexchange.md) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
 | [Biosort](biosort.md) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
-| [Ace Aquatec](ace-aquatec.md) (NEW) | Welfare-first AI cameras + humane stunners + sea lice systems; £10M Stolt Ventures (May 2025); ~$23.4M total | Critical |
+| [Ace Aquatec](ace-aquatec.md) | Welfare-first AI cameras + humane stunners + sea lice systems; £10M Stolt Ventures (May 2025); ~$23.4M total | Critical |
+| [Oceanloop](oceanloop.md) (NEW) | Software-driven land-based marine RAS + Giant Grouper; up to €38.5M (Hatch Blue, Stolt Ventures, €32M EIB VD) | Critical |
+| [Nernst Electric](nernst-electric.md) (NEW) | On-site ceramic OTM oxygen generators for remote fish farms; €1.7M Hatch Blue Seed (Jul 2026) | High |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -57,6 +59,8 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Biology+AI water quality forecasting**: BiOceanOr's 5-year R&D combining oceanographers/marine biologists with ML produces 12h oxygen forecasts at 0.5 mg/L accuracy — a concrete performance benchmark. The biology+AI combination is a moat vs pure-software competitors. Addresses shared critical risk (hypoxia, HABs) across ALL aquaculture operations, complementing sensor-hardware (Innovasea), computer vision (Aquabyte/Tidal), and synthetic data (NeuralX) approaches
 - **Full-stack IoT ecosystem**: AquaExchange's hardware + AI + finance + insurance + marketplace approach is distinct from single-product competitors. 20K devices deployed across 4 countries with embedded finance and disease insurance — the "One Smart Ecosystem" philosophy addresses the entire farmer lifecycle (seed to harvest), not just monitoring. Acoustic demand-based feeding (FeedMon) is a novel modality beyond camera-based approaches
 - **Individual-ID + intervention (not just monitoring)**: Biosort's FishID + early lice removal closes the loop from observation to action at the individual fish level — distinct from biomass/phenotyping cameras (Aquabyte/Tidal/Aquaticode) that primarily measure. Continuous parasite suppression reduces well-boat treatments and targets the industry's top biological risk (sea lice)
+- **Industrial land-based marine RAS platform** (Oceanloop): Low-head raceway modules + Co-Pilot digital layer scaling Europe's first land-based Giant Grouper; Hatch Blue + Stolt Ventures equity with €32M EIB venture debt — hardware+biology+software stack distinct from pure RAS AI OS (ReelData) and open-ocean cage CV (Aquabyte/Tidal)
+- **On-site oxygen as aquaculture infrastructure** (Nernst Electric): Ceramic OTM generators targeting remote farms where LOx logistics fail — critical input layer that pairs with hypoxia forecasting (BiOceanOr) and RAS control stacks (Oceanloop/ReelData); Hatch Blue co-portfolio with Oceanloop
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -68,4 +72,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-07-16*
+*Last updated: 2026-08-19*

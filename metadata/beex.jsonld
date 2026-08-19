@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "BeeX",
+  "url": "https://www.beex.sg/",
+  "description": "Singapore company building autonomous underwater drones and SAMbal inspection software for offshore energy asset integrity and defense MCM/ISR.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Singapore"
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Grace Chia",
+      "jobTitle": "CEO"
+    },
+    {
+      "@type": "Person",
+      "name": "Goh Eng Wei",
+      "jobTitle": "CTO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 7700000,
+    "description": "$7.7M Series A (2026) led by Monk's Hill Ventures"
+  },
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Dual-use AUV fleet + SAMbal software for commercial subsea inspection (RaaS-style scale) and defense MCM/ISR; displaces WROV+DP2 campaigns",
+  "lastFundingRound": "$7.7M Series A (2026) \u2014 Monk's Hill Ventures lead; SEEDS, ShipsFocus, OCTAVE, NUS Tech Holdings",
+  "totalFunding": "$7.7M+ (Series A disclosed)",
+  "investors": [
+    "Monk's Hill Ventures",
+    "SEEDS / SG Growth Capital",
+    "ShipsFocus",
+    "OCTAVE Capital",
+    "NUS Technology Holdings"
+  ],
+  "knowsAbout": [
+    "Autonomous underwater vehicles",
+    "Subsea inspection",
+    "Mine countermeasures",
+    "Offshore wind asset integrity",
+    "Underwater autonomy software"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "High-res optical/sonar inspection imagery",
+      "Geo-referenced anomaly snapshots",
+      "Mooring and subsea structure maps",
+      "Mine/UXO detection imagery",
+      "Bathymetry and seabed intelligence"
+    ],
+    "keyMeasurements": [
+      "Structural integrity indicators",
+      "Anomaly location/timestamp",
+      "Absolute underwater position",
+      "Depth and current conditions",
+      "Mine/limpet signatures"
+    ],
+    "observationPlatforms": [
+      "A.IKANBILIS / BETTA / CASPER / ALPHA AUV fleet",
+      "SAMbal mission planning and reporting stack",
+      "Offshore wind farms",
+      "Subsea cable routes",
+      "Naval MCM ranges"
+    ],
+    "knownGaps": [
+      "Labeled multi-environment anomaly training sets",
+      "Standardized AUV inspection data interchange with operators' digital twins",
+      "Long-duration swarm C2 in contested/noisy acoustic channels"
+    ],
+    "interestInExternalDataServices": "Metocean for mission planning, satellite/AIS surface cueing, operator digital twins, navy MDA layers, cable GIS"
+  }
+}

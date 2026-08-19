@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Oceanloop",
+  "url": "https://oceanloop.com/",
+  "description": "Munich company building software-driven land-based marine RAS platforms and producing premium Giant Grouper in Europe.",
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. Fabian Riedel",
+    "jobTitle": "CEO"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Munich",
+    "addressCountry": "DE"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 38500000,
+    "description": "Up to \u20ac38.5M (2026) incl. \u20ac32M EIB venture debt + Hatch Blue / Stolt Ventures equity"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "Own premium land-based marine seafood production + modular RAS technology licensing/partnerships; Co-Pilot digital layer",
+  "lastFundingRound": "Up to \u20ac38.5M (Aug 2026) \u2014 Hatch Blue Blue Revolution Fund, Stolt Ventures equity + \u20ac32M EIB venture debt",
+  "totalFunding": "Up to \u20ac38.5M disclosed package (2026)",
+  "investors": [
+    "Hatch Blue Blue Revolution Fund",
+    "Stolt Ventures",
+    "European Investment Bank"
+  ],
+  "knowsAbout": [
+    "Recirculating aquaculture systems",
+    "Land-based marine aquaculture",
+    "Giant Grouper farming",
+    "Aquaculture computer vision",
+    "Water quality management"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "RAS sensor streams",
+      "Computer vision biomass/welfare video",
+      "Laboratory water chemistry",
+      "Energy and recirculation telemetry",
+      "Growth and feed conversion records"
+    ],
+    "keyMeasurements": [
+      "Dissolved oxygen",
+      "Temperature",
+      "Salinity",
+      "pH/alkalinity",
+      "TAN/nitrite/nitrate",
+      "CO2",
+      "Turbidity/solids",
+      "Biomass and individual size",
+      "Welfare indicators",
+      "Energy per kg fish"
+    ],
+    "observationPlatforms": [
+      "Oceanloop raceway modules",
+      "Co-Pilot digital twin/decision support",
+      "Kiel Baltic pilot",
+      "Partner licensed farms"
+    ],
+    "knownGaps": [
+      "Species-specific grouper welfare CV models at industrial density",
+      "Cross-farm benchmarking standards for licensed network",
+      "Predictive disease early-warning labeled datasets"
+    ],
+    "interestInExternalDataServices": "Feed formulation data, genetics partners, market price signals, coastal intake water quality, energy grid carbon intensity"
+  }
+}

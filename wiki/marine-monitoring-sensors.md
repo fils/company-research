@@ -1,7 +1,7 @@
 ---
 type: Sector
 title: Marine Monitoring & Sensors
-description: '**Last Updated**: 2026-08-05 **Companies Tracked**: 27'
+description: '**Last Updated**: 2026-08-19 **Companies Tracked**: 28'
 tags:
 - marine-monitoring-sensors
 sector: Marine Monitoring Sensors
@@ -9,8 +9,8 @@ sector: Marine Monitoring Sensors
 
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-08-05
-**Companies Tracked**: 27
+**Last Updated**: 2026-08-19
+**Companies Tracked**: 28
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -183,6 +183,13 @@ Japan (Kamakura) **Marine Satellite Cluster™** — swarm of small USVs forming
 - **Sail-endurance ISR/ASW continuum** (Saildrone): Longest open-ocean unmanned time-series moat; science METOC → defense MDA/ASW → Lockheed kinetic effector path; complements high-speed modular (Kraken) and full-size warship (Blue Water/Saronic) designs
 - **Underwater IoT fabric** (WSense): Comms layer that multi-vendor AUV/ASV/sensor fleets lack — multi-hop acoustic/optical mesh + cloud APIs; Fincantieri/Terna/Hub Ocean proof points; enables CCS, MPA, and cable integrity MRV
 - **Asia-Pacific USV constellation** (Oceanic Constellations): Swarm-first Marine Satellite Cluster with NYK shipyard path and 20+ patents — APAC counterpart to US/EU defense USV primes; dual-use monitoring + illegal fishing + rocket recovery
+- **Industrial dual-use AUV inspection** (BeeX NEW 2026-08-19): Singapore $7.7M Series A (Monk's Hill) AUV fleet + SAMbal software displacing WROV+DP2 campaigns for offshore wind/cables and MINDEF MCM — APAC industrial maturity path complementary to US defense AUV primes (Ulysses/Vatn) and survey AUVs (Bedrock)
+
+### BeeX (NEW 2026-08-19)
+Singapore autonomous underwater drones (A.IKANBILIS + BETTA/CASPER/ALPHA) and SAMbal end-to-end inspection software. $7.7M Series A led by Monk's Hill Ventures (SEEDS/SG Growth Capital, ShipsFocus, OCTAVE, NUS Tech Holdings). 700+ deployments, 18,000+ hours, ~50% cost vs WROV+DP2. Commercial offshore energy + Singapore MINDEF multi-million defense contract.
+- **Site**: [beex.sg](https://www.beex.sg/)
+- **Funding**: $7.7M Series A (2026)
+- **Location**: Singapore
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

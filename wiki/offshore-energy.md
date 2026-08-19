@@ -23,10 +23,11 @@ sector: Offshore Energy
 - Sizable Energy: https://sizableenergy.com/
 - Voltai: https://www.voltai.ca/
 - Endurance Energy: https://www.enduranceenergy.com/
+- Spoor: https://www.spoor.ai/
 
-**Overview (as of July 2026)**
+**Overview (as of August 2026)**
 
-Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), vessel-mounted wave harvesters (Voltai), and subsea geothermal baseload (Endurance Energy). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
+Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), vessel-mounted wave harvesters (Voltai), subsea geothermal baseload (Endurance Energy), and AI biodiversity monitoring for wind permitting (Spoor). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
 
 **Core Themes**
 - Floating wind platform technology (Ørsted, Gazelle, Principle Power, BW Ideol)
@@ -38,6 +39,7 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - Ocean long-duration storage (Sizable Energy — offshore pumped hydro with brine)
 - Onboard vessel wave harvesting (Voltai — motion-to-power without added drag)
 - Subsea geothermal baseload at mid-ocean ridges / Ring of Fire (Endurance Energy — $54M Series A, Founders Fund)
+- AI bird/bat monitoring for wind EIA, permitting, and curtailment (Spoor — €8M Series A; Ørsted/RWE/Ocean Winds)
 - Extreme demand for oceanographic and meteorological (metocean) data
 - Extensive marine environmental surveys and biodiversity monitoring requirements
 
@@ -57,7 +59,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 | [Kvasir Technologies](kvasir-technologies.md) | Climate-neutral drop-in marine biofuel from biomass waste | €10M Series A (Jun 2026) | High |
 | [Sizable Energy](sizable-energy.md) (NEW) | Gigawatt-scale ocean pumped hydro LDES (brine reservoirs) | $8M seed (Oct 2025, Playground Global) | Critical |
 | [Voltai](voltai.md) (NEW) | Onboard wave/motion energy harvesting for ships (no added drag) | CAD $1.83M pre-seed (Oct 2025, Invest Nova Scotia) | High |
-| [Endurance Energy](endurance-energy.md) (NEW 2026-07-29) | Subsea geothermal baseload (modular seafloor plants; Adélie OOI pilot; Tonga partnership) | $54M Series A (Jun 2026, Founders Fund); ~$84M cumulative | Critical |
+| [Endurance Energy](endurance-energy.md) | Subsea geothermal baseload (modular seafloor plants; Adélie OOI pilot; Tonga partnership) | $54M Series A (Jun 2026, Founders Fund); ~$84M cumulative | Critical |
+| [Spoor](spoor.md) (NEW 2026-08-19) | AI CV bird/bat monitoring + Sky Intelligence Platform for wind EIA/ops | €8M Series A | Critical |
 
 **Key Insights**
 - All offshore energy companies require high-quality metocean data and marine environmental baselines.
@@ -72,6 +75,7 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - **Sizable Energy** ($8M seed) brings long-duration energy storage offshore via brine pumped hydro — zero land use, modular GW-scale potential, and natural coupling with floating wind/PV. Distinct from generation (wave/tidal/wind) and vessel propulsion (Fleetzero/Kvasir/Voltai): it firms variable renewables at sea.
 - **Voltai** (CAD $1.83M pre-seed) adds vessel-mounted motion-to-power harvesting without added drag — a retrofit-friendly fourth decarbonization pathway alongside batteries (Fleetzero), drop-in biofuel (Kvasir), and drag reduction (Hullbot).
 - **Endurance Energy** ($54M Series A, Founders Fund) opens a new baseload pathway: modular subsea geothermal at tectonic spreading centers / volcanic seafloor. Distinct from generation (wind/wave/tidal), storage (Sizable), and vessel propulsion (Fleetzero/Kvasir/Voltai). Pulls hard on OOI-class cabled observatories, AUV/ROV site characterization, and benthic environmental baselines (Adélie Axial Seamount pilot; Tonga island partnership).
+- **Spoor** (€8M Series A) adds the biodiversity compliance layer for wind: continuous AI bird/bat monitoring (Sky Intelligence Platform; buoy-mounted offshore cameras) used by Ørsted, RWE, Ocean Winds to de-risk EIA/permitting and cut curtailment. Complements metocean/survey data (Sofar, XOCEAN, Oshen) with the avian channel operators must prove to regulators.
 
-**Last Updated**: 2026-07-29
-**Total Companies**: 13 (Offshore Energy sector)
+**Last Updated**: 2026-08-19
+**Total Companies**: 14 (Offshore Energy sector)

@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Nernst Electric",
+  "url": "https://www.nernstelectric.com/",
+  "description": "Irish company developing ceramic oxygen transport membrane generators for on-site high-purity oxygen, starting with aquaculture.",
+  "foundingDate": "2023",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Nick Farandos"
+    },
+    {
+      "@type": "Person",
+      "name": "Chris Matson"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "IE"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 1700000,
+    "description": "\u20ac1.7M Seed (Jul 2026) Hatch Blue Blue Revolution Fund"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "Sell/deploy on-site OTM oxygen generation hardware to remote aquaculture and industrial users as LOx/PSA alternative",
+  "lastFundingRound": "\u20ac1.7M Seed (Jul 2026) \u2014 Hatch Blue Blue Revolution Fund",
+  "totalFunding": "\u20ac1.7M+ (Seed; prior Hatch pre-seed)",
+  "investors": [
+    "Hatch Blue Blue Revolution Fund",
+    "Hatch Accelerator Fund II"
+  ],
+  "knowsAbout": [
+    "Oxygen transport membranes",
+    "On-site oxygen generation",
+    "Aquaculture oxygenation",
+    "Solid oxide electrochemistry",
+    "Additive manufacturing"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Dissolved oxygen time series",
+      "Stocking density and biomass",
+      "Water temperature",
+      "Feed and metabolism proxies",
+      "Generator O2 output/energy telemetry"
+    ],
+    "keyMeasurements": [
+      "DO mg/L",
+      "Temperature",
+      "O2 demand forecast",
+      "kWh per ton O2",
+      "Purity vol%",
+      "Turndown response time"
+    ],
+    "observationPlatforms": [
+      "Farm DO sensor networks",
+      "On-site OTM generators",
+      "Hatchery and grow-out sites"
+    ],
+    "knownGaps": [
+      "Site-specific DO demand models under marine heatwaves",
+      "Integration APIs with farm management platforms",
+      "Long-duration field reliability datasets in harsh marine climates"
+    ],
+    "interestInExternalDataServices": "Farm IoT platforms (Innovasea-class), weather/SST forecasts, RAS Co-Pilot systems (Oceanloop), grid power quality"
+  }
+}

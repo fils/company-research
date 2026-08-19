@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Unseenlabs",
+  "url": "https://unseenlabs.com/en/",
+  "description": "French space company providing RF geolocation of maritime emitters from LEO for dark-vessel detection and maritime domain awareness.",
+  "foundingDate": "2015",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Cl\u00e9ment Galic"
+    },
+    {
+      "@type": "Person",
+      "name": "Jonathan Galic"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "FR",
+    "addressRegion": "Brittany"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 120000000,
+    "description": "~\u20ac120M total incl. \u20ac85M Series C (Feb 2024)"
+  },
+  "sector": "Ocean Data & AI",
+  "businessModel": "Space RF GEOINT data products and intelligence reports for government MDA and private maritime risk/insurance/IUU markets",
+  "lastFundingRound": "\u20ac85M Series C (Feb 2024) \u2014 Supernova Invest, ISALT, UNEXO + historical investors",
+  "totalFunding": "~\u20ac120M",
+  "investors": [
+    "Supernova Invest",
+    "ISALT",
+    "UNEXO",
+    "360 Capital",
+    "OMNES",
+    "Bpifrance",
+    "Breizh Up / UI Investissement",
+    "S2G Ventures"
+  ],
+  "knowsAbout": [
+    "RF maritime surveillance",
+    "Dark vessel detection",
+    "Space-based SIGINT/GEOINT",
+    "Maritime domain awareness",
+    "IUU fishing monitoring"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Space-based RF emitter detections",
+      "Vessel geolocation time series",
+      "AIS fusion layers",
+      "SAR/optical corroboration",
+      "Intelligence reports"
+    ],
+    "keyMeasurements": [
+      "RF emitter geolocation accuracy",
+      "Timestamp / age of information",
+      "RF technical parameters",
+      "Revisit interval",
+      "Dark-vessel confidence scores"
+    ],
+    "observationPlatforms": [
+      "BRO nanosatellite constellation",
+      "Ground processing and fusion stack",
+      "Customer MDA systems"
+    ],
+    "knownGaps": [
+      "Sub-30-minute global revisit at full constellation scale",
+      "Multi-sensor fusion standards with AIS/SAR/optical providers",
+      "Labeled ground-truth for dark-vessel behavior libraries"
+    ],
+    "interestInExternalDataServices": "AIS networks, SAR/optical EO (e.g. Ubotica-class edge AI), in-situ coastal radar, fisheries VMS, insurance claims data"
+  }
+}

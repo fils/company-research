@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Spoor",
+  "url": "https://www.spoor.ai/",
+  "description": "Norwegian AI company providing continuous bird and bat monitoring for onshore and offshore wind permitting and operations.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Oslo",
+    "addressCountry": "NO"
+  },
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": 8000000,
+    "description": "\u20ac8M Series A for AI wildlife monitoring at wind farms"
+  },
+  "sector": "Offshore Energy",
+  "businessModel": "Sky Intelligence Platform SaaS + offshore buoy camera deployments selling decision-ready biodiversity data to wind developers and environmental consultancies",
+  "lastFundingRound": "\u20ac8M Series A",
+  "totalFunding": "\u20ac8M+ Series A disclosed",
+  "knowsAbout": [
+    "AI bird monitoring",
+    "Offshore wind EIA",
+    "Collision risk modeling",
+    "Biodiversity compliance",
+    "Computer vision wildlife tracking"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Continuous video of bird/bat activity",
+      "Species classifications",
+      "Flight tracks and heights",
+      "Metocean/weather context",
+      "Radar correlation layers"
+    ],
+    "keyMeasurements": [
+      "Species ID",
+      "Flight height distribution",
+      "Flux rates",
+      "Migration timing",
+      "Collision/avoidance events",
+      "Curtailment triggers"
+    ],
+    "observationPlatforms": [
+      "Turbine- and buoy-mounted cameras",
+      "Sky Intelligence Platform",
+      "Metocean/LiDAR campaign integration",
+      "Offshore wind farms (e.g. Borssele)"
+    ],
+    "knownGaps": [
+      "Long-range night/poor-weather species libraries offshore",
+      "Standardized CRM input formats across regulators",
+      "Multi-farm longitudinal baselines for migratory corridors"
+    ],
+    "interestInExternalDataServices": "Metocean/LiDAR buoys, weather models, radar networks, historical ornithology atlases, regulator EIA schemas"
+  }
+}
