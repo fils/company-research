@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Ocean Intelligence",
+  "url": "https://oceanintelligence.io/",
+  "description": "Marine environmental forecasting and operational intelligence SaaS for aquaculture, ports, and coastal monitoring \u2014 Cawthron Institute and Oceanum spin-out.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Nelson, New Zealand"
+  },
+  "founder": [
+    {
+      "@type": "Organization",
+      "name": "Cawthron Institute"
+    },
+    {
+      "@type": "Organization",
+      "name": "Oceanum"
+    }
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Joel Bowater",
+      "jobTitle": "CEO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "description": "Pre-seed (Aug 2026) led by Quidnet Ventures Fund II with Andrea & Guido Neitzer"
+  },
+  "sector": "Ocean Data & AI",
+  "businessModel": "Modular SaaS operational ocean intelligence for aquaculture, ports, and coastal monitoring programmes",
+  "lastFundingRound": "Pre-seed Aug 2026 \u2014 Quidnet Ventures (lead), Andrea & Guido Neitzer",
+  "investors": [
+    "Quidnet Ventures",
+    "Andrea Neitzer",
+    "Guido Neitzer"
+  ],
+  "knowsAbout": [
+    "Harmful algal bloom forecasting",
+    "Aquaculture environmental intelligence",
+    "Port coastal ocean monitoring",
+    "Marine forecast fusion",
+    "Operational oceanography"
+  ],
+  "product": [
+    "Aquaculture Intelligence",
+    "Port & Coastal Monitoring",
+    "Coastal Research & Monitoring"
+  ]
+}

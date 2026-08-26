@@ -1,16 +1,18 @@
 ---
 type: Sector
 title: Maritime Operations & Analytics
-description: '**Last Updated**: 2026-07-14 **Companies Tracked**: 7'
+description: '**Last Updated**: 2026-08-26 **Companies Tracked**: 8'
 tags:
 - maritime-operations-analytics
 sector: Maritime Operations Analytics
+timestamp: '2026-08-26T00:00:00Z'
+date: '2026-08-26'
 ---
 
 # Maritime Operations & Analytics
 
-**Last Updated**: 2026-07-14
-**Companies Tracked**: 7
+**Last Updated**: 2026-08-26
+**Companies Tracked**: 8
 
 This sector covers companies building AI-native operating systems and service orchestration platforms for the maritime industry — shipping, port logistics, fleet management, and maritime compliance. These companies transform fragmented operational data into actionable intelligence through domain-specific AI models.
 
@@ -55,6 +57,12 @@ Maritime machine vision for safety at sea — AI-powered camera systems detect &
 - **Funding**: €3M Series A
 - **Key Tech**: Optical+thermal camera fusion, AI object detection/classification, counter-USV detection, NVIDIA edge AI
 
+### ShipIn Systems (NEW 2026-08-26)
+AI operating system for commercial shipping — FleetVision computer vision on onboard CCTV fused with vessel systems/sensors for safety, bridge watchkeeping, technical/fire risk, security, and MARPOL evidence. **$52M financing (Aug 2026)** with Proofpoint Capital, HighSage, Bling, Framework, Tokio Marine Future Fund + existing Zeev Ventures, Munich Re, Atinc, Hyperplane. Deployed on **92 shipowners / 1,300+ vessels** — one of the largest disclosed commercial-shipping AI footprints. Insurer-backed **prevention-over-payout** GTM (Tokio Marine, Munich Re). CEO Osher Perry; board Matt Wallach (Veeva co-founder). Complements Orca AI (navigation/bridge situational awareness outward) with inward fleet behavioral/ops evidence.
+- **Site**: [shipin.ai](https://shipin.ai/)
+- **Funding**: $52M (Aug 2026) + prior Series A ~$24M era
+- **Key Tech**: Onboard CCTV AI, ship-to-shore ops intelligence, TMSA evidence, MARPOL compliance monitoring
+
 ## Cross-Company Patterns
 - **Maritime Language Models**: Domain-specific LLMs trained on shipping, port, and compliance data — significant advantage over general-purpose AI
 - **Workflow Automation**: Target 80-90% reduction in manual operational tasks (documentation, scheduling, compliance reporting)
@@ -68,6 +76,7 @@ Maritime machine vision for safety at sea — AI-powered camera systems detect &
 - **Voyage Optimization ROI**: Orca AI's $100K/vessel/yr fuel savings + 195K tons CO₂ reduction demonstrates concrete ROI driving adoption; Sea Machines' autonomy reduces crew costs and enables unmanned operations
 - **Radar/AIS Gap Filling**: SEA.AI detects objects that escape both radar and AIS (unsignalled craft, debris, persons overboard) — optical AI as the only sensor layer that sees non-cooperative surface contacts. The counter-USV use case (defense) is particularly timely given drone boat threat proliferation in 2025-2026 naval conflicts
 - **Camera Retrofit Business Model**: SEA.AI's Brain product upgrades existing thermal cameras with AI — a retrofit approach distinct from full-system sales, lowering adoption barriers for vessel operators who already have camera hardware
+- **Insurer-aligned fleet ops AI** (ShipIn): Tokio Marine + Munich Re capital and loss-prevention partnerships signal marine insurance shifting from claims payout to continuous onboard behavioral evidence — distinct from navigation CV (Orca AI) and surface-object optical AI (SEA.AI). Scale (1,300+ vessels) creates a third commercial CV network moat focused on crew/ops compliance rather than lookout or autonomy
 
 ## Data & Measurement Needs
 Maritime operations companies need:

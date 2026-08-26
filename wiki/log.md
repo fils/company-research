@@ -1,5 +1,11 @@
 # Directory Update Log
 
+## 2026-08-26
+* **+5 companies** (106→111): ShipIn Systems ($52M fleet ops AI; 1,300+ vessels), Ocean Intelligence (Quidnet pre-seed NZ marine forecast SaaS), AquaNab (Nordic Foodtech VC feed nanoAb sea lice), Kuehnle AgroSystems (Series B dark-fermentation astaxanthin; Corbion), Vessev ($19M Series A electric hydrofoils).
+* Sector counts: Maritime Ops 7→8, Ocean Data & AI 10→11, Aquaculture 21→23, Offshore Energy 14→15.
+* New patterns: insurer-aligned fleet behavioral AI (ShipIn); operator-facing marine forecast fusion (Ocean Intelligence); feed-route biologic lice control (AquaNab); dark-fermentation feed ingredients (KAS); certified electric hydrofoil OEM (Vessev).
+* Profiles: raw/ + metadata/ + OKF wiki/ with Data & Measurement Needs; completeness + okf-lint PASS.
+
 ## 2026-08-19
 * **+5 companies** (101→106): BeeX ($7.7M Series A Singapore AUV dual-use), Unseenlabs (€85M Series C / ~€120M RF dark-vessel GEOINT), Oceanloop (up to €38.5M land-based marine RAS + Giant Grouper), Spoor (€8M Series A AI bird/bat wind monitoring), Nernst Electric (€1.7M Hatch Blue Seed on-site OTM oxygen).
 * Sector counts: Marine Monitoring 27→28, Aquaculture 19→21, Ocean Data & AI 9→10, Offshore Energy 13→14.

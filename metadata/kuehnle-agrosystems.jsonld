@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Kuehnle AgroSystems",
+  "alternateName": "KAS",
+  "url": "https://www.kuehnleagro.com/",
+  "description": "Algal biotechnology company producing natural astaxanthin via proprietary dark fermentation for aquaculture feed and human nutrition.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Honolulu, Hawaii, USA"
+  },
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Claude Kaplan",
+      "jobTitle": "CEO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "description": "Multi-million Series B (Jul 2026) led by Ichthus Venture Capital with S2G, Hatch Blue, Dest EOOD"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "Natural astaxanthin ingredient sales via dark fermentation manufacturing partnerships (Biorea/Corbion) into aquafeed and nutraceuticals",
+  "lastFundingRound": "Series B multi-million (Jul 2026) \u2014 IVC lead; S2G, Hatch Blue, Dest EOOD",
+  "investors": [
+    "Ichthus Venture Capital",
+    "S2G Investments",
+    "Hatch Blue",
+    "Dest EOOD"
+  ],
+  "partner": [
+    "Corbion",
+    "Biorea"
+  ],
+  "knowsAbout": [
+    "Dark fermentation",
+    "Natural astaxanthin",
+    "Microalgae biotechnology",
+    "Aquaculture feed ingredients",
+    "Heterotrophic Haematococcus"
+  ],
+  "product": [
+    "Natural astaxanthin oleoresin",
+    "Microalgal protein"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "ShipIn Systems",
+  "url": "https://shipin.ai/",
+  "description": "AI-powered operational intelligence / FleetVision platform for commercial shipping safety, security, bridge, technical, and MARPOL compliance.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Boston, Massachusetts, USA"
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Osher Perry",
+      "jobTitle": "Founder & CEO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 52000000,
+    "description": "$52M financing (Aug 2026) with Proofpoint Capital and Tokio Marine Future Fund among new investors"
+  },
+  "sector": "Maritime Operations & Analytics",
+  "businessModel": "AI computer-vision SaaS + onboard camera/sensor fusion sold to shipowners; insurer-aligned prevention platform",
+  "lastFundingRound": "$52M (Aug 2026) \u2014 Proofpoint Capital, HighSage, Bling, Framework, Tokio Marine Future Fund + existing Zeev/Munich Re/Atinc/Hyperplane",
+  "totalFunding": "$52M+ disclosed latest round (prior Series A ~$24M+)",
+  "investors": [
+    "Proofpoint Capital",
+    "HighSage Ventures",
+    "Bling Ventures",
+    "Framework Venture Partners",
+    "Tokio Marine Future Fund",
+    "Zeev Ventures",
+    "Munich Re",
+    "Atinc",
+    "Hyperplane Ventures"
+  ],
+  "knowsAbout": [
+    "Maritime computer vision",
+    "Fleet safety AI",
+    "Ship-to-shore operational intelligence",
+    "MARPOL compliance evidence",
+    "Marine insurance loss prevention"
+  ],
+  "product": [
+    "FleetVision",
+    "Safety",
+    "Bridge",
+    "Technical",
+    "Security",
+    "MARPOL"
+  ],
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": "50-200"
+  },
+  "customer": [
+    "Anglo-Eastern",
+    "Rio Tinto",
+    "Stealth Maritime",
+    "Hafnia",
+    "NYK Line",
+    "Matson",
+    "Tufton"
+  ]
+}

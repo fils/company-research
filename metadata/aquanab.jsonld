@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "AquaNab",
+  "url": "https://aquanabs.de/",
+  "description": "Hamburg aquaculture biotech developing feed-delivered alpaca nanoantibodies (AquaNabs) against sea lice and other pathogens.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Hamburg, Germany"
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Ruth Tamara Montero",
+      "jobTitle": "CEO"
+    },
+    {
+      "@type": "Person",
+      "name": "Alejandro Rojas Fernandez",
+      "jobTitle": "CSO"
+    },
+    {
+      "@type": "Person",
+      "name": "Gunnar Johildarson"
+    }
+  ],
+  "email": "montero@aquanab.com",
+  "funding": {
+    "@type": "MonetaryAmount",
+    "description": "Investment from Nordic Foodtech VC (Aug 2026); amount undisclosed"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "Precision feed-based nanoantibody therapeutics platform for aquaculture disease (lead: sea lice)",
+  "lastFundingRound": "Nordic Foodtech VC investment (Aug 2026) \u2014 first NFT deal outside Nordics",
+  "investors": [
+    "Nordic Foodtech VC"
+  ],
+  "knowsAbout": [
+    "Nanoantibodies",
+    "Sea lice control",
+    "Oral aquaculture therapeutics",
+    "Atlantic salmon health",
+    "Feed-based drug delivery"
+  ],
+  "product": [
+    "AquaNabs (anti-sea lice)"
+  ]
+}

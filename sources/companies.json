@@ -740,5 +740,40 @@
     "url": "https://www.nernstelectric.com/",
     "notes": "Irish startup: on-site high-purity oxygen generation via ceramic Oxygen Transport Membrane (OTM) + additive manufacturing \u2014 targets remote fish farms where liquid oxygen logistics fail. \u20ac1.7M Seed (Jul 2026) from Hatch Blue Blue Revolution Fund; prior Hatch Accelerator Fund II pre-seed (Jul 2025). Founders Nick Farandos & Chris Matson (2023). Claims: <200 kWh/t O2 possible (vs PSA >1000), 100% O2 selectivity, no moving parts, >10x turndown, scalable <1 kg to >100 t/day. Primary beachhead aquaculture; also water treatment, mining/metallurgy, steel. First aquaculture deployment post-seed.",
     "last_updated": "2026-08-19"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "ShipIn Systems",
+    "url": "https://shipin.ai/",
+    "notes": "Boston AI operating system for commercial shipping \u2014 FleetVision computer vision on onboard CCTV + vessel systems/sensors. $52M financing (Aug 2026) with Proofpoint Capital, HighSage, Bling, Framework, Tokio Marine Future Fund; existing Zeev Ventures, Munich Re, Atinc, Hyperplane. Deployed on 92 shipowners / 1,300+ vessels. Modules: Safety, Bridge, Technical, Security, MARPOL, Cargo. Insurer-backed prevention model. CEO Osher Perry; board: Matt Wallach (Proofpoint Capital / Veeva co-founder).",
+    "last_updated": "2026-08-26"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Ocean Intelligence",
+    "url": "https://oceanintelligence.io/",
+    "notes": "NZ Cawthron Institute + Oceanum spin-out: modular SaaS unifying real-time marine environmental monitoring, forecasts, and ops data for aquaculture (HAB/water quality/harvest timing), ports/coastal ops, and councils/research. Pre-seed (Aug 2026) led by Quidnet Ventures Fund II with Andrea & Guido Neitzer; 24-month runway for product + Australia expansion. CEO Joel Bowater; Nelson, NZ. Mussel/oyster farms live.",
+    "last_updated": "2026-08-26"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "AquaNab",
+    "url": "https://aquanabs.de/",
+    "notes": "Hamburg biotech: alpaca-derived nanoantibodies (AquaNabs) delivered via fish feed for oral sea-lice treatment in Atlantic salmon \u2014 non-toxic, stress-free, residue-free alternative to chemical/mechanical delousing ($4B industry cost). Nordic Foodtech VC investment (first deal outside Nordics, Aug 2026). Co-founders Dr Ruth Tamara Montero (CEO), Dr Alejandro Rojas Fernandez (CSO), Gunnar Johildarson. Platform expandable to bacterial/viral/parasitic diseases across species. montero@aquanab.com.",
+    "last_updated": "2026-08-26"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Kuehnle AgroSystems",
+    "url": "https://www.kuehnleagro.com/",
+    "notes": "Honolulu algal biotech: proprietary dark fermentation of non-GMO Haematococcus for natural astaxanthin oleoresin \u2014 first industrial-scale demonstration with Biorea; multi-million Series B (Jul 2026) led by Ichthus Venture Capital (IVC) with S2G, Hatch Blue, Dest EOOD. Strategic partnership with Corbion for scale-up/regulatory/GTM. Targets aquaculture feed (salmon pigmentation/health) and human nutraceuticals; claims ~90% cost reduction vs phototrophic cultivation. CEO Dr Claude Kaplan.",
+    "last_updated": "2026-08-26"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Vessev",
+    "url": "https://www.vessev.com/",
+    "notes": "Auckland electric hydrofoiling passenger vessels (VS\u20139 line) \u2014 America's Cup-inspired dynamic foils + electric propulsion + onboard software/telemetry. $19M Series A (Aug 2026) led by Blackbird Ventures; GD1, Rypples new; existing K1W1, Icehouse, Shasta, NZVC, angels. Commercially certified vessels in NZ service; demand across 5 continents; US expansion (NY, DC, Lake Tahoe). CEO Eric Laakmann. Team from America's Cup, Rocket Lab, Apple, Tesla, Navico. Complements Fleetzero (batteries) on maritime electrification stack.",
+    "last_updated": "2026-08-26"
   }
 ]

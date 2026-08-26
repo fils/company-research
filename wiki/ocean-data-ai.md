@@ -4,14 +4,14 @@ title: Ocean Data & AI
 description: Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 tags:
 - ocean-data-ai
-timestamp: '2026-08-19T00:00:00Z'
-date: '2026-08-19'
+timestamp: '2026-08-26T00:00:00Z'
+date: '2026-08-26'
 sector: Ocean Data Ai
 ---
 
 # Ocean Data & AI
 
-**Overview (as of May 2026)**
+**Overview (as of August 2026)**
 
 Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services. These companies sit at the intersection of oceanographic data collection, sensor network aggregation, satellite remote sensing, AI/ML analytics, and blue economy decision support — distinct from companies that *use* ocean data for their core operations (CDR, offshore energy, aquaculture).
 
@@ -23,7 +23,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - Satellite-derived oceanographic products (SWOT, altimetry, SAR, optical)
 - Bridging the gap between public ocean data and commercial applications
 
-**Companies Profiled (10 companies)**
+**Companies Profiled (11 companies)**
 
 - **Amphitrite**: AI-powered ocean data intelligence platform. Combines satellite data (SWOT, altimetry, SAR) with in-situ measurements and predictive AI for real-time maritime intelligence. Serves commercial shipping, naval defence, and offshore operations. €1.2M seed (2024). Partners include SHOM, CNES, ESA, Mercator Ocean, CMA CGM, Subsea7. Supported by NVIDIA Inception and Microsoft GenAI Studio.
 
@@ -43,6 +43,8 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - **XOCEAN** (NEW 2026-07-29): Ireland-based turnkey ocean data delivery via in-house USV fleet (MBES, SSS, SBP, magnetometer). **€115M (~$118M)** growth investment (Jan 2025; S2G-structured with Climate Investment, Morgan Stanley 1GT, Crown Family affiliate). Customers: Ørsted, Shell, bp, SSE, RWE, Vattenfall, EnBW, Eneco (5-year NL framework); 23+ jurisdictions; 48.6+ GW offshore wind supported; fleet >1.2M km cumulative. Dual model: fixed-price turnkey campaigns + data library licensing. Carbon-neutral survey alternative to crewed vessels. Offices IE/UK/US/CA/NO/AU + IJmuiden hub.
 
 - **Unseenlabs** (NEW 2026-08-19): French space RF GEOINT leader for maritime domain awareness — LEO nanosatellites detect/geolocate shipborne RF emitters to find **dark vessels** that evade AIS. **€85M Series C** (Feb 2024); **~€120M** total. Constellation path to ~20–25 sats / ~30-min revisit. Serves governments, IUU fisheries, offshore facilities, insurers, shipowners, NGOs. Gen-2 multi-domain RF (maritime/land/space) 2026. Complements Ubotica optical edge AI with a passive RF channel for the same dark-fleet problem.
+
+- **Ocean Intelligence** (NEW 2026-08-26): Cawthron Institute + Oceanum spin-out (Nelson, NZ). Modular SaaS unifies real-time marine environmental monitoring, forecasts, and ops data for **aquaculture** (HAB/water quality/harvest timing), **ports/coastal ops**, and **councils/research**. Pre-seed (Aug 2026) led by Quidnet Ventures Fund II with Andrea & Guido Neitzer; ~24-month runway and Australia expansion. Live on NZ mussel/oyster farms. CEO Joel Bowater. Bridges Ocean Data & AI with aquaculture ops — operator-facing forecast fusion rather than pure sensor hardware or satellite GEOINT.
 
 **Cross-Sector Synergies**
 
@@ -65,5 +67,5 @@ This sector is highly complementary to every other sector in the knowledge graph
 - VentureWell OEA Spring 2026 cohorts revealed 51 startups across Stages 0-2 — heavy concentration in data/sensor/AI solutions
 
 ---
-*Last updated: 2026-08-19*
-**Total Companies**: 10 (Ocean Data & AI sector — +1 this update: Unseenlabs)
+*Last updated: 2026-08-26*
+**Total Companies**: 11 (Ocean Data & AI sector — +1 this update: Ocean Intelligence)

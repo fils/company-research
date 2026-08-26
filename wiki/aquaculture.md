@@ -4,8 +4,8 @@ title: Aquaculture
 description: Sector overview for aquaculture technology and monitoring companies.
 tags:
 - aquaculture
-timestamp: '2026-08-19T00:00:00Z'
-date: '2026-08-19'
+timestamp: '2026-08-26T00:00:00Z'
+date: '2026-08-26'
 sector: Aquaculture
 ---
 
@@ -13,7 +13,7 @@ sector: Aquaculture
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (21 monitored)
+## Companies (23 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -35,8 +35,10 @@ Sector overview for aquaculture technology and monitoring companies.
 | [AquaExchange](aquaexchange.md) | Full-stack IoT/AI for shrimp farming; $8M Series B; 20K devices, 80K acres, 4 countries; embedded finance + insurance | High |
 | [Biosort](biosort.md) | Individual-based sea lice control + FishID AI; NOK 100M+ (Feb 2026); iFarm/Cermaq heritage | Critical |
 | [Ace Aquatec](ace-aquatec.md) | Welfare-first AI cameras + humane stunners + sea lice systems; £10M Stolt Ventures (May 2025); ~$23.4M total | Critical |
-| [Oceanloop](oceanloop.md) (NEW) | Software-driven land-based marine RAS + Giant Grouper; up to €38.5M (Hatch Blue, Stolt Ventures, €32M EIB VD) | Critical |
-| [Nernst Electric](nernst-electric.md) (NEW) | On-site ceramic OTM oxygen generators for remote fish farms; €1.7M Hatch Blue Seed (Jul 2026) | High |
+| [Oceanloop](oceanloop.md) | Software-driven land-based marine RAS + Giant Grouper; up to €38.5M (Hatch Blue, Stolt Ventures, €32M EIB VD) | Critical |
+| [Nernst Electric](nernst-electric.md) | On-site ceramic OTM oxygen generators for remote fish farms; €1.7M Hatch Blue Seed (Jul 2026) | High |
+| [AquaNab](aquanab.md) (NEW) | Feed-delivered alpaca nanoantibodies for sea lice; Nordic Foodtech VC (Aug 2026); Hamburg | High |
+| [Kuehnle AgroSystems](kuehnle-agrosystems.md) (NEW) | Dark-fermentation natural astaxanthin; multi-million Series B (IVC/S2G/Hatch); Corbion partner | Moderate |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -61,6 +63,8 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Individual-ID + intervention (not just monitoring)**: Biosort's FishID + early lice removal closes the loop from observation to action at the individual fish level — distinct from biomass/phenotyping cameras (Aquabyte/Tidal/Aquaticode) that primarily measure. Continuous parasite suppression reduces well-boat treatments and targets the industry's top biological risk (sea lice)
 - **Industrial land-based marine RAS platform** (Oceanloop): Low-head raceway modules + Co-Pilot digital layer scaling Europe's first land-based Giant Grouper; Hatch Blue + Stolt Ventures equity with €32M EIB venture debt — hardware+biology+software stack distinct from pure RAS AI OS (ReelData) and open-ocean cage CV (Aquabyte/Tidal)
 - **On-site oxygen as aquaculture infrastructure** (Nernst Electric): Ceramic OTM generators targeting remote farms where LOx logistics fail — critical input layer that pairs with hypoxia forecasting (BiOceanOr) and RAS control stacks (Oceanloop/ReelData); Hatch Blue co-portfolio with Oceanloop
+- **Feed-route biologic sea-lice control** (AquaNab): Alpaca nanoantibodies delivered in feed that cross the gut barrier — non-toxic/stress-free/residue-free alternative to chemical baths and mechanical delousing. Complements individual-ID intervention (Biosort) and welfare hardware (Ace Aquatec) with a **platform therapeutic** expandable beyond lice to bacterial/viral/parasitic disease
+- **Dark-fermentation feed ingredient scale-up** (Kuehnle AgroSystems): Natural astaxanthin via heterotrophic fermentation (Biorea demo + Corbion industrial partnership) attacks the $2B pigment/antioxidant input market with claimed ~90% cost reduction vs phototrophic routes — Hatch Blue co-portfolio signal with Oceanloop/Nernst
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -72,4 +76,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
 
 ---
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-26*

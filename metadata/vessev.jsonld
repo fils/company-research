@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Vessev",
+  "url": "https://www.vessev.com/",
+  "description": "Designer and builder of electric hydrofoiling passenger vessels combining foil systems, electric propulsion, and onboard telemetry software.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Auckland, New Zealand"
+  },
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Eric Laakmann",
+      "jobTitle": "CEO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 19000000,
+    "description": "$19M Series A (Aug 2026) led by Blackbird Ventures"
+  },
+  "sector": "Offshore Energy",
+  "businessModel": "Electric hydrofoil vessel OEM + onboard software/telemetry for passenger, hospitality, and tourism marine transport",
+  "lastFundingRound": "$19M Series A (Aug 2026) \u2014 Blackbird lead; GD1, Rypples, K1W1, Icehouse, Shasta, NZVC",
+  "totalFunding": "$19M+ Series A disclosed",
+  "investors": [
+    "Blackbird Ventures",
+    "GD1",
+    "Rypples",
+    "K1W1",
+    "Icehouse Ventures",
+    "Shasta Ventures",
+    "NZVC"
+  ],
+  "knowsAbout": [
+    "Electric hydrofoiling",
+    "Marine electrification",
+    "Passenger ferry decarbonization",
+    "Dynamic foil control",
+    "Vessel telemetry software"
+  ],
+  "product": [
+    "VS\u20139 electric hydrofoil vessel",
+    "Onboard software/telemetry platform"
+  ]
+}

@@ -29,18 +29,19 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Climate Risk](climate-risk.md) - Climate risk intelligence providers in the knowledge graph specialize in translating physical climate hazards into financial and operational impacts.
 * [Coastal Risk & Infrastructure](coastal-risk-infrastructure.md) - **Last Updated**: 2026-05-25 **Companies Tracked**: 3
 * [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-08-19 **Companies Tracked**: 28
-* [Maritime Operations & Analytics](maritime-operations-analytics.md) - **Last Updated**: 2026-07-14 **Companies Tracked**: 7
+* [Maritime Operations & Analytics](maritime-operations-analytics.md) - **Last Updated**: 2026-08-26 **Companies Tracked**: 8
 * [Ocean Carbon Sequestration](ocean-carbon-sequestration.md) - Sector overview for ocean-based carbon dioxide removal companies.
 * [Ocean Data & AI](ocean-data-ai.md) - Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 * [Offshore Energy](offshore-energy.md) - **Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/
 
-# Companies (106)
+# Companies (111)
 
 ## Aquaculture
 
 * [Ace Aquatec](ace-aquatec.md) - Welfare-first aqua AI cameras + humane stunners — £10M Stolt Ventures round (May 2025); ~$23.4M total; Dundee, Scotland.
 * [Aquabyte](aquabyte.md) - AI computer vision + biomass monitoring; high marine sensor & ocean data needs
 * [AquaExchange](aquaexchange.md) - Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance.
+* [AquaNab](aquanab.md) - Feed-delivered alpaca nanoantibodies for sea lice in salmon — Nordic Foodtech VC (Aug 2026); Hamburg precision aqua health.
 * [Aquaticode](aquaticode.md) - AI-powered aquaculture phenotyping; $6M Series A (Aug 2022, Nacre Capital, Innocreative Capital, Martin Halusa, Einar Wathne); SORTpro automatic high-speed salmon gender sorting (10K fish/hr, >95% accuracy); SORTvax v...
 * [Astraeus Ocean Systems](astraeus-ocean-systems.md) - Mariculture crop modeling + autonomous vessel fleet for real-time ocean intelligence; Watchline hardware (temp, salinity, DO, optical sensors); Digital Oyster/Digital Kelp biological models; Almanac platform for farm...
 * [BiOceanOr](bioceanor.md) - AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence.
@@ -48,6 +49,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Dirigo Sea Farm](dirigo-sea-farm.md) - Seaweed-based materials to replace plastics; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Portland, ME; sustainable marine biomaterials
 * [Innovasea](innovasea.md) - Sustainable aquaculture tech: real-time environmental sensors (aquaMeasure), fish tracking (NexTrak acoustic telemetry), cloud communications; extensive marine sensor network needs
 * [Kurma Ai](kurma-ai.md) - GenAI & computer vision for aquaculture and fisheries; AQUA-7B foundation model, AquaChat AI assistant, AQUA OS agentic platform, AquaEye fisheries compliance; VentureWell/NOAA Ocean Enterprise Accelerator Stage 0 (20...
+* [Kuehnle AgroSystems](kuehnle-agrosystems.md) - Dark-fermentation natural astaxanthin for aquafeed & nutraceuticals; multi-million Series B (IVC/S2G/Hatch/Dest); Corbion partner; Honolulu.
 * [MacroBreed](macrobreed.md) - Genomics + selective breeding to increase seaweed aquaculture production; mariculture crop genetics; VentureWell OEA Stage 0 (spring 2026); NY-based
 * [Nearview LLC](nearview-llc.md) - Multi-object AI detection (lobster buoys, boats, aquaculture gear) from aerial/satellite imagery for marine user deconfliction; VentureWell OEA Stage 1 (spring 2026, $15K TDC); Portsmouth/Durham, NH
 * [NeuralX](neuralx.md) - Decision intelligence for aquaculture from underwater video feeds; Ocean Exchange 2025 Winner ($100K) + Neptune Award; proprietary 3D Artificial Life Simulation Engine for synthetic training data (DeepFoids NeurIPS 20...
@@ -116,6 +118,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Orca AI](orca-ai.md) - AI-powered computer vision & situational awareness for maritime navigation safety + collision avoidance; $72.5M Series B (May 2025, Brighton Park Capital lead; Ankona Capital, Hyperlink Ventures, OCV Partners, Mizmaa...
 * [SEA.AI](sea-ai.md) - Maritime machine vision for safety at sea; AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables).
 * [Sea Machines Robotics](sea-machines-robotics.md) - Autonomous control & navigation systems for commercial and defense vessels; Boston MA; products: SM300-SP (attritable compact), SM300-NG (class-approved), SELKIE (modular USV), STORMRUNNER (contested waters AUSV), AI-...
+* [ShipIn Systems](shipin-systems.md) - AI FleetVision ops intelligence for commercial shipping — onboard CCTV + sensors; $52M (Aug 2026); 1,300+ vessels / 92 shipowners; insurer-backed prevention model.
 * [VesselOps](vesselops.md) - 3D visualization and digital authentication for fleet management; VentureWell OEA Stage 2 (spring 2026, $50K TDC); New Bedford, MA; maritime fleet operations software
 * [Zeaclub](zeaclub.md) - AI-powered maritime collaborative workspace connecting ship owners, charterers, brokers, agents, ports in one platform; real-time collaboration replacing email chains & spreadsheets; structured data entry & validation...
 
@@ -145,6 +148,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Bluemvmt](bluemvmt.md) - AI-powered ocean data platform transforming unstructured IoT data (satellite, marine sensors, disparate databases) into actionable insights; Narrative Detection ML; Data Insight AI; sidecar integrations; VentureWell O...
 * [Coastal Measures](coastal-measures.md) - Coastal intelligence platform (CUMULUS) powered by YSOK AI; unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into governed data fabric; automated QA/QC; NOAA, USACE, NSF, Sofar Ocean partners;...
 * [Dottir Labs](dottir-labs.md) - MIT spinout (2023); real-time molecular-level water quality monitoring via patented Raman spectroscopy; reagent-free, non-destructive optical sensors; aquaculture, biotech, oil & gas, chemical manufacturing applicatio...
+* [Ocean Intelligence](ocean-intelligence.md) - Cawthron–Oceanum spin-out SaaS for unified marine env forecasting & ops intelligence (aqua, ports, coastal); pre-seed Quidnet Ventures (Aug 2026); Nelson, NZ.
 * [Quartermaster](quartermaster.md) - SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ s...
 * [SeaDeep](seadeep.md) - AI platform for ocean mapping, monitoring, underwater inspection using AI for marine robotics autonomy; subsea exploration intelligence; grants $1M+; partners with Seabed 2030; focuses on AI-powered ocean data for cor...
 * [Sofar Ocean](sofar-ocean.md) - Largest privately-owned ocean sensor network in the world; 2,500+ Spotter drifters deployed globally; 1.5M real-time observations/day; 25M+ hours of ocean observations; total funding ~$75-78.5M (Series B $39M led by U...
@@ -167,4 +171,5 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Sitkana](sitkana.md) - Ocean current energy systems powering remote communities; DOE grant; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Juneau, AK; tidal stream generation for Alaska coastal communities; removable anchor installation;...
 * [Sizable Energy](sizable-energy.md) - Gigawatt-scale ocean energy storage using offshore pumped hydro with brine: seabed reservoir + floating reservoir + connecting pipe + reversible pump-turbines.
 * [Spoor](spoor.md) - AI bird/bat monitoring for wind farms; €8M Series A; Sky Intelligence Platform; Ørsted/RWE/Ocean Winds.
+* [Vessev](vessev.md) - Electric hydrofoiling passenger vessels (VS–9); $19M Series A (Blackbird, Aug 2026); NZ commercial service + US expansion.
 * [Voltai](voltai.md) - Onboard wave/motion energy harvesting for ships — electrostatic generators converting wave and vibration energy into electricity without added drag.
