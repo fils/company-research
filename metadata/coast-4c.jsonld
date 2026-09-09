@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Coast 4C",
+  "url": "https://www.coast4c.com/",
+  "description": "Regenerative smallholder seaweed supply platform linking GROW farmer packages, buyer traceability, and community marine protected areas across Southeast Asia.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Southeast Asia / Philippines (ZSL spinout)"
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Nicholas Hill",
+      "jobTitle": "Founder & CEO"
+    },
+    {
+      "@type": "Person",
+      "name": "Amado Blanco",
+      "jobTitle": "Co-founder"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 2500000,
+    "description": "$2.5M seed (Aug 2026) following seaweed-prize finalist recognition"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "Two-sided regenerative seaweed marketplace + farmer GROW inputs/finance/insurance + community iMPA conservation model",
+  "lastFundingRound": "$2.5M seed (Aug 2026)",
+  "totalFunding": "$2.5M disclosed seed",
+  "knowsAbout": [
+    "Seaweed aquaculture",
+    "Smallholder regenerative farming",
+    "Community marine protected areas",
+    "Seaweed supply chain traceability",
+    "Blue economy livelihoods"
+  ],
+  "product": [
+    "GROW programme",
+    "Regenerative seaweed supply",
+    "Community iMPAs"
+  ],
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Zoological Society of London",
+    "description": "Spun out 2022 (launched 2020)"
+  }
+}

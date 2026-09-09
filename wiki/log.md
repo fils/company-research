@@ -1,5 +1,13 @@
 # Directory Update Log
 
+## 2026-09-09
+* **+3 companies** (111→114): Bluecore Energy (~$60M floating maritime nuclear SMRs; Port of Long Beach; Silverton $50M seed), Newlight Marine ($9M H2-hybrid diesel retrofit; 24%/28% fuel/CO₂ on 8,500 nm voyage), Coast 4C ($2.5M regenerative smallholder seaweed + iMPAs; ZSL spinout).
+* **Existing update**: Oshen £3.65M / ~$5M (Aug 2026, Lunar Ventures lead) manufacturing scale-up.
+* Sector counts: Offshore Energy 15→17, Aquaculture 23→24.
+* New patterns: floating barge nuclear for port/AI shore-power (Bluecore); H2 injection retrofit as fifth fleet decarbonization path (Newlight); smallholder regenerative seaweed + community MPA stack (Coast 4C); ocean-robot manufacturing bottleneck (Oshen).
+* Discovery note: primary web_search/web_extract Nous gateway unavailable — used urllib DDG + TechCrunch/homepages + X posts/news + VentureRadar Ocean funding list.
+* Profiles: raw/ + metadata/ + OKF wiki/ with Data & Measurement Needs; completeness + okf-lint gates.
+
 ## 2026-08-26
 * **+5 companies** (106→111): ShipIn Systems ($52M fleet ops AI; 1,300+ vessels), Ocean Intelligence (Quidnet pre-seed NZ marine forecast SaaS), AquaNab (Nordic Foodtech VC feed nanoAb sea lice), Kuehnle AgroSystems (Series B dark-fermentation astaxanthin; Corbion), Vessev ($19M Series A electric hydrofoils).
 * Sector counts: Maritime Ops 7→8, Ocean Data & AI 10→11, Aquaculture 21→23, Offshore Energy 14→15.

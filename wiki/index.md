@@ -34,7 +34,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Ocean Data & AI](ocean-data-ai.md) - Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 * [Offshore Energy](offshore-energy.md) - **Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/
 
-# Companies (111)
+# Companies (114)
 
 ## Aquaculture
 
@@ -46,6 +46,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Astraeus Ocean Systems](astraeus-ocean-systems.md) - Mariculture crop modeling + autonomous vessel fleet for real-time ocean intelligence; Watchline hardware (temp, salinity, DO, optical sensors); Digital Oyster/Digital Kelp biological models; Almanac platform for farm...
 * [BiOceanOr](bioceanor.md) - AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence.
 * [Biosort](biosort.md) - Individual-based sea lice control + FishID AI/machine vision for salmon aquaculture.
+* [Coast 4C](coast-4c.md) - Regenerative smallholder seaweed supply (GROW + iMPAs); $2.5M seed (Aug 2026); ZSL spinout; SE Asia eucheumatoids.
 * [Dirigo Sea Farm](dirigo-sea-farm.md) - Seaweed-based materials to replace plastics; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Portland, ME; sustainable marine biomaterials
 * [Innovasea](innovasea.md) - Sustainable aquaculture tech: real-time environmental sensors (aquaMeasure), fish tracking (NexTrak acoustic telemetry), cloud communications; extensive marine sensor network needs
 * [Kurma Ai](kurma-ai.md) - GenAI & computer vision for aquaculture and fisheries; AQUA-7B foundation model, AquaChat AI assistant, AQUA OS agentic platform, AquaEye fisheries compliance; VentureWell/NOAA Ocean Enterprise Accelerator Stage 0 (20...
@@ -159,12 +160,14 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 ## Offshore Energy
 
 * [BW Ideol](bw-ideol.md) - Floating offshore wind solutions and infrastructure
+* [Bluecore Energy](bluecore-energy.md) - Floating barge-mounted SMRs (~10 MWe) for ports/AI infra; $50M seed (Silverton, Sep 2026) after $10M pre-seed; ~$60M total; Port of Long Beach HQ; NRC+USCG path.
 * [Endurance Energy](endurance-energy.md) - Subsea geothermal baseload power — $54M Series A (Jun 2026, Founders Fund); Adélie OOI Axial Seamount pilot; Tonga partnership; Seattle.
 * [Fleetzero](fleetzero.md) - Marine energy & robotics — ultra energy-dense modular marine battery systems (Leviathan) + hybrid/electric propulsion for commercial vessels.
 * [Gazelle Wind Power](gazelle-wind-power.md) - Floating wind platforms; needs oceanographic/metocean data services
 * [Kvasir Technologies](kvasir-technologies.md) - Climate-neutral drop-in marine biofuel from lignocellulosic biomass (non-edible agricultural & forestry waste).
+* [Newlight Marine](newlight-marine.md) - Hydrogen-hybrid diesel retrofit; 24% fuel / 28% CO₂ on 8,500 nm Lomar voyage; $9M seed (Sep 2026, lomarlabs/BIRD/Fusion); Alameda CA.
 * [Ørsted](orsted.md) - Offshore wind major; extensive marine environmental surveys & monitoring
-* [Oshen](oshen.md) - Autonomous ocean robots (C-Stars) for persistent wide-area ocean intelligence; NOAA contracts; funded by UK ARIA; extreme weather data collection; real-time wave height, wind speed, oceanographic data
+* [Oshen](oshen.md) - C-Star autonomous ocean robot swarms; £3.65M (Aug 2026, Lunar Ventures) to triple manufacturing; US/Royal Navy, Met Office, NOAA.
 * [Panthalassa](panthalassa.md) - Ocean wave-powered AI computing & data centers; $140M Series B (May 2026) led by Peter Thiel; ~$1B valuation; offshore compute nodes and wave energy generation; Fortune/FT/Reuters coverage May 2026; marine environment...
 * [Pittsburgh Coastal Energy](pittsburgh-coastal-energy.md) - Subsea power via modular onboard wave-energy converters for autonomous maritime systems; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Pittsburgh, PA; ocean wave charging for underwater systems; NOAA/defense applic...
 * [Principle Power](principle-power.md) - Floating offshore wind platform technology

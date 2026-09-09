@@ -4,8 +4,8 @@ title: Aquaculture
 description: Sector overview for aquaculture technology and monitoring companies.
 tags:
 - aquaculture
-timestamp: '2026-08-26T00:00:00Z'
-date: '2026-08-26'
+timestamp: '2026-09-09T00:00:00Z'
+date: '2026-09-09'
 sector: Aquaculture
 ---
 
@@ -13,7 +13,7 @@ sector: Aquaculture
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (23 monitored)
+## Companies (24 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -39,6 +39,7 @@ Sector overview for aquaculture technology and monitoring companies.
 | [Nernst Electric](nernst-electric.md) | On-site ceramic OTM oxygen generators for remote fish farms; €1.7M Hatch Blue Seed (Jul 2026) | High |
 | [AquaNab](aquanab.md) (NEW) | Feed-delivered alpaca nanoantibodies for sea lice; Nordic Foodtech VC (Aug 2026); Hamburg | High |
 | [Kuehnle AgroSystems](kuehnle-agrosystems.md) (NEW) | Dark-fermentation natural astaxanthin; multi-million Series B (IVC/S2G/Hatch); Corbion partner | Moderate |
+| [Coast 4C](coast-4c.md) (NEW 2026-09-09) | Regenerative smallholder seaweed supply + GROW + community iMPAs; $2.5M seed (Aug 2026); ZSL spinout | High |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -65,6 +66,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - **On-site oxygen as aquaculture infrastructure** (Nernst Electric): Ceramic OTM generators targeting remote farms where LOx logistics fail — critical input layer that pairs with hypoxia forecasting (BiOceanOr) and RAS control stacks (Oceanloop/ReelData); Hatch Blue co-portfolio with Oceanloop
 - **Feed-route biologic sea-lice control** (AquaNab): Alpaca nanoantibodies delivered in feed that cross the gut barrier — non-toxic/stress-free/residue-free alternative to chemical baths and mechanical delousing. Complements individual-ID intervention (Biosort) and welfare hardware (Ace Aquatec) with a **platform therapeutic** expandable beyond lice to bacterial/viral/parasitic disease
 - **Dark-fermentation feed ingredient scale-up** (Kuehnle AgroSystems): Natural astaxanthin via heterotrophic fermentation (Biorea demo + Corbion industrial partnership) attacks the $2B pigment/antioxidant input market with claimed ~90% cost reduction vs phototrophic routes — Hatch Blue co-portfolio signal with Oceanloop/Nernst
+- **Smallholder regenerative seaweed supply + iMPA stack** (Coast 4C): ZSL spinout building buyer-grade eucheumatoid supply via GROW farmer packages (inputs/finance/insurance) and community marine protected areas — 705 t dried (2024), 5,868 ha iMPAs, $2.5M seed (Aug 2026). Complements kelp genetics (MacroBreed) and biomaterials (Dirigo) with the **livelihood + conservation distribution layer** required to scale SE Asia smallholder production
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -74,6 +76,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - Shellfish/seaweed mariculture gaining investment; MacroBreed's genomic approach de-risks scaling
 - Kelp farming regulatory framework evolving — non-reproductive strains may unlock new zones (PCT/US2024/027903)
 - Environmental shock prediction becoming critical as climate variability threatens aquaculture reliability
+- Regenerative seaweed supply chains (Coast 4C) couple brand ESG demand with community MPA expansion — traceability/MRV becomes the bottleneck
 
 ---
-*Last updated: 2026-08-26*
+*Last updated: 2026-09-09*

@@ -25,10 +25,12 @@ sector: Offshore Energy
 - Endurance Energy: https://www.enduranceenergy.com/
 - Spoor: https://www.spoor.ai/
 - Vessev: https://www.vessev.com/
+- Bluecore Energy: https://www.bluecore.energy/
+- Newlight Marine: https://www.newlightmarine.com/
 
-**Overview (as of August 2026)**
+**Overview (as of September 2026)**
 
-Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), vessel-mounted wave harvesters (Voltai), subsea geothermal baseload (Endurance Energy), AI biodiversity monitoring for wind permitting (Spoor), and electric hydrofoiling passenger vessels (Vessev). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
+Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), vessel-mounted wave harvesters (Voltai), subsea geothermal baseload (Endurance Energy), AI biodiversity monitoring for wind permitting (Spoor), electric hydrofoiling passenger vessels (Vessev), floating barge-mounted nuclear SMRs for ports/AI infra (Bluecore Energy), and hydrogen-hybrid diesel retrofits (Newlight Marine). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
 
 **Core Themes**
 - Floating wind platform technology (Ørsted, Gazelle, Principle Power, BW Ideol)
@@ -42,6 +44,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - Subsea geothermal baseload at mid-ocean ridges / Ring of Fire (Endurance Energy — $54M Series A, Founders Fund)
 - AI bird/bat monitoring for wind EIA, permitting, and curtailment (Spoor — €8M Series A; Ørsted/RWE/Ocean Winds)
 - Electric hydrofoiling passenger vessels (Vessev — $19M Series A; NZ commercial service + US expansion)
+- Floating maritime nuclear baseload for ports & coastal AI (Bluecore Energy — ~$60M; 10 MWe barge SMRs; Port of Long Beach)
+- Hydrogen-hybrid retrofit for existing marine diesels (Newlight Marine — $9M seed; 24% fuel cut on 8,500 nm voyage)
 - Extreme demand for oceanographic and meteorological (metocean) data
 - Extensive marine environmental surveys and biodiversity monitoring requirements
 
@@ -54,7 +58,7 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 | [Principle Power](principle-power.md) | WindFloat® semi-submersible | Project-based | Critical |
 | [BW Ideol](bw-ideol.md) | Damping Pool® floating platform | Project-based | High |
 | [Panthalassa](panthalassa.md) | Wave-powered offshore AI computing | $140M Series B (May 2026) | Critical |
-| [Oshen](oshen.md) | C-Star autonomous ocean robots | £2M ARIA | Core Business |
+| [Oshen](oshen.md) | C-Star autonomous ocean robots | £3.65M / ~$5M (Aug 2026, Lunar Ventures) + ARIA heritage | Core Business |
 | [Pittsburgh Coastal Energy](pittsburgh-coastal-energy.md) | Modular onboard wave-energy converters for subsea power | $50K TDC (OEA Stage 2), $25K Baylor New Venture | High |
 | [Sitkana](sitkana.md) | Tidal current hydrogenerators for remote communities | $50K TDC (OEA Stage 2), DOE Grant | Critical |
 | [Fleetzero](fleetzero.md) | Leviathan modular marine battery systems + hybrid/electric propulsion | $43M Series A (Jan 2026, Obvious Ventures/Maersk Growth/Breakthrough Energy) | High |
@@ -64,11 +68,13 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 | [Endurance Energy](endurance-energy.md) | Subsea geothermal baseload (modular seafloor plants; Adélie OOI pilot; Tonga partnership) | $54M Series A (Jun 2026, Founders Fund); ~$84M cumulative | Critical |
 | [Spoor](spoor.md) | AI CV bird/bat monitoring + Sky Intelligence Platform for wind EIA/ops | €8M Series A | Critical |
 | [Vessev](vessev.md) (NEW 2026-08-26) | Electric hydrofoiling passenger vessels (VS–9) + onboard telemetry | $19M Series A (Aug 2026, Blackbird) | High |
+| [Bluecore Energy](bluecore-energy.md) (NEW 2026-09-09) | Floating barge-mounted water-cooled SMRs (~10 MWe) for ports/AI infra | $50M seed + $10M pre-seed (~$60M, Sep 2026) | Critical |
+| [Newlight Marine](newlight-marine.md) (NEW 2026-09-09) | H2-hybrid retrofit for existing marine diesels (no drydock) | $9M seed (Sep 2026, lomarlabs/BIRD/Fusion) | High |
 
 **Key Insights**
 - All offshore energy companies require high-quality metocean data and marine environmental baselines.
 - Panthalassa's $140M Series B (May 2026, led by Peter Thiel) represents the largest single funding event in this sector — wave-powered AI compute at sea is now a unicorn-class category.
-- Oshen's C-Star constellations directly address the ocean data gap, making them a natural partner for every other company's MRV/data needs.
+- Oshen's C-Star constellations directly address the ocean data gap, making them a natural partner for every other company's MRV/data needs. **Aug 2026 £3.65M** (Lunar Ventures lead) funds manufacturing scale-up — sensing works; production is the bottleneck.
 - Strong synergy between offshore energy and climate risk providers for physical risk modeling of assets.
 - Installation, IMR, and decommissioning phases represent major data and service needs.
 - **Pittsburgh Coastal Energy** represents a growing niche: onboard wave energy harvesting for autonomous subsea operations — modular converters that power maritime defense assets without shore infrastructure.
@@ -80,6 +86,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - **Endurance Energy** ($54M Series A, Founders Fund) opens a new baseload pathway: modular subsea geothermal at tectonic spreading centers / volcanic seafloor. Distinct from generation (wind/wave/tidal), storage (Sizable), and vessel propulsion (Fleetzero/Kvasir/Voltai). Pulls hard on OOI-class cabled observatories, AUV/ROV site characterization, and benthic environmental baselines (Adélie Axial Seamount pilot; Tonga island partnership).
 - **Spoor** (€8M Series A) adds the biodiversity compliance layer for wind: continuous AI bird/bat monitoring (Sky Intelligence Platform; buoy-mounted offshore cameras) used by Ørsted, RWE, Ocean Winds to de-risk EIA/permitting and cut curtailment. Complements metocean/survey data (Sofar, XOCEAN, Oshen) with the avian channel operators must prove to regulators.
 - **Vessev** ($19M Series A, Blackbird lead, Aug 2026) adds certified **electric hydrofoiling passenger vessels** (VS–9) already in NZ commercial service with US expansion (NY/DC/Lake Tahoe). Complements Fleetzero (battery/propulsion systems) with a full hydrofoil OEM + onboard telemetry stack — America's Cup foil DNA + serial production push. Low-wake zero-emission passenger routes as a coastal decarbonization product, not deep-ocean generation.
+- **Bluecore Energy** (~$60M in <1 year; $50M seed Silverton Sep 2026) opens **floating maritime nuclear** as port/AI shore-power: barge SMRs (~10 MWe) headquartered at Port of Long Beach with NRC+USCG certification path. Distinct from vessel propulsion (Fleetzero/Kvasir/Newlight/Vessev) and subsea geothermal baseload (Endurance) — mobile nuclear delivered from the water side to industrial demand.
+- **Newlight Marine** ($9M seed Sep 2026) adds **hydrogen-hybrid diesel retrofit** validated on an 8,500 nm commercial voyage (24% fuel / 28% CO₂). Fifth near-term fleet decarbonization path alongside batteries (Fleetzero), drop-in biofuel (Kvasir), wind sails (Aloft), and motion harvesting (Voltai) — optimized for ships already at sea without drydock.
 
-**Last Updated**: 2026-08-26
-**Total Companies**: 15 (Offshore Energy sector)
+**Last Updated**: 2026-09-09
+**Total Companies**: 17 (Offshore Energy sector)

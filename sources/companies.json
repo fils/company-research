@@ -269,8 +269,8 @@
     "sector": "Offshore Energy",
     "name": "Oshen",
     "url": "https://www.oshendata.com/",
-    "notes": "Autonomous ocean robots (C-Stars) for persistent wide-area ocean intelligence; NOAA contracts; funded by UK ARIA; extreme weather data collection; real-time wave height, wind speed, oceanographic data",
-    "last_updated": "2026-05-16"
+    "notes": "Autonomous ocean robots (C-Stars) for persistent wide-area ocean intelligence; swarms of wind/solar USVs. Customers: US Navy, Royal Navy, Met Office. NOAA hurricane contracts; UK ARIA Forecasting Tipping Points heritage. **\u00a33.65M / ~$5M equity (Aug 2026)** led by Lunar Ventures with AlbionVC, Twin Track, Concept Ventures + angels \u2014 to triple C-Star manufacturing (CEO Anahita Laverack: production as 'fast-food kitchen not shipyard'). Plymouth, UK; team ~30. Real-time wave height, wind, oceanographic telemetry.",
+    "last_updated": "2026-09-09"
   },
   {
     "sector": "Offshore Energy",
@@ -775,5 +775,26 @@
     "url": "https://www.vessev.com/",
     "notes": "Auckland electric hydrofoiling passenger vessels (VS\u20139 line) \u2014 America's Cup-inspired dynamic foils + electric propulsion + onboard software/telemetry. $19M Series A (Aug 2026) led by Blackbird Ventures; GD1, Rypples new; existing K1W1, Icehouse, Shasta, NZVC, angels. Commercially certified vessels in NZ service; demand across 5 continents; US expansion (NY, DC, Lake Tahoe). CEO Eric Laakmann. Team from America's Cup, Rocket Lab, Apple, Tesla, Navico. Complements Fleetzero (batteries) on maritime electrification stack.",
     "last_updated": "2026-08-26"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Bluecore Energy",
+    "url": "https://www.bluecore.energy/",
+    "notes": "Floating maritime nuclear SMRs on barges (~10 MWe first unit) for ports, AI data centers, coastal infrastructure. HQ inside Port of Long Beach (first nuclear co headquartered at a major port). Founder/CEO Kofi Asante (Uber alum). $10M pre-seed (Jul 2026 stealth exit) + oversubscribed $50M seed (Sep 8 2026, Silverton Partners lead; Slauson & Co., Harlem Capital, Chris Larsen/Ripple, Collab Capital, HartBeat Ventures, Tesla/Uber/Amazon/Google angels) \u2014 ~$60M total in ~2 months. Two barges launched; formal NRC + USCG design review (Aug 2026); MARAD/DOT Maritime partnership. Team DNA: SpaceX, Rivian, Toyota, US Navy nuclear. Use of proceeds: engineering, fuel, certification, hiring.",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "Newlight Marine",
+    "url": "https://www.newlightmarine.com/",
+    "notes": "Hydrogen-hybrid retrofit for existing marine diesel engines (Newlight Marine Technologies Inc., Alameda CA). Millisecond-level H2 injection control using exhaust temp, combustion pressure, air intake; install in ~1\u20132 weeks without drydock. Commercial validation: 8,500 nm Singapore\u2192Ghana on 650-ft Lomar bulk carrier \u2014 24% diesel cut, 28% CO2, 22% CO, 21% SO2. $9M seed (Sep 1 2026): lomarlabs, BIRD Energy (US DOE + Israel MoE), Undeterred Capital, CiRi Ventures, Fusion VC. Founders Haran Cohen Hillel (CEO) & Evyatar Cohen (Israeli Navy). RINA FAT for 2-/4-stroke mains; Vessel of the Future finalist SMM 2026. Claims LOIs for 12 vessels; live AIS map shows Oslo Trader + Lucy Borchard. Distinct from Newlight Technologies (AirCarbon biomaterials).",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Coast 4C",
+    "url": "https://www.coast4c.com/",
+    "notes": "Regenerative smallholder seaweed supply platform (Philippines/SE Asia) spinning out of ZSL (2020 launch, 2022 spinout). 4Cs: Community, Commerce, Conservation, Climate. GROW program: regenerative farm input packages, education, finance, insurance for seaweed farmers; buyer-side traceable eucheumatoid supply for food/feed/fertiliser/plastics. Impact: 286 farmers with GROW packages by end-2024; target 500 families by end-2025; 5,868 ha across 8 community iMPAs; 1,200% YoY growth in seaweed traded (705 t dried 2024 YTD). Goal: 500,000 farming families SE Asia. $2.5M seed (Aug 2026, VentureRadar/Undercurrent) after seaweed-prize finalist signal. Founders Nick Hill (ecologist, ZSL/Imperial) & Amado \"Madz\" Blanco (Project Seahorse). Net-Works heritage with Interface.",
+    "last_updated": "2026-09-09"
   }
 ]

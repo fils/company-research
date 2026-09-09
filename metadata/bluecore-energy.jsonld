@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Bluecore Energy",
+  "url": "https://www.bluecore.energy/",
+  "description": "Floating barge-mounted water-cooled SMR nuclear power systems (~10 MWe) for ports, AI data centers, and coastal infrastructure.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Port of Long Beach, California, USA"
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Kofi Asante",
+      "jobTitle": "Founder & CEO"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 50000000,
+    "description": "$50M oversubscribed seed (Sep 2026, Silverton Partners lead) after $10M pre-seed (Jul 2026); ~$60M total"
+  },
+  "sector": "Offshore Energy",
+  "businessModel": "Transportable floating nuclear baseload power for ports and coastal AI/critical infrastructure; certification-first maritime SMR OEM",
+  "lastFundingRound": "$50M seed (Sep 8 2026) \u2014 Silverton Partners lead; Slauson & Co., Collab Capital, HartBeat Ventures, Harlem Capital, Chris Larsen, strategic angels",
+  "totalFunding": "~$60M ($10M pre-seed + $50M seed)",
+  "investors": [
+    "Silverton Partners",
+    "Slauson & Co.",
+    "Harlem Capital",
+    "Chris Larsen",
+    "Collab Capital",
+    "HartBeat Ventures"
+  ],
+  "knowsAbout": [
+    "Floating nuclear power",
+    "Maritime SMR",
+    "Port electrification",
+    "Water-cooled reactors",
+    "NRC maritime nuclear licensing"
+  ],
+  "product": [
+    "10 MWe barge-mounted SMR",
+    "Floating nuclear power plant"
+  ],
+  "partner": [
+    "Port of Long Beach",
+    "U.S. Nuclear Regulatory Commission",
+    "U.S. Coast Guard",
+    "U.S. DOT Maritime Administration"
+  ]
+}

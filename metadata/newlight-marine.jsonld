@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Newlight Marine",
+  "legalName": "Newlight Marine Technologies Inc.",
+  "url": "https://www.newlightmarine.com/",
+  "description": "Hydrogen-hybrid retrofit system for existing marine diesel engines \u2014 real-time controlled H2 injection cutting fuel use ~24% and CO2 ~28% without drydock or engine replacement.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Alameda, California, USA"
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Haran Cohen Hillel",
+      "jobTitle": "Co-founder & CEO"
+    },
+    {
+      "@type": "Person",
+      "name": "Evyatar Cohen",
+      "jobTitle": "Co-founder"
+    }
+  ],
+  "funding": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": 9000000,
+    "description": "$9M seed (Sep 2026) \u2014 lomarlabs, BIRD Energy, Undeterred Capital, CiRi Ventures, Fusion VC"
+  },
+  "sector": "Offshore Energy",
+  "businessModel": "Hydrogen injection retrofit hardware + controls sold/installed on existing commercial diesels; savings-share via fuel OPEX reduction; no drydock path",
+  "lastFundingRound": "$9M seed (Sep 1 2026)",
+  "totalFunding": "$9M disclosed seed",
+  "investors": [
+    "lomarlabs",
+    "BIRD Energy",
+    "Undeterred Capital",
+    "CiRi Ventures",
+    "Fusion VC"
+  ],
+  "knowsAbout": [
+    "Marine hydrogen hybrid propulsion",
+    "Diesel engine retrofit",
+    "Ship fuel efficiency",
+    "IMO emissions reduction",
+    "Real-time engine control"
+  ],
+  "product": [
+    "Hydrogen hybrid propulsion retrofit",
+    "Hydrogen Control System",
+    "Hydrogen supply conditioning"
+  ],
+  "partner": [
+    "Lomar Shipping",
+    "RINA",
+    "AURELIA"
+  ]
+}
