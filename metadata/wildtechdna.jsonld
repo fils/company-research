@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "WildTechDNA",
+  "url": "https://wildtechdna.com/",
+  "description": "Ultra-rapid instrument-free DNA detection; ORYA multi-pathogen ~15-minute on-site screening for salmon and shrimp aquaculture.",
+  "sector": "Aquaculture",
+  "businessModel": "On-site multi-pathogen DNA kits/consumables for producers and distributors; platform expandable across species and non-aqua verticals",
+  "lastFundingRound": "No disclosed equity round in Sep 2026 launch coverage",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Keith Liddiard",
+      "jobTitle": "Co-founder"
+    }
+  ],
+  "knowsAbout": [
+    "Isothermal DNA amplification",
+    "Multi-pathogen screening",
+    "Salmon and shrimp disease diagnostics",
+    "Field molecular testing"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "On-site pathogen DNA assay results",
+      "Lab PCR confirmation",
+      "Farm biosecurity and mortality logs",
+      "Regional outbreak intelligence"
+    ],
+    "keyMeasurements": [
+      "Multi-pathogen presence/absence",
+      "Time-to-result",
+      "Sensitivity/specificity vs lab gold standards",
+      "Matrix inhibition flags"
+    ],
+    "observationPlatforms": [
+      "ORYA handheld kits",
+      "Producer/distributor field deployments"
+    ],
+    "knownGaps": [
+      "Published panel lists and LODs by species",
+      "Networked outbreak sharing standards",
+      "API hooks into farm OS and regulator reporting"
+    ],
+    "interestInExternalDataServices": "Neighboring-farm disease alerts, water-quality context, eDNA time series, veterinary lab networks"
+  }
+}

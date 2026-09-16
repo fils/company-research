@@ -34,7 +34,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Ocean Data & AI](ocean-data-ai.md) - Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 * [Offshore Energy](offshore-energy.md) - **Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/
 
-# Companies (114)
+# Companies (117)
 
 ## Aquaculture
 
@@ -48,6 +48,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Biosort](biosort.md) - Individual-based sea lice control + FishID AI/machine vision for salmon aquaculture.
 * [Coast 4C](coast-4c.md) - Regenerative smallholder seaweed supply (GROW + iMPAs); $2.5M seed (Aug 2026); ZSL spinout; SE Asia eucheumatoids.
 * [Dirigo Sea Farm](dirigo-sea-farm.md) - Seaweed-based materials to replace plastics; VentureWell OEA Stage 2 (spring 2026, $50K TDC); Portland, ME; sustainable marine biomaterials
+* [Esox Biologics](esox-biologics.md) - Metagenomic Detect aquaculture microbiome platform; first sabellid worm genome for abalone water-based early warning (2026); London.
 * [Innovasea](innovasea.md) - Sustainable aquaculture tech: real-time environmental sensors (aquaMeasure), fish tracking (NexTrak acoustic telemetry), cloud communications; extensive marine sensor network needs
 * [Kurma Ai](kurma-ai.md) - GenAI & computer vision for aquaculture and fisheries; AQUA-7B foundation model, AquaChat AI assistant, AQUA OS agentic platform, AquaEye fisheries compliance; VentureWell/NOAA Ocean Enterprise Accelerator Stage 0 (20...
 * [Kuehnle AgroSystems](kuehnle-agrosystems.md) - Dark-fermentation natural astaxanthin for aquafeed & nutraceuticals; multi-million Series B (IVC/S2G/Hatch/Dest); Corbion partner; Honolulu.
@@ -62,6 +63,8 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [ReelData AI](reeldata-ai.md) - AI-powered precision aquaculture for land-based farms; $8M Series A (2025); AI suite (ReelAppetite, ReelWeight, ReelCount) for feed optimization, biomass estimation, fish health monitoring; camera systems for behavior...
 * [Tidal](tidal.md) - AI-powered underwater vision + robotics for aquaculture; Alphabet/X (moonshot factory) spinout (Aug 2024); funding from Perry Creek, Kverva-backed IVC, Futurum Ventures; Orca camera system (newest gen); 300+ cameras d...
 * [Vycarb](vycarb.md) - Water-based CO2 capture & storage; $5M seed (Oct 2025, Twynam lead; Shell, Hatch Blue, Singapore govt); partnerships with Tomco Systems (industrial CO2 mgmt) & atdepth (MIT spinout ocean monitoring, Google/NASA-backed...
+* [WellFish Tech](wellfish-tech.md) - Blood-biomarker fish health + 28-day mortality forecast (WellFish Predict); oversubscribed interim Aug 2026; Series A planned 2027.
+* [WildTechDNA](wildtechdna.md) - ORYA handheld multi-pathogen DNA kit (~15 min) for salmon/shrimp; instrument-free isothermal platform; Sep 2026 aquaculture launch.
 
 ## Bioprospecting
 

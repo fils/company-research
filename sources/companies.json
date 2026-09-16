@@ -796,5 +796,26 @@
     "url": "https://www.coast4c.com/",
     "notes": "Regenerative smallholder seaweed supply platform (Philippines/SE Asia) spinning out of ZSL (2020 launch, 2022 spinout). 4Cs: Community, Commerce, Conservation, Climate. GROW program: regenerative farm input packages, education, finance, insurance for seaweed farmers; buyer-side traceable eucheumatoid supply for food/feed/fertiliser/plastics. Impact: 286 farmers with GROW packages by end-2024; target 500 families by end-2025; 5,868 ha across 8 community iMPAs; 1,200% YoY growth in seaweed traded (705 t dried 2024 YTD). Goal: 500,000 farming families SE Asia. $2.5M seed (Aug 2026, VentureRadar/Undercurrent) after seaweed-prize finalist signal. Founders Nick Hill (ecologist, ZSL/Imperial) & Amado \"Madz\" Blanco (Project Seahorse). Net-Works heritage with Interface.",
     "last_updated": "2026-09-09"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "WellFish Tech",
+    "url": "https://wellfishtech.com/",
+    "notes": "Blood-biomarker fish health platform + WellFish Predict 28-day mortality forecast from non-lethal clinical chemistry. Customers sample on farm; results ~24h; patents + Mattilsynet-aligned protocols. Commercial traction Norway/Iceland plus UK/Ireland/N+S America (Loch Duart case). Significantly oversubscribed interim financing (ann. 27 Aug 2026) from undisclosed VC/family office/private investors across NO/UK/EU \u2014 preparing Series A in 2027. Group FD Erik Tveteraas. Focus: predictive physiology beyond env/production telemetry; welfare, feed, harvest timing, treatment planning.",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "WildTechDNA",
+    "url": "https://wildtechdna.com/",
+    "notes": "Ultra-rapid instrument-free DNA detection; ORYA multi-pathogen on-site kit for salmon & shrimp (~15 min, handheld, no lab/molecular expertise). Isothermal amplification platform; adaptable to other species/pathogens; also conservation, wildlife enforcement, food systems. ORYA aquaculture launch covered 14 Sep 2026 (The Fish Site); Responsible Seafood Innovation Awards finalist. Co-founder Keith Liddiard. Priority notifications via website; early commercial GTM for producers/distributors.",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Esox Biologics",
+    "url": "https://esoxbiologics.com/",
+    "notes": "London metagenomics microbiome platform 'Detect' \u2014 sequences all DNA in water/swab samples to ID pathogens + beneficial microbes without prior assumptions. Stage modules: green/eyed eggs, biofilters, RAS, production, oysters. World's first full genome of sabellid worm Terebrasabella heterouncinata (ann. ~2 Sep 2026) enabling water-sample detection of worm/larvae/eggs before shell infestation on abalone farms (MD Matthew Pope). Also UK shellfish larval survival / antibiotic-alternative work (2026). Low-abundance detection claims qPCR-like sensitivity with full community view.",
+    "last_updated": "2026-09-16"
   }
 ]

@@ -1,5 +1,12 @@
 # Directory Update Log
 
+## 2026-09-16
+* **+3 companies** (114→117): WellFish Tech (blood-biomarker fish health + WellFish Predict 28-day mortality; oversubscribed interim Aug 2026 → Series A 2027), WildTechDNA (ORYA ~15-min multi-pathogen DNA kits for salmon/shrimp; Sep 2026 launch), Esox Biologics (metagenomic Detect; first sabellid worm genome for abalone early warning).
+* Sector counts: Aquaculture 24→27. Total 117.
+* New patterns: host physiology biomarkers as production OS (WellFish); point-of-care multi-pathogen DNA (WildTechDNA); full-community metagenomic Detect + parasite genome moat (Esox) — layered biosecurity data stack with Nucleic Sensing Systems.
+* Discovery note: web_search/web_extract Nous gateway unavailable — urllib Fish Site + homepages + X news/posts; deferred Poseidon Aerospace (air cargo, not marine data core).
+* Profiles: raw/ + metadata/ + OKF wiki/ with Data & Measurement Needs; completeness + okf-lint gates.
+
 ## 2026-09-09
 * **+3 companies** (111→114): Bluecore Energy (~$60M floating maritime nuclear SMRs; Port of Long Beach; Silverton $50M seed), Newlight Marine ($9M H2-hybrid diesel retrofit; 24%/28% fuel/CO₂ on 8,500 nm voyage), Coast 4C ($2.5M regenerative smallholder seaweed + iMPAs; ZSL spinout).
 * **Existing update**: Oshen £3.65M / ~$5M (Aug 2026, Lunar Ventures lead) manufacturing scale-up.

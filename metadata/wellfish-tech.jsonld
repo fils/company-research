@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "WellFish Tech",
+  "url": "https://wellfishtech.com/",
+  "description": "Blood-biomarker clinical chemistry platform for continuous fish health monitoring and 28-day mortality forecasting (WellFish Predict) in aquaculture.",
+  "sector": "Aquaculture",
+  "businessModel": "B2B predictive fish-health analytics via non-lethal blood biomarkers + lab/service workflow; bridge-financed toward Series A 2027",
+  "lastFundingRound": "Oversubscribed interim financing (ann. 27 Aug 2026); amount undisclosed; Series A planned 2027",
+  "totalFunding": "Undisclosed interim round (Aug 2026)",
+  "investors": [
+    "Undisclosed VC / family office / private investors (Norway, UK, EU)"
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Erik Tveteraas",
+      "jobTitle": "Group Finance Director"
+    }
+  ],
+  "knowsAbout": [
+    "Fish blood biomarkers",
+    "Mortality forecasting",
+    "Salmon health welfare",
+    "Non-lethal sampling",
+    "Aquaculture clinical chemistry"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Blood biochemistry time series",
+      "Farm environmental telemetry",
+      "Mortality and treatment records",
+      "Feed and biomass data"
+    ],
+    "keyMeasurements": [
+      "Clinical chemistry biomarkers",
+      "28-day mortality risk",
+      "Gill/liver/kidney/pancreas function markers",
+      "DO temperature salinity context"
+    ],
+    "observationPlatforms": [
+      "On-farm non-lethal blood sampling",
+      "Central lab analysis",
+      "WellFish Predict model"
+    ],
+    "knownGaps": [
+      "Cross-site biomarker baseline standards",
+      "Fusion with eDNA/pathogen panels",
+      "Open APIs to multi-vendor farm OS"
+    ],
+    "interestInExternalDataServices": "Site metocean/WQ, pathogen outbreak networks, sea-lice counts, feed composition, genetics/strain metadata"
+  }
+}

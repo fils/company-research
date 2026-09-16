@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Esox Biologics",
+  "url": "https://esoxbiologics.com/",
+  "description": "London metagenomics company; Detect platform profiles full aquaculture microbiomes from water/swabs; first sabellid worm genome for abalone early detection.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "London, United Kingdom"
+  },
+  "sector": "Aquaculture",
+  "businessModel": "B2B metagenomic testing + interpreted Detect reports/watchlists for hatchery-to-harvest aquaculture systems",
+  "lastFundingRound": "No disclosed round in Aug/Sep 2026 coverage",
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Matthew Pope",
+      "jobTitle": "Managing Director"
+    }
+  ],
+  "knowsAbout": [
+    "Metagenomics",
+    "Aquaculture microbiome",
+    "Sabellid worm detection",
+    "RAS biofilter microbiology",
+    "Shellfish larval health"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Metagenomic sequence data",
+      "Water and biofilm samples",
+      "Pathogen/beneficial abundance tables",
+      "Water chemistry covariates"
+    ],
+    "keyMeasurements": [
+      "Community composition",
+      "Pathogen presence and relative abundance",
+      "Sabellid DNA (worm/larvae/eggs)",
+      "Biofilter function microbes"
+    ],
+    "observationPlatforms": [
+      "Detect sampling kits by production stage",
+      "Sequencing + bioinformatics pipeline",
+      "Microbes-of-interest watchlists"
+    ],
+    "knownGaps": [
+      "Published turnaround SLAs",
+      "Open benchmark datasets vs qPCR panels",
+      "On-farm edge sequencing path"
+    ],
+    "interestInExternalDataServices": "WQ sensor streams, antibiotic-use logs, larval survival KPIs, parasite genome consortia, farm OS APIs"
+  }
+}
