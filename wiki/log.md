@@ -1,5 +1,13 @@
 # Directory Update Log
 
+## 2026-09-23
+* **+4 companies** (117→121): ARK Inc (Japanese modular closed RAS + land-based grouper/prawn; ~$8.5M Series A Sep 2026; UAE/Indonesia Global South), Bulwark Dynamics (CARAVEL autonomous beach-landing resupply USV; $6.8M seed + Onomichi Dockyard), Marcura (voyage/vessel/crew OS + AI on transaction network; CEO Henrik Hyldahn), HydroSurv (UK REAV commercial survey USVs; OWGP USV-first 3D SBP).
+* Sector counts: Aquaculture 27→28, Marine Monitoring & Sensors 28→30, Maritime Ops 8→9. Total 121.
+* New patterns: modular RAS export for Global South food security (ARK); autonomous beach-landing logistics USV niche (Bulwark); transaction-network voyage OS orthogonal to onboard CV (Marcura); commercial survey USV + USV-first 3D SBP for OSW geophysics (HydroSurv).
+* Existing signal (not re-profiled): Saildrone Voyager USVs first national flag registration under Denmark (Sep 2026).
+* Discovery note: web_search Nous gateway unavailable — urllib Fish Site + NewMarketPitch + Maritime Executive + Bing/Google News RSS + X posts; DDG HTML empty this cycle.
+* Profiles: raw/ + metadata/ + OKF wiki/ with Data & Measurement Needs; completeness + okf-lint gates.
+
 ## 2026-09-16
 * **+3 companies** (114→117): WellFish Tech (blood-biomarker fish health + WellFish Predict 28-day mortality; oversubscribed interim Aug 2026 → Series A 2027), WildTechDNA (ORYA ~15-min multi-pathogen DNA kits for salmon/shrimp; Sep 2026 launch), Esox Biologics (metagenomic Detect; first sabellid worm genome for abalone early warning).
 * Sector counts: Aquaculture 24→27. Total 117.

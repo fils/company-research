@@ -28,13 +28,13 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Bioprospecting](bioprospecting.md) - **Official Sector Sources**: - Ginkgo Bioworks: https://www.ginkgo.bio/
 * [Climate Risk](climate-risk.md) - Climate risk intelligence providers in the knowledge graph specialize in translating physical climate hazards into financial and operational impacts.
 * [Coastal Risk & Infrastructure](coastal-risk-infrastructure.md) - **Last Updated**: 2026-05-25 **Companies Tracked**: 3
-* [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-08-19 **Companies Tracked**: 28
-* [Maritime Operations & Analytics](maritime-operations-analytics.md) - **Last Updated**: 2026-08-26 **Companies Tracked**: 8
+* [Marine Monitoring & Sensors](marine-monitoring-sensors.md) - **Last Updated**: 2026-09-23 **Companies Tracked**: 30
+* [Maritime Operations & Analytics](maritime-operations-analytics.md) - **Last Updated**: 2026-09-23 **Companies Tracked**: 9
 * [Ocean Carbon Sequestration](ocean-carbon-sequestration.md) - Sector overview for ocean-based carbon dioxide removal companies.
 * [Ocean Data & AI](ocean-data-ai.md) - Ocean Data & AI is a rapidly growing sector in the knowledge graph covering companies whose primary business is providing AI-powered ocean data intelligence platforms and services.
 * [Offshore Energy](offshore-energy.md) - **Official Sector Sources**: - Ørsted: https://orsted.com/ - Gazelle Wind Power: https://gazellewindpower.com/ - Principle Power: https://www.principlepower.com/
 
-# Companies (117)
+# Companies (121)
 
 ## Aquaculture
 
@@ -42,6 +42,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Aquabyte](aquabyte.md) - AI computer vision + biomass monitoring; high marine sensor & ocean data needs
 * [AquaExchange](aquaexchange.md) - Full-stack IoT/AI platform for shrimp aquaculture — farm automation, AI analytics, marketplace, embedded finance, insurance.
 * [AquaNab](aquanab.md) - Feed-delivered alpaca nanoantibodies for sea lice in salmon — Nordic Foodtech VC (Aug 2026); Hamburg precision aqua health.
+* [ARK Inc](ark-inc.md) - Japanese modular closed RAS + land-based grouper/prawn; ~$8.5M Series A Sep 2026; UAE/Indonesia Global South expansion.
 * [Aquaticode](aquaticode.md) - AI-powered aquaculture phenotyping; $6M Series A (Aug 2022, Nacre Capital, Innocreative Capital, Martin Halusa, Einar Wathne); SORTpro automatic high-speed salmon gender sorting (10K fish/hr, >95% accuracy); SORTvax v...
 * [Astraeus Ocean Systems](astraeus-ocean-systems.md) - Mariculture crop modeling + autonomous vessel fleet for real-time ocean intelligence; Watchline hardware (temp, salinity, DO, optical sensors); Digital Oyster/Digital Kelp biological models; Almanac platform for farm...
 * [BiOceanOr](bioceanor.md) - AI-powered water quality forecasting for aquaculture — combining biology & AI for environmental intelligence.
@@ -91,12 +92,14 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 * [Bedrock Ocean Exploration](bedrock-ocean-exploration.md) - Seafloor mapping AUVs + cloud data platform (Mosaic); $25M Series A-2 (Jun 2025) led by Primary/Northzone (Costanoa, Harmony Partners, Katapult Ocean et al.); total funding ~$58.5M over 3 rounds; IHO special-order geo...
 * [BeeX](beex.md) - Singapore AUV fleet + SAMbal inspection software; $7.7M Series A (Monk's Hill); dual-use commercial/defense; MINDEF contract.
 * [Blue Water Autonomy](blue-water-autonomy.md) - Autonomous warships for US Navy — full-size unmanned surface vessels for open-ocean endurance.
+* [Bulwark Dynamics](bulwark-dynamics.md) - Autonomous beach-landing resupply USV (CARAVEL) for contested logistics; $6.8M seed Sep 2026 with Onomichi Dockyard; Menlo Park.
 * [Boxfish Robotics](boxfish-robotics.md) - Hovering AUV and resident vehicles for marine science, environmental monitoring, coral reef ecosystem assessment, infrastructure inspection; 6DOF thrusters, NVIDIA Jetson AI, ROS2; reliable for research and conservati...
 * [Clear Robotics](clear-robotics.md) - All-electric AI autonomous unmanned surface vessels (Clearbot) for solid waste recovery, hyacinth removal, bathymetric/draft survey, and waterway surveillance.
 * [FishLAT (Blue Latitudes)](fishlat-blue-latitudes.md) - ML-powered rapid assessment tool predicting environmental & fisheries impact of offshore infrastructure (removal, reefing, installation); supports permitting and decommissioning decisions; cost-effective data-rich alt...
 * [HALOBLUE Tech](haloblue-tech.md) - Autonomous monitoring systems for coastal restoration projects; defensible environmental data at lower cost per acre than vessel surveys; California State University based; VentureWell OEA Stage 1 (spring 2026, $15K T...
 * [HavocAI](havocai.md) - All-domain collaborative autonomy (sea/air/land); $100M Series A (May 2026) bringing total capital to ~$200M; Providence RI; 100+ ASVs built/deployed, 30+ delivered to DoD, 25,000+ autonomous hours; software suite (C2...
 * [Hullbot](hullbot.md) - Autonomous underwater robots for ship hull cleaning & inspection (proactive hull grooming).
+* [HydroSurv](hydrosurv.md) - UK REAV USV OEM for hydrographic/geophysical survey; OWGP-funded USV-first 3D SBP with GeoAcoustics; Exeter.
 * [Kraken Technology](kraken-technology.md) - UK maritime defence USV/USSV unicorn — $175M Series B at $1B (Jul 2026, DTCP); K3 SCOUT / K4 MANTA / K5; Anduril, Rheinmetall, Davie manufacturing; USSOCOM $49M OTA; Fareham, UK.
 * [MarineSitu](marinesitu.md) - Hardware-enabled software for persistent underwater monitoring; SituAI detection/classification >95% accuracy; DOE and US Navy trusted; cameras/ controllers for marine energy, aquaculture, fish counting, reef monitori...
 * [Maritime Robotics](maritime-robotics.md) - Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — o...
@@ -118,6 +121,7 @@ This directory is an [Open Knowledge Format (OKF) v0.1](https://github.com/Googl
 ## Maritime Operations & Analytics
 
 * [Aloft Systems](aloft-systems.md) - Sustainable zero-emission shipping via robotic wind propulsion / modern sails; containerized sail systems; BlueSwell startup; VentureWell OEA Stage 2 (spring 2026); Boston, MA; ex-Autodesk Research spinout
+* [Marcura](marcura.md) - AI + specialist execution voyage/vessel/crew OS (DA-Desk, ShipServ, demurrage, crew payroll); CEO Henrik Hyldahn; scaled transaction-network moat.
 * [Nexus Ocean AI](nexus-ocean-ai.md) - Maritime AI-native service orchestration; genAI persona (SAM) + Maritime Language Model; automated 90% of maritime workflows; $400K seed (Aug 2024, Tradeworks.vc); Google Cloud partner; MPA Mint Grant; Singapore-based...
 * [Orca AI](orca-ai.md) - AI-powered computer vision & situational awareness for maritime navigation safety + collision avoidance; $72.5M Series B (May 2025, Brighton Park Capital lead; Ankona Capital, Hyperlink Ventures, OCV Partners, Mizmaa...
 * [SEA.AI](sea-ai.md) - Maritime machine vision for safety at sea; AI-powered camera systems detect & classify objects on water surface that escape radar/AIS (unsignalled craft, debris, persons overboard, kayaks, inflatables).

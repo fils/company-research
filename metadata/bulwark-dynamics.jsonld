@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Bulwark Dynamics",
+  "url": "https://bulwarkdynamics.com/",
+  "description": "DefenseTech builder of CARAVEL autonomous beach-landing resupply USVs for contested Indo-Pacific logistics.",
+  "sector": "Marine Monitoring & Sensors",
+  "businessModel": "Defense prime-style vertically integrated autonomous maritime logistics (hull + autonomy + production partnership)",
+  "lastFundingRound": "$6.8M seed (Sep 2026) with Onomichi Dockyard + VCs",
+  "totalFunding": "At least $6.8M seed + prior pre-seed (Sep 2025); cumulative not fully disclosed",
+  "investors": [
+    "Onomichi Dockyard",
+    "Undisclosed VCs"
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Nhat Lieu",
+      "jobTitle": "Co-founder & CEO"
+    }
+  ],
+  "knowsAbout": [
+    "Autonomous landing craft",
+    "Contested maritime logistics",
+    "GPS-denied navigation",
+    "Distributed maritime operations",
+    "USV manufacturing"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Menlo Park",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Littoral bathymetry and beachability maps",
+      "Sea state and surf-zone observations",
+      "GPS-denied navigation sensor suites",
+      "Logistics demand / force disposition data"
+    ],
+    "keyParameters": [
+      "water depth",
+      "surf height",
+      "current",
+      "obstacle maps",
+      "payload mass",
+      "endurance nm"
+    ],
+    "observationPrograms": [
+      "Prototype sea trials",
+      "Beach landing autonomy tests",
+      "Partner shipyard production telemetry"
+    ],
+    "knownGaps": [
+      "High-resolution coral/reef shelf charts for Pacific littorals",
+      "EW-resilient C2 datasets",
+      "Standardized attritable logistics USV performance benchmarks"
+    ]
+  }
+}

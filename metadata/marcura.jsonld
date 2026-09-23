@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Marcura",
+  "url": "https://marcura.com/",
+  "description": "Maritime technology group combining AI and specialist execution for voyage spend, vessel ops, demurrage, procurement, and crew payments.",
+  "sector": "Maritime Operations & Analytics",
+  "businessModel": "B2B multi-brand maritime SaaS + managed services with transaction-network data moat and AI automation",
+  "lastFundingRound": "Not disclosed on primary sources this cycle; growth via product AI + M&A (ShipServ, Fairway, Shipdem)",
+  "totalFunding": "Not disclosed",
+  "investors": [],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Henrik Hyldahn",
+      "jobTitle": "Group CEO"
+    },
+    {
+      "@type": "Person",
+      "name": "Jens Lorens Poulsen",
+      "jobTitle": "Chair of the Board"
+    }
+  ],
+  "knowsAbout": [
+    "Port call management",
+    "Demurrage and laytime",
+    "Marine procurement",
+    "Crew payroll",
+    "Maritime AI document automation"
+  ],
+  "brand": [
+    "DA-Desk",
+    "VesselMan",
+    "MarTrust",
+    "ShipServ",
+    "Brightwell"
+  ],
+  "marineDataNeeds": {
+    "primaryDataTypes": [
+      "Port-call cost and disbursement records",
+      "Charterparty and voyage document corpora",
+      "Procurement price/SKU transactions",
+      "Crew payment and compliance data",
+      "AIS/voyage actuals"
+    ],
+    "keyParameters": [
+      "port tariffs",
+      "laytime events",
+      "demurrage exposure",
+      "invoice line items",
+      "vendor KYB status"
+    ],
+    "observationPrograms": [
+      "Global port-call network (DA-Desk)",
+      "ShipServ marketplace search/order graph",
+      "Claims processing pipelines"
+    ],
+    "knownGaps": [
+      "Standardized cross-carrier voyage event schemas",
+      "Ground-truth labels for charterparty clause risk",
+      "Integration with onboard fleet behavioral AI"
+    ]
+  }
+}

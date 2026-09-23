@@ -1,18 +1,18 @@
 ---
 type: Sector
 title: Maritime Operations & Analytics
-description: '**Last Updated**: 2026-08-26 **Companies Tracked**: 8'
+description: '**Last Updated**: 2026-09-23 **Companies Tracked**: 9'
 tags:
 - maritime-operations-analytics
 sector: Maritime Operations Analytics
-timestamp: '2026-08-26T00:00:00Z'
-date: '2026-08-26'
+timestamp: '2026-09-23T00:00:00Z'
+date: '2026-09-23'
 ---
 
 # Maritime Operations & Analytics
 
-**Last Updated**: 2026-08-26
-**Companies Tracked**: 8
+**Last Updated**: 2026-09-23
+**Companies Tracked**: 9
 
 This sector covers companies building AI-native operating systems and service orchestration platforms for the maritime industry — shipping, port logistics, fleet management, and maritime compliance. These companies transform fragmented operational data into actionable intelligence through domain-specific AI models.
 
@@ -63,6 +63,12 @@ AI operating system for commercial shipping — FleetVision computer vision on o
 - **Funding**: $52M (Aug 2026) + prior Series A ~$24M era
 - **Key Tech**: Onboard CCTV AI, ship-to-shore ops intelligence, TMSA evidence, MARPOL compliance monitoring
 
+### Marcura (NEW 2026-09-23)
+Scaled maritime voyage/vessel/crew OS on one of industry's largest transaction networks — **DA-Desk** port-call spend, **ShipServ** procurement marketplace, VesselMan, MarTrust, Brightwell. AI + specialist execution for charterparty review, demurrage claims, AP automation, crew payroll (CEO **Henrik Hyldahn**). M&A: ShipServ, Fairway Maritime (US demurrage), Shipdem (chemical tanker laytime). Complements onboard fleet CV (ShipIn/Orca) with **commercial spend/claims OS**.
+- **Site**: [marcura.com](https://marcura.com/)
+- **Funding**: Mature private group; latest equity round not disclosed this cycle (growth via AI product + bolt-on M&A)
+- **Key Tech**: Port-call cost intelligence, demurrage/laytime AI, marine procurement marketplace, crew payment rails
+
 ## Cross-Company Patterns
 - **Maritime Language Models**: Domain-specific LLMs trained on shipping, port, and compliance data — significant advantage over general-purpose AI
 - **Workflow Automation**: Target 80-90% reduction in manual operational tasks (documentation, scheduling, compliance reporting)
@@ -77,6 +83,7 @@ AI operating system for commercial shipping — FleetVision computer vision on o
 - **Radar/AIS Gap Filling**: SEA.AI detects objects that escape both radar and AIS (unsignalled craft, debris, persons overboard) — optical AI as the only sensor layer that sees non-cooperative surface contacts. The counter-USV use case (defense) is particularly timely given drone boat threat proliferation in 2025-2026 naval conflicts
 - **Camera Retrofit Business Model**: SEA.AI's Brain product upgrades existing thermal cameras with AI — a retrofit approach distinct from full-system sales, lowering adoption barriers for vessel operators who already have camera hardware
 - **Insurer-aligned fleet ops AI** (ShipIn): Tokio Marine + Munich Re capital and loss-prevention partnerships signal marine insurance shifting from claims payout to continuous onboard behavioral evidence — distinct from navigation CV (Orca AI) and surface-object optical AI (SEA.AI). Scale (1,300+ vessels) creates a third commercial CV network moat focused on crew/ops compliance rather than lookout or autonomy
+- **Transaction-network voyage OS** (Marcura): Millions of port-call, procurement, claims, and crew-payment events create a commercial data moat orthogonal to onboard CV — AI automates charterparty/docs while specialists own voyage outcomes; roll-up of ShipServ + demurrage boutiques expands the graph
 
 ## Data & Measurement Needs
 Maritime operations companies need:

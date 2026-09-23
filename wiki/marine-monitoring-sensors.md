@@ -1,16 +1,18 @@
 ---
 type: Sector
 title: Marine Monitoring & Sensors
-description: '**Last Updated**: 2026-08-19 **Companies Tracked**: 28'
+description: '**Last Updated**: 2026-09-23 **Companies Tracked**: 30'
 tags:
 - marine-monitoring-sensors
 sector: Marine Monitoring Sensors
+timestamp: '2026-09-23T00:00:00Z'
+date: '2026-09-23'
 ---
 
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-08-19
-**Companies Tracked**: 28
+**Last Updated**: 2026-09-23
+**Companies Tracked**: 30
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -184,12 +186,26 @@ Japan (Kamakura) **Marine Satellite Cluster™** — swarm of small USVs forming
 - **Underwater IoT fabric** (WSense): Comms layer that multi-vendor AUV/ASV/sensor fleets lack — multi-hop acoustic/optical mesh + cloud APIs; Fincantieri/Terna/Hub Ocean proof points; enables CCS, MPA, and cable integrity MRV
 - **Asia-Pacific USV constellation** (Oceanic Constellations): Swarm-first Marine Satellite Cluster with NYK shipyard path and 20+ patents — APAC counterpart to US/EU defense USV primes; dual-use monitoring + illegal fishing + rocket recovery
 - **Industrial dual-use AUV inspection** (BeeX NEW 2026-08-19): Singapore $7.7M Series A (Monk's Hill) AUV fleet + SAMbal software displacing WROV+DP2 campaigns for offshore wind/cables and MINDEF MCM — APAC industrial maturity path complementary to US defense AUV primes (Ulysses/Vatn) and survey AUVs (Bedrock)
+- **Commercial survey USV + USV-first 3D SBP** (HydroSurv): Exeter REAV family serving hydrographic contractors and OSW geophysics; OWGP-funded volumetric shallow sub-seafloor imaging with GeoAcoustics — survey-supply-chain GTM distinct from defense ASV primes; enables foundation/cable derisking for [Offshore Energy](offshore-energy.md)
+- **Autonomous beach-landing logistics USV** (Bulwark Dynamics): CARAVEL fills the landing-craft logistics niche (not patrol/MDA or survey) for contested EABO sustainment; $6.8M seed + Onomichi Dockyard co-production — mass-production-with-allied-yards play adjacent to Blue Water/Saronic combat USVs
 
 ### BeeX (NEW 2026-08-19)
 Singapore autonomous underwater drones (A.IKANBILIS + BETTA/CASPER/ALPHA) and SAMbal end-to-end inspection software. $7.7M Series A led by Monk's Hill Ventures (SEEDS/SG Growth Capital, ShipsFocus, OCTAVE, NUS Tech Holdings). 700+ deployments, 18,000+ hours, ~50% cost vs WROV+DP2. Commercial offshore energy + Singapore MINDEF multi-million defense contract.
 - **Site**: [beex.sg](https://www.beex.sg/)
 - **Funding**: $7.7M Series A (2026)
 - **Location**: Singapore
+
+### HydroSurv (NEW 2026-09-23)
+UK commercial REAV USV OEM (Exeter, founded 2018) for hydrographic/geophysical survey — REAV-60 long endurance through REAV-25 inland. **OWGP Development Funding** for USV-first **3D sub-bottom profiler** with GeoAcoustics + Tellus (Ocean Winds guidance; trials ~Oct 2026 on REAV-45 / MiniMASS). First four REAV-47s in EU/West Africa service (2025). Hike Metal Canada/US tech license; Subsea Fenix Italy delivery; Subnero underwater comms; BeyonC REAV-60+ROV. CEO David Hull.
+- **Site**: [hydro-surv.com](https://www.hydro-surv.com/)
+- **Funding**: OWGP Development Funding (equity totals undisclosed); commercial fleet revenue
+- **Location**: Exeter, UK
+
+### Bulwark Dynamics (NEW 2026-09-23)
+DefenseTech **CARAVEL** autonomous beach-landing resupply USV for contested Indo-Pacific logistics / EABO. **$6.8M seed (Sep 2026)** with Japanese shipyard **Onomichi Dockyard** as investor + builder; Menlo Park prototype facility. ~23,000 lb payload, ~1,100 nm range, JMIC/ISO, GPS-denied autonomy, autonomous beach/discharge/redeploy. Vertically integrated hull+autonomy thesis. CEO Nhat Lieu.
+- **Site**: [bulwarkdynamics.com](https://bulwarkdynamics.com/)
+- **Funding**: $6.8M seed (Sep 2026) + pre-seed (Sep 2025)
+- **Location**: Menlo Park, CA
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

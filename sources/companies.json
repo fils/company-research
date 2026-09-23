@@ -817,5 +817,33 @@
     "url": "https://esoxbiologics.com/",
     "notes": "London metagenomics microbiome platform 'Detect' \u2014 sequences all DNA in water/swab samples to ID pathogens + beneficial microbes without prior assumptions. Stage modules: green/eyed eggs, biofilters, RAS, production, oysters. World's first full genome of sabellid worm Terebrasabella heterouncinata (ann. ~2 Sep 2026) enabling water-sample detection of worm/larvae/eggs before shell infestation on abalone farms (MD Matthew Pope). Also UK shellfish larval survival / antibiotic-alternative work (2026). Low-abundance detection claims qPCR-like sensitivity with full community view.",
     "last_updated": "2026-09-16"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "ARK Inc",
+    "url": "https://www.ark.inc/en/",
+    "notes": "Japanese modular closed RAS hardware + land-based seafood production ('let the ocean rest, create your own'). Series A ~$8.5M / \u00a51.3B equity+loans (ann. 17 Sep 2026): UntroD Capital Japan, Beyond Next Ventures, BP Capital (Tokyo University of Agriculture and Technology Fund) lead equity; Resona Bank, Hokkoku Bank, Japan Finance Corporation loans. Global South expansion (UAE Abu Dhabi MOU, Indonesia pilots under METI co-creation subsidy); APAC base Malaysia Sep 2026; SoftBank Vision Fund founding member Yosuke Sasaki non-exec director. Species: grouper, whiteleg/kuruma prawn, research sea urchin/algae. Founded Dec 2020 Hiratsuka; CEO Yosuke Kurihara (London).",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Bulwark Dynamics",
+    "url": "https://bulwarkdynamics.com/",
+    "notes": "DefenseTech autonomous beach-landing resupply USV (CARAVEL) for contested Indo-Pacific logistics / EABO. $6.8M seed (Sep 2026) with Japanese shipyard Onomichi Dockyard as investor+build partner; Menlo Park prototype facility (Jan 2026); pre-seed Sep 2025. Specs: ~23,000 lb payload, ~1,100 nm range, JMIC/ISO containers, GPS-denied autonomy, autonomous beach/discharge/redeploy. CEO Nhat Lieu. Vertically integrated autonomy+hull production thesis vs software-only USV startups.",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "sector": "Maritime Operations & Analytics",
+    "name": "Marcura",
+    "url": "https://marcura.com/",
+    "notes": "Maritime voyage/vessel/crew operating system + AI on one of industry's largest transaction networks. Brands: DA-Desk (port-call spend), VesselMan, MarTrust, ShipServ (procurement marketplace, acquired ~2023-4), Brightwell. CEO Henrik Hyldahn (ex-ShipServ CEO; Marcura Group CEO post-acquisition). AI for charterparty review, document automation, demurrage claims, AP automation \u2014 augment specialists. Acquisitions: Fairway Maritime (US demurrage), Shipdem (chemical tanker laytime). Established scaled platform (not early seed); high ops-data network effects.",
+    "last_updated": "2026-09-23"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "HydroSurv",
+    "url": "https://www.hydro-surv.com/",
+    "notes": "UK commercial USV OEM (Exeter) \u2014 REAV family (REAV-60 long endurance through REAV-25 inland). OWGP Development Funding for next-gen USV-first 3D sub-bottom profiler with GeoAcoustics + Tellus; Ocean Winds guidance; on-water trials targeted Oct 2026 on REAV-45 (UK MiniMASS MGN 705). First four REAV-47s in commercial service EU/West Africa 2025. Hike Metal Canada/US tech license; Subsea Fenix Italy delivery; Subnero underwater comms collab; BeyonC REAV-60+ROV Norway subsea survey. Founder/CEO David Hull; NED Mark Burnett. Commercial survey supply-chain focus (not defense-first).",
+    "last_updated": "2026-09-23"
   }
 ]
