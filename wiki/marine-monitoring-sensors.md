@@ -1,18 +1,18 @@
 ---
 type: Sector
 title: Marine Monitoring & Sensors
-description: '**Last Updated**: 2026-09-23 **Companies Tracked**: 30'
+description: '**Last Updated**: 2026-09-30 **Companies Tracked**: 31'
 tags:
 - marine-monitoring-sensors
 sector: Marine Monitoring Sensors
-timestamp: '2026-09-23T00:00:00Z'
-date: '2026-09-23'
+timestamp: '2026-09-30T00:00:00Z'
+date: '2026-09-30'
 ---
 
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-09-23
-**Companies Tracked**: 30
+**Last Updated**: 2026-09-30
+**Companies Tracked**: 31
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -188,6 +188,7 @@ Japan (Kamakura) **Marine Satellite Cluster™** — swarm of small USVs forming
 - **Industrial dual-use AUV inspection** (BeeX NEW 2026-08-19): Singapore $7.7M Series A (Monk's Hill) AUV fleet + SAMbal software displacing WROV+DP2 campaigns for offshore wind/cables and MINDEF MCM — APAC industrial maturity path complementary to US defense AUV primes (Ulysses/Vatn) and survey AUVs (Bedrock)
 - **Commercial survey USV + USV-first 3D SBP** (HydroSurv): Exeter REAV family serving hydrographic contractors and OSW geophysics; OWGP-funded volumetric shallow sub-seafloor imaging with GeoAcoustics — survey-supply-chain GTM distinct from defense ASV primes; enables foundation/cable derisking for [Offshore Energy](offshore-energy.md)
 - **Autonomous beach-landing logistics USV** (Bulwark Dynamics): CARAVEL fills the landing-craft logistics niche (not patrol/MDA or survey) for contested EABO sustainment; $6.8M seed + Onomichi Dockyard co-production — mass-production-with-allied-yards play adjacent to Blue Water/Saronic combat USVs
+- **COCO passive sonar as managed undersea MDA** (Andrenam): PEARL+OBSIDIAN sells persistent acoustic coverage without specialist crews — undersea counterpart to pro-mariner surface networks (Quartermaster); $30M total / $18M Series A scales Gen-4 mass manufacture
 
 ### BeeX (NEW 2026-08-19)
 Singapore autonomous underwater drones (A.IKANBILIS + BETTA/CASPER/ALPHA) and SAMbal end-to-end inspection software. $7.7M Series A led by Monk's Hill Ventures (SEEDS/SG Growth Capital, ShipsFocus, OCTAVE, NUS Tech Holdings). 700+ deployments, 18,000+ hours, ~50% cost vs WROV+DP2. Commercial offshore energy + Singapore MINDEF multi-million defense contract.
@@ -206,6 +207,18 @@ DefenseTech **CARAVEL** autonomous beach-landing resupply USV for contested Indo
 - **Site**: [bulwarkdynamics.com](https://bulwarkdynamics.com/)
 - **Funding**: $6.8M seed (Sep 2026) + pre-seed (Sep 2025)
 - **Location**: Menlo Park, CA
+
+### Andrenam (NEW 2026-09-30)
+LA dual-use **AI-native passive sonar**: **PEARL** networked acoustic buoys + **OBSIDIAN** AI track/classify/alert for operators without sonar specialists. **COCO managed sensing** (coverage as a service). **$18M Series A (Jul 2026)** led by Upfront Ventures; Valor, Also Capital, First Round — **$30M total** (prior $10M seed in 36h). 35+ PEARL units, 4,500+ in-water hours; Solid Curtain 2026 + Lanternfish/UUVGRU-1. CEO Matej Cernosek (ex-SpaceX). Undersea acoustic layer complementary to surface SmartMast ([Quartermaster](quartermaster.md)).
+- **Site**: [andrenam.com](https://www.andrenam.com/)
+- **Funding**: $18M Series A (Jul 2026); $30M total
+- **Location**: Los Angeles, CA
+
+### Maritime Robotics (UPDATE 2026-09-30)
+Norwegian USV pioneer — **Omnes Capital** joins growth round with Mustard Seed + Partners (announced Sep 28 2026) alongside EnvisionTech, Nysnø, Umoe. Capital for production scale + international dual-use commercialization; hundreds of systems already delivered; fleet-level (not pilot) deployments.
+- **Site**: [maritimerobotics.com](https://www.maritimerobotics.com/)
+- **Funding**: Growth equity (MS+PARTNERS Jun 2026 + Omnes Capital Sep 2026)
+- **Location**: Trondheim, Norway
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

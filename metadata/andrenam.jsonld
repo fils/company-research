@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Andrenam",
+  "url": "https://www.andrenam.com/",
+  "description": "AI-native distributed passive sonar (PEARL buoys + OBSIDIAN); $18M Series A Jul 2026; $30M total; LA dual-use undersea MDA.",
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-09-30"
+}

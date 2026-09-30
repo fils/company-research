@@ -1,7 +1,7 @@
 # Quartermaster – Raw Web Extract
 **Source:** https://www.quartermaster.us/
 **Sector:** Ocean Data & AI
-**Last Updated:** 2026-06-01
+**Last Updated:** 2026-09-30
 
 ## Summary
 Quartermaster is an Arlington, Virginia–based maritime-technology startup building SmartMast™, a distributed maritime sensing and AI analytics network mounted on commercial vessels worldwide. $43M Series A (May 2026) co-led by First Round Capital and Quiet Capital. 600+ ships equipped, 10M+ square miles of ocean covered, 400K+ vessels identified without AIS, 20+ maritime rescues assisted. Positions itself as a fundamental upgrade over fraud-prone AIS (Automatic Identification System).
@@ -68,3 +68,13 @@ Quartermaster is an Arlington, Virginia–based maritime-technology startup buil
 - Training datasets for marine autonomy AI (computer vision, vessel behavior)
 - Cross-vessel network data (neighbor vessel context)
 - Multi-modal fusion: video + RF + radar + AIS
+
+
+## Update 2026-09-30 — Series B
+**Sources:** https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/
+https://oceannews.com/news/milestones/quartermaster-secures-series-b-to-expand-smartmast-ocean-data-network/
+
+- $140M total: $100M Series B (Insight Partners lead; Overmatch Ventures; First Round, Quiet Capital, Steel Atlas, TMV, BoxGroup, Operator Partners) + $40M Stifel venture debt
+- 650+ vessels equipped / 800+ shipped across 25 countries; tens of GB/day per mast; fleet rollouts starting
+- Hormuz jamming/spoofing + war-risk insurance narrative; pro-mariner free hardware model
+- CEO Neil Sobin; manufacturing capacity doubled

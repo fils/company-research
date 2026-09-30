@@ -451,8 +451,8 @@
     "sector": "Ocean Data & AI",
     "name": "Quartermaster",
     "url": "https://www.quartermaster.us/",
-    "notes": "SmartMast distributed maritime sensing network mounted on commercial vessels; $43M Series A (May 2026) co-led by First Round Capital (Bill Trenchard) and Quiet Capital; 600+ ships equipped across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS (independent verification); 20+ maritime rescues; positions as upgrade over fraud-prone AIS; 'pro-mariner' model \u2014 free hardware in exchange for network participation; founder/CEO Neil Sobin; Arlington, VA",
-    "last_updated": "2026-06-01"
+    "notes": "SmartMast distributed maritime sensing on commercial vessels (pro-mariner free hardware). $140M raise Sep 28 2026: $100M Series B led Insight Partners + Overmatch Ventures + First Round, Quiet Capital, Steel Atlas, TMV, BoxGroup, Operator Partners; $40M Stifel venture debt. Prior $43M Series A May 2026 (First Round + Quiet). 650+ vessels equipped / 800+ shipped across 25 countries; tens of GB/day per mast; fleet-scale rollouts starting. Hormuz/jamming narrative drives insurer + energy demand. CEO Neil Sobin. Arlington, VA. Ocean Data & AI.",
+    "last_updated": "2026-09-30"
   },
   {
     "sector": "Ocean Data & AI",
@@ -563,8 +563,8 @@
     "sector": "Marine Monitoring & Sensors",
     "name": "Maritime Robotics",
     "url": "https://www.maritimerobotics.com/",
-    "notes": "Norwegian USV & autonomous navigation pioneer since 2005; \u20ac28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysn\u00f8 Climate Investment, Umoe, founders/employees participating) \u2014 on top of $12M growth capital (Sep 2024, NRP Zero + Norwegian state fund). Revenue ~5x over 5 years, 2x over 2 years; hundreds of autonomous systems delivered. Products: SEACONTROL autonomous navigation system (retrofit to crewed/uncrewed surface vessels), Mariner X USV (modular sensor platform), mine countermeasures USV (launched Jan 2026), Otter USV. Dual-use commercial+defense: offshore energy, hydrography, environmental monitoring, fisheries management, maritime security & defense. Eelume partnership for subsea inspection (Oct 2025); NATO REPMUS 2025 demo; DALO Industry Days, Euronaval, SMM Hamburg, Nor-Fishing 2026 exhibiting. Trondheim HQ + London office; CEO/co-founder Vegard Evjen Hovstein. Structural shift from pilot projects to fleet-level deployment strategies",
-    "last_updated": "2026-07-14"
+    "notes": "Norwegian USV pioneer (Trondheim, 2005). Growth round: Mustard Seed + Partners lead + Omnes Capital (announced Sep 28 2026) with EnvisionTech, Nysn\u00f8, Umoe, founders/employees. Prior ~\u20ac28M / $31M growth equity (Jun 2026 Dealroom). Hundreds of systems delivered; shift from pilots to fleet-level dual-use (civil survey + defense MDA). Scale production + international commercialization. CEO Vegard Evjen Hovstein.",
+    "last_updated": "2026-09-30"
   },
   {
     "sector": "Maritime Operations & Analytics",
@@ -845,5 +845,40 @@
     "url": "https://www.hydro-surv.com/",
     "notes": "UK commercial USV OEM (Exeter) \u2014 REAV family (REAV-60 long endurance through REAV-25 inland). OWGP Development Funding for next-gen USV-first 3D sub-bottom profiler with GeoAcoustics + Tellus; Ocean Winds guidance; on-water trials targeted Oct 2026 on REAV-45 (UK MiniMASS MGN 705). First four REAV-47s in commercial service EU/West Africa 2025. Hike Metal Canada/US tech license; Subsea Fenix Italy delivery; Subnero underwater comms collab; BeyonC REAV-60+ROV Norway subsea survey. Founder/CEO David Hull; NED Mark Burnett. Commercial survey supply-chain focus (not defense-first).",
     "last_updated": "2026-09-23"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Andrenam",
+    "url": "https://www.andrenam.com/",
+    "notes": "LA dual-use AI-native passive sonar: PEARL networked acoustic buoys + OBSIDIAN AI track/classify/alert. $18M Series A (Jul 2026) led Upfront Ventures; Valor, Also Capital, First Round; $30M total (prior $10M seed in 36h). COCO managed sensing. 35+ PEARL units, 4500+ in-water hours; Solid Curtain 2026, Lanternfish/UUVGRU-1. CEO Matej Cernosek (ex-SpaceX), CTO Alex Chu.",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "REGENT Craft",
+    "url": "https://www.regentcraft.com/",
+    "notes": "All-electric Seaglider wing-in-ground craft (float/foil/fly) for coastal passenger + dual-use defense. $240M Series B Aug 2026 (equity+debt) co-led Mare Liberum + AE Ventures; DCVC, Founders Fund, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, Giant Step; Erebor Bank debt. >$340M total. First human-crewed Viceroy flight Sep 2 2026. North Kingstown RI. CEO Billy Thalheimer. Adjacent to Vessev hydrofoil thesis at larger dual-use scale.",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "sector": "Offshore Energy",
+    "name": "CorPower Ocean",
+    "url": "https://corpowerocean.com/",
+    "notes": "Swedish/Portuguese wave energy pioneer; heart-inspired phase-control WEC claims ~5x energy per tonne vs prior art. C4 utility-scale generating in Atlantic (Portugal); DNV prototype certification Jul 2026 (world-first for wave). \u20ac40M EU Innovation Fund for 10MW VianaWave; \u20ac19M Horizon Europe; EIC/Algebris etc. May 2026 growth capital noted on Dealroom (~$61.6M class with EIC Fund). CorPack 10-30MW arrays. CEO Patrik M\u00f6ller. Extreme metocean + environmental MRV needs.",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "sector": "Aquaculture",
+    "name": "Scoot Science",
+    "url": "https://scootscience.com/",
+    "notes": "Ocean intelligence software: SeaFarer (commercial fishing trip planning/catch analytics) + SeaState (aquaculture digital twin \u2014 10-day site forecasts, HAB/hypoxia mitigation, welfare metrics). Claims 2-3\u00d7 fewer major mortality events, 34% daily mortality cut, 30-44% fewer operational stressors. Customers Cermaq Canada, Grieg BC since ~2019. StartBlue OEA Scale track Sep 2026. Integrates Blue Ocean Gear Smart Buoys + Deckhand e-logbook.",
+    "last_updated": "2026-09-30"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Cetocean",
+    "url": "https://www.cetocean.com/",
+    "notes": "Ocean intelligence platform starting with super-resolution sea-surface temperature for aquaculture, coastal tourism, and insurance/reinsurance parametric products. Humpback tool beta Sep 2026. StartBlue Launch cohort Sep 2026. Farm-level marine heatwave exposure pricing narrative.",
+    "last_updated": "2026-09-30"
   }
 ]

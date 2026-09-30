@@ -1,5 +1,13 @@
 # Directory Update Log
 
+## 2026-09-30
+* **+5 companies** (121→126): Andrenam (PEARL+OBSIDIAN AI passive sonar; $18M Series A / $30M total; COCO undersea MDA), REGENT Craft (all-electric Seaglider; $240M Series B; >$340M total; first crewed flight), CorPower Ocean (DNV-certified wave WEC; €40M EU IF VianaWave), Scoot Science (SeaFarer/SeaState aqua+fishing intel; StartBlue Scale; Cermaq/Grieg), Cetocean (super-res SST risk intel; StartBlue Launch; Humpback beta).
+* **Existing updates**: Quartermaster **$140M** Sep 28 2026 ($100M Series B Insight+Overmatch + $40M Stifel debt; 650+ vessels); Maritime Robotics **Omnes Capital** joins MS+PARTNERS growth round (Sep 28 2026).
+* Sector counts: Marine Monitoring 30→31, Aquaculture 28→29, Offshore Energy 17→19, Ocean Data & AI 11→12. Total **126**.
+* New patterns: COCO managed passive sonar as undersea MDA layer (Andrenam↔Quartermaster surface); Seaglider WIG dual-use mobility at mega Series B (REGENT); utility wave→grid with DNV cert (CorPower); operator ocean digital twin for farms/fleets (Scoot); actuarial super-res SST (Cetocean).
+* Discovery: TechCrunch/Ocean News Quartermaster Series B; Dealroom REGENT $240M; StartBlue Sep 2026 cohort; Tectonic Andrenam $18M; CorPower site + DNV cert.
+* Profiles: raw/ + metadata/ + OKF wiki/ with Data & Measurement Needs; completeness + okf-lint gates.
+
 ## 2026-09-23
 * **+4 companies** (117→121): ARK Inc (Japanese modular closed RAS + land-based grouper/prawn; ~$8.5M Series A Sep 2026; UAE/Indonesia Global South), Bulwark Dynamics (CARAVEL autonomous beach-landing resupply USV; $6.8M seed + Onomichi Dockyard), Marcura (voyage/vessel/crew OS + AI on transaction network; CEO Henrik Hyldahn), HydroSurv (UK REAV commercial survey USVs; OWGP USV-first 3D SBP).
 * Sector counts: Aquaculture 27→28, Marine Monitoring & Sensors 28→30, Maritime Ops 8→9. Total 121.

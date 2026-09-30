@@ -23,7 +23,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - Satellite-derived oceanographic products (SWOT, altimetry, SAR, optical)
 - Bridging the gap between public ocean data and commercial applications
 
-**Companies Profiled (11 companies)**
+**Companies Profiled (12 companies)**
 
 - **Amphitrite**: AI-powered ocean data intelligence platform. Combines satellite data (SWOT, altimetry, SAR) with in-situ measurements and predictive AI for real-time maritime intelligence. Serves commercial shipping, naval defence, and offshore operations. €1.2M seed (2024). Partners include SHOM, CNES, ESA, Mercator Ocean, CMA CGM, Subsea7. Supported by NVIDIA Inception and Microsoft GenAI Studio.
 
@@ -32,7 +32,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - **Coastal Measures** (NEW): CUMULUS coastal intelligence platform powered by YSOK AI. Unifies multi-modal coastal sensor data (radar, camera, buoy, satellite) into a governed data fabric with automated QA/QC. <1 day sensor integration. Partners include NOAA, NSF, USACE, Sofar Ocean, AWS Activate. VentureWell OEA Stage 2 (Spring 2026). Serves risk/insurance, clean energy, resilience, and aquaculture sectors.
 
 - **Dottir Labs** (NEW): MIT spinout developing real-time molecular-level water quality monitoring via patented Raman spectroscopy. Reagent-free, non-destructive optical sensors for aquaculture, biotech, oil & gas, chemical manufacturing. VentureWell OEA Stage 2 (Spring 2026). BlueSwell Cohort V.
-- **Quartermaster** (NEW): SmartMast distributed maritime sensing network mounted on commercial vessels worldwide. 600+ ships across 25+ countries; 10M+ sq mi covered; 400K+ vessels identified without AIS; 20+ maritime rescues. $43M Series A (May 2026) co-led by First Round Capital and Quiet Capital. Positions as upgrade over fraud-prone AIS via "pro-mariner" model. Founder/CEO Neil Sobin. Arlington, VA.
+- **Quartermaster** (UPDATE 2026-09-30): SmartMast distributed maritime sensing on commercial vessels. **$140M raise Sep 28 2026** ($100M Series B led by Insight Partners + Overmatch Ventures; First Round, Quiet Capital, Steel Atlas, TMV, BoxGroup, Operator Partners; **$40M Stifel venture debt**). Prior $43M Series A May 2026. **650+ vessels equipped / 800+ shipped** across 25 countries; tens of GB/day per mast; fleet-scale rollouts starting. Hormuz jamming/insurance narrative. Pro-mariner free hardware network. CEO Neil Sobin. Arlington, VA.
 
 - **SeaDeep** (NEW): AI platform for ocean mapping, monitoring, underwater inspection. AI-powered marine robotics autonomy for subsea exploration intelligence. $1M+ grants. Partners with Seabed 2030. Focuses on coral reefs, pipelines, offshore energy.
 
@@ -45,6 +45,8 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - **Unseenlabs** (NEW 2026-08-19): French space RF GEOINT leader for maritime domain awareness — LEO nanosatellites detect/geolocate shipborne RF emitters to find **dark vessels** that evade AIS. **€85M Series C** (Feb 2024); **~€120M** total. Constellation path to ~20–25 sats / ~30-min revisit. Serves governments, IUU fisheries, offshore facilities, insurers, shipowners, NGOs. Gen-2 multi-domain RF (maritime/land/space) 2026. Complements Ubotica optical edge AI with a passive RF channel for the same dark-fleet problem.
 
 - **Ocean Intelligence** (NEW 2026-08-26): Cawthron Institute + Oceanum spin-out (Nelson, NZ). Modular SaaS unifies real-time marine environmental monitoring, forecasts, and ops data for **aquaculture** (HAB/water quality/harvest timing), **ports/coastal ops**, and **councils/research**. Pre-seed (Aug 2026) led by Quidnet Ventures Fund II with Andrea & Guido Neitzer; ~24-month runway and Australia expansion. Live on NZ mussel/oyster farms. CEO Joel Bowater. Bridges Ocean Data & AI with aquaculture ops — operator-facing forecast fusion rather than pure sensor hardware or satellite GEOINT.
+
+- **Cetocean** (NEW 2026-09-30): Super-resolution **SST risk intelligence** for aquaculture, coastal tourism, and insurers (parametric/indemnity). **Humpback** tool beta Sep 2026. **StartBlue Launch** cohort. Farm-level marine heatwave exposure pricing — actuarial-grade coastal downscaling layer complementary to Sofar in-situ and Scoot/Ocean Intelligence ops platforms.
 
 **Cross-Sector Synergies**
 
@@ -67,5 +69,5 @@ This sector is highly complementary to every other sector in the knowledge graph
 - VentureWell OEA Spring 2026 cohorts revealed 51 startups across Stages 0-2 — heavy concentration in data/sensor/AI solutions
 
 ---
-*Last updated: 2026-08-26*
-**Total Companies**: 11 (Ocean Data & AI sector — +1 this update: Ocean Intelligence)
+*Last updated: 2026-09-30*
+**Total Companies**: 12 (Ocean Data & AI sector — +1 this update: Cetocean; Quartermaster Series B update)

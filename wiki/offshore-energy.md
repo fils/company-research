@@ -27,10 +27,12 @@ sector: Offshore Energy
 - Vessev: https://www.vessev.com/
 - Bluecore Energy: https://www.bluecore.energy/
 - Newlight Marine: https://www.newlightmarine.com/
+- REGENT Craft: https://www.regentcraft.com/
+- CorPower Ocean: https://corpowerocean.com/
 
 **Overview (as of September 2026)**
 
-Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), vessel-mounted wave harvesters (Voltai), subsea geothermal baseload (Endurance Energy), AI biodiversity monitoring for wind permitting (Spoor), electric hydrofoiling passenger vessels (Vessev), floating barge-mounted nuclear SMRs for ports/AI infra (Bluecore Energy), and hydrogen-hybrid diesel retrofits (Newlight Marine). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
+Offshore energy companies in the knowledge graph span floating offshore wind (4 companies), wave-powered AI computing (Panthalassa), autonomous ocean data robotics (Oshen), onboard wave energy converters for subsea power (Pittsburgh Coastal Energy), tidal current hydrogenerators for remote communities (Sitkana), marine battery electrification (Fleetzero), drop-in marine biofuel (Kvasir), ocean pumped-hydro LDES (Sizable Energy), vessel-mounted wave harvesters (Voltai), subsea geothermal baseload (Endurance Energy), AI biodiversity monitoring for wind permitting (Spoor), electric hydrofoiling passenger vessels (Vessev), floating barge-mounted nuclear SMRs for ports/AI infra (Bluecore Energy), hydrogen-hybrid diesel retrofits (Newlight Marine), all-electric Seaglider wing-in-ground craft (REGENT Craft), and utility-scale point-absorber wave farms (CorPower Ocean). All share intense demand for metocean data, marine environmental surveys, and real-time ocean intelligence.
 
 **Core Themes**
 - Floating wind platform technology (Ørsted, Gazelle, Principle Power, BW Ideol)
@@ -46,6 +48,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - Electric hydrofoiling passenger vessels (Vessev — $19M Series A; NZ commercial service + US expansion)
 - Floating maritime nuclear baseload for ports & coastal AI (Bluecore Energy — ~$60M; 10 MWe barge SMRs; Port of Long Beach)
 - Hydrogen-hybrid retrofit for existing marine diesels (Newlight Marine — $9M seed; 24% fuel cut on 8,500 nm voyage)
+- All-electric Seaglider wing-in-ground passenger/defense craft (REGENT Craft — $240M Series B Aug 2026; >$340M total; first crewed Viceroy flight Sep 2026)
+- Utility-scale wave energy with DNV-certified C4 + CorPack arrays (CorPower Ocean — €40M EU Innovation Fund VianaWave; Atlantic grid power today)
 - Extreme demand for oceanographic and meteorological (metocean) data
 - Extensive marine environmental surveys and biodiversity monitoring requirements
 
@@ -70,6 +74,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 | [Vessev](vessev.md) (NEW 2026-08-26) | Electric hydrofoiling passenger vessels (VS–9) + onboard telemetry | $19M Series A (Aug 2026, Blackbird) | High |
 | [Bluecore Energy](bluecore-energy.md) (NEW 2026-09-09) | Floating barge-mounted water-cooled SMRs (~10 MWe) for ports/AI infra | $50M seed + $10M pre-seed (~$60M, Sep 2026) | Critical |
 | [Newlight Marine](newlight-marine.md) (NEW 2026-09-09) | H2-hybrid retrofit for existing marine diesels (no drydock) | $9M seed (Sep 2026, lomarlabs/BIRD/Fusion) | High |
+| [REGENT Craft](regent-craft.md) (NEW 2026-09-30) | All-electric Seaglider (float/foil/fly WIG) passenger + defense | $240M Series B Aug 2026; >$340M total | High |
+| [CorPower Ocean](corpower-ocean.md) (NEW 2026-09-30) | Heart-inspired point-absorber WEC; CorPack 10–30 MW arrays | €40M EU IF + Horizon; DNV C4 cert Jul 2026 | Critical |
 
 **Key Insights**
 - All offshore energy companies require high-quality metocean data and marine environmental baselines.
@@ -88,6 +94,8 @@ Offshore energy companies in the knowledge graph span floating offshore wind (4 
 - **Vessev** ($19M Series A, Blackbird lead, Aug 2026) adds certified **electric hydrofoiling passenger vessels** (VS–9) already in NZ commercial service with US expansion (NY/DC/Lake Tahoe). Complements Fleetzero (battery/propulsion systems) with a full hydrofoil OEM + onboard telemetry stack — America's Cup foil DNA + serial production push. Low-wake zero-emission passenger routes as a coastal decarbonization product, not deep-ocean generation.
 - **Bluecore Energy** (~$60M in <1 year; $50M seed Silverton Sep 2026) opens **floating maritime nuclear** as port/AI shore-power: barge SMRs (~10 MWe) headquartered at Port of Long Beach with NRC+USCG certification path. Distinct from vessel propulsion (Fleetzero/Kvasir/Newlight/Vessev) and subsea geothermal baseload (Endurance) — mobile nuclear delivered from the water side to industrial demand.
 - **Newlight Marine** ($9M seed Sep 2026) adds **hydrogen-hybrid diesel retrofit** validated on an 8,500 nm commercial voyage (24% fuel / 28% CO₂). Fifth near-term fleet decarbonization path alongside batteries (Fleetzero), drop-in biofuel (Kvasir), wind sails (Aloft), and motion harvesting (Voltai) — optimized for ships already at sea without drydock.
+- **REGENT Craft** ($240M Series B Aug 2026; >$340M total) scales **all-electric Seagliders** (Viceroy passenger + Squire autonomous) — wing-in-ground float/foil/fly craft for coastal mobility and dual-use defense. First human-crewed Viceroy flight Sep 2 2026. Cap table spans Mare Liberum, AE Ventures, DCVC, Founders Fund, Lockheed Martin Ventures, Japan Airlines. Larger dual-use sibling to Vessev hydrofoils; extreme coastal metocean + traffic data needs for certification and ops.
+- **CorPower Ocean** brings **utility-scale wave generation** already on the Portuguese grid: heart-inspired WaveSpring phase control (~5× energy/tonne claim), DNV Prototype Certificate (Jul 2026), CorPack 10–30 MW arrays, €40M EU Innovation Fund for VianaWave 10 MW. Complements Panthalassa (wave→compute) with wave→grid; pairs with floating wind for firm clean power and pulls hard on wave spectra + environmental MRV.
 
-**Last Updated**: 2026-09-09
-**Total Companies**: 17 (Offshore Energy sector)
+**Last Updated**: 2026-09-30
+**Total Companies**: 19 (Offshore Energy sector)

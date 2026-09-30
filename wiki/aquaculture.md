@@ -4,8 +4,8 @@ title: Aquaculture
 description: Sector overview for aquaculture technology and monitoring companies.
 tags:
 - aquaculture
-timestamp: '2026-09-23T00:00:00Z'
-date: '2026-09-23'
+timestamp: '2026-09-30T00:00:00Z'
+date: '2026-09-30'
 sector: Aquaculture
 ---
 
@@ -13,7 +13,7 @@ sector: Aquaculture
 
 Sector overview for aquaculture technology and monitoring companies.
 
-## Companies (28 monitored)
+## Companies (29 monitored)
 | Company | Focus | Marine Data Dependency |
 |---------|-------|----------------------|
 | [Aquabyte](aquabyte.md) | AI computer vision + biomass monitoring | Critical |
@@ -44,6 +44,7 @@ Sector overview for aquaculture technology and monitoring companies.
 | [WildTechDNA](wildtechdna.md) (NEW 2026-09-16) | ORYA handheld multi-pathogen DNA kit (~15 min) for salmon/shrimp; instrument-free isothermal; Sep 2026 launch | Critical |
 | [Esox Biologics](esox-biologics.md) (NEW 2026-09-16) | Metagenomic Detect microbiome platform; first sabellid worm genome for abalone water-based early warning | Critical |
 | [ARK Inc](ark-inc.md) (NEW 2026-09-23) | Japanese modular closed RAS + land-based grouper/prawn; ~$8.5M Series A Sep 2026; UAE/Indonesia Global South expansion | Critical |
+| [Scoot Science](scoot-science.md) (NEW 2026-09-30) | SeaFarer + SeaState ocean intelligence for fishing/aquaculture; Cermaq/Grieg; StartBlue Scale 2026 | Critical |
 
 ## Cross-Company Patterns
 - **Sensor networks**: Universal need for real-time water quality (temp, O2, salinity, pH)
@@ -75,6 +76,7 @@ Sector overview for aquaculture technology and monitoring companies.
 - **Point-of-care multi-pathogen DNA** (WildTechDNA ORYA): ~15-minute instrument-free isothermal kits for salmon/shrimp — speed/breadth/simplicity field diagnostics vs continuous eDNA hardware (Nucleic Sensing Systems) and lab metagenomes (Esox). Responsible Seafood Innovation Awards finalist (Sep 2026 launch)
 - **Full-community metagenomic Detect** (Esox Biologics): Shotgun microbiome from water/swabs (pathogens + beneficials); world's first sabellid worm genome enables abalone infestation warning before visual shell damage — RAS biofilter and mollusc early-warning layer distinct from single-pathogen kits
 - **Modular RAS export for Global South food security** (ARK Inc): Japanese closed modular RAS sold as hardware + services, with own/joint land-based seafood production (grouper/prawn specialty). ~$8.5M Series A (UntroD/Beyond Next/BP Capital + bank loans, Sep 2026) funds UAE/Indonesia pilots and Malaysia APAC base — distinct from Europe industrial RAS platforms (Oceanloop) by harsh-climate modular export + policy-backed Global South GTM
+- **Operator-facing ocean digital twin for farms + fleets** (Scoot Science): SeaState 10-day site forecasts + welfare semantics (Cermaq/Grieg traction since 2019) and SeaFarer catch/trip intelligence — sits between raw sensors (Innovasea/Sofar) and pure biology+AI hypoxia models (BiOceanOr); StartBlue Scale 2026
 
 ## Market Context
 - Aquaculture sensors market: $1.8B (2025), projected to $4.2B by 2034 (9.8% CAGR)
@@ -88,4 +90,4 @@ Sector overview for aquaculture technology and monitoring companies.
 - Molecular + physiology stack maturing: host biomarkers (WellFish), rapid multi-pathogen kits (WildTechDNA), and metagenomic community profiles (Esox) are converging with eDNA hardware (Nucleic Sensing Systems) into a layered biosecurity data market
 
 ---
-*Last updated: 2026-09-23*
+*Last updated: 2026-09-30*

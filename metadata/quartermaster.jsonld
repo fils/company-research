@@ -3,7 +3,7 @@
   "@type": "Organization",
   "name": "Quartermaster",
   "url": "https://www.quartermaster.us/",
-  "description": "Maritime-technology startup building SmartMast™, a distributed maritime sensing and AI analytics network mounted on commercial vessels. 600+ ships equipped across 25+ countries, 10M+ sq mi covered, 400K+ vessels identified without AIS, 20+ rescues. $43M Series A (May 2026) co-led by First Round Capital and Quiet Capital.",
+  "description": "SmartMast vessel-mounted maritime sensing; $140M Sep 2026 Series B+debt; 650+ vessels",
   "sector": "Ocean Data & AI",
   "foundingDate": "2024",
   "location": {
@@ -25,17 +25,7 @@
     "Maritime AI analytics",
     "Crowdsourced maritime intelligence"
   ],
-  "funding": {
-    "@type": "MonetaryGrant",
-    "name": "Series A",
-    "amount": {
-      "@type": "MonetaryAmount",
-      "value": "43000000",
-      "currency": "USD"
-    },
-    "funder": ["First Round Capital", "Quiet Capital"],
-    "date": "2026-05"
-  },
+  "funding": "$140M Sep 2026 ($100M Series B + $40M debt)",
   "products": [
     {
       "@type": "Product",
@@ -62,7 +52,13 @@
     "vesselsIdentifiedWithoutAIS": "400000+",
     "maritimeRescuesAssisted": "20+"
   },
-  "customers": ["Government / defense", "Commercial shipping operators", "Insurance providers", "Marine autonomy developers", "Search and rescue organizations"],
+  "customers": [
+    "Government / defense",
+    "Commercial shipping operators",
+    "Insurance providers",
+    "Marine autonomy developers",
+    "Search and rescue organizations"
+  ],
   "dataNeeds": {
     "primaryDataTypes": [
       "vessel tracking data (location, heading, speed, ID)",
@@ -81,7 +77,7 @@
       "vessel classification (cargo, tanker, fishing, military, leisure)",
       "RF emissions (AIS broadcasts, ADS-B, VHF voice)",
       "radar signature and bearing",
-      "visual range/IR imagery (360°, 31x zoom)",
+      "visual range/IR imagery (360\u00b0, 31x zoom)",
       "neighbor-vessel relative position and intent",
       "anomaly/incident flags"
     ],
@@ -96,11 +92,12 @@
       "high-resolution real-time maritime activity in 25+ countries",
       "training data for marine computer vision (low-hanging fruit vs social media AI)"
     ],
-    "interestInExternalData": "High — network grows with each vessel joined; data is core product; external data services that augment maritime intelligence (weather, oceanographic, regulatory) are complementary"
+    "interestInExternalData": "High \u2014 network grows with each vessel joined; data is core product; external data services that augment maritime intelligence (weather, oceanographic, regulatory) are complementary"
   },
   "potentialAction": "Sale/lease of SmartMast hardware; subscription analytics platform; government/defense contracts; training data licensing",
   "dateModified": "2026-06-01",
   "sourceUrl": "https://www.quartermaster.us/",
   "additionalType": "Corporation",
-  "knowledgeGraph": "company-research"
+  "knowledgeGraph": "company-research",
+  "lastUpdated": "2026-09-30"
 }

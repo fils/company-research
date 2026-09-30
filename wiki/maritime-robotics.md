@@ -1,12 +1,12 @@
 ---
 type: Company
 title: Maritime Robotics
-description: Norwegian USV & autonomous navigation pioneer since 2005; €28M growth investment (Jun 2026, MS+PARTNERS/Mustard Seed + Partners lead; EnvisionTech, Nysnø Climate Investment, Umoe, founders/employees participating) — o...
+description: Norwegian USV pioneer since 2005; growth with MS+PARTNERS + Omnes Capital (Sep 2026); hundreds of dual-use systems; fleet-level deployments; Trondheim.
 resource: https://www.maritimerobotics.com/
 tags:
 - marine-monitoring-sensors
-timestamp: '2026-07-14T00:00:00Z'
-date: '2026-07-14'
+timestamp: '2026-09-30T00:00:00Z'
+date: '2026-09-30'
 sector: Marine Monitoring & Sensors
 ---
 
@@ -30,9 +30,11 @@ Maritime Robotics is a Norwegian USV (uncrewed surface vessel) and autonomous na
 
 ## Funding
 
-- **€28M growth investment** (Jun 2026) — led by **Mustard Seed + Partners (MS+PARTNERS)** (London-based growth PE); existing investors **EnvisionTech, Nysnø Climate Investment, Umoe**, founders, employees participating
-- **$12M growth capital** (Sep 2024) — co-led by **NRP Zero** (Nordic cleantech fund) and Norwegian state fund; per Tracxn/CBInsights, Series A
-- Total funding: €28M + $12M
+- **Omnes Capital** joins growth round (announced **Sep 28, 2026**, Ocean News) alongside lead growth partner **Mustard Seed + Partners (MS+PARTNERS)** and existing **EnvisionTech, Nysnø Climate Investment, Umoe**, founders, employees
+- Prior **€28M / ~$31M growth equity** (Jun 2026 Dealroom) — MS+PARTNERS lead
+- Earlier **$12M growth capital** (Sep 2024) — NRP Zero + Norwegian state fund
+- Use of proceeds: expand production capacity, accelerate international commercialization, scale dual-use sea drones for civil + defense demand
+- CEO Vegard Evjen Hovstein: autonomous systems moving from pilots to **core operational assets**
 
 ## Leadership
 
@@ -86,4 +88,4 @@ Maritime Robotics is a Norwegian USV (uncrewed surface vessel) and autonomous na
 
 Maritime Robotics represents the **structural maturation** of the USV market — the company's quote that "we are now past the experimentation phase" and customers are shifting to "fleet-level deployment strategies" signals a sector-wide transition. This is reinforced by the company's 5x revenue growth over 5 years and the €28M growth investment to scale manufacturing. As a 2005-founded pioneer with hundreds of systems delivered, Maritime Robotics brings a 20-year operational track record that distinguishes it from newer ASV entrants (Saronic, Blue Water Autonomy, HavocAI) that are earlier in commercial deployment.
 
-*Profile last updated: 2026-07-14*
+*Profile last updated: 2026-09-30*
