@@ -880,5 +880,40 @@
     "url": "https://www.cetocean.com/",
     "notes": "Ocean intelligence platform starting with super-resolution sea-surface temperature for aquaculture, coastal tourism, and insurance/reinsurance parametric products. Humpback tool beta Sep 2026. StartBlue Launch cohort Sep 2026. Farm-level marine heatwave exposure pricing narrative.",
     "last_updated": "2026-09-30"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Online Oceans",
+    "url": "https://onlineoceans.com/",
+    "notes": "UK dual-use solar-electric Scout USV (2.4m/80kg) + Tether browser C2 for persistent ocean data & MDA. \u00a34M seed (Apr 30 2026) led Seraphim Space; Peter Rive (SolarCity), Quantum Systems founders (Thieser/Seibel), Koro Capital. Buy from \u00a340k or data-as-a-service. Months on station (biofouling-limited); SS6 ops / SS8+ survive; Iridium+Starlink; BYOS payload (metocean, passive acoustics, acoustic modem harvest). Customers: ARIA, Ocean Infinity, Sofar, Royal Navy logos; first production sold out Apr 2026. Founded 2025 George Morton + Alistair Douglas. Dense low-cost fleet coverage model vs intermittent crewed ships.",
+    "last_updated": "2026-10-07"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Terradepth",
+    "url": "https://www.terradepth.com/",
+    "notes": "Austin/Cedar Park TX Ocean Operating System\u2122: Absolute Ocean cloud ODaaS + self-recharging AxV hybrid AUV/ASV swim-pairs (Navy SEAL-founded). ~$28\u201330M raised ($8M seed Seagate-led; $20M Series A Apr 2022 Giant Ventures + Nimble Ventures). 2026: Absolute Ocean placed in NIWC Atlantic RCC Hopper (direct OT up to 24 mo); 5-yr offshore-energy MSA; AWS GovCloud FedRAMP IL4/IL5. Seafloor mapping + federated multi-source ocean intelligence for defense, energy, insurance, research. Dual-use autonomy stack.",
+    "last_updated": "2026-10-07"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "MarineLabs",
+    "url": "https://marinelabs.io/",
+    "notes": "Victoria BC coastal intelligence: CoastAware real-time + AI 10-day hyperlocal wind/wave/weather from North America sensor fleet; CoastInsights historical/custom reports; BerthWatch berth depth. $4.5M seed Mar 2024 (BDC Sustainability VF lead + Seaspan); $4M seed extension Oct 22 2025 (BDC + InBC). Active 4 of Canada's 5 largest ports. CEO Dr Scott Beatty (wave energy R&D background). Ports, pilots, terminals, coastal engineers, government MDA/C-UxS. Largest Canadian ocean-tech seed narrative (2024).",
+    "last_updated": "2026-10-07"
+  },
+  {
+    "sector": "Marine Monitoring & Sensors",
+    "name": "Bluesonde",
+    "url": "https://www.bluesonde.com/",
+    "notes": "Portland ME (Roux Institute) scalable real-time water-quality monitoring buoy: solar+battery, LTE/sat/BT, 12-inch compact, patent-pending anti-fouling. Sensors: location, temp, conductivity, DO, turbidity, pH, chlorophyll+. Markets: ports/infrastructure, water management, aquaculture, research. Continuum/NOAA Ocean Enterprise TDC awardee ($1.2M cohort share among 14 startups via Braid Theory). Building network-scale water intelligence layer.",
+    "last_updated": "2026-10-07"
+  },
+  {
+    "sector": "Ocean Data & AI",
+    "name": "Actea",
+    "url": "https://actea.earth/",
+    "notes": "Public benefit corp: ML transforms sparse public/proprietary ocean data into site-specific climate, mariculture, and mCDR decision products. Lagrangian Flux Decomposition mCDR model (air-sea flux + co-benefits); ML current resolution-enhancement (Kristiansen et al. Nature Sci Rep 2026); aqua-forecast.com nearshore farm forecasts. NOAA ACLIM contributor; DFO Canada MPA work; Norwegian Milj\u00f8direktoratet coastal species climate; supports Vesta OAE air-sea flux (Duck NC). Continuum/NOAA TDC awardee. CEO Jordan Miller (ex-RealityCap/Intel, Highbridge); CTO Dr Trond Kristiansen. info@actea.earth.",
+    "last_updated": "2026-10-07"
   }
 ]

@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Terradepth",
+  "url": "https://www.terradepth.com/",
+  "description": "OceanOS Absolute Ocean + AxV AUV fleet; ~$30M raised; NIWC Atlantic Hopper 2026; dual-use seabed ODaaS.",
+  "sector": "Ocean Data & AI",
+  "lastUpdated": "2026-10-07"
+}

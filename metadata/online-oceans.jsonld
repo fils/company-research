@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Online Oceans",
+  "url": "https://onlineoceans.com/",
+  "description": "UK Scout solar USV + Tether C2; \u00a34M Seraphim seed Apr 2026; persistent ocean data/MDA fleets.",
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-10-07"
+}

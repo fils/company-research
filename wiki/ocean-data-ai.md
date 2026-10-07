@@ -23,7 +23,7 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 - Satellite-derived oceanographic products (SWOT, altimetry, SAR, optical)
 - Bridging the gap between public ocean data and commercial applications
 
-**Companies Profiled (12 companies)**
+**Companies Profiled (15 companies)**
 
 - **Amphitrite**: AI-powered ocean data intelligence platform. Combines satellite data (SWOT, altimetry, SAR) with in-situ measurements and predictive AI for real-time maritime intelligence. Serves commercial shipping, naval defence, and offshore operations. €1.2M seed (2024). Partners include SHOM, CNES, ESA, Mercator Ocean, CMA CGM, Subsea7. Supported by NVIDIA Inception and Microsoft GenAI Studio.
 
@@ -48,6 +48,12 @@ Ocean Data & AI is a rapidly growing sector in the knowledge graph covering comp
 
 - **Cetocean** (NEW 2026-09-30): Super-resolution **SST risk intelligence** for aquaculture, coastal tourism, and insurers (parametric/indemnity). **Humpback** tool beta Sep 2026. **StartBlue Launch** cohort. Farm-level marine heatwave exposure pricing — actuarial-grade coastal downscaling layer complementary to Sofar in-situ and Scoot/Ocean Intelligence ops platforms.
 
+- **Terradepth** (NEW 2026-10-07): **Ocean Operating System™** — Absolute Ocean cloud ODaaS + AxV hybrid AUV/ASV swim-pairs (Navy SEAL-founded, Cedar Park TX). ~$28–30M raised ($20M Series A Giant+Nimble 2022). **2026**: Absolute Ocean in **NIWC Atlantic RCC Hopper** (direct OT up to 24 mo); 5-yr offshore-energy MSA; AWS GovCloud FedRAMP IL4/IL5. Dual-use seafloor mapping + federated multi-source intelligence.
+
+- **MarineLabs** (NEW 2026-10-07): Victoria BC **CoastAware** hyper-local coastal weather AI — real-time sensor fleet + ML 10-day forecasts for ports/pilots/terminals; CoastInsights; BerthWatch. **$4.5M seed** (Mar 2024, BDC + Seaspan) + **$4M extension** (Oct 2025, BDC + InBC). Active in 4 of Canada's 5 largest ports. CEO Dr Scott Beatty.
+
+- **Actea** (NEW 2026-10-07): Public benefit corp ML layer — site-specific ocean climate, mariculture, and **mCDR** analytics from sparse public data. Lagrangian Flux Decomposition mCDR model; aqua-forecast.com; NOAA ACLIM; supports **Vesta** OAE air-sea flux (Duck NC). Continuum/NOAA TDC. CEO Jordan Miller; CTO Dr Trond Kristiansen.
+
 **Cross-Sector Synergies**
 
 This sector is highly complementary to every other sector in the knowledge graph:
@@ -69,5 +75,5 @@ This sector is highly complementary to every other sector in the knowledge graph
 - VentureWell OEA Spring 2026 cohorts revealed 51 startups across Stages 0-2 — heavy concentration in data/sensor/AI solutions
 
 ---
-*Last updated: 2026-09-30*
-**Total Companies**: 12 (Ocean Data & AI sector — +1 this update: Cetocean; Quartermaster Series B update)
+*Last updated: 2026-10-07*
+**Total Companies**: 15 (Ocean Data & AI sector — +3 this update: Terradepth, MarineLabs, Actea)

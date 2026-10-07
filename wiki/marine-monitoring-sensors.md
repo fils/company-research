@@ -1,18 +1,18 @@
 ---
 type: Sector
 title: Marine Monitoring & Sensors
-description: '**Last Updated**: 2026-09-30 **Companies Tracked**: 31'
+description: '**Last Updated**: 2026-10-07 **Companies Tracked**: 33'
 tags:
 - marine-monitoring-sensors
 sector: Marine Monitoring Sensors
-timestamp: '2026-09-30T00:00:00Z'
-date: '2026-09-30'
+timestamp: '2026-10-07T00:00:00Z'
+date: '2026-10-07'
 ---
 
 # Marine Monitoring & Sensors
 
-**Last Updated**: 2026-09-30
-**Companies Tracked**: 31
+**Last Updated**: 2026-10-07
+**Companies Tracked**: 33
 
 This sector covers companies building coral reef monitoring, autonomous surface vessels (ASVs), autonomous underwater vehicles (AUVs), underwater imaging systems, fiber optic sensing, and other marine sensor platforms. These companies provide the observational infrastructure that enables data-driven ocean management, conservation, and scientific research.
 
@@ -219,6 +219,18 @@ Norwegian USV pioneer — **Omnes Capital** joins growth round with Mustard Seed
 - **Site**: [maritimerobotics.com](https://www.maritimerobotics.com/)
 - **Funding**: Growth equity (MS+PARTNERS Jun 2026 + Omnes Capital Sep 2026)
 - **Location**: Trondheim, Norway
+
+### Online Oceans (NEW 2026-10-07)
+UK dual-use **Scout** solar-electric USV (2.4 m / 80 kg) + **Tether** browser fleet C2 for dense persistent ocean data and MDA. **£4M seed (30 Apr 2026)** led by **Seraphim Space**; Peter Rive (SolarCity), Quantum Systems founders, Koro Capital. Buy from £40k or data-as-a-service; months on station; SS6 ops / SS8+ survive; Iridium+Starlink; BYOS metocean/acoustics. Founded 2025 George Morton + Alistair Douglas. Dense low-cost fleet coverage vs intermittent crewed ships.
+- **Site**: [onlineoceans.com](https://onlineoceans.com/)
+- **Funding**: £4M seed (Apr 2026, Seraphim-led)
+- **Location**: London / UK
+
+### Bluesonde (NEW 2026-10-07)
+Portland ME (Roux Institute) **scalable real-time water-quality buoys** — solar+battery, LTE/sat/BT, ~12" compact, patent-pending anti-fouling. Suite: T, conductivity, DO, turbidity, pH, chlorophyll+. Ports, water management, aquaculture, research. **Continuum / NOAA Ocean Enterprise TDC** awardee (one of 14 in $1.2M cohort via Braid Theory).
+- **Site**: [bluesonde.com](https://www.bluesonde.com/)
+- **Funding**: Continuum/NOAA TDC (cohort non-dilutive); equity undisclosed on site
+- **Location**: Portland, ME
 
 ## Data & Measurement Needs
 Marine monitoring companies need:

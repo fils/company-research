@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Bluesonde",
+  "url": "https://www.bluesonde.com/",
+  "description": "Scalable real-time WQ monitoring buoys (anti-fouling); Continuum/NOAA TDC; Portland ME Roux Institute.",
+  "sector": "Marine Monitoring & Sensors",
+  "lastUpdated": "2026-10-07"
+}

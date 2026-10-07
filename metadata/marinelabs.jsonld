@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "MarineLabs",
+  "url": "https://marinelabs.io/",
+  "description": "Canadian CoastAware coastal weather AI + sensor fleet; $4.5M+ $4M seed; ports/pilots hyperlocal metocean.",
+  "sector": "Ocean Data & AI",
+  "lastUpdated": "2026-10-07"
+}

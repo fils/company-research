@@ -1,5 +1,12 @@
 # Directory Update Log
 
+## 2026-10-07
+* **+5 companies** (126→131): Online Oceans (UK Scout solar USV + Tether C2; £4M Seraphim seed Apr 2026), Terradepth (OceanOS Absolute Ocean + AxV; ~$30M; NIWC Atlantic Hopper 2026), MarineLabs (CoastAware coastal weather AI; $4.5M+$4M seed; Victoria BC), Bluesonde (scalable real-time WQ buoys; Continuum/NOAA TDC; Portland ME), Actea (ocean climate/mCDR/mariculture ML PBC; Vesta + NOAA ACLIM; Continuum TDC).
+* Sector counts: Marine Monitoring 31→33, Ocean Data & AI 12→15. Total **131**.
+* New patterns: dense low-cost solar USV fleets + DaaS (Online Oceans); federated seafloor ODaaS with Navy Hopper pathway (Terradepth); port hyperlocal metocean sensor+AI SaaS (MarineLabs); anti-fouling compact WQ buoy networks (Bluesonde); sparse-data ML for mCDR flux + aqua site climate (Actea).
+* Discovery: Seraphim/Tech.eu Online Oceans £4M; Continuum/Braid Theory TDC cohort; Terradepth BusinessWire Hopper; MarineLabs BDC/InBC; Actea.earth + NCCOS.
+* Profiles: raw/ + metadata/ + OKF wiki/ with Data & Measurement Needs; completeness + okf-lint gates.
+
 ## 2026-09-30
 * **+5 companies** (121→126): Andrenam (PEARL+OBSIDIAN AI passive sonar; $18M Series A / $30M total; COCO undersea MDA), REGENT Craft (all-electric Seaglider; $240M Series B; >$340M total; first crewed flight), CorPower Ocean (DNV-certified wave WEC; €40M EU IF VianaWave), Scoot Science (SeaFarer/SeaState aqua+fishing intel; StartBlue Scale; Cermaq/Grieg), Cetocean (super-res SST risk intel; StartBlue Launch; Humpback beta).
 * **Existing updates**: Quartermaster **$140M** Sep 28 2026 ($100M Series B Insight+Overmatch + $40M Stifel debt; 650+ vessels); Maritime Robotics **Omnes Capital** joins MS+PARTNERS growth round (Sep 28 2026).
